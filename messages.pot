@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-28 13:06+0100\n"
+"POT-Creation-Date: 2023-08-15 13:28+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,8 +25,8 @@ msgstr ""
 # File: module/Application/src/Controller/CruisesController.php, line: 1134
 # File: module/Application/src/Controller/HotelsController.php, line: 365
 # File: module/Application/src/Controller/HotelsController.php, line: 619
-# File: module/Application/src/Controller/FlightsController.php, line: 366
-# File: module/Application/src/Controller/FlightsController.php, line: 620
+# File: module/Application/src/Controller/FlightsController.php, line: 474
+# File: module/Application/src/Controller/FlightsController.php, line: 728
 # File: module/Application/src/Controller/CarsController.php, line: 363
 # File: module/Application/src/Controller/CarsController.php, line: 593
 # File: module/Application/src/Controller/ActivitiesController.php, line: 366
@@ -85,7 +85,8 @@ msgid "Arabic"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 11
-# File: module/Application/view/application/index/presentation.phtml, line: 21
+# File: module/Application/view/application/index/presentation.phtml, line: 20
+# File: module/Application/view/application/index/presentation.phtml, line: 35
 # File: module/Application/view/application/index/billing.phtml, line: 10
 # File: module/Application/view/application/index/userinfo.phtml, line: 17
 # File: module/Application/view/application/index/settings.phtml, line: 17
@@ -142,6 +143,8 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 11
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 11
 # File: module/Application/view/application/flights/settings.phtml, line: 10
+# File: module/Application/view/application/flights/issueticket.phtml, line: 10
+# File: module/Application/view/application/flights/voidreservation.phtml, line: 10
 # File: module/Application/view/application/cars/index.phtml, line: 10
 # File: module/Application/view/application/cars/listreservations.phtml, line: 11
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 11
@@ -233,6 +236,8 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 12
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 12
 # File: module/Application/view/application/flights/settings.phtml, line: 11
+# File: module/Application/view/application/flights/issueticket.phtml, line: 11
+# File: module/Application/view/application/flights/voidreservation.phtml, line: 11
 # File: module/Application/view/layout/layout.phtml, line: 222
 msgid "Flights"
 msgstr ""
@@ -415,211 +420,237 @@ msgstr ""
 msgid "Travel made easy!"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 66
-msgid ""
-"Dynamically target high-payoff intellectual capital for customized technologies. Objectively integrate emerging core competencies before\n"
-"                    process-centric communities..."
-msgstr ""
-#
-# File: module/Application/view/application/index/login.phtml, line: 70
+# File: module/Application/view/application/index/login.phtml, line: 69
 msgid "Learn More"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 88
+# File: module/Application/view/application/index/login.phtml, line: 87
 msgid "Welcome,"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 89
+# File: module/Application/view/application/index/login.phtml, line: 88
 msgid "let's get started!"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 92
+# File: module/Application/view/application/index/login.phtml, line: 91
 msgid "Please use your credentials to login."
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 94
+# File: module/Application/view/application/index/login.phtml, line: 93
 msgid "If you are not a member, please"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 95
+# File: module/Application/view/application/index/login.phtml, line: 94
 msgid "register"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 108
+# File: module/Application/view/application/index/login.phtml, line: 107
 msgid "Forgot?"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 110
-# File: module/Application/view/application/index/presentation.phtml, line: 29
+# File: module/Application/view/application/index/login.phtml, line: 109
+# File: module/Application/view/application/index/presentation.phtml, line: 28
+# File: module/Application/view/application/index/presentation.phtml, line: 47
 msgid "Login"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 134
+# File: module/Application/view/application/index/login.phtml, line: 133
 msgid "Theme Settings"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 141
+# File: module/Application/view/application/index/login.phtml, line: 140
 msgid "Color"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 148
+# File: module/Application/view/application/index/login.phtml, line: 147
 msgid "LIGHT BLUE"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 156
+# File: module/Application/view/application/index/login.phtml, line: 155
 msgid "DARK BLUE"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 166
+# File: module/Application/view/application/index/login.phtml, line: 165
 msgid "LIGHT TEAL"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 174
+# File: module/Application/view/application/index/login.phtml, line: 173
 msgid "DARK TEAL"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 184
+# File: module/Application/view/application/index/login.phtml, line: 183
 msgid "LIGHT SKY"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 192
+# File: module/Application/view/application/index/login.phtml, line: 191
 msgid "DARK SKY"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 202
+# File: module/Application/view/application/index/login.phtml, line: 201
 msgid "LIGHT RED"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 210
+# File: module/Application/view/application/index/login.phtml, line: 209
 msgid "DARK RED"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 220
+# File: module/Application/view/application/index/login.phtml, line: 219
 msgid "LIGHT GREEN"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 228
+# File: module/Application/view/application/index/login.phtml, line: 227
 msgid "DARK GREEN"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 238
+# File: module/Application/view/application/index/login.phtml, line: 237
 msgid "LIGHT LIME"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 246
+# File: module/Application/view/application/index/login.phtml, line: 245
 msgid "DARK LIME"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 256
+# File: module/Application/view/application/index/login.phtml, line: 255
 msgid "LIGHT PINK"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 264
+# File: module/Application/view/application/index/login.phtml, line: 263
 msgid "DARK PINK"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 274
+# File: module/Application/view/application/index/login.phtml, line: 273
 msgid "LIGHT PURPLE"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 282
+# File: module/Application/view/application/index/login.phtml, line: 281
 msgid "DARK PURPLE"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 288
+# File: module/Application/view/application/index/login.phtml, line: 287
 msgid "Override Nav Palette"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 296
+# File: module/Application/view/application/index/login.phtml, line: 295
 msgid "DEFAULT"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 305
+# File: module/Application/view/application/index/login.phtml, line: 304
 msgid "LIGHT"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 314
+# File: module/Application/view/application/index/login.phtml, line: 313
 msgid "DARK"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 321
+# File: module/Application/view/application/index/login.phtml, line: 320
 msgid "Menu Placement"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 329
+# File: module/Application/view/application/index/login.phtml, line: 328
 msgid "HORIZONTAL"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 338
+# File: module/Application/view/application/index/login.phtml, line: 337
 msgid "VERTICAL"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 345
+# File: module/Application/view/application/index/login.phtml, line: 344
 msgid "Menu Behaviour"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 353
+# File: module/Application/view/application/index/login.phtml, line: 352
 msgid "PINNED"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 362
+# File: module/Application/view/application/index/login.phtml, line: 361
 msgid "UNPINNED"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 369
+# File: module/Application/view/application/index/login.phtml, line: 368
 msgid "Layout"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 377
+# File: module/Application/view/application/index/login.phtml, line: 376
 msgid "FLUID"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 386
+# File: module/Application/view/application/index/login.phtml, line: 385
 msgid "BOXED"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 393
+# File: module/Application/view/application/index/login.phtml, line: 392
 msgid "Radius"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 401
+# File: module/Application/view/application/index/login.phtml, line: 400
 msgid "ROUNDED"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 410
+# File: module/Application/view/application/index/login.phtml, line: 409
 msgid "STANDARD"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 419
+# File: module/Application/view/application/index/login.phtml, line: 418
 msgid "FLAT"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 444
+# File: module/Application/view/application/index/login.phtml, line: 443
 msgid "Niches"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 451
+# File: module/Application/view/application/index/login.phtml, line: 450
 msgid "Classic Dashboard"
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 22
+# File: module/Application/view/application/index/presentation.phtml, line: 21
+# File: module/Application/view/application/index/presentation.phtml, line: 37
 msgid "Who are we?"
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 23
+# File: module/Application/view/application/index/presentation.phtml, line: 22
+# File: module/Application/view/application/index/presentation.phtml, line: 39
 msgid "Products"
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 24
+# File: module/Application/view/application/index/presentation.phtml, line: 23
+# File: module/Application/view/application/index/presentation.phtml, line: 41
 msgid "Partners"
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 26
+# File: module/Application/view/application/index/presentation.phtml, line: 25
+# File: module/Application/view/application/index/presentation.phtml, line: 43
 msgid "Tutorials"
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 28
+# File: module/Application/view/application/index/presentation.phtml, line: 27
+# File: module/Application/view/application/index/presentation.phtml, line: 45
+# File: module/Application/view/application/index/presentation.phtml, line: 205
 msgid "Contact Us"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 53
+msgid "REGISTER"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 56
+msgid "Freelancer?"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 57
+# File: module/Application/view/application/index/presentation.phtml, line: 61
+msgid "CLICK HERE"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 60
+msgid "Travel Agent or Agency?"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 64
+msgid "CLOSE"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 295
+msgid "All rights reserved"
 msgstr ""
 #
 # File: module/Application/view/application/index/billing.phtml, line: 6
@@ -1099,6 +1130,8 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 38
 # File: module/Application/view/application/hotels/settings.phtml, line: 78
 # File: module/Application/view/application/flights/settings.phtml, line: 78
+# File: module/Application/view/application/flights/issueticket.phtml, line: 32
+# File: module/Application/view/application/flights/voidreservation.phtml, line: 31
 # File: module/Application/view/application/cars/settings.phtml, line: 78
 # File: module/Application/view/application/activities/settings.phtml, line: 78
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 78
@@ -1134,6 +1167,8 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 185
 # File: module/Application/view/application/hotels/settings.phtml, line: 102
 # File: module/Application/view/application/flights/settings.phtml, line: 102
+# File: module/Application/view/application/flights/issueticket.phtml, line: 56
+# File: module/Application/view/application/flights/voidreservation.phtml, line: 55
 # File: module/Application/view/application/cars/settings.phtml, line: 102
 # File: module/Application/view/application/activities/settings.phtml, line: 102
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 102
@@ -1951,7 +1986,23 @@ msgstr ""
 msgid "Popular hotels"
 msgstr ""
 #
+# File: module/Application/view/application/flights/index.phtml, line: 91
+# File: module/Application/view/application/flights/issueticket.phtml, line: 7
+# File: module/Application/view/application/flights/issueticket.phtml, line: 12
+# File: module/Application/view/application/flights/issueticket.phtml, line: 18
+msgid "Issue Ticket"
+msgstr ""
+#
+# File: module/Application/view/application/flights/index.phtml, line: 101
+# File: module/Application/view/application/flights/voidreservation.phtml, line: 7
+# File: module/Application/view/application/flights/voidreservation.phtml, line: 12
+# File: module/Application/view/application/flights/voidreservation.phtml, line: 18
+msgid "Void Reservation"
+msgstr ""
+#
 # File: module/Application/view/application/flights/listreservations.phtml, line: 32
+# File: module/Application/view/application/flights/issueticket.phtml, line: 24
+# File: module/Application/view/application/flights/voidreservation.phtml, line: 23
 msgid "PNR"
 msgstr ""
 #
@@ -1989,6 +2040,11 @@ msgstr ""
 #
 # File: module/Application/view/application/flights/settings.phtml, line: 69
 msgid "Popular Flights"
+msgstr ""
+#
+# File: module/Application/view/application/flights/issueticket.phtml, line: 28
+# File: module/Application/view/application/flights/voidreservation.phtml, line: 27
+msgid "Booking Number"
 msgstr ""
 #
 # File: module/Application/view/application/cars/listreservations.phtml, line: 30
