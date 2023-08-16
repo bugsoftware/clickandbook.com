@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-16 07:15+0100\n"
+"POT-Creation-Date: 2023-08-16 11:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -93,10 +93,14 @@ msgstr ""
 # File: module/Application/view/application/index/socialmedia.phtml, line: 17
 # File: module/Application/view/application/index/content.phtml, line: 17
 # File: module/Application/view/application/index/whoarewe.phtml, line: 20
-# File: module/Application/view/application/index/whoarewe.phtml, line: 158
+# File: module/Application/view/application/index/whoarewe.phtml, line: 33
+# File: module/Application/view/application/index/whoarewe.phtml, line: 157
+# File: module/Application/view/application/index/partners.phtml, line: 19
+# File: module/Application/view/application/index/partners.phtml, line: 32
 # File: module/Application/view/application/index/products.phtml, line: 21
-# File: module/Application/view/application/index/products.phtml, line: 38
+# File: module/Application/view/application/index/products.phtml, line: 34
 # File: module/Application/view/application/index/products.phtml, line: 268
+# File: module/Application/view/application/index/tutorials.phtml, line: 20
 # File: module/Application/view/application/index/invoices.phtml, line: 17
 # File: module/Application/view/application/index/password.phtml, line: 17
 # File: module/Application/view/application/index/securitylog.phtml, line: 17
@@ -456,6 +460,13 @@ msgstr ""
 # File: module/Application/view/application/index/login.phtml, line: 109
 # File: module/Application/view/application/index/presentation.phtml, line: 28
 # File: module/Application/view/application/index/presentation.phtml, line: 47
+# File: module/Application/view/application/index/whoarewe.phtml, line: 26
+# File: module/Application/view/application/index/whoarewe.phtml, line: 45
+# File: module/Application/view/application/index/partners.phtml, line: 25
+# File: module/Application/view/application/index/partners.phtml, line: 44
+# File: module/Application/view/application/index/products.phtml, line: 27
+# File: module/Application/view/application/index/products.phtml, line: 46
+# File: module/Application/view/application/index/tutorials.phtml, line: 26
 msgid "Login"
 msgstr ""
 #
@@ -610,39 +621,65 @@ msgstr ""
 # File: module/Application/view/application/index/presentation.phtml, line: 21
 # File: module/Application/view/application/index/presentation.phtml, line: 37
 # File: module/Application/view/application/index/whoarewe.phtml, line: 21
+# File: module/Application/view/application/index/whoarewe.phtml, line: 35
+# File: module/Application/view/application/index/partners.phtml, line: 20
+# File: module/Application/view/application/index/partners.phtml, line: 34
 # File: module/Application/view/application/index/products.phtml, line: 22
-# File: module/Application/view/application/index/products.phtml, line: 40
+# File: module/Application/view/application/index/products.phtml, line: 36
 # File: module/Application/view/application/index/products.phtml, line: 269
+# File: module/Application/view/application/index/tutorials.phtml, line: 21
 msgid "Who are we?"
 msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 22
 # File: module/Application/view/application/index/presentation.phtml, line: 39
 # File: module/Application/view/application/index/whoarewe.phtml, line: 22
-# File: module/Application/view/application/index/whoarewe.phtml, line: 159
+# File: module/Application/view/application/index/whoarewe.phtml, line: 37
+# File: module/Application/view/application/index/whoarewe.phtml, line: 158
+# File: module/Application/view/application/index/partners.phtml, line: 21
+# File: module/Application/view/application/index/partners.phtml, line: 36
 # File: module/Application/view/application/index/products.phtml, line: 23
-# File: module/Application/view/application/index/products.phtml, line: 42
+# File: module/Application/view/application/index/products.phtml, line: 38
+# File: module/Application/view/application/index/tutorials.phtml, line: 22
 msgid "Products"
 msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 23
 # File: module/Application/view/application/index/presentation.phtml, line: 41
 # File: module/Application/view/application/index/whoarewe.phtml, line: 23
-# File: module/Application/view/application/index/whoarewe.phtml, line: 160
+# File: module/Application/view/application/index/whoarewe.phtml, line: 39
+# File: module/Application/view/application/index/whoarewe.phtml, line: 159
+# File: module/Application/view/application/index/partners.phtml, line: 22
+# File: module/Application/view/application/index/partners.phtml, line: 38
 # File: module/Application/view/application/index/products.phtml, line: 24
-# File: module/Application/view/application/index/products.phtml, line: 44
+# File: module/Application/view/application/index/products.phtml, line: 40
 # File: module/Application/view/application/index/products.phtml, line: 270
+# File: module/Application/view/application/index/tutorials.phtml, line: 23
 msgid "Partners"
 msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 25
 # File: module/Application/view/application/index/presentation.phtml, line: 43
+# File: module/Application/view/application/index/whoarewe.phtml, line: 24
+# File: module/Application/view/application/index/whoarewe.phtml, line: 41
+# File: module/Application/view/application/index/partners.phtml, line: 23
+# File: module/Application/view/application/index/partners.phtml, line: 40
+# File: module/Application/view/application/index/products.phtml, line: 25
+# File: module/Application/view/application/index/products.phtml, line: 42
+# File: module/Application/view/application/index/tutorials.phtml, line: 24
 msgid "Tutorials"
 msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 27
 # File: module/Application/view/application/index/presentation.phtml, line: 45
 # File: module/Application/view/application/index/presentation.phtml, line: 201
+# File: module/Application/view/application/index/whoarewe.phtml, line: 25
+# File: module/Application/view/application/index/whoarewe.phtml, line: 43
+# File: module/Application/view/application/index/partners.phtml, line: 24
+# File: module/Application/view/application/index/partners.phtml, line: 42
+# File: module/Application/view/application/index/products.phtml, line: 26
+# File: module/Application/view/application/index/products.phtml, line: 44
+# File: module/Application/view/application/index/tutorials.phtml, line: 25
 msgid "Contact Us"
 msgstr ""
 #
@@ -668,7 +705,7 @@ msgid "CLOSE"
 msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 290
-# File: module/Application/view/application/index/whoarewe.phtml, line: 176
+# File: module/Application/view/application/index/whoarewe.phtml, line: 175
 # File: module/Application/view/application/index/products.phtml, line: 286
 msgid "All rights reserved"
 msgstr ""
