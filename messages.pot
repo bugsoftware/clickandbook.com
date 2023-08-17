@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-17 16:57+0100\n"
+"POT-Creation-Date: 2023-08-17 17:35+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -637,7 +637,7 @@ msgstr ""
 # File: module/Application/view/application/index/invoices.phtml, line: 36
 # File: module/Application/view/application/index/password.phtml, line: 36
 # File: module/Application/view/application/index/securitylog.phtml, line: 36
-# File: module/Application/view/application/index/devices.phtml, line: 36
+# File: module/Application/view/application/index/devices.phtml, line: 34
 msgid "Profile"
 msgstr ""
 #
@@ -649,7 +649,7 @@ msgstr ""
 # File: module/Application/view/application/index/invoices.phtml, line: 38
 # File: module/Application/view/application/index/password.phtml, line: 38
 # File: module/Application/view/application/index/securitylog.phtml, line: 38
-# File: module/Application/view/application/index/devices.phtml, line: 38
+# File: module/Application/view/application/index/devices.phtml, line: 36
 # File: module/Application/view/layout/layout.phtml, line: 117
 msgid "User Info"
 msgstr ""
@@ -664,7 +664,8 @@ msgstr ""
 # File: module/Application/view/application/index/invoices.phtml, line: 41
 # File: module/Application/view/application/index/password.phtml, line: 41
 # File: module/Application/view/application/index/securitylog.phtml, line: 41
-# File: module/Application/view/application/index/devices.phtml, line: 41
+# File: module/Application/view/application/index/devices.phtml, line: 26
+# File: module/Application/view/application/index/devices.phtml, line: 39
 # File: module/Application/view/application/cruises/index.phtml, line: 62
 # File: module/Application/view/application/cruises/settings.phtml, line: 7
 # File: module/Application/view/application/cruises/settings.phtml, line: 12
@@ -702,7 +703,7 @@ msgstr ""
 # File: module/Application/view/application/index/invoices.phtml, line: 39
 # File: module/Application/view/application/index/password.phtml, line: 39
 # File: module/Application/view/application/index/securitylog.phtml, line: 39
-# File: module/Application/view/application/index/devices.phtml, line: 39
+# File: module/Application/view/application/index/devices.phtml, line: 37
 # File: module/Application/view/layout/layout.phtml, line: 123
 msgid "Social Media"
 msgstr ""
@@ -716,7 +717,7 @@ msgstr ""
 # File: module/Application/view/application/index/invoices.phtml, line: 40
 # File: module/Application/view/application/index/password.phtml, line: 40
 # File: module/Application/view/application/index/securitylog.phtml, line: 40
-# File: module/Application/view/application/index/devices.phtml, line: 40
+# File: module/Application/view/application/index/devices.phtml, line: 38
 # File: module/Application/view/layout/layout.phtml, line: 124
 msgid "Content"
 msgstr ""
@@ -732,7 +733,7 @@ msgstr ""
 # File: module/Application/view/application/index/invoices.phtml, line: 47
 # File: module/Application/view/application/index/password.phtml, line: 47
 # File: module/Application/view/application/index/securitylog.phtml, line: 47
-# File: module/Application/view/application/index/devices.phtml, line: 47
+# File: module/Application/view/application/index/devices.phtml, line: 45
 # File: module/Application/view/layout/layout.phtml, line: 120
 msgid "Billing"
 msgstr ""
@@ -745,12 +746,14 @@ msgid "Invoices"
 msgstr ""
 #
 # File: module/Application/view/application/index/userinfo.phtml, line: 52
+# File: module/Application/view/application/index/devices.phtml, line: 52
 msgid "Security"
 msgstr ""
 #
 # File: module/Application/view/application/index/userinfo.phtml, line: 55
 # File: module/Application/view/application/index/password.phtml, line: 13
 # File: module/Application/view/application/index/password.phtml, line: 19
+# File: module/Application/view/application/index/devices.phtml, line: 55
 # File: module/Application/view/application/customers/edit.phtml, line: 29
 msgid "Password"
 msgstr ""
@@ -759,13 +762,15 @@ msgstr ""
 # File: module/Application/view/application/index/securitylog.phtml, line: 13
 # File: module/Application/view/application/index/securitylog.phtml, line: 19
 # File: module/Application/view/application/index/securitylog.phtml, line: 75
+# File: module/Application/view/application/index/devices.phtml, line: 56
 msgid "Security Log"
 msgstr ""
 #
 # File: module/Application/view/application/index/userinfo.phtml, line: 57
 # File: module/Application/view/application/index/devices.phtml, line: 13
 # File: module/Application/view/application/index/devices.phtml, line: 19
-# File: module/Application/view/application/index/devices.phtml, line: 74
+# File: module/Application/view/application/index/devices.phtml, line: 57
+# File: module/Application/view/application/index/devices.phtml, line: 65
 msgid "Devices"
 msgstr ""
 #
@@ -842,7 +847,6 @@ msgstr ""
 # File: module/Application/view/application/index/content.phtml, line: 90
 # File: module/Application/view/application/index/content.phtml, line: 113
 # File: module/Application/view/application/index/content.phtml, line: 142
-# File: module/Application/view/application/index/devices.phtml, line: 82
 msgid "Update"
 msgstr ""
 #
@@ -1079,10 +1083,6 @@ msgstr ""
 #
 # File: module/Application/view/application/index/securitylog.phtml, line: 86
 msgid "Request"
-msgstr ""
-#
-# File: module/Application/view/application/index/devices.phtml, line: 78
-msgid "Device"
 msgstr ""
 #
 # File: module/Application/view/application/customers/index.phtml, line: 45
