@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-29 07:34+0100\n"
+"POT-Creation-Date: 2023-08-29 10:54+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,10 +17,10 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
-# File: module/Application/src/Controller/IndexController.php, line: 421
+# File: module/Application/src/Controller/IndexController.php, line: 644
 # File: module/Application/src/Controller/CustomersController.php, line: 235
 # File: module/Application/src/Controller/CustomersController.php, line: 397
-# File: module/Application/src/Controller/CustomersController.php, line: 623
+# File: module/Application/src/Controller/CustomersController.php, line: 624
 # File: module/Application/src/Controller/CruisesController.php, line: 877
 # File: module/Application/src/Controller/CruisesController.php, line: 1132
 # File: module/Application/src/Controller/HotelsController.php, line: 364
@@ -44,43 +44,43 @@ msgstr ""
 msgid "Not Available"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 710
+# File: module/Application/src/Controller/IndexController.php, line: 933
 msgid "English"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 712
+# File: module/Application/src/Controller/IndexController.php, line: 935
 msgid "Spanish"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 714
+# File: module/Application/src/Controller/IndexController.php, line: 937
 msgid "Portuguese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 716
+# File: module/Application/src/Controller/IndexController.php, line: 939
 msgid "French"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 718
+# File: module/Application/src/Controller/IndexController.php, line: 941
 msgid "Italian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 720
+# File: module/Application/src/Controller/IndexController.php, line: 943
 msgid "Deutsch"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 722
+# File: module/Application/src/Controller/IndexController.php, line: 945
 msgid "Armenian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 724
+# File: module/Application/src/Controller/IndexController.php, line: 947
 msgid "Chinese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 726
+# File: module/Application/src/Controller/IndexController.php, line: 949
 msgid "Japanese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 728
+# File: module/Application/src/Controller/IndexController.php, line: 951
 msgid "Arabic"
 msgstr ""
 #
@@ -1238,11 +1238,53 @@ msgstr ""
 msgid "Setup Wizard"
 msgstr ""
 #
-# File: module/Application/view/application/index/setup.phtml, line: 89
+# File: module/Application/view/application/index/setup.phtml, line: 21
+# File: module/Application/view/application/index/setup.phtml, line: 34
+msgid "Verify Email"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 21
+msgid "Email verification"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 22
+msgid "Verify Phone Number"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 22
+msgid "Phone verification"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 35
+# File: module/Application/view/application/index/setup.phtml, line: 45
+msgid "Please enter the verification code we sent to"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 37
+msgid "Code"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 38
+msgid "Didn't receive a code?"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 39
+msgid "Resend Code"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 40
+msgid "Change email address"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 44
+msgid "Verify Cellular Phone Number"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 79
 msgid "Back"
 msgstr ""
 #
-# File: module/Application/view/application/index/setup.phtml, line: 92
+# File: module/Application/view/application/index/setup.phtml, line: 82
 msgid "Next"
 msgstr ""
 #
