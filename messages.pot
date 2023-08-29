@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-22 14:20+0100\n"
+"POT-Creation-Date: 2023-08-29 07:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,18 +17,18 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
-# File: module/Application/src/Controller/IndexController.php, line: 392
+# File: module/Application/src/Controller/IndexController.php, line: 421
 # File: module/Application/src/Controller/CustomersController.php, line: 235
 # File: module/Application/src/Controller/CustomersController.php, line: 397
 # File: module/Application/src/Controller/CustomersController.php, line: 623
-# File: module/Application/src/Controller/CruisesController.php, line: 879
-# File: module/Application/src/Controller/CruisesController.php, line: 1134
-# File: module/Application/src/Controller/HotelsController.php, line: 365
-# File: module/Application/src/Controller/HotelsController.php, line: 619
+# File: module/Application/src/Controller/CruisesController.php, line: 877
+# File: module/Application/src/Controller/CruisesController.php, line: 1132
+# File: module/Application/src/Controller/HotelsController.php, line: 364
+# File: module/Application/src/Controller/HotelsController.php, line: 618
 # File: module/Application/src/Controller/FlightsController.php, line: 467
 # File: module/Application/src/Controller/FlightsController.php, line: 721
-# File: module/Application/src/Controller/CarsController.php, line: 363
-# File: module/Application/src/Controller/CarsController.php, line: 593
+# File: module/Application/src/Controller/CarsController.php, line: 362
+# File: module/Application/src/Controller/CarsController.php, line: 592
 # File: module/Application/src/Controller/ActivitiesController.php, line: 365
 # File: module/Application/src/Controller/ActivitiesController.php, line: 620
 # File: module/Application/src/Controller/TransfersController.php, line: 178
@@ -39,52 +39,52 @@ msgstr ""
 # File: module/Application/src/Controller/PackagesController.php, line: 620
 # File: module/Application/src/Controller/InsurancesController.php, line: 367
 # File: module/Application/src/Controller/InsurancesController.php, line: 624
-# File: module/Application/src/Controller/ReservationsController.php, line: 179
-# File: module/Application/src/Controller/ReservationsController.php, line: 437
+# File: module/Application/src/Controller/ReservationsController.php, line: 181
+# File: module/Application/src/Controller/ReservationsController.php, line: 439
 msgid "Not Available"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 682
+# File: module/Application/src/Controller/IndexController.php, line: 710
 msgid "English"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 684
+# File: module/Application/src/Controller/IndexController.php, line: 712
 msgid "Spanish"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 686
+# File: module/Application/src/Controller/IndexController.php, line: 714
 msgid "Portuguese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 688
+# File: module/Application/src/Controller/IndexController.php, line: 716
 msgid "French"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 690
+# File: module/Application/src/Controller/IndexController.php, line: 718
 msgid "Italian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 692
+# File: module/Application/src/Controller/IndexController.php, line: 720
 msgid "Deutsch"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 694
+# File: module/Application/src/Controller/IndexController.php, line: 722
 msgid "Armenian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 696
+# File: module/Application/src/Controller/IndexController.php, line: 724
 msgid "Chinese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 698
+# File: module/Application/src/Controller/IndexController.php, line: 726
 msgid "Japanese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 700
+# File: module/Application/src/Controller/IndexController.php, line: 728
 msgid "Arabic"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 11
+# File: module/Application/view/application/index/index.phtml, line: 9
 # File: module/Application/view/application/index/presentation.phtml, line: 20
 # File: module/Application/view/application/index/presentation.phtml, line: 35
 # File: module/Application/view/application/index/billing.phtml, line: 10
@@ -94,7 +94,7 @@ msgstr ""
 # File: module/Application/view/application/index/content.phtml, line: 17
 # File: module/Application/view/application/index/whoarewe.phtml, line: 20
 # File: module/Application/view/application/index/whoarewe.phtml, line: 33
-# File: module/Application/view/application/index/whoarewe.phtml, line: 157
+# File: module/Application/view/application/index/whoarewe.phtml, line: 146
 # File: module/Application/view/application/index/partners.phtml, line: 19
 # File: module/Application/view/application/index/partners.phtml, line: 32
 # File: module/Application/view/application/index/products.phtml, line: 21
@@ -105,6 +105,7 @@ msgstr ""
 # File: module/Application/view/application/index/password.phtml, line: 17
 # File: module/Application/view/application/index/securitylog.phtml, line: 17
 # File: module/Application/view/application/index/devices.phtml, line: 17
+# File: module/Application/view/application/index/setup.phtml, line: 11
 # File: module/Application/view/application/customers/index.phtml, line: 11
 # File: module/Application/view/application/cruises/index.phtml, line: 9
 # File: module/Application/view/application/hotels/index.phtml, line: 9
@@ -120,7 +121,7 @@ msgstr ""
 msgid "Home"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 12
+# File: module/Application/view/application/index/index.phtml, line: 10
 # File: module/Application/view/application/index/userinfo.phtml, line: 18
 # File: module/Application/view/application/index/settings.phtml, line: 18
 # File: module/Application/view/application/index/socialmedia.phtml, line: 18
@@ -129,6 +130,7 @@ msgstr ""
 # File: module/Application/view/application/index/password.phtml, line: 18
 # File: module/Application/view/application/index/securitylog.phtml, line: 18
 # File: module/Application/view/application/index/devices.phtml, line: 18
+# File: module/Application/view/application/index/setup.phtml, line: 12
 # File: module/Application/view/application/customers/index.phtml, line: 12
 # File: module/Application/view/application/customers/list.phtml, line: 11
 # File: module/Application/view/application/customers/searchreservations.phtml, line: 12
@@ -197,12 +199,12 @@ msgstr ""
 # File: module/Application/view/application/reservations/list.phtml, line: 11
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 11
 # File: module/Application/view/application/reports/index.phtml, line: 12
-# File: module/Application/view/application/view-reservation/index.phtml, line: 12
+# File: module/Application/view/application/view-reservation/index.phtml, line: 10
 # File: module/Application/view/layout/layout.phtml, line: 218
 msgid "Dashboard"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 24
+# File: module/Application/view/application/index/index.phtml, line: 19
 # File: module/Application/view/application/cruises/index.phtml, line: 16
 # File: module/Application/view/application/hotels/index.phtml, line: 16
 # File: module/Application/view/application/flights/index.phtml, line: 16
@@ -215,8 +217,8 @@ msgstr ""
 msgid "Take a Tour"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 45
-# File: module/Application/view/application/index/index.phtml, line: 246
+# File: module/Application/view/application/index/index.phtml, line: 40
+# File: module/Application/view/application/index/index.phtml, line: 241
 # File: module/Application/view/application/cruises/index.phtml, line: 23
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 12
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 12
@@ -231,7 +233,7 @@ msgstr ""
 msgid "Cruises"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 54
+# File: module/Application/view/application/index/index.phtml, line: 49
 # File: module/Application/view/application/hotels/index.phtml, line: 23
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 12
 # File: module/Application/view/application/hotels/searchreservations.phtml, line: 12
@@ -240,7 +242,7 @@ msgstr ""
 msgid "Hotels"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 64
+# File: module/Application/view/application/index/index.phtml, line: 59
 # File: module/Application/view/application/flights/index.phtml, line: 23
 # File: module/Application/view/application/flights/listreservations.phtml, line: 12
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 12
@@ -251,7 +253,7 @@ msgstr ""
 msgid "Flights"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 74
+# File: module/Application/view/application/index/index.phtml, line: 69
 # File: module/Application/view/application/cars/index.phtml, line: 23
 # File: module/Application/view/application/cars/listreservations.phtml, line: 12
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 12
@@ -260,7 +262,7 @@ msgstr ""
 msgid "Cars"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 84
+# File: module/Application/view/application/index/index.phtml, line: 79
 # File: module/Application/view/application/activities/index.phtml, line: 23
 # File: module/Application/view/application/activities/listreservations.phtml, line: 12
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 12
@@ -269,7 +271,7 @@ msgstr ""
 msgid "Activities"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 94
+# File: module/Application/view/application/index/index.phtml, line: 89
 # File: module/Application/view/application/transfers/index.phtml, line: 23
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 12
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 12
@@ -277,7 +279,7 @@ msgstr ""
 msgid "Transfers"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 114
+# File: module/Application/view/application/index/index.phtml, line: 109
 # File: module/Application/view/application/escortedtours/index.phtml, line: 23
 # File: module/Application/view/application/escortedtours/listreservations.phtml, line: 12
 # File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 12
@@ -302,7 +304,7 @@ msgstr ""
 msgid "Escorted Tours"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 124
+# File: module/Application/view/application/index/index.phtml, line: 119
 # File: module/Application/view/application/packages/index.phtml, line: 23
 # File: module/Application/view/application/packages/listreservations.phtml, line: 12
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 12
@@ -311,7 +313,7 @@ msgstr ""
 msgid "Packages"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 134
+# File: module/Application/view/application/index/index.phtml, line: 129
 # File: module/Application/view/application/insurances/index.phtml, line: 23
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 12
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 12
@@ -320,7 +322,7 @@ msgstr ""
 msgid "Insurances"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 144
+# File: module/Application/view/application/index/index.phtml, line: 139
 # File: module/Application/view/application/reservations/index.phtml, line: 32
 # File: module/Application/view/application/reservations/list.phtml, line: 12
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 12
@@ -328,7 +330,7 @@ msgstr ""
 msgid "Reservations"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 153
+# File: module/Application/view/application/index/index.phtml, line: 148
 # File: module/Application/view/application/customers/index.phtml, line: 35
 # File: module/Application/view/application/customers/list.phtml, line: 12
 # File: module/Application/view/application/customers/searchreservations.phtml, line: 14
@@ -338,46 +340,46 @@ msgstr ""
 msgid "Customers"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 163
+# File: module/Application/view/application/index/index.phtml, line: 158
 # File: module/Application/view/application/reports/index.phtml, line: 35
 msgid "Reports"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 177
+# File: module/Application/view/application/index/index.phtml, line: 172
 msgid "Sales & Searches"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 194
-# File: module/Application/view/application/index/index.phtml, line: 225
+# File: module/Application/view/application/index/index.phtml, line: 189
+# File: module/Application/view/application/index/index.phtml, line: 220
 msgid "THIS WEEK"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 198
-# File: module/Application/view/application/index/index.phtml, line: 229
+# File: module/Application/view/application/index/index.phtml, line: 193
+# File: module/Application/view/application/index/index.phtml, line: 224
 msgid "THIS MONTH"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 251
+# File: module/Application/view/application/index/index.phtml, line: 246
 msgid "Details"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 274
-# File: module/Application/view/application/index/index.phtml, line: 318
-# File: module/Application/view/application/index/index.phtml, line: 363
-# File: module/Application/view/application/index/index.phtml, line: 408
-# File: module/Application/view/application/index/index.phtml, line: 454
-# File: module/Application/view/application/index/index.phtml, line: 500
-# File: module/Application/view/application/index/index.phtml, line: 533
+# File: module/Application/view/application/index/index.phtml, line: 269
+# File: module/Application/view/application/index/index.phtml, line: 313
+# File: module/Application/view/application/index/index.phtml, line: 358
+# File: module/Application/view/application/index/index.phtml, line: 403
+# File: module/Application/view/application/index/index.phtml, line: 449
+# File: module/Application/view/application/index/index.phtml, line: 495
+# File: module/Application/view/application/index/index.phtml, line: 528
 msgid "Marketing"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 279
-# File: module/Application/view/application/index/index.phtml, line: 327
-# File: module/Application/view/application/index/index.phtml, line: 372
-# File: module/Application/view/application/index/index.phtml, line: 417
-# File: module/Application/view/application/index/index.phtml, line: 463
-# File: module/Application/view/application/index/index.phtml, line: 509
-# File: module/Application/view/application/index/index.phtml, line: 538
+# File: module/Application/view/application/index/index.phtml, line: 274
+# File: module/Application/view/application/index/index.phtml, line: 322
+# File: module/Application/view/application/index/index.phtml, line: 367
+# File: module/Application/view/application/index/index.phtml, line: 412
+# File: module/Application/view/application/index/index.phtml, line: 458
+# File: module/Application/view/application/index/index.phtml, line: 504
+# File: module/Application/view/application/index/index.phtml, line: 533
 # File: module/Application/view/application/index/invoices.phtml, line: 107
 # File: module/Application/view/application/index/securitylog.phtml, line: 99
 # File: module/Application/view/application/customers/list.phtml, line: 52
@@ -417,7 +419,7 @@ msgstr ""
 msgid "View"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 293
+# File: module/Application/view/application/index/index.phtml, line: 288
 msgid "TREND"
 msgstr ""
 #
@@ -476,6 +478,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 21
 # File: module/Application/view/application/index/presentation.phtml, line: 37
+# File: module/Application/view/application/index/presentation.phtml, line: 264
 # File: module/Application/view/application/index/whoarewe.phtml, line: 21
 # File: module/Application/view/application/index/whoarewe.phtml, line: 35
 # File: module/Application/view/application/index/partners.phtml, line: 20
@@ -489,9 +492,10 @@ msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 22
 # File: module/Application/view/application/index/presentation.phtml, line: 39
+# File: module/Application/view/application/index/presentation.phtml, line: 265
 # File: module/Application/view/application/index/whoarewe.phtml, line: 22
 # File: module/Application/view/application/index/whoarewe.phtml, line: 37
-# File: module/Application/view/application/index/whoarewe.phtml, line: 158
+# File: module/Application/view/application/index/whoarewe.phtml, line: 147
 # File: module/Application/view/application/index/partners.phtml, line: 21
 # File: module/Application/view/application/index/partners.phtml, line: 36
 # File: module/Application/view/application/index/products.phtml, line: 23
@@ -502,9 +506,10 @@ msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 23
 # File: module/Application/view/application/index/presentation.phtml, line: 41
+# File: module/Application/view/application/index/presentation.phtml, line: 266
 # File: module/Application/view/application/index/whoarewe.phtml, line: 23
 # File: module/Application/view/application/index/whoarewe.phtml, line: 39
-# File: module/Application/view/application/index/whoarewe.phtml, line: 159
+# File: module/Application/view/application/index/whoarewe.phtml, line: 148
 # File: module/Application/view/application/index/partners.phtml, line: 22
 # File: module/Application/view/application/index/partners.phtml, line: 38
 # File: module/Application/view/application/index/products.phtml, line: 24
@@ -661,6 +666,7 @@ msgid "Our business partners are joining our technology platform... Get to know 
 msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 192
+# File: module/Application/view/application/index/whoarewe.phtml, line: 89
 msgid "Through the perfect combination of people and technology, we offer the best experiences."
 msgstr ""
 #
@@ -672,7 +678,31 @@ msgstr ""
 msgid "Company Type"
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 210
+# File: module/Application/view/application/index/presentation.phtml, line: 204
+msgid "Travel Agent"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 205
+msgid "Travel Agency"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 206
+msgid "Freelancer"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 207
+msgid "Tour Operator"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 208
+msgid "Hotel Chain"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 209
+msgid "Other"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 211
 # File: module/Application/view/application/index/invoices.phtml, line: 88
 # File: module/Application/view/application/customers/list.phtml, line: 33
 # File: module/Application/view/application/customers/edit.phtml, line: 33
@@ -687,7 +717,7 @@ msgstr ""
 msgid "Country"
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 212
+# File: module/Application/view/application/index/presentation.phtml, line: 213
 # File: module/Application/view/application/index/userinfo.phtml, line: 83
 # File: module/Application/view/application/index/invoices.phtml, line: 90
 # File: module/Application/view/application/customers/list.phtml, line: 35
@@ -699,7 +729,7 @@ msgstr ""
 msgid "Phone"
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 216
+# File: module/Application/view/application/index/presentation.phtml, line: 217
 # File: module/Application/view/application/index/userinfo.phtml, line: 89
 # File: module/Application/view/application/index/invoices.phtml, line: 89
 # File: module/Application/view/application/customers/list.phtml, line: 34
@@ -711,24 +741,24 @@ msgstr ""
 msgid "Email"
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 217
+# File: module/Application/view/application/index/presentation.phtml, line: 218
 msgid "Subject"
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 218
+# File: module/Application/view/application/index/presentation.phtml, line: 219
 msgid "Write US"
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 219
+# File: module/Application/view/application/index/presentation.phtml, line: 220
 msgid "Your message..."
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 220
+# File: module/Application/view/application/index/presentation.phtml, line: 221
 msgid "send message"
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 280
-# File: module/Application/view/application/index/whoarewe.phtml, line: 175
+# File: module/Application/view/application/index/presentation.phtml, line: 281
+# File: module/Application/view/application/index/whoarewe.phtml, line: 164
 # File: module/Application/view/application/index/products.phtml, line: 286
 msgid "All rights reserved"
 msgstr ""
@@ -1025,6 +1055,14 @@ msgstr ""
 msgid "Terms & Condition Information"
 msgstr ""
 #
+# File: module/Application/view/application/index/whoarewe.phtml, line: 72
+msgid "It's a technological platform that allows you to connect thousands of tourist providers in a single Click. We are part of the Costamar Group, which has 40 years of experience in the Tourism industry, always providing the guarantee for your business. We strive every day to optimize 3 fundamental objectives: Quality, trust and satisfaction through our online tool, renewed and focused on meeting your needs. We offer you the use of our white label which will allow you to easily enter the online world. We have different sales modules such as Hotels, Air, Packages, Cruises, Circuits and more!"
+msgstr ""
+#
+# File: module/Application/view/application/index/whoarewe.phtml, line: 86
+msgid "CONTACT US"
+msgstr ""
+#
 # File: module/Application/view/application/index/invoices.phtml, line: 82
 # File: module/Application/view/application/index/securitylog.phtml, line: 82
 # File: module/Application/view/application/customers/list.phtml, line: 27
@@ -1194,6 +1232,18 @@ msgstr ""
 #
 # File: module/Application/view/application/index/securitylog.phtml, line: 86
 msgid "Request"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 7
+msgid "Setup Wizard"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 89
+msgid "Back"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 92
+msgid "Next"
 msgstr ""
 #
 # File: module/Application/view/application/customers/index.phtml, line: 45
@@ -1675,6 +1725,7 @@ msgstr ""
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 31
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 31
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 31
+# File: module/Application/view/application/view-reservation/index.phtml, line: 52
 msgid "Travel Date"
 msgstr ""
 #
@@ -2426,8 +2477,32 @@ msgid "Search Reservation"
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index.phtml, line: 7
-# File: module/Application/view/application/view-reservation/index.phtml, line: 14
+# File: module/Application/view/application/view-reservation/index.phtml, line: 11
 msgid "View Reservation"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 41
+msgid "Reservation"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 49
+msgid "Service"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 55
+msgid "Price"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 79
+msgid "Service Fee :"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 80
+msgid "Discount :"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 81
+msgid "Total :"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 116
