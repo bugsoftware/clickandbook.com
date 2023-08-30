@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-29 15:01+0100\n"
+"POT-Creation-Date: 2023-08-30 07:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,33 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
-# File: module/Application/src/Controller/IndexController.php, line: 663
+# File: module/Application/src/Controller/IndexController.php, line: 309
+# File: module/Application/src/Controller/IndexController.php, line: 310
+msgid "Hi"
+msgstr ""
+#
+# File: module/Application/src/Controller/IndexController.php, line: 310
+# File: module/Application/src/Controller/IndexController.php, line: 311
+msgid "Verify your email"
+msgstr ""
+#
+# File: module/Application/src/Controller/IndexController.php, line: 310
+msgid "To activate your account, please verify your email address. Your account will not be activated until your email address is confirmed."
+msgstr ""
+#
+# File: module/Application/src/Controller/IndexController.php, line: 310
+msgid "Please enter this code to complete the email verification process."
+msgstr ""
+#
+# File: module/Application/src/Controller/IndexController.php, line: 310
+msgid "This is valid for 30 minutes only"
+msgstr ""
+#
+# File: module/Application/src/Controller/IndexController.php, line: 310
+msgid "Thanks"
+msgstr ""
+#
+# File: module/Application/src/Controller/IndexController.php, line: 1005
 # File: module/Application/src/Controller/CustomersController.php, line: 235
 # File: module/Application/src/Controller/CustomersController.php, line: 397
 # File: module/Application/src/Controller/CustomersController.php, line: 626
@@ -44,43 +70,43 @@ msgstr ""
 msgid "Not Available"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 952
+# File: module/Application/src/Controller/IndexController.php, line: 1294
 msgid "English"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 954
+# File: module/Application/src/Controller/IndexController.php, line: 1296
 msgid "Spanish"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 956
+# File: module/Application/src/Controller/IndexController.php, line: 1298
 msgid "Portuguese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 958
+# File: module/Application/src/Controller/IndexController.php, line: 1300
 msgid "French"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 960
+# File: module/Application/src/Controller/IndexController.php, line: 1302
 msgid "Italian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 962
+# File: module/Application/src/Controller/IndexController.php, line: 1304
 msgid "Deutsch"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 964
+# File: module/Application/src/Controller/IndexController.php, line: 1306
 msgid "Armenian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 966
+# File: module/Application/src/Controller/IndexController.php, line: 1308
 msgid "Chinese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 968
+# File: module/Application/src/Controller/IndexController.php, line: 1310
 msgid "Japanese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 970
+# File: module/Application/src/Controller/IndexController.php, line: 1312
 msgid "Arabic"
 msgstr ""
 #
@@ -131,6 +157,7 @@ msgstr ""
 # File: module/Application/view/application/index/securitylog.phtml, line: 18
 # File: module/Application/view/application/index/devices.phtml, line: 18
 # File: module/Application/view/application/index/setup.phtml, line: 12
+# File: module/Application/view/application/index/setup.phtml, line: 86
 # File: module/Application/view/application/customers/index.phtml, line: 12
 # File: module/Application/view/application/customers/list.phtml, line: 11
 # File: module/Application/view/application/customers/edit.phtml, line: 11
@@ -200,7 +227,7 @@ msgstr ""
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 11
 # File: module/Application/view/application/reports/index.phtml, line: 12
 # File: module/Application/view/application/view-reservation/index.phtml, line: 10
-# File: module/Application/view/layout/layout.phtml, line: 218
+# File: module/Application/view/layout/layout.phtml, line: 165
 msgid "Dashboard"
 msgstr ""
 #
@@ -229,7 +256,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopularcruises.phtml, line: 11
 # File: module/Application/view/application/cruises/addpopulardestinations.phtml, line: 11
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 11
-# File: module/Application/view/layout/layout.phtml, line: 220
+# File: module/Application/view/layout/layout.phtml, line: 167
 msgid "Cruises"
 msgstr ""
 #
@@ -238,7 +265,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 12
 # File: module/Application/view/application/hotels/searchreservations.phtml, line: 12
 # File: module/Application/view/application/hotels/settings.phtml, line: 11
-# File: module/Application/view/layout/layout.phtml, line: 221
+# File: module/Application/view/layout/layout.phtml, line: 168
 msgid "Hotels"
 msgstr ""
 #
@@ -249,7 +276,7 @@ msgstr ""
 # File: module/Application/view/application/flights/settings.phtml, line: 11
 # File: module/Application/view/application/flights/issueticket.phtml, line: 11
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 11
-# File: module/Application/view/layout/layout.phtml, line: 222
+# File: module/Application/view/layout/layout.phtml, line: 169
 msgid "Flights"
 msgstr ""
 #
@@ -258,7 +285,7 @@ msgstr ""
 # File: module/Application/view/application/cars/listreservations.phtml, line: 12
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 12
 # File: module/Application/view/application/cars/settings.phtml, line: 11
-# File: module/Application/view/layout/layout.phtml, line: 223
+# File: module/Application/view/layout/layout.phtml, line: 170
 msgid "Cars"
 msgstr ""
 #
@@ -267,7 +294,7 @@ msgstr ""
 # File: module/Application/view/application/activities/listreservations.phtml, line: 12
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 12
 # File: module/Application/view/application/activities/settings.phtml, line: 11
-# File: module/Application/view/layout/layout.phtml, line: 224
+# File: module/Application/view/layout/layout.phtml, line: 171
 msgid "Activities"
 msgstr ""
 #
@@ -275,7 +302,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/index.phtml, line: 23
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 12
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 12
-# File: module/Application/view/layout/layout.phtml, line: 225
+# File: module/Application/view/layout/layout.phtml, line: 172
 msgid "Transfers"
 msgstr ""
 #
@@ -300,7 +327,7 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/lastminuteescortedtours.phtml, line: 11
 # File: module/Application/view/application/escortedtours/specialoffers.phtml, line: 11
 # File: module/Application/view/application/escortedtours/addspecialoffers.phtml, line: 11
-# File: module/Application/view/layout/layout.phtml, line: 226
+# File: module/Application/view/layout/layout.phtml, line: 173
 msgid "Escorted Tours"
 msgstr ""
 #
@@ -309,7 +336,7 @@ msgstr ""
 # File: module/Application/view/application/packages/listreservations.phtml, line: 12
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 12
 # File: module/Application/view/application/packages/settings.phtml, line: 11
-# File: module/Application/view/layout/layout.phtml, line: 227
+# File: module/Application/view/layout/layout.phtml, line: 174
 msgid "Packages"
 msgstr ""
 #
@@ -318,7 +345,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 12
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 12
 # File: module/Application/view/application/insurances/settings.phtml, line: 11
-# File: module/Application/view/layout/layout.phtml, line: 228
+# File: module/Application/view/layout/layout.phtml, line: 175
 msgid "Insurances"
 msgstr ""
 #
@@ -326,7 +353,7 @@ msgstr ""
 # File: module/Application/view/application/reservations/index.phtml, line: 32
 # File: module/Application/view/application/reservations/list.phtml, line: 12
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 12
-# File: module/Application/view/layout/layout.phtml, line: 231
+# File: module/Application/view/layout/layout.phtml, line: 178
 msgid "Reservations"
 msgstr ""
 #
@@ -336,7 +363,7 @@ msgstr ""
 # File: module/Application/view/application/customers/edit.phtml, line: 12
 # File: module/Application/view/application/customers/search.phtml, line: 11
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 11
-# File: module/Application/view/layout/layout.phtml, line: 237
+# File: module/Application/view/layout/layout.phtml, line: 184
 msgid "Customers"
 msgstr ""
 #
@@ -428,42 +455,45 @@ msgid "Click & Book | Login Page"
 msgstr ""
 #
 # File: module/Application/view/application/index/login.phtml, line: 63
+# File: module/Application/view/application/index/forgotpassword.phtml, line: 62
 msgid "Travel made easy!"
 msgstr ""
 #
 # File: module/Application/view/application/index/login.phtml, line: 65
+# File: module/Application/view/application/index/forgotpassword.phtml, line: 64
 msgid "Discover the world with Click & Book, the ultimate online travel platform that lets you book flights, hotels, car rentals, and more in just a few clicks. Whether you're looking for a relaxing getaway, an adventurous trip, or a cultural immersion, Click & Book has something for everyone. Explore thousands of destinations, compare prices, and find the best deals on Click & Book today."
 msgstr ""
 #
 # File: module/Application/view/application/index/login.phtml, line: 67
+# File: module/Application/view/application/index/forgotpassword.phtml, line: 65
 msgid "Learn More"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 84
+# File: module/Application/view/application/index/login.phtml, line: 80
 msgid "Welcome,"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 85
+# File: module/Application/view/application/index/login.phtml, line: 81
 msgid "let's get started!"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 88
+# File: module/Application/view/application/index/login.phtml, line: 84
 msgid "Please use your credentials to login."
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 90
+# File: module/Application/view/application/index/login.phtml, line: 86
 msgid "If you are not a member, please"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 91
+# File: module/Application/view/application/index/login.phtml, line: 87
 msgid "register"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 103
+# File: module/Application/view/application/index/login.phtml, line: 99
 msgid "Forgot?"
 msgstr ""
 #
-# File: module/Application/view/application/index/login.phtml, line: 105
+# File: module/Application/view/application/index/login.phtml, line: 101
 # File: module/Application/view/application/index/presentation.phtml, line: 28
 # File: module/Application/view/application/index/presentation.phtml, line: 47
 # File: module/Application/view/application/index/whoarewe.phtml, line: 26
@@ -545,7 +575,8 @@ msgid "Contact Us"
 msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 53
-# File: module/Application/view/application/index/presentation.phtml, line: 530
+# File: module/Application/view/application/index/presentation.phtml, line: 311
+# File: module/Application/view/application/index/presentation.phtml, line: 706
 msgid "REGISTER"
 msgstr ""
 #
@@ -704,7 +735,7 @@ msgid "Other"
 msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 211
-# File: module/Application/view/application/index/presentation.phtml, line: 518
+# File: module/Application/view/application/index/presentation.phtml, line: 299
 # File: module/Application/view/application/index/invoices.phtml, line: 88
 # File: module/Application/view/application/customers/list.phtml, line: 33
 # File: module/Application/view/application/customers/edit.phtml, line: 33
@@ -720,7 +751,7 @@ msgid "Country"
 msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 213
-# File: module/Application/view/application/index/presentation.phtml, line: 515
+# File: module/Application/view/application/index/presentation.phtml, line: 296
 # File: module/Application/view/application/index/userinfo.phtml, line: 83
 # File: module/Application/view/application/index/invoices.phtml, line: 90
 # File: module/Application/view/application/customers/list.phtml, line: 35
@@ -735,6 +766,7 @@ msgstr ""
 # File: module/Application/view/application/index/presentation.phtml, line: 217
 # File: module/Application/view/application/index/userinfo.phtml, line: 89
 # File: module/Application/view/application/index/invoices.phtml, line: 89
+# File: module/Application/view/application/index/setup.phtml, line: 107
 # File: module/Application/view/application/customers/list.phtml, line: 34
 # File: module/Application/view/application/customers/edit.phtml, line: 27
 # File: module/Application/view/application/customers/search.phtml, line: 47
@@ -766,33 +798,68 @@ msgstr ""
 msgid "All rights reserved"
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 326
+# File: module/Application/view/application/index/presentation.phtml, line: 288
+msgid "Travel Agent or Agency Registration"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 293
+# File: module/Application/view/application/customers/edit.phtml, line: 24
+# File: module/Application/view/application/customers/search.phtml, line: 31
+# File: module/Application/view/application/customers/searchcustomers.phtml, line: 33
+msgid "First Name"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 294
+# File: module/Application/view/application/customers/edit.phtml, line: 25
+# File: module/Application/view/application/customers/search.phtml, line: 37
+# File: module/Application/view/application/customers/searchcustomers.phtml, line: 39
+msgid "Last Name"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 295
+msgid "Agency Name"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 305
+msgid "Email address"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 306
+# File: module/Application/view/application/index/userinfo.phtml, line: 55
+# File: module/Application/view/application/index/password.phtml, line: 13
+# File: module/Application/view/application/index/password.phtml, line: 19
+# File: module/Application/view/application/index/devices.phtml, line: 54
+# File: module/Application/view/application/customers/edit.phtml, line: 29
+msgid "Password"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 650
 msgid "First name is required. Please write the first name to continue."
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 332
+# File: module/Application/view/application/index/presentation.phtml, line: 656
 msgid "Last name is required. Please enter last name to continue."
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 338
+# File: module/Application/view/application/index/presentation.phtml, line: 662
 msgid "Agency name is required. Please write the name of the agency to continue."
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 344
+# File: module/Application/view/application/index/presentation.phtml, line: 668
 msgid "Agency phone number is required. Please write the phone number of the agency to continue."
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 350
-# File: module/Application/view/application/index/presentation.phtml, line: 356
+# File: module/Application/view/application/index/presentation.phtml, line: 674
+# File: module/Application/view/application/index/presentation.phtml, line: 680
 msgid "Country is required. Please select the country of the agency to continue."
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 362
-# File: module/Application/view/application/index/presentation.phtml, line: 368
+# File: module/Application/view/application/index/presentation.phtml, line: 686
+# File: module/Application/view/application/index/presentation.phtml, line: 692
 msgid "Email is required. Please write the email of the agency to continue."
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 378
+# File: module/Application/view/application/index/presentation.phtml, line: 702
 # File: module/Application/view/application/index/password.phtml, line: 127
 # File: module/Application/view/application/cruises/settings.phtml, line: 109
 # File: module/Application/view/application/cruises/addpopularcruises.phtml, line: 185
@@ -818,39 +885,16 @@ msgstr ""
 msgid "Please wait..."
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 507
-msgid "Travel Agent or Agency Registration"
+# File: module/Application/view/application/index/presentation.phtml, line: 705
+msgid "Please contact our customer service."
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 512
-# File: module/Application/view/application/customers/edit.phtml, line: 24
-# File: module/Application/view/application/customers/search.phtml, line: 31
-# File: module/Application/view/application/customers/searchcustomers.phtml, line: 33
-msgid "First Name"
+# File: module/Application/view/application/index/presentation.phtml, line: 709
+msgid "Thank you very much for your registration."
 msgstr ""
 #
-# File: module/Application/view/application/index/presentation.phtml, line: 513
-# File: module/Application/view/application/customers/edit.phtml, line: 25
-# File: module/Application/view/application/customers/search.phtml, line: 37
-# File: module/Application/view/application/customers/searchcustomers.phtml, line: 39
-msgid "Last Name"
-msgstr ""
-#
-# File: module/Application/view/application/index/presentation.phtml, line: 514
-msgid "Agency Name"
-msgstr ""
-#
-# File: module/Application/view/application/index/presentation.phtml, line: 524
-msgid "Email address"
-msgstr ""
-#
-# File: module/Application/view/application/index/presentation.phtml, line: 525
-# File: module/Application/view/application/index/userinfo.phtml, line: 55
-# File: module/Application/view/application/index/password.phtml, line: 13
-# File: module/Application/view/application/index/password.phtml, line: 19
-# File: module/Application/view/application/index/devices.phtml, line: 54
-# File: module/Application/view/application/customers/edit.phtml, line: 29
-msgid "Password"
+# File: module/Application/view/application/index/presentation.phtml, line: 709
+msgid "You are now being redirected to your system..."
 msgstr ""
 #
 # File: module/Application/view/application/index/billing.phtml, line: 6
@@ -898,7 +942,7 @@ msgstr ""
 # File: module/Application/view/application/index/userinfo.phtml, line: 36
 # File: module/Application/view/application/index/userinfo.phtml, line: 76
 # File: module/Application/view/application/index/settings.phtml, line: 13
-# File: module/Application/view/application/index/settings.phtml, line: 36
+# File: module/Application/view/application/index/settings.phtml, line: 34
 # File: module/Application/view/application/index/socialmedia.phtml, line: 36
 # File: module/Application/view/application/index/content.phtml, line: 36
 # File: module/Application/view/application/index/invoices.phtml, line: 36
@@ -910,22 +954,22 @@ msgstr ""
 #
 # File: module/Application/view/application/index/userinfo.phtml, line: 19
 # File: module/Application/view/application/index/userinfo.phtml, line: 38
-# File: module/Application/view/application/index/settings.phtml, line: 38
+# File: module/Application/view/application/index/settings.phtml, line: 36
 # File: module/Application/view/application/index/socialmedia.phtml, line: 38
 # File: module/Application/view/application/index/content.phtml, line: 38
 # File: module/Application/view/application/index/invoices.phtml, line: 38
 # File: module/Application/view/application/index/password.phtml, line: 38
 # File: module/Application/view/application/index/securitylog.phtml, line: 38
 # File: module/Application/view/application/index/devices.phtml, line: 35
-# File: module/Application/view/layout/layout.phtml, line: 117
+# File: module/Application/view/layout/layout.phtml, line: 82
 msgid "User Info"
 msgstr ""
 #
 # File: module/Application/view/application/index/userinfo.phtml, line: 26
 # File: module/Application/view/application/index/userinfo.phtml, line: 41
 # File: module/Application/view/application/index/settings.phtml, line: 19
-# File: module/Application/view/application/index/settings.phtml, line: 41
-# File: module/Application/view/application/index/settings.phtml, line: 74
+# File: module/Application/view/application/index/settings.phtml, line: 39
+# File: module/Application/view/application/index/settings.phtml, line: 70
 # File: module/Application/view/application/index/socialmedia.phtml, line: 41
 # File: module/Application/view/application/index/content.phtml, line: 41
 # File: module/Application/view/application/index/invoices.phtml, line: 41
@@ -957,12 +1001,12 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 62
 # File: module/Application/view/application/insurances/settings.phtml, line: 7
 # File: module/Application/view/application/insurances/settings.phtml, line: 12
-# File: module/Application/view/layout/layout.phtml, line: 136
+# File: module/Application/view/layout/layout.phtml, line: 101
 msgid "Settings"
 msgstr ""
 #
 # File: module/Application/view/application/index/userinfo.phtml, line: 39
-# File: module/Application/view/application/index/settings.phtml, line: 39
+# File: module/Application/view/application/index/settings.phtml, line: 37
 # File: module/Application/view/application/index/socialmedia.phtml, line: 13
 # File: module/Application/view/application/index/socialmedia.phtml, line: 19
 # File: module/Application/view/application/index/socialmedia.phtml, line: 39
@@ -971,12 +1015,12 @@ msgstr ""
 # File: module/Application/view/application/index/password.phtml, line: 39
 # File: module/Application/view/application/index/securitylog.phtml, line: 39
 # File: module/Application/view/application/index/devices.phtml, line: 36
-# File: module/Application/view/layout/layout.phtml, line: 123
+# File: module/Application/view/layout/layout.phtml, line: 88
 msgid "Social Media"
 msgstr ""
 #
 # File: module/Application/view/application/index/userinfo.phtml, line: 40
-# File: module/Application/view/application/index/settings.phtml, line: 40
+# File: module/Application/view/application/index/settings.phtml, line: 38
 # File: module/Application/view/application/index/socialmedia.phtml, line: 40
 # File: module/Application/view/application/index/content.phtml, line: 13
 # File: module/Application/view/application/index/content.phtml, line: 19
@@ -985,7 +1029,7 @@ msgstr ""
 # File: module/Application/view/application/index/password.phtml, line: 40
 # File: module/Application/view/application/index/securitylog.phtml, line: 40
 # File: module/Application/view/application/index/devices.phtml, line: 37
-# File: module/Application/view/layout/layout.phtml, line: 124
+# File: module/Application/view/layout/layout.phtml, line: 89
 msgid "Content"
 msgstr ""
 #
@@ -994,14 +1038,14 @@ msgid "Payment"
 msgstr ""
 #
 # File: module/Application/view/application/index/userinfo.phtml, line: 47
-# File: module/Application/view/application/index/settings.phtml, line: 47
+# File: module/Application/view/application/index/settings.phtml, line: 45
 # File: module/Application/view/application/index/socialmedia.phtml, line: 47
 # File: module/Application/view/application/index/content.phtml, line: 47
 # File: module/Application/view/application/index/invoices.phtml, line: 47
 # File: module/Application/view/application/index/password.phtml, line: 47
 # File: module/Application/view/application/index/securitylog.phtml, line: 47
 # File: module/Application/view/application/index/devices.phtml, line: 44
-# File: module/Application/view/layout/layout.phtml, line: 120
+# File: module/Application/view/layout/layout.phtml, line: 85
 msgid "Billing"
 msgstr ""
 #
@@ -1079,19 +1123,20 @@ msgid "Accounting Email"
 msgstr ""
 #
 # File: module/Application/view/application/index/userinfo.phtml, line: 96
-# File: module/Application/view/application/index/settings.phtml, line: 81
+# File: module/Application/view/application/index/settings.phtml, line: 77
 # File: module/Application/view/application/index/socialmedia.phtml, line: 93
 # File: module/Application/view/application/index/content.phtml, line: 90
 # File: module/Application/view/application/index/content.phtml, line: 113
 # File: module/Application/view/application/index/content.phtml, line: 142
+# File: module/Application/view/application/index/setup.phtml, line: 112
 msgid "Update"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 48
+# File: module/Application/view/application/index/settings.phtml, line: 46
 msgid "Invoice"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 79
+# File: module/Application/view/application/index/settings.phtml, line: 75
 msgid "Only display company logo"
 msgstr ""
 #
@@ -1295,54 +1340,124 @@ msgstr ""
 msgid "Setup Wizard"
 msgstr ""
 #
-# File: module/Application/view/application/index/setup.phtml, line: 21
-# File: module/Application/view/application/index/setup.phtml, line: 34
+# File: module/Application/view/application/index/setup.phtml, line: 22
 msgid "Verify Email"
 msgstr ""
 #
-# File: module/Application/view/application/index/setup.phtml, line: 21
+# File: module/Application/view/application/index/setup.phtml, line: 22
 msgid "Email verification"
 msgstr ""
 #
-# File: module/Application/view/application/index/setup.phtml, line: 22
+# File: module/Application/view/application/index/setup.phtml, line: 23
 msgid "Verify Phone Number"
 msgstr ""
 #
-# File: module/Application/view/application/index/setup.phtml, line: 22
+# File: module/Application/view/application/index/setup.phtml, line: 23
 msgid "Phone verification"
 msgstr ""
 #
+# File: module/Application/view/application/index/setup.phtml, line: 24
+msgid "Activation"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 33
+msgid "Check your email"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 34
 # File: module/Application/view/application/index/setup.phtml, line: 35
-# File: module/Application/view/application/index/setup.phtml, line: 45
+# File: module/Application/view/application/index/setup.phtml, line: 37
+# File: module/Application/view/application/index/setup.phtml, line: 57
+# File: module/Application/view/application/index/setup.phtml, line: 59
 msgid "Please enter the verification code we sent to"
 msgstr ""
 #
 # File: module/Application/view/application/index/setup.phtml, line: 37
-msgid "Code"
-msgstr ""
-#
-# File: module/Application/view/application/index/setup.phtml, line: 38
-msgid "Didn't receive a code?"
-msgstr ""
-#
-# File: module/Application/view/application/index/setup.phtml, line: 39
-msgid "Resend Code"
+# File: module/Application/view/application/index/setup.phtml, line: 59
+msgid "The code you have inserted is not valid or has expired."
 msgstr ""
 #
 # File: module/Application/view/application/index/setup.phtml, line: 40
-msgid "Change email address"
+# File: module/Application/view/application/index/setup.phtml, line: 67
+msgid "Code"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 43
+# File: module/Application/view/application/index/setup.phtml, line: 70
+msgid "Verify code"
 msgstr ""
 #
 # File: module/Application/view/application/index/setup.phtml, line: 44
-msgid "Verify Cellular Phone Number"
+# File: module/Application/view/application/index/setup.phtml, line: 71
+msgid "Didn't receive a code?"
 msgstr ""
 #
-# File: module/Application/view/application/index/setup.phtml, line: 79
+# File: module/Application/view/application/index/setup.phtml, line: 44
+msgid "Resend verification email"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 47
+msgid "Wrong email address?"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 47
+msgid "Change email address"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 54
+msgid "Verify your phone number"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 55
+msgid "A verified phone number is required to access to your account."
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 55
+msgid "Enter a mobile phone number that you have access to. This number will be used to secure your account."
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 56
+msgid "Enter a mobile phone number that you have access to."
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 65
+msgid "Send Verification Code"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 71
+msgid "Resend verification phone"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 74
+msgid "Wrong phone number?"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 74
+msgid "Verify with a different phone number"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 83
+msgid "Thank You!"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 84
+msgid "Congratulations, you have successfully activated your account!"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 85
+msgid "Don't forget to update your profile, set your website and upload your logo!"
+msgstr ""
+#
+# File: module/Application/view/application/index/setup.phtml, line: 94
 msgid "Back"
 msgstr ""
 #
-# File: module/Application/view/application/index/setup.phtml, line: 82
+# File: module/Application/view/application/index/setup.phtml, line: 97
 msgid "Next"
+msgstr ""
+#
+# File: module/Application/view/application/index/forgotpassword.phtml, line: 6
+msgid "Click & Book | Forgot Password Page"
 msgstr ""
 #
 # File: module/Application/view/application/customers/index.phtml, line: 45
@@ -1420,7 +1535,7 @@ msgstr ""
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 12
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 26
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 82
-# File: module/Application/view/layout/layout.phtml, line: 240
+# File: module/Application/view/layout/layout.phtml, line: 187
 msgid "Search Customers"
 msgstr ""
 #
@@ -1538,7 +1653,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 13
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 20
 # File: module/Application/view/application/reservations/list.phtml, line: 20
-# File: module/Application/view/layout/layout.phtml, line: 233
+# File: module/Application/view/layout/layout.phtml, line: 180
 msgid "List Reservations"
 msgstr ""
 #
@@ -1581,7 +1696,7 @@ msgstr ""
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 7
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 13
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 51
-# File: module/Application/view/layout/layout.phtml, line: 234
+# File: module/Application/view/layout/layout.phtml, line: 181
 msgid "Search Reservations"
 msgstr ""
 #
@@ -2593,27 +2708,31 @@ msgstr ""
 msgid "Total :"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 116
+# File: module/Application/view/layout/layout.phtml, line: 81
 msgid "ACCOUNT"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 130
-# File: module/Application/view/layout/layout.phtml, line: 280
+# File: module/Application/view/layout/layout.phtml, line: 95
+# File: module/Application/view/layout/layout.phtml, line: 223
 msgid "Help"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 131
+# File: module/Application/view/layout/layout.phtml, line: 96
 msgid "Docs"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 137
+# File: module/Application/view/layout/layout.phtml, line: 102
 msgid "Logout"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 239
+# File: module/Application/view/layout/layout.phtml, line: 186
 msgid "List Customers"
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 281
+# File: module/Application/view/layout/layout.phtml, line: 224
 msgid "Support"
+msgstr ""
+#
+# File: vendor/sendgrid/php-http-client/test/unit/ClientTest.php, line: 43
+msgid "test"
 msgstr ""
