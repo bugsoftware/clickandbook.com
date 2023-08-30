@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-30 07:36+0100\n"
+"POT-Creation-Date: 2023-08-30 13:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,33 +17,37 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
-# File: module/Application/src/Controller/IndexController.php, line: 309
-# File: module/Application/src/Controller/IndexController.php, line: 310
+# File: module/Application/src/Controller/IndexController.php, line: 238
+msgid "Your Click & Book verification code is:"
+msgstr ""
+#
+# File: module/Application/src/Controller/IndexController.php, line: 384
+# File: module/Application/src/Controller/IndexController.php, line: 385
 msgid "Hi"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 310
-# File: module/Application/src/Controller/IndexController.php, line: 311
+# File: module/Application/src/Controller/IndexController.php, line: 385
+# File: module/Application/src/Controller/IndexController.php, line: 386
 msgid "Verify your email"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 310
+# File: module/Application/src/Controller/IndexController.php, line: 385
 msgid "To activate your account, please verify your email address. Your account will not be activated until your email address is confirmed."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 310
+# File: module/Application/src/Controller/IndexController.php, line: 385
 msgid "Please enter this code to complete the email verification process."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 310
+# File: module/Application/src/Controller/IndexController.php, line: 385
 msgid "This is valid for 30 minutes only"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 310
+# File: module/Application/src/Controller/IndexController.php, line: 385
 msgid "Thanks"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1005
+# File: module/Application/src/Controller/IndexController.php, line: 1083
 # File: module/Application/src/Controller/CustomersController.php, line: 235
 # File: module/Application/src/Controller/CustomersController.php, line: 397
 # File: module/Application/src/Controller/CustomersController.php, line: 626
@@ -70,43 +74,43 @@ msgstr ""
 msgid "Not Available"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1294
+# File: module/Application/src/Controller/IndexController.php, line: 1372
 msgid "English"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1296
+# File: module/Application/src/Controller/IndexController.php, line: 1374
 msgid "Spanish"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1298
+# File: module/Application/src/Controller/IndexController.php, line: 1376
 msgid "Portuguese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1300
+# File: module/Application/src/Controller/IndexController.php, line: 1378
 msgid "French"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1302
+# File: module/Application/src/Controller/IndexController.php, line: 1380
 msgid "Italian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1304
+# File: module/Application/src/Controller/IndexController.php, line: 1382
 msgid "Deutsch"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1306
+# File: module/Application/src/Controller/IndexController.php, line: 1384
 msgid "Armenian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1308
+# File: module/Application/src/Controller/IndexController.php, line: 1386
 msgid "Chinese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1310
+# File: module/Application/src/Controller/IndexController.php, line: 1388
 msgid "Japanese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1312
+# File: module/Application/src/Controller/IndexController.php, line: 1390
 msgid "Arabic"
 msgstr ""
 #
@@ -455,17 +459,17 @@ msgid "Click & Book | Login Page"
 msgstr ""
 #
 # File: module/Application/view/application/index/login.phtml, line: 63
-# File: module/Application/view/application/index/forgotpassword.phtml, line: 62
+# File: module/Application/view/application/index/forgotpassword.phtml, line: 59
 msgid "Travel made easy!"
 msgstr ""
 #
 # File: module/Application/view/application/index/login.phtml, line: 65
-# File: module/Application/view/application/index/forgotpassword.phtml, line: 64
+# File: module/Application/view/application/index/forgotpassword.phtml, line: 61
 msgid "Discover the world with Click & Book, the ultimate online travel platform that lets you book flights, hotels, car rentals, and more in just a few clicks. Whether you're looking for a relaxing getaway, an adventurous trip, or a cultural immersion, Click & Book has something for everyone. Explore thousands of destinations, compare prices, and find the best deals on Click & Book today."
 msgstr ""
 #
 # File: module/Application/view/application/index/login.phtml, line: 67
-# File: module/Application/view/application/index/forgotpassword.phtml, line: 65
+# File: module/Application/view/application/index/forgotpassword.phtml, line: 62
 msgid "Learn More"
 msgstr ""
 #
@@ -767,6 +771,7 @@ msgstr ""
 # File: module/Application/view/application/index/userinfo.phtml, line: 89
 # File: module/Application/view/application/index/invoices.phtml, line: 89
 # File: module/Application/view/application/index/setup.phtml, line: 107
+# File: module/Application/view/application/index/forgotpassword.phtml, line: 83
 # File: module/Application/view/application/customers/list.phtml, line: 34
 # File: module/Application/view/application/customers/edit.phtml, line: 27
 # File: module/Application/view/application/customers/search.phtml, line: 47
@@ -1458,6 +1463,30 @@ msgstr ""
 #
 # File: module/Application/view/application/index/forgotpassword.phtml, line: 6
 msgid "Click & Book | Forgot Password Page"
+msgstr ""
+#
+# File: module/Application/view/application/index/forgotpassword.phtml, line: 72
+msgid "Password is gone?"
+msgstr ""
+#
+# File: module/Application/view/application/index/forgotpassword.phtml, line: 73
+msgid "Let's reset it!"
+msgstr ""
+#
+# File: module/Application/view/application/index/forgotpassword.phtml, line: 76
+msgid "Please enter your email to receive a link to reset your password."
+msgstr ""
+#
+# File: module/Application/view/application/index/forgotpassword.phtml, line: 77
+msgid "If you are a member, please"
+msgstr ""
+#
+# File: module/Application/view/application/index/forgotpassword.phtml, line: 77
+msgid "login"
+msgstr ""
+#
+# File: module/Application/view/application/index/forgotpassword.phtml, line: 85
+msgid "Send Reset Email"
 msgstr ""
 #
 # File: module/Application/view/application/customers/index.phtml, line: 45
