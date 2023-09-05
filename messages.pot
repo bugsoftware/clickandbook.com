@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-05 10:56+0100\n"
+"POT-Creation-Date: 2023-09-05 14:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,8 +55,8 @@ msgstr ""
 # File: module/Application/src/Controller/CruisesController.php, line: 1155
 # File: module/Application/src/Controller/HotelsController.php, line: 364
 # File: module/Application/src/Controller/HotelsController.php, line: 641
-# File: module/Application/src/Controller/FlightsController.php, line: 467
-# File: module/Application/src/Controller/FlightsController.php, line: 744
+# File: module/Application/src/Controller/FlightsController.php, line: 544
+# File: module/Application/src/Controller/FlightsController.php, line: 821
 # File: module/Application/src/Controller/CarsController.php, line: 362
 # File: module/Application/src/Controller/CarsController.php, line: 615
 # File: module/Application/src/Controller/ActivitiesController.php, line: 365
@@ -189,6 +189,8 @@ msgstr ""
 # File: module/Application/view/application/flights/settings.phtml, line: 10
 # File: module/Application/view/application/flights/issueticket.phtml, line: 10
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 10
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 10
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 10
 # File: module/Application/view/application/cars/index.phtml, line: 10
 # File: module/Application/view/application/cars/listreservations.phtml, line: 11
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 11
@@ -282,6 +284,8 @@ msgstr ""
 # File: module/Application/view/application/flights/settings.phtml, line: 11
 # File: module/Application/view/application/flights/issueticket.phtml, line: 11
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 11
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 11
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 11
 # File: module/Application/view/layout/layout.phtml, line: 169
 msgid "Flights"
 msgstr ""
@@ -903,9 +907,11 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopulardestinations.phtml, line: 189
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 185
 # File: module/Application/view/application/hotels/settings.phtml, line: 102
-# File: module/Application/view/application/flights/settings.phtml, line: 102
+# File: module/Application/view/application/flights/settings.phtml, line: 79
 # File: module/Application/view/application/flights/issueticket.phtml, line: 56
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 55
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 102
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 47
 # File: module/Application/view/application/cars/settings.phtml, line: 102
 # File: module/Application/view/application/activities/settings.phtml, line: 102
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 102
@@ -1057,6 +1063,10 @@ msgstr ""
 # File: module/Application/view/application/flights/index.phtml, line: 62
 # File: module/Application/view/application/flights/settings.phtml, line: 7
 # File: module/Application/view/application/flights/settings.phtml, line: 12
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 7
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 12
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 7
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 12
 # File: module/Application/view/application/cars/index.phtml, line: 62
 # File: module/Application/view/application/cars/settings.phtml, line: 7
 # File: module/Application/view/application/cars/settings.phtml, line: 12
@@ -1369,9 +1379,10 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopulardestinations.phtml, line: 38
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 38
 # File: module/Application/view/application/hotels/settings.phtml, line: 78
-# File: module/Application/view/application/flights/settings.phtml, line: 78
 # File: module/Application/view/application/flights/issueticket.phtml, line: 32
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 31
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 78
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 23
 # File: module/Application/view/application/cars/settings.phtml, line: 78
 # File: module/Application/view/application/activities/settings.phtml, line: 78
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 78
@@ -1857,7 +1868,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/populardestinations.phtml, line: 12
 # File: module/Application/view/application/cruises/populardestinations.phtml, line: 18
 # File: module/Application/view/application/hotels/settings.phtml, line: 34
-# File: module/Application/view/application/flights/settings.phtml, line: 34
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 34
 # File: module/Application/view/application/cars/settings.phtml, line: 34
 # File: module/Application/view/application/activities/settings.phtml, line: 34
 # File: module/Application/view/application/escortedtours/index.phtml, line: 124
@@ -2117,7 +2128,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/settings.phtml, line: 25
 # File: module/Application/view/application/hotels/settings.phtml, line: 25
-# File: module/Application/view/application/flights/settings.phtml, line: 25
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 25
 # File: module/Application/view/application/cars/settings.phtml, line: 25
 # File: module/Application/view/application/activities/settings.phtml, line: 25
 # File: module/Application/view/application/packages/settings.phtml, line: 25
@@ -2131,7 +2142,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/settings.phtml, line: 32
 # File: module/Application/view/application/hotels/settings.phtml, line: 32
-# File: module/Application/view/application/flights/settings.phtml, line: 32
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 32
 # File: module/Application/view/application/cars/settings.phtml, line: 32
 # File: module/Application/view/application/activities/settings.phtml, line: 32
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 32
@@ -2158,7 +2169,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/settings.phtml, line: 53
 # File: module/Application/view/application/hotels/settings.phtml, line: 53
-# File: module/Application/view/application/flights/settings.phtml, line: 53
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 53
 # File: module/Application/view/application/cars/settings.phtml, line: 53
 # File: module/Application/view/application/activities/settings.phtml, line: 53
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 53
@@ -2169,7 +2180,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/settings.phtml, line: 55
 # File: module/Application/view/application/hotels/settings.phtml, line: 55
-# File: module/Application/view/application/flights/settings.phtml, line: 55
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 55
 # File: module/Application/view/application/cars/settings.phtml, line: 55
 # File: module/Application/view/application/activities/settings.phtml, line: 55
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 55
@@ -2180,7 +2191,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/settings.phtml, line: 60
 # File: module/Application/view/application/hotels/settings.phtml, line: 60
-# File: module/Application/view/application/flights/settings.phtml, line: 60
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 60
 # File: module/Application/view/application/cars/settings.phtml, line: 60
 # File: module/Application/view/application/activities/settings.phtml, line: 60
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 60
@@ -2191,7 +2202,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/settings.phtml, line: 62
 # File: module/Application/view/application/hotels/settings.phtml, line: 62
-# File: module/Application/view/application/flights/settings.phtml, line: 62
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 62
 # File: module/Application/view/application/cars/settings.phtml, line: 62
 # File: module/Application/view/application/activities/settings.phtml, line: 62
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 62
@@ -2210,7 +2221,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/settings.phtml, line: 81
 # File: module/Application/view/application/hotels/settings.phtml, line: 74
-# File: module/Application/view/application/flights/settings.phtml, line: 74
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 74
 # File: module/Application/view/application/cars/settings.phtml, line: 74
 # File: module/Application/view/application/activities/settings.phtml, line: 74
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 74
@@ -2221,7 +2232,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/settings.phtml, line: 83
 # File: module/Application/view/application/hotels/settings.phtml, line: 76
-# File: module/Application/view/application/flights/settings.phtml, line: 76
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 76
 # File: module/Application/view/application/cars/settings.phtml, line: 76
 # File: module/Application/view/application/activities/settings.phtml, line: 76
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 76
@@ -2417,41 +2428,55 @@ msgstr ""
 msgid "Search Flights Reservation"
 msgstr ""
 #
-# File: module/Application/view/application/flights/settings.phtml, line: 18
+# File: module/Application/view/application/flights/settings.phtml, line: 29
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 18
 msgid "Flights Landing Page Settings"
 msgstr ""
 #
-# File: module/Application/view/application/flights/settings.phtml, line: 27
-msgid "Flights Video"
+# File: module/Application/view/application/flights/settings.phtml, line: 31
+msgid "This section allows you to customize your flgihts home page settings for your website. Your flights home page is the first page that your members see when you click the flights area."
 msgstr ""
 #
-# File: module/Application/view/application/flights/settings.phtml, line: 39
-msgid "Enable Flights Logos"
+# File: module/Application/view/application/flights/settings.phtml, line: 49
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 18
+msgid "Payment Settings"
 msgstr ""
 #
-# File: module/Application/view/application/flights/settings.phtml, line: 41
-msgid "Flights Logos"
-msgstr ""
-#
-# File: module/Application/view/application/flights/settings.phtml, line: 46
-msgid "Enable Featured Flights"
-msgstr ""
-#
-# File: module/Application/view/application/flights/settings.phtml, line: 48
-msgid "Featured Flights"
-msgstr ""
-#
-# File: module/Application/view/application/flights/settings.phtml, line: 67
-msgid "Enable Popular Flights"
-msgstr ""
-#
-# File: module/Application/view/application/flights/settings.phtml, line: 69
-msgid "Popular Flights"
+# File: module/Application/view/application/flights/settings.phtml, line: 52
+msgid "This section allows you to define the reservation fees for your service. Reservation fees are the amount of money that you charge your customers for booking your service in advance. You can set different reservation fees for different types of flights. This is a way to optimize your revenue."
 msgstr ""
 #
 # File: module/Application/view/application/flights/issueticket.phtml, line: 28
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 27
 msgid "Booking Number"
+msgstr ""
+#
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 27
+msgid "Flights Video"
+msgstr ""
+#
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 39
+msgid "Enable Flights Logos"
+msgstr ""
+#
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 41
+msgid "Flights Logos"
+msgstr ""
+#
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 46
+msgid "Enable Featured Flights"
+msgstr ""
+#
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 48
+msgid "Featured Flights"
+msgstr ""
+#
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 67
+msgid "Enable Popular Flights"
+msgstr ""
+#
+# File: module/Application/view/application/flights/generalsettings.phtml, line: 69
+msgid "Popular Flights"
 msgstr ""
 #
 # File: module/Application/view/application/cars/listreservations.phtml, line: 30
