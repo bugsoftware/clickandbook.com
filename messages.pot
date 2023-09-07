@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-07 13:06+0100\n"
+"POT-Creation-Date: 2023-09-07 14:52+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,9 +48,9 @@ msgid "Thanks"
 msgstr ""
 #
 # File: module/Application/src/Controller/IndexController.php, line: 1135
-# File: module/Application/src/Controller/CustomersController.php, line: 306
-# File: module/Application/src/Controller/CustomersController.php, line: 468
-# File: module/Application/src/Controller/CustomersController.php, line: 697
+# File: module/Application/src/Controller/CustomersController.php, line: 351
+# File: module/Application/src/Controller/CustomersController.php, line: 513
+# File: module/Application/src/Controller/CustomersController.php, line: 742
 # File: module/Application/src/Controller/CruisesController.php, line: 877
 # File: module/Application/src/Controller/CruisesController.php, line: 1155
 # File: module/Application/src/Controller/HotelsController.php, line: 364
@@ -763,7 +763,7 @@ msgstr ""
 # File: module/Application/view/application/index/presentation.phtml, line: 301
 # File: module/Application/view/application/index/invoices.phtml, line: 88
 # File: module/Application/view/application/customers/list.phtml, line: 33
-# File: module/Application/view/application/customers/edit.phtml, line: 33
+# File: module/Application/view/application/customers/edit.phtml, line: 35
 # File: module/Application/view/application/escortedtours/addpopularescortedtours.phtml, line: 25
 # File: module/Application/view/application/escortedtours/addafricadestinations.phtml, line: 25
 # File: module/Application/view/application/escortedtours/addamericadestinations.phtml, line: 25
@@ -781,7 +781,7 @@ msgstr ""
 # File: module/Application/view/application/index/userinfo.phtml, line: 83
 # File: module/Application/view/application/index/invoices.phtml, line: 90
 # File: module/Application/view/application/customers/list.phtml, line: 35
-# File: module/Application/view/application/customers/edit.phtml, line: 38
+# File: module/Application/view/application/customers/edit.phtml, line: 40
 # File: module/Application/view/application/customers/search.phtml, line: 47
 # File: module/Application/view/application/customers/search.phtml, line: 84
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 54
@@ -795,7 +795,7 @@ msgstr ""
 # File: module/Application/view/application/index/setup.phtml, line: 107
 # File: module/Application/view/application/index/forgotpassword.phtml, line: 83
 # File: module/Application/view/application/customers/list.phtml, line: 34
-# File: module/Application/view/application/customers/edit.phtml, line: 27
+# File: module/Application/view/application/customers/edit.phtml, line: 29
 # File: module/Application/view/application/customers/search.phtml, line: 43
 # File: module/Application/view/application/customers/search.phtml, line: 83
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 49
@@ -835,7 +835,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 274
 # File: module/Application/view/application/index/presentation.phtml, line: 298
-# File: module/Application/view/application/customers/edit.phtml, line: 24
+# File: module/Application/view/application/customers/edit.phtml, line: 25
 # File: module/Application/view/application/customers/search.phtml, line: 31
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 33
 msgid "First Name"
@@ -843,7 +843,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 275
 # File: module/Application/view/application/index/presentation.phtml, line: 299
-# File: module/Application/view/application/customers/edit.phtml, line: 25
+# File: module/Application/view/application/customers/edit.phtml, line: 27
 # File: module/Application/view/application/customers/search.phtml, line: 35
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 39
 msgid "Last Name"
@@ -864,7 +864,7 @@ msgstr ""
 # File: module/Application/view/application/index/password.phtml, line: 13
 # File: module/Application/view/application/index/password.phtml, line: 19
 # File: module/Application/view/application/index/devices.phtml, line: 54
-# File: module/Application/view/application/customers/edit.phtml, line: 29
+# File: module/Application/view/application/customers/edit.phtml, line: 31
 msgid "Password"
 msgstr ""
 #
@@ -913,6 +913,7 @@ msgstr ""
 # File: module/Application/view/application/index/presentation.phtml, line: 377
 # File: module/Application/view/application/index/presentation.phtml, line: 417
 # File: module/Application/view/application/index/password.phtml, line: 127
+# File: module/Application/view/application/customers/edit.phtml, line: 85
 # File: module/Application/view/application/cruises/settings.phtml, line: 109
 # File: module/Application/view/application/cruises/addpopularcruises.phtml, line: 185
 # File: module/Application/view/application/cruises/addpopulardestinations.phtml, line: 189
@@ -1013,7 +1014,7 @@ msgstr ""
 # File: module/Application/view/application/index/userinfo.phtml, line: 81
 # File: module/Application/view/application/index/invoices.phtml, line: 84
 # File: module/Application/view/application/customers/list.phtml, line: 29
-# File: module/Application/view/application/customers/edit.phtml, line: 26
+# File: module/Application/view/application/customers/edit.phtml, line: 28
 # File: module/Application/view/application/customers/search.phtml, line: 39
 # File: module/Application/view/application/customers/search.phtml, line: 79
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 44
@@ -1186,7 +1187,7 @@ msgstr ""
 # File: module/Application/view/application/index/userinfo.phtml, line: 82
 # File: module/Application/view/application/index/invoices.phtml, line: 85
 # File: module/Application/view/application/customers/list.phtml, line: 30
-# File: module/Application/view/application/customers/edit.phtml, line: 30
+# File: module/Application/view/application/customers/edit.phtml, line: 32
 # File: module/Application/view/application/customers/search.phtml, line: 80
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 92
 # File: module/Application/view/application/customers/view.phtml, line: 106
@@ -1194,7 +1195,7 @@ msgid "Address"
 msgstr ""
 #
 # File: module/Application/view/application/index/userinfo.phtml, line: 84
-# File: module/Application/view/application/customers/edit.phtml, line: 37
+# File: module/Application/view/application/customers/edit.phtml, line: 39
 msgid "Mobile"
 msgstr ""
 #
@@ -1234,7 +1235,6 @@ msgid "Theme"
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 84
-# File: module/Application/view/application/flights/paymentsettings.phtml, line: 28
 msgid "Only display company logo"
 msgstr ""
 #
@@ -1338,7 +1338,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/invoices.phtml, line: 87
 # File: module/Application/view/application/customers/list.phtml, line: 32
-# File: module/Application/view/application/customers/edit.phtml, line: 35
+# File: module/Application/view/application/customers/edit.phtml, line: 37
 # File: module/Application/view/application/customers/search.phtml, line: 82
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 94
 msgid "City"
@@ -1627,31 +1627,31 @@ msgstr ""
 msgid "Edit Customer"
 msgstr ""
 #
-# File: module/Application/view/application/customers/edit.phtml, line: 28
+# File: module/Application/view/application/customers/edit.phtml, line: 30
 msgid "Alternative Email"
 msgstr ""
 #
-# File: module/Application/view/application/customers/edit.phtml, line: 31
+# File: module/Application/view/application/customers/edit.phtml, line: 33
 msgid "Addess(line 2)"
 msgstr ""
 #
-# File: module/Application/view/application/customers/edit.phtml, line: 32
+# File: module/Application/view/application/customers/edit.phtml, line: 34
 msgid "Addess(line 3)"
 msgstr ""
 #
-# File: module/Application/view/application/customers/edit.phtml, line: 34
+# File: module/Application/view/application/customers/edit.phtml, line: 36
 msgid "State/zone"
 msgstr ""
 #
-# File: module/Application/view/application/customers/edit.phtml, line: 36
+# File: module/Application/view/application/customers/edit.phtml, line: 38
 msgid "Zip/Postal code"
 msgstr ""
 #
-# File: module/Application/view/application/customers/edit.phtml, line: 39
+# File: module/Application/view/application/customers/edit.phtml, line: 41
 msgid "Birthday"
 msgstr ""
 #
-# File: module/Application/view/application/customers/edit.phtml, line: 40
+# File: module/Application/view/application/customers/edit.phtml, line: 45
 msgid "Save"
 msgstr ""
 #
@@ -2499,6 +2499,10 @@ msgstr ""
 msgid "Service Fee"
 msgstr ""
 #
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 28
+msgid "Service Fee Per Passenger"
+msgstr ""
+#
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 33
 msgid "International Service Fee"
 msgstr ""
@@ -2928,42 +2932,42 @@ msgid "insurances"
 msgstr ""
 #
 # File: module/Application/view/application/help/index.phtml, line: 7
-# File: module/Application/view/application/help/index.phtml, line: 12
+# File: module/Application/view/application/help/index.phtml, line: 13
 # File: module/Application/view/layout/layout.phtml, line: 90
 # File: module/Application/view/layout/layout.phtml, line: 192
 msgid "Help"
 msgstr ""
 #
-# File: module/Application/view/application/help/index.phtml, line: 81
+# File: module/Application/view/application/help/index.phtml, line: 94
 msgid "Need more details?"
 msgstr ""
 #
-# File: module/Application/view/application/help/index.phtml, line: 82
+# File: module/Application/view/application/help/index.phtml, line: 95
 msgid "Need help?"
 msgstr ""
 #
-# File: module/Application/view/application/help/index.phtml, line: 83
+# File: module/Application/view/application/help/index.phtml, line: 96
 msgid "Click the buttom bellow to access our knowledge base, where you can find answers to frequently asked questions, tutorials, and videos. Learn how to use our products and services, troubleshoot issues, and get tips and tricks."
 msgstr ""
 #
-# File: module/Application/view/application/help/index.phtml, line: 85
+# File: module/Application/view/application/help/index.phtml, line: 106
 # File: module/Application/view/layout/layout.phtml, line: 91
 msgid "Docs"
 msgstr ""
 #
-# File: module/Application/view/application/help/index.phtml, line: 93
+# File: module/Application/view/application/help/index.phtml, line: 114
 msgid "Looking for support?"
 msgstr ""
 #
-# File: module/Application/view/application/help/index.phtml, line: 94
+# File: module/Application/view/application/help/index.phtml, line: 115
 msgid "Submit a Ticket!"
 msgstr ""
 #
-# File: module/Application/view/application/help/index.phtml, line: 95
+# File: module/Application/view/application/help/index.phtml, line: 116
 msgid "If you need further assistance, please click the button below to open a support ticket. Our customer service team will get back to you as soon as possible. Thank you for your patience and cooperation."
 msgstr ""
 #
-# File: module/Application/view/application/help/index.phtml, line: 97
+# File: module/Application/view/application/help/index.phtml, line: 133
 # File: module/Application/view/layout/layout.phtml, line: 193
 msgid "Support"
 msgstr ""
