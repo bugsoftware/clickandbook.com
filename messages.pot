@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-07 14:52+0100\n"
+"POT-Creation-Date: 2023-09-08 21:28+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,15 +48,15 @@ msgid "Thanks"
 msgstr ""
 #
 # File: module/Application/src/Controller/IndexController.php, line: 1135
-# File: module/Application/src/Controller/CustomersController.php, line: 351
-# File: module/Application/src/Controller/CustomersController.php, line: 513
-# File: module/Application/src/Controller/CustomersController.php, line: 742
+# File: module/Application/src/Controller/CustomersController.php, line: 382
+# File: module/Application/src/Controller/CustomersController.php, line: 544
+# File: module/Application/src/Controller/CustomersController.php, line: 773
 # File: module/Application/src/Controller/CruisesController.php, line: 877
 # File: module/Application/src/Controller/CruisesController.php, line: 1155
 # File: module/Application/src/Controller/HotelsController.php, line: 364
 # File: module/Application/src/Controller/HotelsController.php, line: 641
-# File: module/Application/src/Controller/FlightsController.php, line: 591
-# File: module/Application/src/Controller/FlightsController.php, line: 868
+# File: module/Application/src/Controller/FlightsController.php, line: 913
+# File: module/Application/src/Controller/FlightsController.php, line: 1190
 # File: module/Application/src/Controller/CarsController.php, line: 362
 # File: module/Application/src/Controller/CarsController.php, line: 615
 # File: module/Application/src/Controller/ActivitiesController.php, line: 365
@@ -764,6 +764,8 @@ msgstr ""
 # File: module/Application/view/application/index/invoices.phtml, line: 88
 # File: module/Application/view/application/customers/list.phtml, line: 33
 # File: module/Application/view/application/customers/edit.phtml, line: 35
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 39
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 41
 # File: module/Application/view/application/escortedtours/addpopularescortedtours.phtml, line: 25
 # File: module/Application/view/application/escortedtours/addafricadestinations.phtml, line: 25
 # File: module/Application/view/application/escortedtours/addamericadestinations.phtml, line: 25
@@ -923,7 +925,7 @@ msgstr ""
 # File: module/Application/view/application/flights/issueticket.phtml, line: 56
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 55
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 102
-# File: module/Application/view/application/flights/paymentsettings.phtml, line: 64
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 68
 # File: module/Application/view/application/cars/settings.phtml, line: 102
 # File: module/Application/view/application/activities/settings.phtml, line: 102
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 102
@@ -1398,7 +1400,7 @@ msgstr ""
 # File: module/Application/view/application/flights/issueticket.phtml, line: 32
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 31
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 78
-# File: module/Application/view/application/flights/paymentsettings.phtml, line: 40
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 44
 # File: module/Application/view/application/cars/settings.phtml, line: 78
 # File: module/Application/view/application/activities/settings.phtml, line: 78
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 78
@@ -1632,11 +1634,11 @@ msgid "Alternative Email"
 msgstr ""
 #
 # File: module/Application/view/application/customers/edit.phtml, line: 33
-msgid "Addess(line 2)"
+msgid "Address(line 2)"
 msgstr ""
 #
 # File: module/Application/view/application/customers/edit.phtml, line: 34
-msgid "Addess(line 3)"
+msgid "Address(line 3)"
 msgstr ""
 #
 # File: module/Application/view/application/customers/edit.phtml, line: 36
@@ -2503,8 +2505,12 @@ msgstr ""
 msgid "Service Fee Per Passenger"
 msgstr ""
 #
-# File: module/Application/view/application/flights/paymentsettings.phtml, line: 33
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 31
 msgid "International Service Fee"
+msgstr ""
+#
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 36
+msgid "International Service Fee Per Passenger"
 msgstr ""
 #
 # File: module/Application/view/application/cars/listreservations.phtml, line: 30
