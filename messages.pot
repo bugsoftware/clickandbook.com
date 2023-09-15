@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-15 20:11+0100\n"
+"POT-Creation-Date: 2023-09-15 22:58+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -149,6 +149,7 @@ msgstr ""
 # File: module/Application/view/application/reservations/index.phtml, line: 10
 # File: module/Application/view/application/reports/index.phtml, line: 11
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 9
+# File: module/Application/view/application/knowledge-base/item.phtml, line: 9
 # File: module/Application/view/application/help/index.phtml, line: 11
 # File: module/Application/view/application/support/index.phtml, line: 9
 msgid "Home"
@@ -2931,6 +2932,8 @@ msgstr ""
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 6
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 10
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 19
+# File: module/Application/view/application/knowledge-base/item.phtml, line: 6
+# File: module/Application/view/application/knowledge-base/item.phtml, line: 10
 msgid "Knowledge Base"
 msgstr ""
 #
@@ -2951,8 +2954,16 @@ msgstr ""
 msgid "Setup"
 msgstr ""
 #
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 381
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 380
 msgid "Popular Topics"
+msgstr ""
+#
+# File: module/Application/view/application/knowledge-base/item.phtml, line: 28
+msgid "View Video"
+msgstr ""
+#
+# File: module/Application/view/application/knowledge-base/item.phtml, line: 35
+msgid "Close"
 msgstr ""
 #
 # File: module/Application/view/application/help/index.phtml, line: 7
