@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-14 15:20+0100\n"
+"POT-Creation-Date: 2023-09-15 20:11+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,8 +53,8 @@ msgstr ""
 # File: module/Application/src/Controller/CustomersController.php, line: 773
 # File: module/Application/src/Controller/CruisesController.php, line: 877
 # File: module/Application/src/Controller/CruisesController.php, line: 1155
-# File: module/Application/src/Controller/HotelsController.php, line: 364
-# File: module/Application/src/Controller/HotelsController.php, line: 641
+# File: module/Application/src/Controller/HotelsController.php, line: 365
+# File: module/Application/src/Controller/HotelsController.php, line: 642
 # File: module/Application/src/Controller/FlightsController.php, line: 913
 # File: module/Application/src/Controller/FlightsController.php, line: 1190
 # File: module/Application/src/Controller/CarsController.php, line: 362
@@ -74,43 +74,43 @@ msgstr ""
 msgid "Not Available"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1424
+# File: module/Application/src/Controller/IndexController.php, line: 1423
 msgid "English"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1426
+# File: module/Application/src/Controller/IndexController.php, line: 1425
 msgid "Spanish"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1428
+# File: module/Application/src/Controller/IndexController.php, line: 1427
 msgid "Portuguese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1430
+# File: module/Application/src/Controller/IndexController.php, line: 1429
 msgid "French"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1432
+# File: module/Application/src/Controller/IndexController.php, line: 1431
 msgid "Italian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1434
+# File: module/Application/src/Controller/IndexController.php, line: 1433
 msgid "Deutsch"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1436
+# File: module/Application/src/Controller/IndexController.php, line: 1435
 msgid "Armenian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1438
+# File: module/Application/src/Controller/IndexController.php, line: 1437
 msgid "Chinese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1440
+# File: module/Application/src/Controller/IndexController.php, line: 1439
 msgid "Japanese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1442
+# File: module/Application/src/Controller/IndexController.php, line: 1441
 msgid "Arabic"
 msgstr ""
 #
@@ -148,8 +148,9 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 9
 # File: module/Application/view/application/reservations/index.phtml, line: 10
 # File: module/Application/view/application/reports/index.phtml, line: 11
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 10
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 9
 # File: module/Application/view/application/help/index.phtml, line: 11
+# File: module/Application/view/application/support/index.phtml, line: 9
 msgid "Home"
 msgstr ""
 #
@@ -264,7 +265,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopularcruises.phtml, line: 11
 # File: module/Application/view/application/cruises/addpopulardestinations.phtml, line: 11
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 11
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 72
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 60
 # File: module/Application/view/layout/layout.phtml, line: 129
 msgid "Cruises"
 msgstr ""
@@ -274,7 +275,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 12
 # File: module/Application/view/application/hotels/searchreservations.phtml, line: 12
 # File: module/Application/view/application/hotels/settings.phtml, line: 11
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 114
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 85
 # File: module/Application/view/layout/layout.phtml, line: 130
 msgid "Hotels"
 msgstr ""
@@ -288,7 +289,7 @@ msgstr ""
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 11
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 11
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 11
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 157
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 110
 # File: module/Application/view/layout/layout.phtml, line: 131
 msgid "Flights"
 msgstr ""
@@ -298,7 +299,7 @@ msgstr ""
 # File: module/Application/view/application/cars/listreservations.phtml, line: 12
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 12
 # File: module/Application/view/application/cars/settings.phtml, line: 11
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 198
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 136
 # File: module/Application/view/layout/layout.phtml, line: 132
 msgid "Cars"
 msgstr ""
@@ -308,7 +309,7 @@ msgstr ""
 # File: module/Application/view/application/activities/listreservations.phtml, line: 12
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 12
 # File: module/Application/view/application/activities/settings.phtml, line: 11
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 239
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 162
 # File: module/Application/view/layout/layout.phtml, line: 133
 msgid "Activities"
 msgstr ""
@@ -317,7 +318,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/index.phtml, line: 23
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 12
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 12
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 281
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 187
 # File: module/Application/view/layout/layout.phtml, line: 134
 msgid "Transfers"
 msgstr ""
@@ -343,7 +344,7 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/lastminuteescortedtours.phtml, line: 11
 # File: module/Application/view/application/escortedtours/specialoffers.phtml, line: 11
 # File: module/Application/view/application/escortedtours/addspecialoffers.phtml, line: 11
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 322
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 213
 # File: module/Application/view/layout/layout.phtml, line: 135
 msgid "Escorted Tours"
 msgstr ""
@@ -353,7 +354,7 @@ msgstr ""
 # File: module/Application/view/application/packages/listreservations.phtml, line: 12
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 12
 # File: module/Application/view/application/packages/settings.phtml, line: 11
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 364
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 238
 # File: module/Application/view/layout/layout.phtml, line: 136
 msgid "Packages"
 msgstr ""
@@ -363,7 +364,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 12
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 12
 # File: module/Application/view/application/insurances/settings.phtml, line: 11
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 405
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 263
 # File: module/Application/view/layout/layout.phtml, line: 137
 msgid "Insurances"
 msgstr ""
@@ -372,7 +373,7 @@ msgstr ""
 # File: module/Application/view/application/reservations/index.phtml, line: 32
 # File: module/Application/view/application/reservations/list.phtml, line: 12
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 12
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 446
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 288
 # File: module/Application/view/layout/layout.phtml, line: 140
 msgid "Reservations"
 msgstr ""
@@ -384,14 +385,14 @@ msgstr ""
 # File: module/Application/view/application/customers/search.phtml, line: 11
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 11
 # File: module/Application/view/application/customers/view.phtml, line: 10
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 488
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 313
 # File: module/Application/view/layout/layout.phtml, line: 146
 msgid "Customers"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 158
 # File: module/Application/view/application/reports/index.phtml, line: 35
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 529
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 338
 msgid "Reports"
 msgstr ""
 #
@@ -1623,6 +1624,8 @@ msgstr ""
 # File: module/Application/view/application/reservations/index.phtml, line: 51
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 42
 # File: module/Application/view/application/reports/index.phtml, line: 54
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 30
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 35
 msgid "Search"
 msgstr ""
 #
@@ -2925,13 +2928,31 @@ msgstr ""
 msgid "Total :"
 msgstr ""
 #
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 7
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 11
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 6
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 10
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 19
 msgid "Knowledge Base"
 msgstr ""
 #
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 53
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 24
+# File: module/Application/view/application/help/index.phtml, line: 95
+msgid "Need help?"
+msgstr ""
+#
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 25
+msgid "Search for articles!"
+msgstr ""
+#
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 44
 msgid "Categories"
+msgstr ""
+#
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 354
+msgid "Setup"
+msgstr ""
+#
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 381
+msgid "Popular Topics"
 msgstr ""
 #
 # File: module/Application/view/application/help/index.phtml, line: 7
@@ -2943,10 +2964,6 @@ msgstr ""
 #
 # File: module/Application/view/application/help/index.phtml, line: 94
 msgid "Need more details?"
-msgstr ""
-#
-# File: module/Application/view/application/help/index.phtml, line: 95
-msgid "Need help?"
 msgstr ""
 #
 # File: module/Application/view/application/help/index.phtml, line: 96
@@ -2970,7 +2987,9 @@ msgstr ""
 msgid "If you need further assistance, please click the button below to open a support ticket. Our customer service team will get back to you as soon as possible. Thank you for your patience and cooperation."
 msgstr ""
 #
-# File: module/Application/view/application/help/index.phtml, line: 133
+# File: module/Application/view/application/help/index.phtml, line: 124
+# File: module/Application/view/application/support/index.phtml, line: 6
+# File: module/Application/view/application/support/index.phtml, line: 10
 # File: module/Application/view/layout/layout.phtml, line: 193
 msgid "Support"
 msgstr ""
