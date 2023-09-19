@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-18 18:31+0100\n"
+"POT-Creation-Date: 2023-09-19 10:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,7 +47,7 @@ msgstr ""
 msgid "Thanks"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1323
+# File: module/Application/src/Controller/IndexController.php, line: 1346
 # File: module/Application/src/Controller/CustomersController.php, line: 382
 # File: module/Application/src/Controller/CustomersController.php, line: 544
 # File: module/Application/src/Controller/CustomersController.php, line: 773
@@ -74,69 +74,69 @@ msgstr ""
 msgid "Not Available"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1450
+# File: module/Application/src/Controller/IndexController.php, line: 1473
 # File: module/Application/view/application/index/billing.phtml, line: 45
 msgid "Basic"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1454
+# File: module/Application/src/Controller/IndexController.php, line: 1477
 # File: module/Application/view/application/index/billing.phtml, line: 84
 msgid "Master"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1763
+# File: module/Application/src/Controller/IndexController.php, line: 1786
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 203
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 475
 msgid "English"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1765
+# File: module/Application/src/Controller/IndexController.php, line: 1788
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 194
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 466
 msgid "Spanish"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1767
+# File: module/Application/src/Controller/IndexController.php, line: 1790
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 185
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 457
 msgid "Portuguese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1769
+# File: module/Application/src/Controller/IndexController.php, line: 1792
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 161
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 433
 msgid "French"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1771
+# File: module/Application/src/Controller/IndexController.php, line: 1794
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 173
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 445
 msgid "Italian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1773
+# File: module/Application/src/Controller/IndexController.php, line: 1796
 msgid "Deutsch"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1775
+# File: module/Application/src/Controller/IndexController.php, line: 1798
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 152
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 424
 msgid "Armenian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1777
+# File: module/Application/src/Controller/IndexController.php, line: 1800
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 155
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 427
 msgid "Chinese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1779
+# File: module/Application/src/Controller/IndexController.php, line: 1802
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 176
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 448
 msgid "Japanese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1781
+# File: module/Application/src/Controller/IndexController.php, line: 1804
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 149
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 421
 msgid "Arabic"
@@ -295,7 +295,7 @@ msgstr ""
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 263
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 398
 # File: module/Application/view/application/index/index.phtml, line: 127
-# File: module/Application/view/application/index/index.phtml, line: 508
+# File: module/Application/view/application/index/index.phtml, line: 537
 # File: module/Application/view/application/reservations/index.phtml, line: 32
 # File: module/Application/view/application/reservations/list.phtml, line: 12
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 12
@@ -322,7 +322,7 @@ msgstr ""
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 134
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 271
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 406
-# File: module/Application/view/application/index/index.phtml, line: 145
+# File: module/Application/view/application/index/index.phtml, line: 154
 # File: module/Application/view/application/index/billing.phtml, line: 72
 # File: module/Application/view/application/reports/index.phtml, line: 35
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 337
@@ -543,42 +543,46 @@ msgstr ""
 msgid "In this area, you can manage various aspects of your travel business, such as escorted tours, packages and insurances. From this area you can create, view and manage your escorted tours, packages and insurances reservations. You can also view customers and sales reports."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 156
-# File: module/Application/view/application/index/index.phtml, line: 157
+# File: module/Application/view/application/index/index.phtml, line: 145
+msgid "Agents"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 165
+# File: module/Application/view/application/index/index.phtml, line: 166
 msgid "Sales & Searches"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 156
+# File: module/Application/view/application/index/index.phtml, line: 165
 msgid "In this area, you can see a graphical representation of your sales and searches performance over time. The chart shows the number of sales and searches that you have made or received in a given periodo. You can use this chart to track your progress, identify trends, and optimize your strategies."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 173
-# File: module/Application/view/application/index/index.phtml, line: 203
+# File: module/Application/view/application/index/index.phtml, line: 182
+# File: module/Application/view/application/index/index.phtml, line: 212
 msgid "THIS WEEK"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 177
-# File: module/Application/view/application/index/index.phtml, line: 207
+# File: module/Application/view/application/index/index.phtml, line: 186
+# File: module/Application/view/application/index/index.phtml, line: 216
 msgid "THIS MONTH"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 221
+# File: module/Application/view/application/index/index.phtml, line: 230
 msgid "Featured Products"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 221
+# File: module/Application/view/application/index/index.phtml, line: 230
 msgid "In this section, you can find featured products. These products are selected based on their popularity, quality, and value. You can use this for marketing purposes."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 230
+# File: module/Application/view/application/index/index.phtml, line: 239
 msgid "TREND"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 236
+# File: module/Application/view/application/index/index.phtml, line: 245
 msgid "Marketing"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 246
+# File: module/Application/view/application/index/index.phtml, line: 255
 # File: module/Application/view/application/index/invoices.phtml, line: 107
 # File: module/Application/view/application/index/securitylog.phtml, line: 99
 # File: module/Application/view/application/customers/list.phtml, line: 52
@@ -619,55 +623,55 @@ msgstr ""
 msgid "View"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 506
-# File: module/Application/view/application/index/index.phtml, line: 532
+# File: module/Application/view/application/index/index.phtml, line: 535
+# File: module/Application/view/application/index/index.phtml, line: 561
 msgid "Monday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 506
-# File: module/Application/view/application/index/index.phtml, line: 532
+# File: module/Application/view/application/index/index.phtml, line: 535
+# File: module/Application/view/application/index/index.phtml, line: 561
 msgid "Tuesday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 506
-# File: module/Application/view/application/index/index.phtml, line: 532
+# File: module/Application/view/application/index/index.phtml, line: 535
+# File: module/Application/view/application/index/index.phtml, line: 561
 msgid "Wednesday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 506
-# File: module/Application/view/application/index/index.phtml, line: 532
+# File: module/Application/view/application/index/index.phtml, line: 535
+# File: module/Application/view/application/index/index.phtml, line: 561
 msgid "Thursday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 506
-# File: module/Application/view/application/index/index.phtml, line: 532
+# File: module/Application/view/application/index/index.phtml, line: 535
+# File: module/Application/view/application/index/index.phtml, line: 561
 msgid "Friday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 506
-# File: module/Application/view/application/index/index.phtml, line: 532
+# File: module/Application/view/application/index/index.phtml, line: 535
+# File: module/Application/view/application/index/index.phtml, line: 561
 msgid "Saturday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 506
-# File: module/Application/view/application/index/index.phtml, line: 532
+# File: module/Application/view/application/index/index.phtml, line: 535
+# File: module/Application/view/application/index/index.phtml, line: 561
 msgid "Sunday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 534
+# File: module/Application/view/application/index/index.phtml, line: 563
 msgid "Searches"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 557
+# File: module/Application/view/application/index/index.phtml, line: 586
 # File: module/Application/view/application/index/setup.phtml, line: 97
 msgid "Next"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 557
+# File: module/Application/view/application/index/index.phtml, line: 586
 msgid "Prev"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 557
+# File: module/Application/view/application/index/index.phtml, line: 586
 msgid "Done"
 msgstr ""
 #
