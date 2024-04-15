@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-15 12:21+0100\n"
+"POT-Creation-Date: 2024-04-15 13:05+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -420,18 +420,36 @@ msgstr ""
 msgid "Turkish"
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentsController.php, line: 2172
-# File: module/Application/src/Controller/AgentsController.php, line: 2207
-# File: module/Application/src/Controller/AgentsController.php, line: 2209
-msgid "Customers Distributions Communications"
-msgstr ""
-#
-# File: module/Application/src/Controller/AgentsController.php, line: 2189
-# File: module/Application/view/application/agents/view.phtml, line: 335
-msgid "Date"
+# File: module/Application/src/Controller/AgentsController.php, line: 2170
+# File: module/Application/src/Controller/AgentsController.php, line: 2206
+# File: module/Application/src/Controller/AgentsController.php, line: 2208
+# File: module/Application/view/application/index/index.phtml, line: 146
+# File: module/Application/view/application/agents/index.phtml, line: 33
+# File: module/Application/view/application/agents/edit.phtml, line: 12
+# File: module/Application/view/application/agents/list.phtml, line: 12
+# File: module/Application/view/application/agents/view.phtml, line: 9
+# File: module/Application/view/application/agents/search.phtml, line: 11
+# File: module/Application/view/application/agents/searchagents.phtml, line: 11
+# File: module/Application/view/application/agents/new.phtml, line: 12
+# File: module/Application/view/layout/layout.phtml, line: 142
+msgid "Agents"
 msgstr ""
 #
 # File: module/Application/src/Controller/AgentsController.php, line: 2190
+# File: module/Application/view/application/agents/list.phtml, line: 30
+msgid "Created"
+msgstr ""
+#
+# File: module/Application/src/Controller/AgentsController.php, line: 2191
+# File: module/Application/view/application/agents/edit.phtml, line: 20
+# File: module/Application/view/application/agents/list.phtml, line: 31
+# File: module/Application/view/application/agents/search.phtml, line: 78
+# File: module/Application/view/application/agents/searchagents.phtml, line: 90
+# File: module/Application/view/application/agents/new.phtml, line: 20
+msgid "Agent"
+msgstr ""
+#
+# File: module/Application/src/Controller/AgentsController.php, line: 2192
 # File: module/Application/view/application/index/presentation.phtml, line: 214
 # File: module/Application/view/application/index/userinfo.phtml, line: 95
 # File: module/Application/view/application/index/whoarewe.phtml, line: 108
@@ -461,7 +479,7 @@ msgstr ""
 msgid "Email"
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentsController.php, line: 2191
+# File: module/Application/src/Controller/AgentsController.php, line: 2193
 # File: module/Application/view/application/index/presentation.phtml, line: 212
 # File: module/Application/view/application/index/presentation.phtml, line: 292
 # File: module/Application/view/application/index/presentation.phtml, line: 315
@@ -497,37 +515,47 @@ msgstr ""
 msgid "Phone"
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentsController.php, line: 2192
-# File: module/Application/view/application/agents/edit.phtml, line: 54
-# File: module/Application/view/application/agents/view.phtml, line: 339
-msgid "Status"
-msgstr ""
-#
-# File: module/Application/src/Controller/AgentsController.php, line: 2198
-msgid "Converted"
-msgstr ""
-#
-# File: module/Application/src/Controller/AgentsController.php, line: 2200
-msgid "Lost"
-msgstr ""
-#
-# File: module/Application/src/Controller/AgentsController.php, line: 2202
-# File: module/Application/view/application/customers/search.phtml, line: 54
-# File: module/Application/view/application/customers/searchcustomers.phtml, line: 64
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 36
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 36
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 36
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 36
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 36
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 36
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 36
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 36
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 36
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 36
-# File: module/Application/view/application/agents/view.phtml, line: 341
-# File: module/Application/view/application/agents/search.phtml, line: 54
-# File: module/Application/view/application/agents/searchagents.phtml, line: 64
-msgid "Pending"
+# File: module/Application/src/Controller/AgentsController.php, line: 2194
+# File: module/Application/view/application/index/presentation.phtml, line: 212
+# File: module/Application/view/application/index/presentation.phtml, line: 293
+# File: module/Application/view/application/index/presentation.phtml, line: 316
+# File: module/Application/view/application/index/whoarewe.phtml, line: 106
+# File: module/Application/view/application/index/partners.phtml, line: 210
+# File: module/Application/view/application/index/partners.phtml, line: 299
+# File: module/Application/view/application/index/partners.phtml, line: 322
+# File: module/Application/view/application/index/products.phtml, line: 221
+# File: module/Application/view/application/index/products.phtml, line: 308
+# File: module/Application/view/application/index/products.phtml, line: 331
+# File: module/Application/view/application/index/tutorials.phtml, line: 329
+# File: module/Application/view/application/index/tutorials.phtml, line: 418
+# File: module/Application/view/application/index/tutorials.phtml, line: 441
+# File: module/Application/view/application/index/invoices.phtml, line: 89
+# File: module/Application/view/application/index/register.phtml, line: 154
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 124
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 138
+# File: module/Application/view/application/customers/list.phtml, line: 34
+# File: module/Application/view/application/customers/edit.phtml, line: 35
+# File: module/Application/view/application/customers/search.phtml, line: 84
+# File: module/Application/view/application/customers/searchcustomers.phtml, line: 96
+# File: module/Application/view/application/customers/new.phtml, line: 33
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 39
+# File: module/Application/view/application/flights/paymentsettings.phtml, line: 41
+# File: module/Application/view/application/escortedtours/addpopularescortedtours.phtml, line: 25
+# File: module/Application/view/application/escortedtours/addafricadestinations.phtml, line: 25
+# File: module/Application/view/application/escortedtours/addamericadestinations.phtml, line: 25
+# File: module/Application/view/application/escortedtours/addasiaandmiddleeastdestinations.phtml, line: 25
+# File: module/Application/view/application/escortedtours/addeuropeandestinations.phtml, line: 32
+# File: module/Application/view/application/escortedtours/addsouthamericadestinations.phtml, line: 25
+# File: module/Application/view/application/escortedtours/addlastminuteescortedtours.phtml, line: 25
+# File: module/Application/view/application/escortedtours/addspecialoffers.phtml, line: 25
+# File: module/Application/view/application/agents/edit.phtml, line: 48
+# File: module/Application/view/application/agents/edit.phtml, line: 111
+# File: module/Application/view/application/agents/edit.phtml, line: 113
+# File: module/Application/view/application/agents/list.phtml, line: 35
+# File: module/Application/view/application/agents/search.phtml, line: 84
+# File: module/Application/view/application/agents/searchagents.phtml, line: 96
+# File: module/Application/view/application/agents/new.phtml, line: 33
+msgid "Country"
 msgstr ""
 #
 # File: module/Application/src/Controller/JSONController.php, line: 111
@@ -759,18 +787,6 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 89
 msgid "In this area, you can manage various aspects of your travel business, such as escorted tours, packages and insurances. From this area you can create, view and manage your escorted tours, packages and insurances reservations. You can also view customers and sales reports."
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 146
-# File: module/Application/view/application/agents/index.phtml, line: 33
-# File: module/Application/view/application/agents/edit.phtml, line: 12
-# File: module/Application/view/application/agents/list.phtml, line: 12
-# File: module/Application/view/application/agents/view.phtml, line: 9
-# File: module/Application/view/application/agents/search.phtml, line: 11
-# File: module/Application/view/application/agents/searchagents.phtml, line: 11
-# File: module/Application/view/application/agents/new.phtml, line: 12
-# File: module/Application/view/layout/layout.phtml, line: 142
-msgid "Agents"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 166
@@ -1408,48 +1424,6 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 138
 msgid "Other"
-msgstr ""
-#
-# File: module/Application/view/application/index/presentation.phtml, line: 212
-# File: module/Application/view/application/index/presentation.phtml, line: 293
-# File: module/Application/view/application/index/presentation.phtml, line: 316
-# File: module/Application/view/application/index/whoarewe.phtml, line: 106
-# File: module/Application/view/application/index/partners.phtml, line: 210
-# File: module/Application/view/application/index/partners.phtml, line: 299
-# File: module/Application/view/application/index/partners.phtml, line: 322
-# File: module/Application/view/application/index/products.phtml, line: 221
-# File: module/Application/view/application/index/products.phtml, line: 308
-# File: module/Application/view/application/index/products.phtml, line: 331
-# File: module/Application/view/application/index/tutorials.phtml, line: 329
-# File: module/Application/view/application/index/tutorials.phtml, line: 418
-# File: module/Application/view/application/index/tutorials.phtml, line: 441
-# File: module/Application/view/application/index/invoices.phtml, line: 89
-# File: module/Application/view/application/index/register.phtml, line: 154
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 124
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 138
-# File: module/Application/view/application/customers/list.phtml, line: 34
-# File: module/Application/view/application/customers/edit.phtml, line: 35
-# File: module/Application/view/application/customers/search.phtml, line: 84
-# File: module/Application/view/application/customers/searchcustomers.phtml, line: 96
-# File: module/Application/view/application/customers/new.phtml, line: 33
-# File: module/Application/view/application/flights/paymentsettings.phtml, line: 39
-# File: module/Application/view/application/flights/paymentsettings.phtml, line: 41
-# File: module/Application/view/application/escortedtours/addpopularescortedtours.phtml, line: 25
-# File: module/Application/view/application/escortedtours/addafricadestinations.phtml, line: 25
-# File: module/Application/view/application/escortedtours/addamericadestinations.phtml, line: 25
-# File: module/Application/view/application/escortedtours/addasiaandmiddleeastdestinations.phtml, line: 25
-# File: module/Application/view/application/escortedtours/addeuropeandestinations.phtml, line: 32
-# File: module/Application/view/application/escortedtours/addsouthamericadestinations.phtml, line: 25
-# File: module/Application/view/application/escortedtours/addlastminuteescortedtours.phtml, line: 25
-# File: module/Application/view/application/escortedtours/addspecialoffers.phtml, line: 25
-# File: module/Application/view/application/agents/edit.phtml, line: 48
-# File: module/Application/view/application/agents/edit.phtml, line: 111
-# File: module/Application/view/application/agents/edit.phtml, line: 113
-# File: module/Application/view/application/agents/list.phtml, line: 35
-# File: module/Application/view/application/agents/search.phtml, line: 84
-# File: module/Application/view/application/agents/searchagents.phtml, line: 96
-# File: module/Application/view/application/agents/new.phtml, line: 33
-msgid "Country"
 msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 214
@@ -3196,6 +3170,24 @@ msgstr ""
 msgid "Choose status"
 msgstr ""
 #
+# File: module/Application/view/application/customers/search.phtml, line: 54
+# File: module/Application/view/application/customers/searchcustomers.phtml, line: 64
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 36
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 36
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 36
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 36
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 36
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 36
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 36
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 36
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 36
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 36
+# File: module/Application/view/application/agents/view.phtml, line: 341
+# File: module/Application/view/application/agents/search.phtml, line: 54
+# File: module/Application/view/application/agents/searchagents.phtml, line: 64
+msgid "Pending"
+msgstr ""
+#
 # File: module/Application/view/application/customers/search.phtml, line: 55
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 66
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 37
@@ -4929,14 +4921,6 @@ msgstr ""
 msgid "Edit Agent"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 20
-# File: module/Application/view/application/agents/list.phtml, line: 31
-# File: module/Application/view/application/agents/search.phtml, line: 78
-# File: module/Application/view/application/agents/searchagents.phtml, line: 90
-# File: module/Application/view/application/agents/new.phtml, line: 20
-msgid "Agent"
-msgstr ""
-#
 # File: module/Application/view/application/agents/edit.phtml, line: 25
 msgid "Agent Details"
 msgstr ""
@@ -4975,6 +4959,11 @@ msgstr ""
 #
 # File: module/Application/view/application/agents/edit.phtml, line: 34
 msgid "Packages Markups"
+msgstr ""
+#
+# File: module/Application/view/application/agents/edit.phtml, line: 54
+# File: module/Application/view/application/agents/view.phtml, line: 339
+msgid "Status"
 msgstr ""
 #
 # File: module/Application/view/application/agents/edit.phtml, line: 54
@@ -5078,10 +5067,6 @@ msgstr ""
 msgid "Export to Excel"
 msgstr ""
 #
-# File: module/Application/view/application/agents/list.phtml, line: 30
-msgid "Created"
-msgstr ""
-#
 # File: module/Application/view/application/agents/list.phtml, line: 66
 msgid "Disabled"
 msgstr ""
@@ -5112,6 +5097,10 @@ msgstr ""
 #
 # File: module/Application/view/application/agents/view.phtml, line: 324
 msgid "Id"
+msgstr ""
+#
+# File: module/Application/view/application/agents/view.phtml, line: 335
+msgid "Date"
 msgstr ""
 #
 # File: module/Application/view/application/agents/view.phtml, line: 355
