@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-26 21:15+0100\n"
+"POT-Creation-Date: 2024-05-06 12:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -331,7 +331,7 @@ msgstr ""
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 12
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 287
 # File: module/Application/view/layout/layout.phtml, line: 140
-# File: module/Application/view/layout/layout.phtml, line: 145
+# File: module/Application/view/layout/layout.phtml, line: 146
 msgid "Reservations"
 msgstr ""
 #
@@ -348,7 +348,7 @@ msgstr ""
 # File: module/Application/view/application/customers/new.phtml, line: 12
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 312
 # File: module/Application/view/layout/layout.phtml, line: 141
-# File: module/Application/view/layout/layout.phtml, line: 151
+# File: module/Application/view/layout/layout.phtml, line: 152
 msgid "Customers"
 msgstr ""
 #
@@ -734,6 +734,8 @@ msgstr ""
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 11
 # File: module/Application/view/application/reports/index.phtml, line: 12
 # File: module/Application/view/application/view-reservation/index.phtml, line: 10
+# File: module/Application/view/application/support/list.phtml, line: 11
+# File: module/Application/view/application/support/search.phtml, line: 11
 # File: module/Application/view/application/agents/index.phtml, line: 12
 # File: module/Application/view/application/agents/edit.phtml, line: 11
 # File: module/Application/view/application/agents/list.phtml, line: 11
@@ -777,6 +779,7 @@ msgstr ""
 # File: module/Application/view/application/packages/index.phtml, line: 23
 # File: module/Application/view/application/insurances/index.phtml, line: 23
 # File: module/Application/view/application/reservations/index.phtml, line: 32
+# File: module/Application/view/application/support/index.phtml, line: 19
 # File: module/Application/view/application/agents/index.phtml, line: 33
 msgid "Swipe to the left on the screen to view more items."
 msgstr ""
@@ -3034,6 +3037,9 @@ msgstr ""
 # File: module/Application/view/application/reservations/list.phtml, line: 7
 # File: module/Application/view/application/reservations/list.phtml, line: 13
 # File: module/Application/view/application/reports/index.phtml, line: 45
+# File: module/Application/view/application/support/index.phtml, line: 29
+# File: module/Application/view/application/support/list.phtml, line: 7
+# File: module/Application/view/application/support/list.phtml, line: 13
 # File: module/Application/view/application/agents/index.phtml, line: 52
 # File: module/Application/view/application/agents/edit.phtml, line: 13
 # File: module/Application/view/application/agents/list.phtml, line: 7
@@ -3066,6 +3072,9 @@ msgstr ""
 # File: module/Application/view/application/reports/index.phtml, line: 54
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 30
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 34
+# File: module/Application/view/application/support/index.phtml, line: 38
+# File: module/Application/view/application/support/search.phtml, line: 7
+# File: module/Application/view/application/support/search.phtml, line: 13
 # File: module/Application/view/application/agents/index.phtml, line: 61
 # File: module/Application/view/application/agents/search.phtml, line: 7
 # File: module/Application/view/application/agents/search.phtml, line: 12
@@ -3078,7 +3087,10 @@ msgstr ""
 # File: module/Application/view/application/help/index.phtml, line: 124
 # File: module/Application/view/application/support/index.phtml, line: 6
 # File: module/Application/view/application/support/index.phtml, line: 10
-# File: module/Application/view/layout/layout.phtml, line: 199
+# File: module/Application/view/application/support/list.phtml, line: 12
+# File: module/Application/view/application/support/search.phtml, line: 12
+# File: module/Application/view/layout/layout.phtml, line: 143
+# File: module/Application/view/layout/layout.phtml, line: 200
 msgid "Support"
 msgstr ""
 #
@@ -3144,7 +3156,7 @@ msgstr ""
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 12
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 26
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 82
-# File: module/Application/view/layout/layout.phtml, line: 154
+# File: module/Application/view/layout/layout.phtml, line: 155
 msgid "Search Customers"
 msgstr ""
 #
@@ -3333,7 +3345,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 13
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 20
 # File: module/Application/view/application/reservations/list.phtml, line: 20
-# File: module/Application/view/layout/layout.phtml, line: 147
+# File: module/Application/view/layout/layout.phtml, line: 148
 msgid "List Reservations"
 msgstr ""
 #
@@ -3376,7 +3388,7 @@ msgstr ""
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 7
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 13
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 51
-# File: module/Application/view/layout/layout.phtml, line: 148
+# File: module/Application/view/layout/layout.phtml, line: 149
 msgid "Search Reservations"
 msgstr ""
 #
@@ -4831,7 +4843,7 @@ msgstr ""
 # File: module/Application/view/application/knowledge-base/item.phtml, line: 10
 # File: module/Application/view/application/knowledge-base/list.phtml, line: 6
 # File: module/Application/view/application/knowledge-base/list.phtml, line: 10
-# File: module/Application/view/layout/layout.phtml, line: 198
+# File: module/Application/view/layout/layout.phtml, line: 199
 msgid "Knowledge Base"
 msgstr ""
 #
@@ -4883,7 +4895,7 @@ msgstr ""
 # File: module/Application/view/application/help/index.phtml, line: 7
 # File: module/Application/view/application/help/index.phtml, line: 13
 # File: module/Application/view/layout/layout.phtml, line: 90
-# File: module/Application/view/layout/layout.phtml, line: 197
+# File: module/Application/view/layout/layout.phtml, line: 198
 msgid "Help"
 msgstr ""
 #
@@ -4910,6 +4922,10 @@ msgstr ""
 #
 # File: module/Application/view/application/help/index.phtml, line: 116
 msgid "If you need further assistance, please click the button below to open a support ticket. Our customer service team will get back to you as soon as possible. Thank you for your patience and cooperation."
+msgstr ""
+#
+# File: module/Application/view/application/support/index.phtml, line: 19
+msgid "Support Questions"
 msgstr ""
 #
 # File: module/Application/view/application/agents/index.phtml, line: 43
@@ -5176,7 +5192,7 @@ msgstr ""
 msgid "On the top of the screen, you will see a menu bar with three options: Dashboard, Reservations, and Customers. In this area, you can easily manage your reservations and customers, as well as make new reservations."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 153
+# File: module/Application/view/layout/layout.phtml, line: 154
 msgid "List Customers"
 msgstr ""
 #
