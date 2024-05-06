@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-06 12:25+0100\n"
+"POT-Creation-Date: 2024-05-06 17:44+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -81,6 +81,8 @@ msgstr ""
 # File: module/Application/src/Controller/InsurancesController.php, line: 789
 # File: module/Application/src/Controller/ReservationsController.php, line: 183
 # File: module/Application/src/Controller/ReservationsController.php, line: 556
+# File: module/Application/src/Controller/SupportController.php, line: 197
+# File: module/Application/src/Controller/SupportController.php, line: 408
 # File: module/Application/src/Controller/AgentsController.php, line: 1478
 # File: module/Application/src/Controller/AgentsController.php, line: 1499
 # File: module/Application/src/Controller/AgentsController.php, line: 1520
@@ -469,6 +471,10 @@ msgstr ""
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 49
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 97
 # File: module/Application/view/application/customers/new.phtml, line: 27
+# File: module/Application/view/application/support/list.phtml, line: 32
+# File: module/Application/view/application/support/search.phtml, line: 40
+# File: module/Application/view/application/support/search.phtml, line: 79
+# File: module/Application/view/application/support/edit.phtml, line: 32
 # File: module/Application/view/application/agents/edit.phtml, line: 42
 # File: module/Application/view/application/agents/list.phtml, line: 38
 # File: module/Application/view/application/agents/search.phtml, line: 43
@@ -505,6 +511,10 @@ msgstr ""
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 54
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 98
 # File: module/Application/view/application/customers/new.phtml, line: 38
+# File: module/Application/view/application/support/list.phtml, line: 33
+# File: module/Application/view/application/support/search.phtml, line: 44
+# File: module/Application/view/application/support/search.phtml, line: 80
+# File: module/Application/view/application/support/edit.phtml, line: 33
 # File: module/Application/view/application/agents/edit.phtml, line: 53
 # File: module/Application/view/application/agents/list.phtml, line: 39
 # File: module/Application/view/application/agents/search.phtml, line: 47
@@ -548,6 +558,8 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/addsouthamericadestinations.phtml, line: 25
 # File: module/Application/view/application/escortedtours/addlastminuteescortedtours.phtml, line: 25
 # File: module/Application/view/application/escortedtours/addspecialoffers.phtml, line: 25
+# File: module/Application/view/application/support/list.phtml, line: 31
+# File: module/Application/view/application/support/search.phtml, line: 78
 # File: module/Application/view/application/agents/edit.phtml, line: 48
 # File: module/Application/view/application/agents/edit.phtml, line: 118
 # File: module/Application/view/application/agents/edit.phtml, line: 120
@@ -736,6 +748,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 10
 # File: module/Application/view/application/support/list.phtml, line: 11
 # File: module/Application/view/application/support/search.phtml, line: 11
+# File: module/Application/view/application/support/edit.phtml, line: 11
 # File: module/Application/view/application/agents/index.phtml, line: 12
 # File: module/Application/view/application/agents/edit.phtml, line: 11
 # File: module/Application/view/application/agents/list.phtml, line: 11
@@ -876,6 +889,8 @@ msgstr ""
 # File: module/Application/view/application/reservations/list.phtml, line: 48
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 79
 # File: module/Application/view/application/knowledge-base/list.phtml, line: 51
+# File: module/Application/view/application/support/list.phtml, line: 50
+# File: module/Application/view/application/support/search.phtml, line: 97
 # File: module/Application/view/application/agents/list.phtml, line: 57
 # File: module/Application/view/application/agents/search.phtml, line: 104
 # File: module/Application/view/application/agents/searchagents.phtml, line: 116
@@ -1059,6 +1074,7 @@ msgstr ""
 # File: module/Application/view/application/packages/settings.phtml, line: 102
 # File: module/Application/view/application/insurances/settings.phtml, line: 102
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 426
+# File: module/Application/view/application/support/edit.phtml, line: 83
 # File: module/Application/view/application/agents/edit.phtml, line: 334
 # File: module/Application/view/application/agents/new.phtml, line: 92
 msgid "Please wait..."
@@ -1522,6 +1538,8 @@ msgstr ""
 # File: module/Application/view/application/customers/search.phtml, line: 31
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 33
 # File: module/Application/view/application/customers/new.phtml, line: 24
+# File: module/Application/view/application/support/search.phtml, line: 32
+# File: module/Application/view/application/support/edit.phtml, line: 30
 # File: module/Application/view/application/agents/edit.phtml, line: 39
 # File: module/Application/view/application/agents/search.phtml, line: 31
 # File: module/Application/view/application/agents/searchagents.phtml, line: 33
@@ -1542,6 +1560,8 @@ msgstr ""
 # File: module/Application/view/application/customers/search.phtml, line: 35
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 39
 # File: module/Application/view/application/customers/new.phtml, line: 25
+# File: module/Application/view/application/support/search.phtml, line: 36
+# File: module/Application/view/application/support/edit.phtml, line: 31
 # File: module/Application/view/application/agents/edit.phtml, line: 40
 # File: module/Application/view/application/agents/search.phtml, line: 35
 # File: module/Application/view/application/agents/searchagents.phtml, line: 39
@@ -2214,6 +2234,8 @@ msgstr ""
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 44
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 91
 # File: module/Application/view/application/customers/new.phtml, line: 26
+# File: module/Application/view/application/support/list.phtml, line: 29
+# File: module/Application/view/application/support/search.phtml, line: 76
 # File: module/Application/view/application/agents/edit.phtml, line: 41
 # File: module/Application/view/application/agents/list.phtml, line: 32
 # File: module/Application/view/application/agents/search.phtml, line: 39
@@ -2474,6 +2496,8 @@ msgstr ""
 # File: module/Application/view/application/customers/list.phtml, line: 27
 # File: module/Application/view/application/customers/search.phtml, line: 77
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 89
+# File: module/Application/view/application/support/list.phtml, line: 27
+# File: module/Application/view/application/support/search.phtml, line: 74
 # File: module/Application/view/application/agents/search.phtml, line: 77
 # File: module/Application/view/application/agents/searchagents.phtml, line: 89
 msgid "Date time Created"
@@ -2510,6 +2534,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 60
 # File: module/Application/view/application/reservations/list.phtml, line: 29
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 60
+# File: module/Application/view/application/support/list.phtml, line: 28
+# File: module/Application/view/application/support/search.phtml, line: 75
 msgid "Customer"
 msgstr ""
 #
@@ -2567,6 +2593,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 65
 # File: module/Application/view/application/reservations/list.phtml, line: 34
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 65
+# File: module/Application/view/application/support/list.phtml, line: 35
+# File: module/Application/view/application/support/search.phtml, line: 82
 # File: module/Application/view/application/agents/list.phtml, line: 40
 # File: module/Application/view/application/agents/search.phtml, line: 87
 # File: module/Application/view/application/agents/searchagents.phtml, line: 99
@@ -2632,6 +2660,8 @@ msgid "Password mismatch"
 msgstr ""
 #
 # File: module/Application/view/application/index/securitylog.phtml, line: 85
+# File: module/Application/view/application/support/list.phtml, line: 30
+# File: module/Application/view/application/support/search.phtml, line: 77
 msgid "IP Address"
 msgstr ""
 #
@@ -3040,6 +3070,8 @@ msgstr ""
 # File: module/Application/view/application/support/index.phtml, line: 29
 # File: module/Application/view/application/support/list.phtml, line: 7
 # File: module/Application/view/application/support/list.phtml, line: 13
+# File: module/Application/view/application/support/list.phtml, line: 20
+# File: module/Application/view/application/support/edit.phtml, line: 13
 # File: module/Application/view/application/agents/index.phtml, line: 52
 # File: module/Application/view/application/agents/edit.phtml, line: 13
 # File: module/Application/view/application/agents/list.phtml, line: 7
@@ -3075,6 +3107,7 @@ msgstr ""
 # File: module/Application/view/application/support/index.phtml, line: 38
 # File: module/Application/view/application/support/search.phtml, line: 7
 # File: module/Application/view/application/support/search.phtml, line: 13
+# File: module/Application/view/application/support/search.phtml, line: 57
 # File: module/Application/view/application/agents/index.phtml, line: 61
 # File: module/Application/view/application/agents/search.phtml, line: 7
 # File: module/Application/view/application/agents/search.phtml, line: 12
@@ -3089,6 +3122,9 @@ msgstr ""
 # File: module/Application/view/application/support/index.phtml, line: 10
 # File: module/Application/view/application/support/list.phtml, line: 12
 # File: module/Application/view/application/support/search.phtml, line: 12
+# File: module/Application/view/application/support/view.phtml, line: 9
+# File: module/Application/view/application/support/edit.phtml, line: 12
+# File: module/Application/view/application/support/edit.phtml, line: 20
 # File: module/Application/view/layout/layout.phtml, line: 143
 # File: module/Application/view/layout/layout.phtml, line: 200
 msgid "Support"
@@ -3140,6 +3176,7 @@ msgstr ""
 #
 # File: module/Application/view/application/customers/edit.phtml, line: 45
 # File: module/Application/view/application/customers/new.phtml, line: 43
+# File: module/Application/view/application/support/edit.phtml, line: 42
 # File: module/Application/view/application/agents/edit.phtml, line: 293
 # File: module/Application/view/application/agents/new.phtml, line: 51
 msgid "Save"
@@ -3177,6 +3214,7 @@ msgstr ""
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 35
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 35
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 35
+# File: module/Application/view/application/support/search.phtml, line: 50
 # File: module/Application/view/application/agents/search.phtml, line: 53
 # File: module/Application/view/application/agents/searchagents.phtml, line: 62
 msgid "Choose status"
@@ -3194,6 +3232,7 @@ msgstr ""
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 36
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 36
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 36
+# File: module/Application/view/application/support/search.phtml, line: 51
 # File: module/Application/view/application/agents/view.phtml, line: 341
 # File: module/Application/view/application/agents/search.phtml, line: 54
 # File: module/Application/view/application/agents/searchagents.phtml, line: 64
@@ -3212,6 +3251,7 @@ msgstr ""
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 37
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 37
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 37
+# File: module/Application/view/application/support/search.phtml, line: 52
 # File: module/Application/view/application/agents/view.phtml, line: 341
 # File: module/Application/view/application/agents/search.phtml, line: 55
 # File: module/Application/view/application/agents/searchagents.phtml, line: 66
@@ -3230,6 +3270,7 @@ msgstr ""
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 38
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 38
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 38
+# File: module/Application/view/application/support/search.phtml, line: 53
 # File: module/Application/view/application/agents/view.phtml, line: 341
 # File: module/Application/view/application/agents/search.phtml, line: 56
 # File: module/Application/view/application/agents/searchagents.phtml, line: 68
@@ -3248,6 +3289,7 @@ msgid "Edit"
 msgstr ""
 #
 # File: module/Application/view/application/customers/view.phtml, line: 39
+# File: module/Application/view/application/support/view.phtml, line: 27
 # File: module/Application/view/application/agents/view.phtml, line: 40
 msgid "Info"
 msgstr ""
@@ -4804,6 +4846,7 @@ msgid "Duplicated"
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index.phtml, line: 77
+# File: module/Application/view/application/support/edit.phtml, line: 34
 # File: module/Application/view/application/agents/edit.phtml, line: 54
 msgid "Pending Review"
 msgstr ""
@@ -4928,6 +4971,70 @@ msgstr ""
 msgid "Support Questions"
 msgstr ""
 #
+# File: module/Application/view/application/support/list.phtml, line: 34
+# File: module/Application/view/application/support/search.phtml, line: 81
+msgid "Referer"
+msgstr ""
+#
+# File: module/Application/view/application/support/search.phtml, line: 22
+msgid "Use the form below to search for support. Input your query and press the search button."
+msgstr ""
+#
+# File: module/Application/view/application/support/search.phtml, line: 27
+# File: module/Application/view/application/support/search.phtml, line: 67
+msgid "Search Support"
+msgstr ""
+#
+# File: module/Application/view/application/support/search.phtml, line: 48
+msgid "Support Status"
+msgstr ""
+#
+# File: module/Application/view/application/support/view.phtml, line: 11
+msgid "Support Detail"
+msgstr ""
+#
+# File: module/Application/view/application/support/view.phtml, line: 92
+msgid "Details"
+msgstr ""
+#
+# File: module/Application/view/application/support/view.phtml, line: 100
+msgid "Question"
+msgstr ""
+#
+# File: module/Application/view/application/support/edit.phtml, line: 7
+msgid "Edit Support"
+msgstr ""
+#
+# File: module/Application/view/application/support/edit.phtml, line: 25
+msgid "Support Details"
+msgstr ""
+#
+# File: module/Application/view/application/support/edit.phtml, line: 34
+# File: module/Application/view/application/agents/edit.phtml, line: 54
+# File: module/Application/view/application/agents/view.phtml, line: 339
+msgid "Status"
+msgstr ""
+#
+# File: module/Application/view/application/support/edit.phtml, line: 34
+# File: module/Application/view/application/agents/edit.phtml, line: 54
+msgid "Please select status"
+msgstr ""
+#
+# File: module/Application/view/application/support/edit.phtml, line: 34
+# File: module/Application/view/application/agents/edit.phtml, line: 54
+msgid "Select status"
+msgstr ""
+#
+# File: module/Application/view/application/support/edit.phtml, line: 34
+# File: module/Application/view/application/agents/edit.phtml, line: 54
+msgid "Enabled"
+msgstr ""
+#
+# File: module/Application/view/application/support/edit.phtml, line: 34
+# File: module/Application/view/application/agents/edit.phtml, line: 54
+msgid "Disable"
+msgstr ""
+#
 # File: module/Application/view/application/agents/index.phtml, line: 43
 # File: module/Application/view/application/agents/new.phtml, line: 7
 msgid "New Agent"
@@ -4975,27 +5082,6 @@ msgstr ""
 #
 # File: module/Application/view/application/agents/edit.phtml, line: 34
 msgid "Packages Markups"
-msgstr ""
-#
-# File: module/Application/view/application/agents/edit.phtml, line: 54
-# File: module/Application/view/application/agents/view.phtml, line: 339
-msgid "Status"
-msgstr ""
-#
-# File: module/Application/view/application/agents/edit.phtml, line: 54
-msgid "Please select status"
-msgstr ""
-#
-# File: module/Application/view/application/agents/edit.phtml, line: 54
-msgid "Select status"
-msgstr ""
-#
-# File: module/Application/view/application/agents/edit.phtml, line: 54
-msgid "Enabled"
-msgstr ""
-#
-# File: module/Application/view/application/agents/edit.phtml, line: 54
-msgid "Disable"
 msgstr ""
 #
 # File: module/Application/view/application/agents/edit.phtml, line: 57
