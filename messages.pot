@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 14:33+0100\n"
+"POT-Creation-Date: 2024-06-03 07:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -333,7 +333,7 @@ msgstr ""
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 263
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 401
 # File: module/Application/view/application/index/index.phtml, line: 127
-# File: module/Application/view/application/index/index.phtml, line: 538
+# File: module/Application/view/application/index/index.phtml, line: 577
 # File: module/Application/view/application/reservations/index.phtml, line: 32
 # File: module/Application/view/application/reservations/list.phtml, line: 12
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 12
@@ -363,7 +363,7 @@ msgstr ""
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 134
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 271
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 409
-# File: module/Application/view/application/index/index.phtml, line: 155
+# File: module/Application/view/application/index/index.phtml, line: 174
 # File: module/Application/view/application/index/billing.phtml, line: 114
 # File: module/Application/view/application/reports/index.phtml, line: 35
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 337
@@ -802,6 +802,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 23
 # File: module/Application/view/application/index/index.phtml, line: 24
 # File: module/Application/view/application/index/index.phtml, line: 89
+# File: module/Application/view/application/index/index.phtml, line: 156
 msgid "Items"
 msgstr ""
 #
@@ -827,45 +828,47 @@ msgid "In this area, you can manage various aspects of your travel business, suc
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 89
+# File: module/Application/view/application/index/index.phtml, line: 156
 msgid "In this area, you can manage various aspects of your travel business, such as escorted tours, packages and insurances. From this area you can create, view and manage your escorted tours, packages and insurances reservations. You can also view customers and sales reports."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 166
-# File: module/Application/view/application/index/index.phtml, line: 167
-msgid "Sales & Searches"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 166
-msgid "In this area, you can see a graphical representation of your sales and searches performance over time. The chart shows the number of sales and searches that you have made or received in a given periodo. You can use this chart to track your progress, identify trends, and optimize your strategies."
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 183
-# File: module/Application/view/application/index/index.phtml, line: 213
-msgid "THIS WEEK"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 187
-# File: module/Application/view/application/index/index.phtml, line: 217
-msgid "THIS MONTH"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 231
-msgid "Featured Products"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 231
-msgid "In this section, you can find featured products. These products are selected based on their popularity, quality, and value. You can use this for marketing purposes."
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 240
-msgid "TREND"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 246
+# File: module/Application/view/application/index/index.phtml, line: 165
+# File: module/Application/view/application/index/index.phtml, line: 265
 msgid "Marketing"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 256
+# File: module/Application/view/application/index/index.phtml, line: 185
+# File: module/Application/view/application/index/index.phtml, line: 186
+msgid "Sales & Searches"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 185
+msgid "In this area, you can see a graphical representation of your sales and searches performance over time. The chart shows the number of sales and searches that you have made or received in a given periodo. You can use this chart to track your progress, identify trends, and optimize your strategies."
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 202
+# File: module/Application/view/application/index/index.phtml, line: 232
+msgid "THIS WEEK"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 206
+# File: module/Application/view/application/index/index.phtml, line: 236
+msgid "THIS MONTH"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 250
+msgid "Featured Products"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 250
+msgid "In this section, you can find featured products. These products are selected based on their popularity, quality, and value. You can use this for marketing purposes."
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 259
+msgid "TREND"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 275
 # File: module/Application/view/application/index/invoices.phtml, line: 108
 # File: module/Application/view/application/index/securitylog.phtml, line: 100
 # File: module/Application/view/application/customers/list.phtml, line: 54
@@ -922,55 +925,55 @@ msgstr ""
 msgid "View"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 536
-# File: module/Application/view/application/index/index.phtml, line: 562
+# File: module/Application/view/application/index/index.phtml, line: 575
+# File: module/Application/view/application/index/index.phtml, line: 601
 msgid "Monday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 536
-# File: module/Application/view/application/index/index.phtml, line: 562
+# File: module/Application/view/application/index/index.phtml, line: 575
+# File: module/Application/view/application/index/index.phtml, line: 601
 msgid "Tuesday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 536
-# File: module/Application/view/application/index/index.phtml, line: 562
+# File: module/Application/view/application/index/index.phtml, line: 575
+# File: module/Application/view/application/index/index.phtml, line: 601
 msgid "Wednesday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 536
-# File: module/Application/view/application/index/index.phtml, line: 562
+# File: module/Application/view/application/index/index.phtml, line: 575
+# File: module/Application/view/application/index/index.phtml, line: 601
 msgid "Thursday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 536
-# File: module/Application/view/application/index/index.phtml, line: 562
+# File: module/Application/view/application/index/index.phtml, line: 575
+# File: module/Application/view/application/index/index.phtml, line: 601
 msgid "Friday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 536
-# File: module/Application/view/application/index/index.phtml, line: 562
+# File: module/Application/view/application/index/index.phtml, line: 575
+# File: module/Application/view/application/index/index.phtml, line: 601
 msgid "Saturday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 536
-# File: module/Application/view/application/index/index.phtml, line: 562
+# File: module/Application/view/application/index/index.phtml, line: 575
+# File: module/Application/view/application/index/index.phtml, line: 601
 msgid "Sunday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 564
+# File: module/Application/view/application/index/index.phtml, line: 603
 msgid "Searches"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 587
+# File: module/Application/view/application/index/index.phtml, line: 626
 # File: module/Application/view/application/index/setup.phtml, line: 97
 msgid "Next"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 587
+# File: module/Application/view/application/index/index.phtml, line: 626
 msgid "Prev"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 587
+# File: module/Application/view/application/index/index.phtml, line: 626
 msgid "Done"
 msgstr ""
 #
