@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-06 13:35+0100\n"
+"POT-Creation-Date: 2024-06-14 17:03+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -473,6 +473,8 @@ msgstr ""
 # File: module/Application/view/application/agents/search.phtml, line: 78
 # File: module/Application/view/application/agents/searchagents.phtml, line: 90
 # File: module/Application/view/application/agents/new.phtml, line: 20
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 36
+# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 29
 msgid "Agent"
 msgstr ""
 #
@@ -598,7 +600,7 @@ msgstr ""
 # File: module/Application/view/application/agents/search.phtml, line: 84
 # File: module/Application/view/application/agents/searchagents.phtml, line: 96
 # File: module/Application/view/application/agents/new.phtml, line: 33
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 44
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 37
 # File: module/Application/view/application/marketing/list.phtml, line: 34
 # File: module/Application/view/application/marketing/new.phtml, line: 33
 # File: module/Application/view/application/marketing/edit.phtml, line: 35
@@ -948,7 +950,8 @@ msgstr ""
 # File: module/Application/view/application/agents/list.phtml, line: 57
 # File: module/Application/view/application/agents/search.phtml, line: 104
 # File: module/Application/view/application/agents/searchagents.phtml, line: 116
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 96
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 89
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 67
 # File: module/Application/view/application/marketing/list.phtml, line: 54
 msgid "View"
 msgstr ""
@@ -2387,8 +2390,9 @@ msgstr ""
 # File: module/Application/view/application/agents/search.phtml, line: 80
 # File: module/Application/view/application/agents/searchagents.phtml, line: 92
 # File: module/Application/view/application/agents/new.phtml, line: 30
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 42
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 35
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 23
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 23
 # File: module/Application/view/application/marketing/list.phtml, line: 30
 # File: module/Application/view/application/marketing/new.phtml, line: 30
 # File: module/Application/view/application/marketing/edit.phtml, line: 32
@@ -2704,7 +2708,8 @@ msgstr ""
 # File: module/Application/view/application/support/search.phtml, line: 73
 # File: module/Application/view/application/agents/search.phtml, line: 77
 # File: module/Application/view/application/agents/searchagents.phtml, line: 89
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 41
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 34
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 34
 # File: module/Application/view/application/marketing/list.phtml, line: 27
 msgid "Date time Created"
 msgstr ""
@@ -2741,6 +2746,9 @@ msgstr ""
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 60
 # File: module/Application/view/application/support/list.phtml, line: 28
 # File: module/Application/view/application/support/search.phtml, line: 74
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 35
+# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 24
+# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 25
 # File: module/Application/view/application/marketing/list.phtml, line: 28
 # File: module/Application/view/application/marketing/edit.phtml, line: 20
 msgid "Customer"
@@ -2770,8 +2778,9 @@ msgstr ""
 # File: module/Application/view/application/agents/search.phtml, line: 82
 # File: module/Application/view/application/agents/searchagents.phtml, line: 94
 # File: module/Application/view/application/agents/new.phtml, line: 35
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 43
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 36
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 26
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 26
 # File: module/Application/view/application/marketing/list.phtml, line: 32
 # File: module/Application/view/application/marketing/new.phtml, line: 35
 # File: module/Application/view/application/marketing/edit.phtml, line: 37
@@ -2813,7 +2822,8 @@ msgstr ""
 # File: module/Application/view/application/agents/list.phtml, line: 40
 # File: module/Application/view/application/agents/search.phtml, line: 87
 # File: module/Application/view/application/agents/searchagents.phtml, line: 99
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 58
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 51
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 40
 # File: module/Application/view/application/marketing/list.phtml, line: 37
 msgid "Action"
 msgstr ""
@@ -2862,6 +2872,8 @@ msgstr ""
 # File: module/Application/view/application/packages/settings.phtml, line: 78
 # File: module/Application/view/application/insurances/settings.phtml, line: 78
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 87
+# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 87
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 87
 msgid "Submit"
 msgstr ""
 #
@@ -3203,7 +3215,7 @@ msgstr ""
 # File: module/Application/view/application/agents/list.phtml, line: 36
 # File: module/Application/view/application/agents/search.phtml, line: 83
 # File: module/Application/view/application/agents/searchagents.phtml, line: 95
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 45
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 38
 # File: module/Application/view/application/marketing/list.phtml, line: 33
 msgid "State"
 msgstr ""
@@ -3319,6 +3331,8 @@ msgstr ""
 # File: module/Application/view/application/support/edit.phtml, line: 34
 # File: module/Application/view/application/agents/edit.phtml, line: 54
 # File: module/Application/view/application/agents/view.phtml, line: 339
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 39
+# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 73
 msgid "Status"
 msgstr ""
 #
@@ -3407,6 +3421,7 @@ msgid "Airline Code"
 msgstr ""
 #
 # File: module/Application/view/application/index/bannersedit.phtml, line: 133
+# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 75
 msgid "Select Status"
 msgstr ""
 #
@@ -5634,67 +5649,78 @@ msgstr ""
 msgid "Agents Status"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 32
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 25
 # File: module/Application/view/layout/layout.phtml, line: 156
 msgid "List Customers"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 46
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 39
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 36
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 36
 msgid "Postal Code"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 47
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 40
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 41
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 41
 msgid "Title"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 48
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 41
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 44
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 44
 msgid "Given Name"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 49
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 42
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 47
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 47
 msgid "Middle Name"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 50
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 43
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 50
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 50
 msgid "Family Name"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 51
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 44
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 53
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 53
 msgid "Suffix"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 52
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 45
 msgid "Qualified Name"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 53
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 46
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 61
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 61
 msgid "Company Name"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 54
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 47
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 64
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 64
 msgid "Display Name"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 55
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 48
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 69
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 69
 msgid "Primary Phone"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 56
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 49
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 72
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 72
 msgid "Free Form Number"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 57
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 50
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 75
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 75
 msgid "Primary Email Address"
 msgstr ""
 #
@@ -5703,23 +5729,55 @@ msgid "Create Customer"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 29
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 29
 msgid "Country (Code)"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 32
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 32
 msgid "Country Sub Division Code (State)"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 56
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 56
 msgid "Fully Qualified Name"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 80
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 80
 msgid "Notes"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 88
+# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 88
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 88
 msgid "Reset"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 25
+msgid "List Recurring Bills"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 37
+# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 33
+msgid "Day"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 38
+# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 68
+msgid "Amount"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 17
+msgid "Create Recurring Bill"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 35
+msgid "Select Day"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 17
+msgid "Edit Customer"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/index.phtml, line: 45
