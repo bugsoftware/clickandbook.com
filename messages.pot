@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-22 07:16+0100\n"
+"POT-Creation-Date: 2024-06-30 21:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -510,6 +510,7 @@ msgstr ""
 # File: module/Application/view/application/agents/searchagents.phtml, line: 49
 # File: module/Application/view/application/agents/searchagents.phtml, line: 97
 # File: module/Application/view/application/agents/new.phtml, line: 27
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 29
 # File: module/Application/view/application/marketing/list.phtml, line: 35
 # File: module/Application/view/application/marketing/new.phtml, line: 27
 # File: module/Application/view/application/marketing/edit.phtml, line: 29
@@ -953,6 +954,7 @@ msgstr ""
 # File: module/Application/view/application/agents/searchagents.phtml, line: 116
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 68
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 57
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 52
 # File: module/Application/view/application/marketing/list.phtml, line: 54
 msgid "View"
 msgstr ""
@@ -1434,6 +1436,7 @@ msgstr ""
 # File: module/Application/view/application/index/tutorials.phtml, line: 329
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 138
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 28
 msgid "Name"
 msgstr ""
 #
@@ -2711,6 +2714,7 @@ msgstr ""
 # File: module/Application/view/application/agents/searchagents.phtml, line: 89
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 27
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 34
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 35
 # File: module/Application/view/application/marketing/list.phtml, line: 27
 msgid "Date time Created"
 msgstr ""
@@ -2825,6 +2829,7 @@ msgstr ""
 # File: module/Application/view/application/agents/searchagents.phtml, line: 99
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 44
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 40
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 36
 # File: module/Application/view/application/marketing/list.phtml, line: 37
 msgid "Action"
 msgstr ""
@@ -3336,6 +3341,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 39
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 65
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 35
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 31
 msgid "Status"
 msgstr ""
 #
@@ -5800,6 +5806,30 @@ msgstr ""
 #
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 26
 msgid "Customer Id"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 19
+msgid "Hotmart"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 27
+msgid "Agent ID"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 30
+msgid "Payment Mode"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 32
+msgid "Transaction"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 33
+msgid "Approved Date"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 34
+msgid "Order Date"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/index.phtml, line: 45
