@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-09 13:25+0100\n"
+"POT-Creation-Date: 2024-07-09 20:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2000,7 +2000,6 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 44
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 31
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 29
-# File: module/Application/view/application/quick-books/charge.phtml, line: 28
 msgid "Month"
 msgstr ""
 #
@@ -2789,6 +2788,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 29
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 26
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 27
+# File: module/Application/view/application/quick-books/charge.phtml, line: 56
 # File: module/Application/view/application/marketing/list.phtml, line: 32
 # File: module/Application/view/application/marketing/new.phtml, line: 35
 # File: module/Application/view/application/marketing/edit.phtml, line: 37
@@ -2884,7 +2884,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 112
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 86
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 77
-# File: module/Application/view/application/quick-books/charge.phtml, line: 106
+# File: module/Application/view/application/quick-books/charge.phtml, line: 77
 msgid "Submit"
 msgstr ""
 #
@@ -3349,7 +3349,6 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 83
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 53
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 31
-# File: module/Application/view/application/quick-books/charge.phtml, line: 80
 msgid "Status"
 msgstr ""
 #
@@ -3445,7 +3444,6 @@ msgstr ""
 # File: module/Application/view/application/index/bannersedit.phtml, line: 133
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 85
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 55
-# File: module/Application/view/application/quick-books/charge.phtml, line: 82
 msgid "Select Status"
 msgstr ""
 #
@@ -5777,7 +5775,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 113
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 87
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 78
-# File: module/Application/view/application/quick-books/charge.phtml, line: 107
+# File: module/Application/view/application/quick-books/charge.phtml, line: 78
 msgid "Reset"
 msgstr ""
 #
@@ -5788,21 +5786,19 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 45
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 49
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 47
-# File: module/Application/view/application/quick-books/charge.phtml, line: 46
 msgid "Day"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 46
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 100
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 50
-# File: module/Application/view/application/quick-books/charge.phtml, line: 97
+# File: module/Application/view/application/quick-books/charge.phtml, line: 27
 msgid "Amount"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 48
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 92
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 62
-# File: module/Application/view/application/quick-books/charge.phtml, line: 89
 msgid "Type"
 msgstr ""
 #
@@ -5879,18 +5875,15 @@ msgstr ""
 #
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 33
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 31
-# File: module/Application/view/application/quick-books/charge.phtml, line: 30
 msgid "Select Month"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 51
-# File: module/Application/view/application/quick-books/charge.phtml, line: 48
 msgid "Select Day"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 94
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 64
-# File: module/Application/view/application/quick-books/charge.phtml, line: 91
 msgid "Select Type"
 msgstr ""
 #
@@ -5940,6 +5933,42 @@ msgstr ""
 #
 # File: module/Application/view/application/quick-books/charge.phtml, line: 17
 msgid "Charge"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/charge.phtml, line: 31
+msgid "Currency"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/charge.phtml, line: 35
+msgid "Credit Card Holder Name"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/charge.phtml, line: 39
+msgid "Credit Card Number"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/charge.phtml, line: 44
+msgid "Expiration Month/Year"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/charge.phtml, line: 48
+msgid "CVV"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/charge.phtml, line: 52
+msgid "Street Address"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/charge.phtml, line: 60
+msgid "State Code"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/charge.phtml, line: 64
+msgid "Country Code"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/charge.phtml, line: 68
+msgid "Zip Code/Postal Code"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/index.phtml, line: 45
