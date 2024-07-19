@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-18 22:20+0100\n"
+"POT-Creation-Date: 2024-07-19 16:33+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1112,7 +1112,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 185
 # File: module/Application/view/application/hotels/settings.phtml, line: 78
 # File: module/Application/view/application/hotels/generalsettings.phtml, line: 102
-# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 76
+# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 72
 # File: module/Application/view/application/flights/settings.phtml, line: 78
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 102
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 95
@@ -2870,7 +2870,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopulardestinations.phtml, line: 38
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 38
 # File: module/Application/view/application/hotels/generalsettings.phtml, line: 78
-# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 52
+# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 48
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 78
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 71
 # File: module/Application/view/application/cars/generalsettings.phtml, line: 78
@@ -4473,37 +4473,37 @@ msgstr ""
 msgid "If you want to add a percentage of markup to the base price of the hotel reservation, please enter the percentage here. The markup is the amount of profit you will earn from the reservation. For example, if the base price is $100 and you enter 10%, the final price will be $110 and you will earn $10. This is an optional field. If you leave it blank, the final price will be the same as the base price."
 msgstr ""
 #
-# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 25
+# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 23
 # File: module/Application/view/application/agents/edit.phtml, line: 72
 msgid "If you want to add a markup fee to the base price of the hotel reservation, please enter the amount here. The markup fee is the fixed amount of profit you will earn from the reservation. For example, if the base price is $100 and you enter $20, the final price will be $120 and you will earn $20. This is an optional field. If you leave it blank, the final price will be the same as the base price."
 msgstr ""
 #
-# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 29
+# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 25
 # File: module/Application/view/application/agents/edit.phtml, line: 73
 msgid "Hotel Markup Visibility"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 30
+# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 26
 # File: module/Application/view/application/agents/edit.phtml, line: 74
 msgid "In this area, you can choose how you want to display the hotel markup to the customer. The hotel markup is the amount of profit you will earn from the hotel reservation. You have two options:"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 35
+# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 31
 # File: module/Application/view/application/agents/edit.phtml, line: 79
 msgid "Include in the price: This option will include the hotel markup in the price of the hotel that the customer sees. The customer will not see the base price or the markup separately, only the total price."
 msgstr ""
 #
-# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 36
+# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 32
 # File: module/Application/view/application/agents/edit.phtml, line: 80
 msgid "If you choose this option, the customer may compare the price of the hotel with other competitors and think that your price is higher. This may affect the customer's perception of the value and quality of your service."
 msgstr ""
 #
-# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 44
+# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 40
 # File: module/Application/view/application/agents/edit.phtml, line: 88
 msgid "Show as a service fee: This option will add the hotel markup as a separate line item in the checkout summary, labeled as \"Service Fee\". The customer will see the base price of the hotel and the service fee separately, and the total price will be the sum of both."
 msgstr ""
 #
-# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 45
+# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 41
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 62
 # File: module/Application/view/application/cars/paymentsettings.phtml, line: 41
 # File: module/Application/view/application/activities/paymentsettings.phtml, line: 41
@@ -4517,7 +4517,7 @@ msgstr ""
 msgid "This option may be more transparent, but it may also discourage some customers from completing the booking."
 msgstr ""
 #
-# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 49
+# File: module/Application/view/application/hotels/paymentsettings.phtml, line: 45
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 66
 # File: module/Application/view/application/cars/paymentsettings.phtml, line: 45
 # File: module/Application/view/application/activities/paymentsettings.phtml, line: 45
