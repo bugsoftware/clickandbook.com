@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-17 07:36+0100\n"
+"POT-Creation-Date: 2024-09-17 20:51+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -843,7 +843,7 @@ msgstr ""
 # File: module/Application/view/application/reservations/index.phtml, line: 32
 # File: module/Application/view/application/support/index.phtml, line: 19
 # File: module/Application/view/application/agents/index.phtml, line: 33
-# File: module/Application/view/application/marketing/index.phtml, line: 35
+# File: module/Application/view/application/marketing/index.phtml, line: 33
 msgid "Swipe to the left on the screen to view more items."
 msgstr ""
 #
@@ -858,7 +858,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 165
 # File: module/Application/view/application/index/index.phtml, line: 265
-# File: module/Application/view/application/marketing/index.phtml, line: 35
+# File: module/Application/view/application/marketing/index.phtml, line: 33
 # File: module/Application/view/application/marketing/list.phtml, line: 12
 # File: module/Application/view/application/marketing/new.phtml, line: 12
 # File: module/Application/view/application/marketing/edit.phtml, line: 12
@@ -3503,7 +3503,7 @@ msgstr ""
 # File: module/Application/view/application/agents/list.phtml, line: 13
 # File: module/Application/view/application/agents/list.phtml, line: 21
 # File: module/Application/view/application/agents/new.phtml, line: 13
-# File: module/Application/view/application/marketing/index.phtml, line: 54
+# File: module/Application/view/application/marketing/index.phtml, line: 52
 # File: module/Application/view/application/marketing/list.phtml, line: 7
 # File: module/Application/view/application/marketing/list.phtml, line: 13
 # File: module/Application/view/application/marketing/list.phtml, line: 20
@@ -6037,14 +6037,26 @@ msgstr ""
 msgid "Edit Charge"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/index.phtml, line: 45
+# File: module/Application/view/application/marketing/index.phtml, line: 43
 # File: module/Application/view/application/marketing/new.phtml, line: 7
 # File: module/Application/view/application/marketing/new.phtml, line: 20
 msgid "New Campaign"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/index.phtml, line: 65
+# File: module/Application/view/application/marketing/index.phtml, line: 63
 msgid "Broadcast Campaign"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/index.phtml, line: 74
+msgid "Send Email Campaign"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/index.phtml, line: 83
+msgid "Send SMS Campaign"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/index.phtml, line: 92
+msgid "Send Whatsapp Campaign"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/view.phtml, line: 12
