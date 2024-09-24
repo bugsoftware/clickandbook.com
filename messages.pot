@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-18 17:50+0100\n"
+"POT-Creation-Date: 2024-09-24 17:57+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -92,9 +92,9 @@ msgstr ""
 # File: module/Application/src/Controller/AgentsController.php, line: 2575
 # File: module/Application/src/Controller/AgentsController.php, line: 2596
 # File: module/Application/src/Controller/AgentsController.php, line: 2617
-# File: module/Application/src/Controller/MarketingController.php, line: 401
-# File: module/Application/src/Controller/MarketingController.php, line: 422
-# File: module/Application/src/Controller/MarketingController.php, line: 443
+# File: module/Application/src/Controller/MarketingController.php, line: 687
+# File: module/Application/src/Controller/MarketingController.php, line: 708
+# File: module/Application/src/Controller/MarketingController.php, line: 729
 msgid "Not Available"
 msgstr ""
 #
@@ -689,7 +689,7 @@ msgstr ""
 # File: module/Application/view/application/help/index.phtml, line: 11
 # File: module/Application/view/application/support/index.phtml, line: 9
 # File: module/Application/view/application/agents/index.phtml, line: 11
-# File: module/Application/view/application/marketing/index.phtml, line: 11
+# File: module/Application/view/application/marketing/index.phtml, line: 17
 msgid "Home"
 msgstr ""
 #
@@ -799,11 +799,12 @@ msgstr ""
 # File: module/Application/view/application/agents/search.phtml, line: 10
 # File: module/Application/view/application/agents/searchagents.phtml, line: 10
 # File: module/Application/view/application/agents/new.phtml, line: 11
-# File: module/Application/view/application/marketing/index.phtml, line: 12
+# File: module/Application/view/application/marketing/index.phtml, line: 18
 # File: module/Application/view/application/marketing/list.phtml, line: 11
 # File: module/Application/view/application/marketing/new.phtml, line: 11
 # File: module/Application/view/application/marketing/edit.phtml, line: 11
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 11
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 12
+# File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 12
 # File: module/Application/view/layout/layout.phtml, line: 7
 # File: module/Application/view/layout/layout.phtml, line: 129
 msgid "Dashboard"
@@ -844,7 +845,7 @@ msgstr ""
 # File: module/Application/view/application/reservations/index.phtml, line: 32
 # File: module/Application/view/application/support/index.phtml, line: 19
 # File: module/Application/view/application/agents/index.phtml, line: 33
-# File: module/Application/view/application/marketing/index.phtml, line: 33
+# File: module/Application/view/application/marketing/index.phtml, line: 39
 msgid "Swipe to the left on the screen to view more items."
 msgstr ""
 #
@@ -859,12 +860,13 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 165
 # File: module/Application/view/application/index/index.phtml, line: 265
-# File: module/Application/view/application/marketing/index.phtml, line: 33
+# File: module/Application/view/application/marketing/index.phtml, line: 39
 # File: module/Application/view/application/marketing/list.phtml, line: 12
 # File: module/Application/view/application/marketing/new.phtml, line: 12
 # File: module/Application/view/application/marketing/edit.phtml, line: 12
 # File: module/Application/view/application/marketing/view.phtml, line: 10
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 12
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 13
+# File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 13
 # File: module/Application/view/layout/layout.phtml, line: 143
 msgid "Marketing"
 msgstr ""
@@ -1144,7 +1146,8 @@ msgstr ""
 # File: module/Application/view/application/agents/new.phtml, line: 92
 # File: module/Application/view/application/marketing/new.phtml, line: 84
 # File: module/Application/view/application/marketing/edit.phtml, line: 86
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 115
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 150
+# File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 141
 msgid "Please wait..."
 msgstr ""
 #
@@ -1521,7 +1524,7 @@ msgstr ""
 # File: module/Application/view/application/index/tutorials.phtml, line: 331
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 126
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 140
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 25
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 38
 msgid "Subject"
 msgstr ""
 #
@@ -2902,8 +2905,10 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 125
 # File: module/Application/view/application/quick-books/charge.phtml, line: 76
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 72
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 30
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 77
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 52
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 97
+# File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 51
+# File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 96
 msgid "Submit"
 msgstr ""
 #
@@ -3509,13 +3514,14 @@ msgstr ""
 # File: module/Application/view/application/agents/list.phtml, line: 13
 # File: module/Application/view/application/agents/list.phtml, line: 21
 # File: module/Application/view/application/agents/new.phtml, line: 13
-# File: module/Application/view/application/marketing/index.phtml, line: 52
+# File: module/Application/view/application/marketing/index.phtml, line: 58
 # File: module/Application/view/application/marketing/list.phtml, line: 7
 # File: module/Application/view/application/marketing/list.phtml, line: 13
 # File: module/Application/view/application/marketing/list.phtml, line: 20
 # File: module/Application/view/application/marketing/new.phtml, line: 13
 # File: module/Application/view/application/marketing/edit.phtml, line: 13
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 13
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 14
+# File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 14
 msgid "List"
 msgstr ""
 #
@@ -6044,27 +6050,27 @@ msgstr ""
 msgid "Edit Charge"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/index.phtml, line: 43
+# File: module/Application/view/application/marketing/index.phtml, line: 49
 # File: module/Application/view/application/marketing/new.phtml, line: 7
 # File: module/Application/view/application/marketing/new.phtml, line: 20
 msgid "New Campaign"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/index.phtml, line: 63
+# File: module/Application/view/application/marketing/index.phtml, line: 67
 msgid "Broadcast Campaign"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/index.phtml, line: 74
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 7
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 20
+# File: module/Application/view/application/marketing/index.phtml, line: 76
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 8
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 34
 msgid "Send Email Campaign"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/index.phtml, line: 83
+# File: module/Application/view/application/marketing/index.phtml, line: 85
 msgid "Send SMS Campaign"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/index.phtml, line: 92
+# File: module/Application/view/application/marketing/index.phtml, line: 94
 msgid "Send Whatsapp Campaign"
 msgstr ""
 #
@@ -6072,12 +6078,44 @@ msgstr ""
 msgid "Campaign Detail"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 24
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 22
+# File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 22
+msgid "Newsletter Campaign Queued for Processingn"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 25
+msgid "Your newsletter campaign has been successfully queued for processing. The sending process will begin shortly. Thank you for your patience."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 37
 msgid "Campaign"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 24
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 37
 msgid "Select Campaign"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 42
+# File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 41
+msgid "All customers"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 44
+# File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 43
+msgid "Select customers"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 8
+# File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 34
+msgid "Send SMS/Text Campaign"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 25
+msgid "Your SMS/Text campaign has been successfully queued for processing. The sending process will begin shortly. Thank you for your patience."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 37
+msgid "SMS/Text Subject"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 61
