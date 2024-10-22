@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-21 20:46+0100\n"
+"POT-Creation-Date: 2024-10-22 11:29+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -92,9 +92,6 @@ msgstr ""
 # File: module/Application/src/Controller/AgentsController.php, line: 2575
 # File: module/Application/src/Controller/AgentsController.php, line: 2596
 # File: module/Application/src/Controller/AgentsController.php, line: 2617
-# File: module/Application/src/Controller/MarketingController.php, line: 718
-# File: module/Application/src/Controller/MarketingController.php, line: 739
-# File: module/Application/src/Controller/MarketingController.php, line: 760
 msgid "Not Available"
 msgstr ""
 #
@@ -511,7 +508,6 @@ msgstr ""
 # File: module/Application/view/application/agents/searchagents.phtml, line: 97
 # File: module/Application/view/application/agents/new.phtml, line: 27
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 29
-# File: module/Application/view/application/marketing/list.phtml, line: 35
 msgid "Email"
 msgstr ""
 #
@@ -552,7 +548,6 @@ msgstr ""
 # File: module/Application/view/application/agents/searchagents.phtml, line: 54
 # File: module/Application/view/application/agents/searchagents.phtml, line: 98
 # File: module/Application/view/application/agents/new.phtml, line: 38
-# File: module/Application/view/application/marketing/list.phtml, line: 36
 msgid "Phone"
 msgstr ""
 #
@@ -599,7 +594,6 @@ msgstr ""
 # File: module/Application/view/application/agents/searchagents.phtml, line: 96
 # File: module/Application/view/application/agents/new.phtml, line: 33
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 30
-# File: module/Application/view/application/marketing/list.phtml, line: 34
 msgid "Country"
 msgstr ""
 #
@@ -954,7 +948,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 112
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 52
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 59
-# File: module/Application/view/application/marketing/list.phtml, line: 54
+# File: module/Application/view/application/marketing/list.phtml, line: 39
 msgid "View"
 msgstr ""
 #
@@ -1437,6 +1431,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 138
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 28
+# File: module/Application/view/application/marketing/list.phtml, line: 28
 msgid "Name"
 msgstr ""
 #
@@ -2369,7 +2364,6 @@ msgstr ""
 # File: module/Application/view/application/agents/searchagents.phtml, line: 44
 # File: module/Application/view/application/agents/searchagents.phtml, line: 91
 # File: module/Application/view/application/agents/new.phtml, line: 26
-# File: module/Application/view/application/marketing/list.phtml, line: 29
 msgid "Company"
 msgstr ""
 #
@@ -2390,7 +2384,6 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 28
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 23
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 24
-# File: module/Application/view/application/marketing/list.phtml, line: 30
 # File: module/Application/view/application/marketing/view.phtml, line: 106
 msgid "Address"
 msgstr ""
@@ -2710,7 +2703,6 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 41
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 35
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 27
-# File: module/Application/view/application/marketing/list.phtml, line: 27
 msgid "Date time Created"
 msgstr ""
 #
@@ -2752,7 +2744,6 @@ msgstr ""
 # File: module/Application/view/application/quick-books/charge.phtml, line: 23
 # File: module/Application/view/application/quick-books/charge.phtml, line: 24
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 28
-# File: module/Application/view/application/marketing/list.phtml, line: 28
 msgid "Customer"
 msgstr ""
 #
@@ -2763,7 +2754,6 @@ msgstr ""
 # File: module/Application/view/application/agents/list.phtml, line: 34
 # File: module/Application/view/application/agents/search.phtml, line: 81
 # File: module/Application/view/application/agents/searchagents.phtml, line: 93
-# File: module/Application/view/application/marketing/list.phtml, line: 31
 msgid "Zipcode"
 msgstr ""
 #
@@ -2788,7 +2778,6 @@ msgstr ""
 # File: module/Application/view/application/quick-books/charge.phtml, line: 55
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 35
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 53
-# File: module/Application/view/application/marketing/list.phtml, line: 32
 msgid "City"
 msgstr ""
 #
@@ -2831,7 +2820,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 50
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 36
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 39
-# File: module/Application/view/application/marketing/list.phtml, line: 37
+# File: module/Application/view/application/marketing/list.phtml, line: 29
 # File: module/Application/view/application/marketing/edit.phtml, line: 50
 msgid "Action"
 msgstr ""
@@ -3238,7 +3227,6 @@ msgstr ""
 # File: module/Application/view/application/agents/search.phtml, line: 83
 # File: module/Application/view/application/agents/searchagents.phtml, line: 95
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 31
-# File: module/Application/view/application/marketing/list.phtml, line: 33
 msgid "State"
 msgstr ""
 #
@@ -3419,6 +3407,7 @@ msgstr ""
 # File: module/Application/view/application/customers/view.phtml, line: 57
 # File: module/Application/view/application/agents/view.phtml, line: 29
 # File: module/Application/view/application/agents/view.phtml, line: 58
+# File: module/Application/view/application/marketing/list.phtml, line: 40
 # File: module/Application/view/application/marketing/view.phtml, line: 28
 # File: module/Application/view/application/marketing/view.phtml, line: 57
 msgid "Edit"
@@ -5635,6 +5624,7 @@ msgid "Id"
 msgstr ""
 #
 # File: module/Application/view/application/agents/view.phtml, line: 335
+# File: module/Application/view/application/marketing/list.phtml, line: 27
 msgid "Date"
 msgstr ""
 #
