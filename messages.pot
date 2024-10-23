@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-23 07:28+0100\n"
+"POT-Creation-Date: 2024-10-23 14:31+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1132,8 +1132,8 @@ msgstr ""
 # File: module/Application/view/application/support/edit.phtml, line: 83
 # File: module/Application/view/application/agents/edit.phtml, line: 331
 # File: module/Application/view/application/agents/new.phtml, line: 92
-# File: module/Application/view/application/marketing/new.phtml, line: 75
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 150
+# File: module/Application/view/application/marketing/new.phtml, line: 79
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 169
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 141
 msgid "Please wait..."
 msgstr ""
@@ -2874,8 +2874,8 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 125
 # File: module/Application/view/application/quick-books/charge.phtml, line: 76
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 72
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 52
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 97
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 63
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 116
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 51
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 96
 msgid "Submit"
@@ -3680,7 +3680,7 @@ msgstr ""
 # File: module/Application/view/application/support/edit.phtml, line: 42
 # File: module/Application/view/application/agents/edit.phtml, line: 290
 # File: module/Application/view/application/agents/new.phtml, line: 51
-# File: module/Application/view/application/marketing/new.phtml, line: 34
+# File: module/Application/view/application/marketing/new.phtml, line: 38
 msgid "Save"
 msgstr ""
 #
@@ -6056,6 +6056,10 @@ msgstr ""
 msgid "Air Only"
 msgstr ""
 #
+# File: module/Application/view/application/marketing/new.phtml, line: 32
+msgid "Text"
+msgstr ""
+#
 # File: module/Application/view/application/marketing/edit.phtml, line: 20
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 37
 msgid "Campaign"
@@ -6110,14 +6114,30 @@ msgstr ""
 msgid "Select Campaign"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 42
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 40
+msgid "City Pair"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 44
+msgid "Input Origin Airport Code (Optional)"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 47
+msgid "Input Destination Airport Code (Optional)"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 53
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 41
 msgid "All customers"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 44
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 55
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 43
 msgid "Select customers"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 76
+msgid "Select/Unselect All"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 8
