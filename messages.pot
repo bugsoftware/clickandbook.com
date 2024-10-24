@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-23 17:34+0100\n"
+"POT-Creation-Date: 2024-10-24 14:45+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,15 +48,16 @@ msgid "Thanks"
 msgstr ""
 #
 # File: module/Application/src/Controller/IndexController.php, line: 7279
-# File: module/Application/src/Controller/CustomersController.php, line: 1175
-# File: module/Application/src/Controller/CustomersController.php, line: 1196
-# File: module/Application/src/Controller/CustomersController.php, line: 1217
-# File: module/Application/src/Controller/CustomersController.php, line: 1439
-# File: module/Application/src/Controller/CustomersController.php, line: 1460
-# File: module/Application/src/Controller/CustomersController.php, line: 1481
-# File: module/Application/src/Controller/CustomersController.php, line: 1825
-# File: module/Application/src/Controller/CustomersController.php, line: 1846
-# File: module/Application/src/Controller/CustomersController.php, line: 1867
+# File: module/Application/src/Controller/CustomersController.php, line: 181
+# File: module/Application/src/Controller/CustomersController.php, line: 1414
+# File: module/Application/src/Controller/CustomersController.php, line: 1435
+# File: module/Application/src/Controller/CustomersController.php, line: 1456
+# File: module/Application/src/Controller/CustomersController.php, line: 1678
+# File: module/Application/src/Controller/CustomersController.php, line: 1699
+# File: module/Application/src/Controller/CustomersController.php, line: 1720
+# File: module/Application/src/Controller/CustomersController.php, line: 2064
+# File: module/Application/src/Controller/CustomersController.php, line: 2085
+# File: module/Application/src/Controller/CustomersController.php, line: 2106
 # File: module/Application/src/Controller/CruisesController.php, line: 1102
 # File: module/Application/src/Controller/CruisesController.php, line: 1469
 # File: module/Application/src/Controller/HotelsController.php, line: 951
@@ -347,13 +348,14 @@ msgstr ""
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 267
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 405
 # File: module/Application/view/application/index/index.phtml, line: 136
-# File: module/Application/view/application/customers/index.phtml, line: 34
+# File: module/Application/view/application/customers/index.phtml, line: 31
 # File: module/Application/view/application/customers/search.phtml, line: 11
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 11
 # File: module/Application/view/application/customers/new.phtml, line: 12
 # File: module/Application/view/application/customers/edit.phtml, line: 12
 # File: module/Application/view/application/customers/list.phtml, line: 12
-# File: module/Application/view/application/customers/view.phtml, line: 10
+# File: module/Application/view/application/customers/view.phtml, line: 11
+# File: module/Application/view/application/customers/reservations.phtml, line: 11
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 312
 # File: module/Application/view/layout/layout.phtml, line: 141
 # File: module/Application/view/layout/layout.phtml, line: 154
@@ -659,7 +661,7 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 169
 # File: module/Application/view/application/index/banners.phtml, line: 17
 # File: module/Application/view/application/index/bannersedit.phtml, line: 17
-# File: module/Application/view/application/customers/index.phtml, line: 11
+# File: module/Application/view/application/customers/index.phtml, line: 10
 # File: module/Application/view/application/cruises/index.phtml, line: 8
 # File: module/Application/view/application/hotels/index.phtml, line: 9
 # File: module/Application/view/application/flights/index.phtml, line: 9
@@ -695,12 +697,13 @@ msgstr ""
 # File: module/Application/view/application/index/seo.phtml, line: 18
 # File: module/Application/view/application/index/banners.phtml, line: 18
 # File: module/Application/view/application/index/bannersedit.phtml, line: 18
-# File: module/Application/view/application/customers/index.phtml, line: 12
+# File: module/Application/view/application/customers/index.phtml, line: 11
 # File: module/Application/view/application/customers/search.phtml, line: 10
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 10
 # File: module/Application/view/application/customers/new.phtml, line: 11
 # File: module/Application/view/application/customers/edit.phtml, line: 11
 # File: module/Application/view/application/customers/list.phtml, line: 11
+# File: module/Application/view/application/customers/reservations.phtml, line: 10
 # File: module/Application/view/application/cruises/index.phtml, line: 9
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 11
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 11
@@ -820,7 +823,7 @@ msgid "Items"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 23
-# File: module/Application/view/application/customers/index.phtml, line: 34
+# File: module/Application/view/application/customers/index.phtml, line: 31
 # File: module/Application/view/application/cruises/index.phtml, line: 22
 # File: module/Application/view/application/hotels/index.phtml, line: 23
 # File: module/Application/view/application/flights/index.phtml, line: 23
@@ -896,6 +899,7 @@ msgstr ""
 # File: module/Application/view/application/customers/search.phtml, line: 104
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 114
 # File: module/Application/view/application/customers/list.phtml, line: 54
+# File: module/Application/view/application/customers/reservations.phtml, line: 47
 # File: module/Application/view/application/cruises/index.phtml, line: 199
 # File: module/Application/view/application/cruises/index.phtml, line: 246
 # File: module/Application/view/application/cruises/index.phtml, line: 291
@@ -2712,6 +2716,7 @@ msgstr ""
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 88
 # File: module/Application/view/application/customers/edit.phtml, line: 20
 # File: module/Application/view/application/customers/list.phtml, line: 28
+# File: module/Application/view/application/customers/reservations.phtml, line: 28
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 29
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 60
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 29
@@ -2787,6 +2792,7 @@ msgstr ""
 # File: module/Application/view/application/customers/search.phtml, line: 87
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 97
 # File: module/Application/view/application/customers/list.phtml, line: 37
+# File: module/Application/view/application/customers/reservations.phtml, line: 33
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 35
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 66
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 35
@@ -3403,7 +3409,7 @@ msgid "Active"
 msgstr ""
 #
 # File: module/Application/view/application/index/banners.phtml, line: 115
-# File: module/Application/view/application/customers/view.phtml, line: 28
+# File: module/Application/view/application/customers/view.phtml, line: 29
 # File: module/Application/view/application/customers/view.phtml, line: 57
 # File: module/Application/view/application/agents/view.phtml, line: 29
 # File: module/Application/view/application/agents/view.phtml, line: 58
@@ -3456,13 +3462,13 @@ msgstr ""
 msgid "Select position"
 msgstr ""
 #
-# File: module/Application/view/application/customers/index.phtml, line: 44
+# File: module/Application/view/application/customers/index.phtml, line: 41
 # File: module/Application/view/application/customers/new.phtml, line: 7
 # File: module/Application/view/application/customers/new.phtml, line: 20
 msgid "New Customer"
 msgstr ""
 #
-# File: module/Application/view/application/customers/index.phtml, line: 53
+# File: module/Application/view/application/customers/index.phtml, line: 50
 # File: module/Application/view/application/customers/new.phtml, line: 13
 # File: module/Application/view/application/customers/edit.phtml, line: 13
 # File: module/Application/view/application/customers/list.phtml, line: 7
@@ -3494,7 +3500,7 @@ msgstr ""
 msgid "List"
 msgstr ""
 #
-# File: module/Application/view/application/customers/index.phtml, line: 62
+# File: module/Application/view/application/customers/index.phtml, line: 59
 # File: module/Application/view/application/customers/search.phtml, line: 7
 # File: module/Application/view/application/customers/search.phtml, line: 12
 # File: module/Application/view/application/customers/search.phtml, line: 60
@@ -3529,7 +3535,7 @@ msgstr ""
 msgid "Search"
 msgstr ""
 #
-# File: module/Application/view/application/customers/index.phtml, line: 72
+# File: module/Application/view/application/customers/index.phtml, line: 69
 # File: module/Application/view/application/help/index.phtml, line: 124
 # File: module/Application/view/application/support/index.phtml, line: 6
 # File: module/Application/view/application/support/index.phtml, line: 10
@@ -3689,8 +3695,12 @@ msgstr ""
 msgid "Edit Campaign"
 msgstr ""
 #
-# File: module/Application/view/application/customers/view.phtml, line: 12
+# File: module/Application/view/application/customers/view.phtml, line: 13
 msgid "Customer Detail"
+msgstr ""
+#
+# File: module/Application/view/application/customers/view.phtml, line: 30
+msgid "View Purchases"
 msgstr ""
 #
 # File: module/Application/view/application/customers/view.phtml, line: 39
@@ -3766,6 +3776,12 @@ msgstr ""
 msgid "New Reservation"
 msgstr ""
 #
+# File: module/Application/view/application/customers/reservations.phtml, line: 7
+# File: module/Application/view/application/customers/reservations.phtml, line: 19
+msgid "List Customer's Reservations"
+msgstr ""
+#
+# File: module/Application/view/application/customers/reservations.phtml, line: 12
 # File: module/Application/view/application/cruises/index.phtml, line: 47
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 7
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 13
@@ -3805,6 +3821,160 @@ msgstr ""
 # File: module/Application/view/application/reservations/list.phtml, line: 20
 # File: module/Application/view/layout/layout.phtml, line: 150
 msgid "List Reservations"
+msgstr ""
+#
+# File: module/Application/view/application/customers/reservations.phtml, line: 26
+# File: module/Application/view/application/cruises/listreservations.phtml, line: 27
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 28
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 58
+# File: module/Application/view/application/hotels/listreservations.phtml, line: 27
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 28
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 58
+# File: module/Application/view/application/flights/listreservations.phtml, line: 27
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 28
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 58
+# File: module/Application/view/application/flights/issueticket.phtml, line: 48
+# File: module/Application/view/application/flights/voidreservation.phtml, line: 46
+# File: module/Application/view/application/flights/addbags.phtml, line: 47
+# File: module/Application/view/application/flights/selectseat.phtml, line: 46
+# File: module/Application/view/application/cars/listreservations.phtml, line: 27
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 28
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 58
+# File: module/Application/view/application/activities/listreservations.phtml, line: 27
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 28
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 58
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 27
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 28
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 58
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 27
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 28
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 61
+# File: module/Application/view/application/packages/listreservations.phtml, line: 27
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 28
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 58
+# File: module/Application/view/application/insurances/listreservations.phtml, line: 27
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 28
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 58
+# File: module/Application/view/application/reservations/list.phtml, line: 27
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 28
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 58
+# File: module/Application/view/application/view-reservation/index.phtml, line: 95
+msgid "Reservation Date"
+msgstr ""
+#
+# File: module/Application/view/application/customers/reservations.phtml, line: 27
+# File: module/Application/view/application/cruises/listreservations.phtml, line: 28
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 59
+# File: module/Application/view/application/hotels/listreservations.phtml, line: 28
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 59
+# File: module/Application/view/application/flights/listreservations.phtml, line: 28
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 59
+# File: module/Application/view/application/flights/issueticket.phtml, line: 49
+# File: module/Application/view/application/flights/voidreservation.phtml, line: 47
+# File: module/Application/view/application/flights/addbags.phtml, line: 48
+# File: module/Application/view/application/flights/selectseat.phtml, line: 47
+# File: module/Application/view/application/cars/listreservations.phtml, line: 28
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 59
+# File: module/Application/view/application/activities/listreservations.phtml, line: 28
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 59
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 28
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 59
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 28
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 62
+# File: module/Application/view/application/packages/listreservations.phtml, line: 28
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 59
+# File: module/Application/view/application/insurances/listreservations.phtml, line: 28
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 59
+# File: module/Application/view/application/reservations/list.phtml, line: 28
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 59
+msgid "Travel Dates"
+msgstr ""
+#
+# File: module/Application/view/application/customers/reservations.phtml, line: 29
+# File: module/Application/view/application/cruises/listreservations.phtml, line: 30
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 61
+# File: module/Application/view/application/hotels/listreservations.phtml, line: 30
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 61
+# File: module/Application/view/application/flights/listreservations.phtml, line: 30
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 61
+# File: module/Application/view/application/flights/issueticket.phtml, line: 51
+# File: module/Application/view/application/flights/voidreservation.phtml, line: 49
+# File: module/Application/view/application/flights/addbags.phtml, line: 50
+# File: module/Application/view/application/flights/selectseat.phtml, line: 49
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 61
+# File: module/Application/view/application/activities/listreservations.phtml, line: 31
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 61
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 30
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 61
+# File: module/Application/view/application/packages/listreservations.phtml, line: 30
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 61
+# File: module/Application/view/application/insurances/listreservations.phtml, line: 30
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 61
+# File: module/Application/view/application/reservations/list.phtml, line: 30
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 61
+msgid "Passengers"
+msgstr ""
+#
+# File: module/Application/view/application/customers/reservations.phtml, line: 30
+# File: module/Application/view/application/cruises/listreservations.phtml, line: 31
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 62
+# File: module/Application/view/application/hotels/listreservations.phtml, line: 31
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 62
+# File: module/Application/view/application/flights/listreservations.phtml, line: 31
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 62
+# File: module/Application/view/application/flights/issueticket.phtml, line: 52
+# File: module/Application/view/application/flights/voidreservation.phtml, line: 50
+# File: module/Application/view/application/flights/addbags.phtml, line: 51
+# File: module/Application/view/application/flights/selectseat.phtml, line: 50
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 62
+# File: module/Application/view/application/activities/listreservations.phtml, line: 32
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 62
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 31
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 62
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 31
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 65
+# File: module/Application/view/application/packages/listreservations.phtml, line: 31
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 62
+# File: module/Application/view/application/insurances/listreservations.phtml, line: 31
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 62
+# File: module/Application/view/application/reservations/list.phtml, line: 31
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 62
+msgid "Paxes"
+msgstr ""
+#
+# File: module/Application/view/application/customers/reservations.phtml, line: 31
+# File: module/Application/view/application/reservations/list.phtml, line: 32
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 63
+msgid "Date Time Due"
+msgstr ""
+#
+# File: module/Application/view/application/customers/reservations.phtml, line: 32
+# File: module/Application/view/application/cruises/listreservations.phtml, line: 34
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 65
+# File: module/Application/view/application/hotels/listreservations.phtml, line: 34
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 64
+# File: module/Application/view/application/flights/listreservations.phtml, line: 34
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 64
+# File: module/Application/view/application/flights/issueticket.phtml, line: 54
+# File: module/Application/view/application/flights/voidreservation.phtml, line: 52
+# File: module/Application/view/application/flights/addbags.phtml, line: 53
+# File: module/Application/view/application/flights/selectseat.phtml, line: 52
+# File: module/Application/view/application/cars/listreservations.phtml, line: 34
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 64
+# File: module/Application/view/application/activities/listreservations.phtml, line: 35
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 64
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 34
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 64
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 34
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 67
+# File: module/Application/view/application/packages/listreservations.phtml, line: 34
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 64
+# File: module/Application/view/application/insurances/listreservations.phtml, line: 34
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 64
+# File: module/Application/view/application/reservations/list.phtml, line: 33
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 64
+# File: module/Application/view/application/agents/view.phtml, line: 328
+msgid "Total"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 59
@@ -3898,121 +4068,6 @@ msgstr ""
 msgid "New Personal Reservation"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/listreservations.phtml, line: 27
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 28
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 58
-# File: module/Application/view/application/hotels/listreservations.phtml, line: 27
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 28
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 58
-# File: module/Application/view/application/flights/listreservations.phtml, line: 27
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 28
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 58
-# File: module/Application/view/application/flights/issueticket.phtml, line: 48
-# File: module/Application/view/application/flights/voidreservation.phtml, line: 46
-# File: module/Application/view/application/flights/addbags.phtml, line: 47
-# File: module/Application/view/application/flights/selectseat.phtml, line: 46
-# File: module/Application/view/application/cars/listreservations.phtml, line: 27
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 28
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 58
-# File: module/Application/view/application/activities/listreservations.phtml, line: 27
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 28
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 58
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 27
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 28
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 58
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 27
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 28
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 61
-# File: module/Application/view/application/packages/listreservations.phtml, line: 27
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 28
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 58
-# File: module/Application/view/application/insurances/listreservations.phtml, line: 27
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 28
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 58
-# File: module/Application/view/application/reservations/list.phtml, line: 27
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 28
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 58
-# File: module/Application/view/application/view-reservation/index.phtml, line: 95
-msgid "Reservation Date"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/listreservations.phtml, line: 28
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 59
-# File: module/Application/view/application/hotels/listreservations.phtml, line: 28
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 59
-# File: module/Application/view/application/flights/listreservations.phtml, line: 28
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 59
-# File: module/Application/view/application/flights/issueticket.phtml, line: 49
-# File: module/Application/view/application/flights/voidreservation.phtml, line: 47
-# File: module/Application/view/application/flights/addbags.phtml, line: 48
-# File: module/Application/view/application/flights/selectseat.phtml, line: 47
-# File: module/Application/view/application/cars/listreservations.phtml, line: 28
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 59
-# File: module/Application/view/application/activities/listreservations.phtml, line: 28
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 59
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 28
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 59
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 28
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 62
-# File: module/Application/view/application/packages/listreservations.phtml, line: 28
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 59
-# File: module/Application/view/application/insurances/listreservations.phtml, line: 28
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 59
-# File: module/Application/view/application/reservations/list.phtml, line: 28
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 59
-msgid "Travel Dates"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/listreservations.phtml, line: 30
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 61
-# File: module/Application/view/application/hotels/listreservations.phtml, line: 30
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 61
-# File: module/Application/view/application/flights/listreservations.phtml, line: 30
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 61
-# File: module/Application/view/application/flights/issueticket.phtml, line: 51
-# File: module/Application/view/application/flights/voidreservation.phtml, line: 49
-# File: module/Application/view/application/flights/addbags.phtml, line: 50
-# File: module/Application/view/application/flights/selectseat.phtml, line: 49
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 61
-# File: module/Application/view/application/activities/listreservations.phtml, line: 31
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 61
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 30
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 61
-# File: module/Application/view/application/packages/listreservations.phtml, line: 30
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 61
-# File: module/Application/view/application/insurances/listreservations.phtml, line: 30
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 61
-# File: module/Application/view/application/reservations/list.phtml, line: 30
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 61
-msgid "Passengers"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/listreservations.phtml, line: 31
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 62
-# File: module/Application/view/application/hotels/listreservations.phtml, line: 31
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 62
-# File: module/Application/view/application/flights/listreservations.phtml, line: 31
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 62
-# File: module/Application/view/application/flights/issueticket.phtml, line: 52
-# File: module/Application/view/application/flights/voidreservation.phtml, line: 50
-# File: module/Application/view/application/flights/addbags.phtml, line: 51
-# File: module/Application/view/application/flights/selectseat.phtml, line: 50
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 62
-# File: module/Application/view/application/activities/listreservations.phtml, line: 32
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 62
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 31
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 62
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 31
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 65
-# File: module/Application/view/application/packages/listreservations.phtml, line: 31
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 62
-# File: module/Application/view/application/insurances/listreservations.phtml, line: 31
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 62
-# File: module/Application/view/application/reservations/list.phtml, line: 31
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 62
-msgid "Paxes"
-msgstr ""
-#
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 32
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 63
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 32
@@ -4044,34 +4099,6 @@ msgstr ""
 # File: module/Application/view/application/packages/listreservations.phtml, line: 33
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 33
 msgid "Commission"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/listreservations.phtml, line: 34
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 65
-# File: module/Application/view/application/hotels/listreservations.phtml, line: 34
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 64
-# File: module/Application/view/application/flights/listreservations.phtml, line: 34
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 64
-# File: module/Application/view/application/flights/issueticket.phtml, line: 54
-# File: module/Application/view/application/flights/voidreservation.phtml, line: 52
-# File: module/Application/view/application/flights/addbags.phtml, line: 53
-# File: module/Application/view/application/flights/selectseat.phtml, line: 52
-# File: module/Application/view/application/cars/listreservations.phtml, line: 34
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 64
-# File: module/Application/view/application/activities/listreservations.phtml, line: 35
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 64
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 34
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 64
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 34
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 67
-# File: module/Application/view/application/packages/listreservations.phtml, line: 34
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 64
-# File: module/Application/view/application/insurances/listreservations.phtml, line: 34
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 64
-# File: module/Application/view/application/reservations/list.phtml, line: 33
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 64
-# File: module/Application/view/application/agents/view.phtml, line: 328
-msgid "Total"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 20
@@ -5181,11 +5208,6 @@ msgstr ""
 #
 # File: module/Application/view/application/insurances/settings.phtml, line: 69
 msgid "Popular Insurances"
-msgstr ""
-#
-# File: module/Application/view/application/reservations/list.phtml, line: 32
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 63
-msgid "Date Time Due"
 msgstr ""
 #
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 23
