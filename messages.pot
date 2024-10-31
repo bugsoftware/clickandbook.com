@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-31 13:37+0000\n"
+"POT-Creation-Date: 2024-10-31 14:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,12 +62,12 @@ msgstr ""
 # File: module/Application/src/Controller/CruisesController.php, line: 1469
 # File: module/Application/src/Controller/HotelsController.php, line: 951
 # File: module/Application/src/Controller/HotelsController.php, line: 1323
-# File: module/Application/src/Controller/FlightsController.php, line: 646
-# File: module/Application/src/Controller/FlightsController.php, line: 866
-# File: module/Application/src/Controller/FlightsController.php, line: 1086
-# File: module/Application/src/Controller/FlightsController.php, line: 1306
-# File: module/Application/src/Controller/FlightsController.php, line: 1915
-# File: module/Application/src/Controller/FlightsController.php, line: 2278
+# File: module/Application/src/Controller/FlightsController.php, line: 823
+# File: module/Application/src/Controller/FlightsController.php, line: 1043
+# File: module/Application/src/Controller/FlightsController.php, line: 1263
+# File: module/Application/src/Controller/FlightsController.php, line: 1483
+# File: module/Application/src/Controller/FlightsController.php, line: 2092
+# File: module/Application/src/Controller/FlightsController.php, line: 2455
 # File: module/Application/src/Controller/CarsController.php, line: 950
 # File: module/Application/src/Controller/CarsController.php, line: 1291
 # File: module/Application/src/Controller/ActivitiesController.php, line: 952
@@ -211,6 +211,7 @@ msgstr ""
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 11
 # File: module/Application/view/application/flights/addbags.phtml, line: 11
 # File: module/Application/view/application/flights/selectseat.phtml, line: 11
+# File: module/Application/view/application/flights/airblocks.phtml, line: 12
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 109
 # File: module/Application/view/layout/layout.phtml, line: 133
 msgid "Flights"
@@ -731,6 +732,7 @@ msgstr ""
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 10
 # File: module/Application/view/application/flights/addbags.phtml, line: 10
 # File: module/Application/view/application/flights/selectseat.phtml, line: 10
+# File: module/Application/view/application/flights/airblocks.phtml, line: 11
 # File: module/Application/view/application/cars/index.phtml, line: 10
 # File: module/Application/view/application/cars/listreservations.phtml, line: 11
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 11
@@ -921,6 +923,7 @@ msgstr ""
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 67
 # File: module/Application/view/application/flights/addbags.phtml, line: 68
 # File: module/Application/view/application/flights/selectseat.phtml, line: 67
+# File: module/Application/view/application/flights/airblocks.phtml, line: 48
 # File: module/Application/view/application/cars/listreservations.phtml, line: 50
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 79
 # File: module/Application/view/application/activities/listreservations.phtml, line: 52
@@ -1436,6 +1439,7 @@ msgstr ""
 # File: module/Application/view/application/index/tutorials.phtml, line: 329
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 138
+# File: module/Application/view/application/flights/airblocks.phtml, line: 33
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 28
 # File: module/Application/view/application/marketing/list.phtml, line: 28
 msgid "Name"
@@ -2805,6 +2809,7 @@ msgstr ""
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 53
 # File: module/Application/view/application/flights/addbags.phtml, line: 54
 # File: module/Application/view/application/flights/selectseat.phtml, line: 53
+# File: module/Application/view/application/flights/airblocks.phtml, line: 37
 # File: module/Application/view/application/cars/listreservations.phtml, line: 35
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 65
 # File: module/Application/view/application/activities/listreservations.phtml, line: 36
@@ -2909,6 +2914,7 @@ msgid "IP Address"
 msgstr ""
 #
 # File: module/Application/view/application/index/securitylog.phtml, line: 86
+# File: module/Application/view/application/flights/airblocks.phtml, line: 36
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 49
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 142
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 118
@@ -4539,6 +4545,9 @@ msgid "Please select the option that suits your preference and business strategy
 msgstr ""
 #
 # File: module/Application/view/application/flights/index.phtml, line: 64
+# File: module/Application/view/application/flights/airblocks.phtml, line: 7
+# File: module/Application/view/application/flights/airblocks.phtml, line: 13
+# File: module/Application/view/application/flights/airblocks.phtml, line: 26
 msgid "Air Blocks"
 msgstr ""
 #
@@ -4697,6 +4706,18 @@ msgstr ""
 #
 # File: module/Application/view/application/flights/selectseat.phtml, line: 39
 msgid "Search Reservations-Select Seats"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblocks.phtml, line: 22
+msgid "New Air Block"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblocks.phtml, line: 34
+msgid "Airport Origin"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblocks.phtml, line: 35
+msgid "Airport Destination"
 msgstr ""
 #
 # File: module/Application/view/application/cars/listreservations.phtml, line: 30
