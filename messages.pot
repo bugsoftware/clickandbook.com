@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-28 14:52+0000\n"
+"POT-Creation-Date: 2024-10-31 13:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,12 +62,12 @@ msgstr ""
 # File: module/Application/src/Controller/CruisesController.php, line: 1469
 # File: module/Application/src/Controller/HotelsController.php, line: 951
 # File: module/Application/src/Controller/HotelsController.php, line: 1323
-# File: module/Application/src/Controller/FlightsController.php, line: 641
-# File: module/Application/src/Controller/FlightsController.php, line: 861
-# File: module/Application/src/Controller/FlightsController.php, line: 1081
-# File: module/Application/src/Controller/FlightsController.php, line: 1301
-# File: module/Application/src/Controller/FlightsController.php, line: 1910
-# File: module/Application/src/Controller/FlightsController.php, line: 2273
+# File: module/Application/src/Controller/FlightsController.php, line: 646
+# File: module/Application/src/Controller/FlightsController.php, line: 866
+# File: module/Application/src/Controller/FlightsController.php, line: 1086
+# File: module/Application/src/Controller/FlightsController.php, line: 1306
+# File: module/Application/src/Controller/FlightsController.php, line: 1915
+# File: module/Application/src/Controller/FlightsController.php, line: 2278
 # File: module/Application/src/Controller/CarsController.php, line: 950
 # File: module/Application/src/Controller/CarsController.php, line: 1291
 # File: module/Application/src/Controller/ActivitiesController.php, line: 952
@@ -1138,7 +1138,7 @@ msgstr ""
 # File: module/Application/view/application/agents/edit.phtml, line: 331
 # File: module/Application/view/application/agents/new.phtml, line: 92
 # File: module/Application/view/application/marketing/new.phtml, line: 177
-# File: module/Application/view/application/marketing/edit.phtml, line: 174
+# File: module/Application/view/application/marketing/edit.phtml, line: 180
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 169
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 141
 msgid "Please wait..."
@@ -2163,7 +2163,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/generalsettings.phtml, line: 12
 # File: module/Application/view/application/hotels/paymentsettings.phtml, line: 7
 # File: module/Application/view/application/hotels/paymentsettings.phtml, line: 12
-# File: module/Application/view/application/flights/index.phtml, line: 62
+# File: module/Application/view/application/flights/index.phtml, line: 75
 # File: module/Application/view/application/flights/settings.phtml, line: 7
 # File: module/Application/view/application/flights/settings.phtml, line: 12
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 7
@@ -2475,7 +2475,7 @@ msgid "Click the submit button before you preview your work."
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 79
-# File: module/Application/view/application/marketing/edit.phtml, line: 64
+# File: module/Application/view/application/marketing/edit.phtml, line: 70
 msgid "Theme"
 msgstr ""
 #
@@ -2830,7 +2830,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 39
 # File: module/Application/view/application/marketing/list.phtml, line: 29
 # File: module/Application/view/application/marketing/new.phtml, line: 53
-# File: module/Application/view/application/marketing/edit.phtml, line: 65
+# File: module/Application/view/application/marketing/edit.phtml, line: 71
 msgid "Action"
 msgstr ""
 #
@@ -3690,7 +3690,7 @@ msgstr ""
 # File: module/Application/view/application/agents/edit.phtml, line: 290
 # File: module/Application/view/application/agents/new.phtml, line: 51
 # File: module/Application/view/application/marketing/new.phtml, line: 113
-# File: module/Application/view/application/marketing/edit.phtml, line: 43
+# File: module/Application/view/application/marketing/edit.phtml, line: 49
 msgid "Save"
 msgstr ""
 #
@@ -4062,7 +4062,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 129
 # File: module/Application/view/application/hotels/index.phtml, line: 81
-# File: module/Application/view/application/flights/index.phtml, line: 81
+# File: module/Application/view/application/flights/index.phtml, line: 94
 # File: module/Application/view/application/cars/index.phtml, line: 81
 # File: module/Application/view/application/activities/index.phtml, line: 81
 # File: module/Application/view/application/transfers/index.phtml, line: 81
@@ -4538,28 +4538,32 @@ msgstr ""
 msgid "Please select the option that suits your preference and business strategy. You can change this option at any time."
 msgstr ""
 #
-# File: module/Application/view/application/flights/index.phtml, line: 91
+# File: module/Application/view/application/flights/index.phtml, line: 64
+msgid "Air Blocks"
+msgstr ""
+#
+# File: module/Application/view/application/flights/index.phtml, line: 104
 # File: module/Application/view/application/flights/issueticket.phtml, line: 7
 # File: module/Application/view/application/flights/issueticket.phtml, line: 12
 # File: module/Application/view/application/flights/issueticket.phtml, line: 18
 msgid "Issue Ticket"
 msgstr ""
 #
-# File: module/Application/view/application/flights/index.phtml, line: 101
+# File: module/Application/view/application/flights/index.phtml, line: 114
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 7
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 12
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 18
 msgid "Void Reservation"
 msgstr ""
 #
-# File: module/Application/view/application/flights/index.phtml, line: 111
+# File: module/Application/view/application/flights/index.phtml, line: 124
 # File: module/Application/view/application/flights/addbags.phtml, line: 7
 # File: module/Application/view/application/flights/addbags.phtml, line: 12
 # File: module/Application/view/application/flights/addbags.phtml, line: 18
 msgid "Add Baggage"
 msgstr ""
 #
-# File: module/Application/view/application/flights/index.phtml, line: 121
+# File: module/Application/view/application/flights/index.phtml, line: 134
 # File: module/Application/view/application/flights/selectseat.phtml, line: 7
 # File: module/Application/view/application/flights/selectseat.phtml, line: 12
 # File: module/Application/view/application/flights/selectseat.phtml, line: 18
@@ -6073,16 +6077,18 @@ msgid "Airport of Origin"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/new.phtml, line: 26
+# File: module/Application/view/application/marketing/edit.phtml, line: 26
 msgid "Airport of Destination"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/new.phtml, line: 27
-# File: module/Application/view/application/marketing/edit.phtml, line: 58
+# File: module/Application/view/application/marketing/edit.phtml, line: 27
+# File: module/Application/view/application/marketing/edit.phtml, line: 64
 msgid "Airline"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/new.phtml, line: 28
-# File: module/Application/view/application/marketing/edit.phtml, line: 26
+# File: module/Application/view/application/marketing/edit.phtml, line: 28
 msgid "Layout"
 msgstr ""
 #
@@ -6100,21 +6106,22 @@ msgid "Selected"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/new.phtml, line: 99
-# File: module/Application/view/application/marketing/edit.phtml, line: 29
+# File: module/Application/view/application/marketing/edit.phtml, line: 31
 msgid "Air Only"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/new.phtml, line: 103
+# File: module/Application/view/application/marketing/edit.phtml, line: 35
 msgid "Only Direct Flights"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/new.phtml, line: 105
-# File: module/Application/view/application/marketing/edit.phtml, line: 31
+# File: module/Application/view/application/marketing/edit.phtml, line: 37
 msgid "Page Title"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/new.phtml, line: 107
-# File: module/Application/view/application/marketing/edit.phtml, line: 33
+# File: module/Application/view/application/marketing/edit.phtml, line: 39
 msgid "Text"
 msgstr ""
 #
@@ -6123,35 +6130,35 @@ msgstr ""
 msgid "Campaign"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/edit.phtml, line: 38
+# File: module/Application/view/application/marketing/edit.phtml, line: 44
 msgid "Preview Campaign"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/edit.phtml, line: 52
+# File: module/Application/view/application/marketing/edit.phtml, line: 58
 msgid "Offers"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/edit.phtml, line: 59
+# File: module/Application/view/application/marketing/edit.phtml, line: 65
 msgid "Origin"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/edit.phtml, line: 60
+# File: module/Application/view/application/marketing/edit.phtml, line: 66
 msgid "Destination"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/edit.phtml, line: 61
+# File: module/Application/view/application/marketing/edit.phtml, line: 67
 msgid "Departure"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/edit.phtml, line: 62
+# File: module/Application/view/application/marketing/edit.phtml, line: 68
 msgid "Return"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/edit.phtml, line: 63
+# File: module/Application/view/application/marketing/edit.phtml, line: 69
 msgid "Fare"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/edit.phtml, line: 78
+# File: module/Application/view/application/marketing/edit.phtml, line: 84
 msgid "Delete Offer"
 msgstr ""
 #
