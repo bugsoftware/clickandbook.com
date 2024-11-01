@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-01 18:20+0000\n"
+"POT-Creation-Date: 2024-11-01 18:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1207,7 +1207,7 @@ msgstr ""
 # File: module/Application/view/application/flights/airblock.phtml, line: 123
 # File: module/Application/view/application/flights/newairblock.phtml, line: 96
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 137
-# File: module/Application/view/application/flights/blockavailability.phtml, line: 88
+# File: module/Application/view/application/flights/blockavailability.phtml, line: 87
 # File: module/Application/view/application/cars/settings.phtml, line: 78
 # File: module/Application/view/application/cars/generalsettings.phtml, line: 102
 # File: module/Application/view/application/cars/paymentsettings.phtml, line: 71
@@ -3800,7 +3800,7 @@ msgstr ""
 # File: module/Application/view/application/flights/airblock.phtml, line: 82
 # File: module/Application/view/application/flights/newairblock.phtml, line: 55
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 96
-# File: module/Application/view/application/flights/blockavailability.phtml, line: 47
+# File: module/Application/view/application/flights/blockavailability.phtml, line: 46
 # File: module/Application/view/application/support/edit.phtml, line: 42
 # File: module/Application/view/application/agents/edit.phtml, line: 290
 # File: module/Application/view/application/agents/new.phtml, line: 51
@@ -4907,7 +4907,6 @@ msgstr ""
 #
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 33
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 24
-# File: module/Application/view/application/flights/blockavailability.phtml, line: 25
 msgid "Charter"
 msgstr ""
 #
@@ -4972,12 +4971,10 @@ msgid "New Air Block Availability"
 msgstr ""
 #
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 24
-# File: module/Application/view/application/flights/blockavailability.phtml, line: 27
 msgid "Select Charter"
 msgstr ""
 #
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 25
-# File: module/Application/view/application/flights/blockavailability.phtml, line: 30
 msgid "Airport From"
 msgstr ""
 #
@@ -5115,7 +5112,7 @@ msgid "Check-in Luggage Info/Restrictions"
 msgstr ""
 #
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 90
-# File: module/Application/view/application/flights/blockavailability.phtml, line: 41
+# File: module/Application/view/application/flights/blockavailability.phtml, line: 40
 msgid "Memo"
 msgstr ""
 #
@@ -5123,6 +5120,18 @@ msgstr ""
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 13
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 20
 msgid "Edit Air Block Availability"
+msgstr ""
+#
+# File: module/Application/view/application/flights/blockavailability.phtml, line: 25
+msgid "Air Block"
+msgstr ""
+#
+# File: module/Application/view/application/flights/blockavailability.phtml, line: 27
+msgid "Select Air Block"
+msgstr ""
+#
+# File: module/Application/view/application/flights/blockavailability.phtml, line: 30
+msgid "From Airport"
 msgstr ""
 #
 # File: module/Application/view/application/cars/listreservations.phtml, line: 30
