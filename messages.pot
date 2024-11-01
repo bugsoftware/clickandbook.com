@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-01 07:15+0000\n"
+"POT-Creation-Date: 2024-11-01 11:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,12 +62,12 @@ msgstr ""
 # File: module/Application/src/Controller/CruisesController.php, line: 1469
 # File: module/Application/src/Controller/HotelsController.php, line: 951
 # File: module/Application/src/Controller/HotelsController.php, line: 1323
-# File: module/Application/src/Controller/FlightsController.php, line: 1110
-# File: module/Application/src/Controller/FlightsController.php, line: 1330
-# File: module/Application/src/Controller/FlightsController.php, line: 1550
-# File: module/Application/src/Controller/FlightsController.php, line: 1770
-# File: module/Application/src/Controller/FlightsController.php, line: 2379
-# File: module/Application/src/Controller/FlightsController.php, line: 2742
+# File: module/Application/src/Controller/FlightsController.php, line: 1296
+# File: module/Application/src/Controller/FlightsController.php, line: 1516
+# File: module/Application/src/Controller/FlightsController.php, line: 1736
+# File: module/Application/src/Controller/FlightsController.php, line: 1956
+# File: module/Application/src/Controller/FlightsController.php, line: 2565
+# File: module/Application/src/Controller/FlightsController.php, line: 2928
 # File: module/Application/src/Controller/CarsController.php, line: 950
 # File: module/Application/src/Controller/CarsController.php, line: 1291
 # File: module/Application/src/Controller/ActivitiesController.php, line: 952
@@ -154,24 +154,26 @@ msgstr ""
 msgid "Arabic"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 193
+# File: module/Application/src/Controller/FlightsController.php, line: 379
 msgid "All Companys"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 217
+# File: module/Application/src/Controller/FlightsController.php, line: 403
 msgid "All Airlines"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 240
+# File: module/Application/src/Controller/FlightsController.php, line: 426
 msgid "All Aircrafts"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 258
+# File: module/Application/src/Controller/FlightsController.php, line: 444
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 68
 # File: module/Application/view/application/agents/edit.phtml, line: 54
 msgid "Enabled"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 262
+# File: module/Application/src/Controller/FlightsController.php, line: 448
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 68
 # File: module/Application/view/application/agents/list.phtml, line: 66
 msgid "Disabled"
 msgstr ""
@@ -234,7 +236,9 @@ msgstr ""
 # File: module/Application/view/application/flights/addbags.phtml, line: 11
 # File: module/Application/view/application/flights/selectseat.phtml, line: 11
 # File: module/Application/view/application/flights/airblocks.phtml, line: 12
+# File: module/Application/view/application/flights/airblock.phtml, line: 12
 # File: module/Application/view/application/flights/newairblock.phtml, line: 12
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 12
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 109
 # File: module/Application/view/layout/layout.phtml, line: 133
 msgid "Flights"
@@ -756,7 +760,9 @@ msgstr ""
 # File: module/Application/view/application/flights/addbags.phtml, line: 10
 # File: module/Application/view/application/flights/selectseat.phtml, line: 10
 # File: module/Application/view/application/flights/airblocks.phtml, line: 11
+# File: module/Application/view/application/flights/airblock.phtml, line: 11
 # File: module/Application/view/application/flights/newairblock.phtml, line: 11
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 11
 # File: module/Application/view/application/cars/index.phtml, line: 10
 # File: module/Application/view/application/cars/listreservations.phtml, line: 11
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 11
@@ -948,6 +954,7 @@ msgstr ""
 # File: module/Application/view/application/flights/addbags.phtml, line: 68
 # File: module/Application/view/application/flights/selectseat.phtml, line: 67
 # File: module/Application/view/application/flights/airblocks.phtml, line: 52
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 70
 # File: module/Application/view/application/cars/listreservations.phtml, line: 50
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 79
 # File: module/Application/view/application/activities/listreservations.phtml, line: 52
@@ -1140,6 +1147,7 @@ msgstr ""
 # File: module/Application/view/application/flights/settings.phtml, line: 78
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 102
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 91
+# File: module/Application/view/application/flights/airblock.phtml, line: 101
 # File: module/Application/view/application/flights/newairblock.phtml, line: 96
 # File: module/Application/view/application/cars/settings.phtml, line: 78
 # File: module/Application/view/application/cars/generalsettings.phtml, line: 102
@@ -1465,6 +1473,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 138
 # File: module/Application/view/application/flights/airblocks.phtml, line: 37
+# File: module/Application/view/application/flights/airblock.phtml, line: 24
 # File: module/Application/view/application/flights/newairblock.phtml, line: 24
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 28
 # File: module/Application/view/application/marketing/list.phtml, line: 28
@@ -2391,6 +2400,7 @@ msgstr ""
 # File: module/Application/view/application/customers/new.phtml, line: 26
 # File: module/Application/view/application/customers/edit.phtml, line: 28
 # File: module/Application/view/application/customers/list.phtml, line: 29
+# File: module/Application/view/application/flights/airblock.phtml, line: 28
 # File: module/Application/view/application/flights/newairblock.phtml, line: 27
 # File: module/Application/view/application/support/list.phtml, line: 29
 # File: module/Application/view/application/support/search.phtml, line: 75
@@ -2837,6 +2847,7 @@ msgstr ""
 # File: module/Application/view/application/flights/addbags.phtml, line: 54
 # File: module/Application/view/application/flights/selectseat.phtml, line: 53
 # File: module/Application/view/application/flights/airblocks.phtml, line: 41
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 48
 # File: module/Application/view/application/cars/listreservations.phtml, line: 35
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 65
 # File: module/Application/view/application/activities/listreservations.phtml, line: 36
@@ -2942,6 +2953,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/securitylog.phtml, line: 86
 # File: module/Application/view/application/flights/airblocks.phtml, line: 40
+# File: module/Application/view/application/flights/airblock.phtml, line: 54
 # File: module/Application/view/application/flights/newairblock.phtml, line: 49
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 49
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 142
@@ -3379,7 +3391,9 @@ msgstr ""
 #
 # File: module/Application/view/application/index/banners.phtml, line: 80
 # File: module/Application/view/application/index/bannersedit.phtml, line: 130
+# File: module/Application/view/application/flights/airblock.phtml, line: 35
 # File: module/Application/view/application/flights/newairblock.phtml, line: 30
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 46
 # File: module/Application/view/application/support/list.phtml, line: 34
 # File: module/Application/view/application/support/search.phtml, line: 80
 # File: module/Application/view/application/support/edit.phtml, line: 34
@@ -3721,6 +3735,7 @@ msgstr ""
 #
 # File: module/Application/view/application/customers/new.phtml, line: 43
 # File: module/Application/view/application/customers/edit.phtml, line: 45
+# File: module/Application/view/application/flights/airblock.phtml, line: 60
 # File: module/Application/view/application/flights/newairblock.phtml, line: 55
 # File: module/Application/view/application/support/edit.phtml, line: 42
 # File: module/Application/view/application/agents/edit.phtml, line: 290
@@ -4618,6 +4633,7 @@ msgstr ""
 # File: module/Application/view/application/flights/addbags.phtml, line: 52
 # File: module/Application/view/application/flights/selectseat.phtml, line: 23
 # File: module/Application/view/application/flights/selectseat.phtml, line: 51
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 47
 msgid "PNR"
 msgstr ""
 #
@@ -4739,6 +4755,9 @@ msgid "Search Reservations-Select Seats"
 msgstr ""
 #
 # File: module/Application/view/application/flights/airblocks.phtml, line: 22
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 7
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 13
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 26
 msgid "Air Blocks Availability"
 msgstr ""
 #
@@ -4750,19 +4769,29 @@ msgid "New Air Block"
 msgstr ""
 #
 # File: module/Application/view/application/flights/airblocks.phtml, line: 38
+# File: module/Application/view/application/flights/airblock.phtml, line: 25
 # File: module/Application/view/application/flights/newairblock.phtml, line: 25
 msgid "Airport Origin"
 msgstr ""
 #
 # File: module/Application/view/application/flights/airblocks.phtml, line: 39
+# File: module/Application/view/application/flights/airblock.phtml, line: 26
 # File: module/Application/view/application/flights/newairblock.phtml, line: 26
 msgid "Airport Destination"
 msgstr ""
 #
+# File: module/Application/view/application/flights/airblock.phtml, line: 7
+# File: module/Application/view/application/flights/airblock.phtml, line: 13
+# File: module/Application/view/application/flights/airblock.phtml, line: 20
+msgid "Edit Air Block"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblock.phtml, line: 30
 # File: module/Application/view/application/flights/newairblock.phtml, line: 27
 msgid "Select Company"
 msgstr ""
 #
+# File: module/Application/view/application/flights/airblock.phtml, line: 33
 # File: module/Application/view/application/flights/newairblock.phtml, line: 28
 # File: module/Application/view/application/marketing/new.phtml, line: 27
 # File: module/Application/view/application/marketing/edit.phtml, line: 27
@@ -4770,30 +4799,94 @@ msgstr ""
 msgid "Airline"
 msgstr ""
 #
+# File: module/Application/view/application/flights/airblock.phtml, line: 33
 # File: module/Application/view/application/flights/newairblock.phtml, line: 28
 msgid "Select Airline"
 msgstr ""
 #
+# File: module/Application/view/application/flights/airblock.phtml, line: 34
 # File: module/Application/view/application/flights/newairblock.phtml, line: 29
 msgid "Airplane"
 msgstr ""
 #
+# File: module/Application/view/application/flights/airblock.phtml, line: 34
 # File: module/Application/view/application/flights/newairblock.phtml, line: 29
 msgid "Select Airplane"
 msgstr ""
 #
+# File: module/Application/view/application/flights/airblock.phtml, line: 38
 # File: module/Application/view/application/flights/newairblock.phtml, line: 33
 msgid "Featured"
 msgstr ""
 #
+# File: module/Application/view/application/flights/airblock.phtml, line: 40
 # File: module/Application/view/application/flights/newairblock.phtml, line: 35
 # File: module/Application/view/application/marketing/edit.phtml, line: 20
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 37
 msgid "Campaign"
 msgstr ""
 #
+# File: module/Application/view/application/flights/airblock.phtml, line: 41
 # File: module/Application/view/application/flights/newairblock.phtml, line: 36
 msgid "Destinations"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 22
+msgid "Add Air Block Availability"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 33
+msgid "Charter"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 34
+msgid "Flight No"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 35
+msgid "Return Flight No"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 36
+msgid "Campaing"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 37
+msgid "Allotment"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 38
+# File: module/Application/view/application/marketing/edit.phtml, line: 67
+msgid "Departure"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 39
+msgid "Arrrival"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 40
+# File: module/Application/view/application/marketing/edit.phtml, line: 68
+msgid "Return"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 41
+msgid "Return Arrival"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 42
+msgid "Price/Adult"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 43
+msgid "Price/Children"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 44
+msgid "Price/Infant"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 45
+msgid "Duration"
 msgstr ""
 #
 # File: module/Application/view/application/cars/listreservations.phtml, line: 30
@@ -6222,14 +6315,6 @@ msgstr ""
 #
 # File: module/Application/view/application/marketing/edit.phtml, line: 66
 msgid "Destination"
-msgstr ""
-#
-# File: module/Application/view/application/marketing/edit.phtml, line: 67
-msgid "Departure"
-msgstr ""
-#
-# File: module/Application/view/application/marketing/edit.phtml, line: 68
-msgid "Return"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/edit.phtml, line: 69
