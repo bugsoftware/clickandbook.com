@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-06 13:22+0000\n"
+"POT-Creation-Date: 2024-11-08 12:43+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1233,7 +1233,7 @@ msgstr ""
 # File: module/Application/view/application/agents/edit.phtml, line: 331
 # File: module/Application/view/application/agents/new.phtml, line: 92
 # File: module/Application/view/application/marketing/new.phtml, line: 193
-# File: module/Application/view/application/marketing/edit.phtml, line: 191
+# File: module/Application/view/application/marketing/edit.phtml, line: 203
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 169
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 141
 msgid "Please wait..."
@@ -2575,7 +2575,7 @@ msgid "Click the submit button before you preview your work."
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 79
-# File: module/Application/view/application/marketing/edit.phtml, line: 81
+# File: module/Application/view/application/marketing/edit.phtml, line: 93
 msgid "Theme"
 msgstr ""
 #
@@ -2932,7 +2932,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 39
 # File: module/Application/view/application/marketing/list.phtml, line: 29
 # File: module/Application/view/application/marketing/new.phtml, line: 57
-# File: module/Application/view/application/marketing/edit.phtml, line: 82
+# File: module/Application/view/application/marketing/edit.phtml, line: 94
 msgid "Action"
 msgstr ""
 #
@@ -4861,7 +4861,7 @@ msgstr ""
 # File: module/Application/view/application/flights/newairblock.phtml, line: 28
 # File: module/Application/view/application/marketing/new.phtml, line: 30
 # File: module/Application/view/application/marketing/edit.phtml, line: 28
-# File: module/Application/view/application/marketing/edit.phtml, line: 75
+# File: module/Application/view/application/marketing/edit.phtml, line: 87
 msgid "Airline"
 msgstr ""
 #
@@ -4935,7 +4935,7 @@ msgid "Allotment"
 msgstr ""
 #
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 38
-# File: module/Application/view/application/marketing/edit.phtml, line: 78
+# File: module/Application/view/application/marketing/edit.phtml, line: 90
 msgid "Departure"
 msgstr ""
 #
@@ -4944,7 +4944,7 @@ msgid "Arrrival"
 msgstr ""
 #
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 40
-# File: module/Application/view/application/marketing/edit.phtml, line: 79
+# File: module/Application/view/application/marketing/edit.phtml, line: 91
 msgid "Return"
 msgstr ""
 #
@@ -6600,19 +6600,23 @@ msgstr ""
 msgid "Remove"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/edit.phtml, line: 76
+# File: module/Application/view/application/marketing/edit.phtml, line: 71
+msgid "Alerts"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/edit.phtml, line: 88
 msgid "Origin"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/edit.phtml, line: 77
+# File: module/Application/view/application/marketing/edit.phtml, line: 89
 msgid "Destination"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/edit.phtml, line: 80
+# File: module/Application/view/application/marketing/edit.phtml, line: 92
 msgid "Fare"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/edit.phtml, line: 95
+# File: module/Application/view/application/marketing/edit.phtml, line: 107
 msgid "Delete Offer"
 msgstr ""
 #
