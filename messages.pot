@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-28 14:09+0000\n"
+"POT-Creation-Date: 2025-02-05 20:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -886,6 +886,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/edit.phtml, line: 11
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 12
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 12
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 12
 # File: module/Application/view/layout/layout.phtml, line: 7
 # File: module/Application/view/layout/layout.phtml, line: 129
 msgid "Dashboard"
@@ -948,6 +949,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/view.phtml, line: 10
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 13
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 13
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 14
 # File: module/Application/view/layout/layout.phtml, line: 143
 msgid "Marketing"
 msgstr ""
@@ -6521,6 +6523,12 @@ msgstr ""
 #
 # File: module/Application/view/application/marketing/index.phtml, line: 94
 msgid "Send Whatsapp Campaign"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/index.phtml, line: 113
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 7
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 16
+msgid "Sending Report"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/list.phtml, line: 46
