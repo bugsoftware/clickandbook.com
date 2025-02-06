@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-05 20:21+0000\n"
+"POT-Creation-Date: 2025-02-06 13:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -93,6 +93,7 @@ msgstr ""
 # File: module/Application/src/Controller/AgentsController.php, line: 2575
 # File: module/Application/src/Controller/AgentsController.php, line: 2596
 # File: module/Application/src/Controller/AgentsController.php, line: 2617
+# File: module/Application/src/Controller/MarketingController.php, line: 181
 msgid "Not Available"
 msgstr ""
 #
@@ -886,7 +887,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/edit.phtml, line: 11
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 12
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 12
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 12
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 10
 # File: module/Application/view/layout/layout.phtml, line: 7
 # File: module/Application/view/layout/layout.phtml, line: 129
 msgid "Dashboard"
@@ -949,7 +950,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/view.phtml, line: 10
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 13
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 13
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 14
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 11
 # File: module/Application/view/layout/layout.phtml, line: 143
 msgid "Marketing"
 msgstr ""
@@ -1619,6 +1620,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 126
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 140
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 38
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 30
 msgid "Subject"
 msgstr ""
 #
@@ -2757,6 +2759,7 @@ msgstr ""
 # File: module/Application/view/application/index/content.phtml, line: 70
 # File: module/Application/view/application/index/content.phtml, line: 91
 # File: module/Application/view/application/index/content.phtml, line: 116
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 33
 msgid "Language"
 msgstr ""
 #
@@ -2853,6 +2856,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/charge.phtml, line: 23
 # File: module/Application/view/application/quick-books/charge.phtml, line: 24
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 28
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 29
 msgid "Customer"
 msgstr ""
 #
@@ -3479,6 +3483,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 83
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 51
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 31
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 37
 msgid "Status"
 msgstr ""
 #
@@ -3731,6 +3736,7 @@ msgstr ""
 # File: module/Application/view/application/agents/view.phtml, line: 341
 # File: module/Application/view/application/agents/search.phtml, line: 54
 # File: module/Application/view/application/agents/searchagents.phtml, line: 64
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 54
 msgid "Pending"
 msgstr ""
 #
@@ -6527,7 +6533,8 @@ msgstr ""
 #
 # File: module/Application/view/application/marketing/index.phtml, line: 113
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 7
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 16
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 12
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 21
 msgid "Sending Report"
 msgstr ""
 #
@@ -6765,6 +6772,54 @@ msgstr ""
 #
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 37
 msgid "SMS/Text Subject"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 28
+msgid "Date/Time Created"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 31
+msgid "Error Status"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 32
+msgid "Phone Number"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 34
+msgid "Email Name"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 35
+msgid "Email From"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 36
+msgid "Email To"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 55
+msgid "Sent"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 56
+msgid "Same Email - Review customer"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 57
+msgid "Customer email invalid - Review customer"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 58
+msgid "Bounced - Change customer email"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 59
+msgid "Duplicate"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 60
+msgid "Unknown"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 61
