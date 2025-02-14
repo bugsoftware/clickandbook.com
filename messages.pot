@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-13 11:09-0500\n"
+"POT-Creation-Date: 2025-02-14 13:06-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -684,32 +684,32 @@ msgstr ""
 msgid "Country"
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 111
+# File: module/Application/src/Controller/JSONController.php, line: 223
 msgid "Asia"
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 114
+# File: module/Application/src/Controller/JSONController.php, line: 226
 msgid "Africa"
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 117
+# File: module/Application/src/Controller/JSONController.php, line: 229
 msgid "North America"
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 120
+# File: module/Application/src/Controller/JSONController.php, line: 232
 msgid "South America"
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 123
+# File: module/Application/src/Controller/JSONController.php, line: 235
 msgid "Europe"
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 126
-# File: module/Application/src/Controller/JSONController.php, line: 129
+# File: module/Application/src/Controller/JSONController.php, line: 238
+# File: module/Application/src/Controller/JSONController.php, line: 241
 msgid "Oceania"
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 653
+# File: module/Application/src/Controller/JSONController.php, line: 768
 msgid "Search for"
 msgstr ""
 #
@@ -1239,6 +1239,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/edit.phtml, line: 276
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 173
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 141
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 260
 msgid "Please wait..."
 msgstr ""
 #
@@ -1755,6 +1756,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 332
 # File: module/Application/view/application/index/tutorials.phtml, line: 419
 # File: module/Application/view/application/index/tutorials.phtml, line: 442
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 128
 msgid "Email address"
 msgstr ""
 #
@@ -2941,6 +2943,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/new.phtml, line: 70
 # File: module/Application/view/application/marketing/edit.phtml, line: 116
 # File: module/Application/view/application/marketing/edit.phtml, line: 163
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 48
 msgid "Action"
 msgstr ""
 #
@@ -3738,7 +3741,7 @@ msgstr ""
 # File: module/Application/view/application/agents/view.phtml, line: 341
 # File: module/Application/view/application/agents/search.phtml, line: 54
 # File: module/Application/view/application/agents/searchagents.phtml, line: 64
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 64
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 65
 msgid "Pending"
 msgstr ""
 #
@@ -5837,6 +5840,8 @@ msgid "View Video"
 msgstr ""
 #
 # File: module/Application/view/application/knowledge-base/item.phtml, line: 33
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 123
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 134
 msgid "Close"
 msgstr ""
 #
@@ -6809,28 +6814,43 @@ msgstr ""
 msgid "Email To"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 65
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 66
 msgid "Sent"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 66
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 67
 msgid "Same Email - Review customer"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 67
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 68
 msgid "Customer email invalid - Review customer"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 68
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 69
 msgid "Bounced - Change customer email"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 69
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 70
 msgid "Duplicate"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 70
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 71
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 273
+msgid "Email updated"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 72
 msgid "Unknown"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 76
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 122
+msgid "Edit Email"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 135
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 270
+msgid "Save changes"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 61
