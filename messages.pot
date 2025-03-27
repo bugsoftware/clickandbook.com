@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-12 03:22-0400\n"
+"POT-Creation-Date: 2025-03-27 11:06-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1174,7 +1174,7 @@ msgstr ""
 # File: module/Application/view/application/index/billing.phtml, line: 169
 # File: module/Application/view/application/index/billing.phtml, line: 175
 # File: module/Application/view/application/index/billing.phtml, line: 181
-# File: module/Application/view/application/index/settings.phtml, line: 316
+# File: module/Application/view/application/index/settings.phtml, line: 325
 # File: module/Application/view/application/index/whoarewe.phtml, line: 232
 # File: module/Application/view/application/index/whoarewe.phtml, line: 256
 # File: module/Application/view/application/index/whoarewe.phtml, line: 296
@@ -2531,7 +2531,7 @@ msgid "Upload Photo"
 msgstr ""
 #
 # File: module/Application/view/application/index/userinfo.phtml, line: 108
-# File: module/Application/view/application/index/settings.phtml, line: 299
+# File: module/Application/view/application/index/settings.phtml, line: 308
 # File: module/Application/view/application/index/socialmedia.phtml, line: 85
 # File: module/Application/view/application/index/content.phtml, line: 81
 # File: module/Application/view/application/index/content.phtml, line: 104
@@ -2631,111 +2631,119 @@ msgstr ""
 msgid "Disable Catalog"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 166
-msgid "Disable Popular Packages"
+# File: module/Application/view/application/index/settings.phtml, line: 160
+msgid "Disable Trip Planner"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 170
-msgid "Disable Popular Destinations"
+# File: module/Application/view/application/index/settings.phtml, line: 164
+msgid "Disable Air Blocks"
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 174
-msgid "Disable Destinations"
+msgid "Disable Popular Packages"
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 178
-msgid "Disable Winter Destinations"
+msgid "Disable Popular Destinations"
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 182
-msgid "Disable Airline Slider"
+msgid "Disable Destinations"
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 186
-msgid "Disable Discover Peru"
+msgid "Disable Winter Destinations"
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 190
-msgid "Disable Need Help"
+msgid "Disable Airline Slider"
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 194
-msgid "Disable Phone Information"
+msgid "Disable Discover Peru"
+msgstr ""
+#
+# File: module/Application/view/application/index/settings.phtml, line: 198
+msgid "Disable Need Help"
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 202
+msgid "Disable Phone Information"
+msgstr ""
+#
+# File: module/Application/view/application/index/settings.phtml, line: 211
 msgid "Only display company logo"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 206
+# File: module/Application/view/application/index/settings.phtml, line: 215
 msgid "Remove company logo"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 210
+# File: module/Application/view/application/index/settings.phtml, line: 219
 msgid "Remove Messagebird Chat Box"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 214
+# File: module/Application/view/application/index/settings.phtml, line: 223
 msgid "Secure SSL Connection"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 218
+# File: module/Application/view/application/index/settings.phtml, line: 227
 msgid "Email Source Modification"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 222
+# File: module/Application/view/application/index/settings.phtml, line: 231
 msgid "Email Address"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 224
+# File: module/Application/view/application/index/settings.phtml, line: 233
 msgid "Please enter the email address you wish to use for reservation correspondence"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 227
+# File: module/Application/view/application/index/settings.phtml, line: 236
 msgid "Display Name for Email"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 229
+# File: module/Application/view/application/index/settings.phtml, line: 238
 msgid "Please provide the name that will appear alongside your email address (e.g., Will Smith)"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 236
+# File: module/Application/view/application/index/settings.phtml, line: 245
 msgid "Select Default Currency"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 238
+# File: module/Application/view/application/index/settings.phtml, line: 247
 msgid "Select Currency"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 253
+# File: module/Application/view/application/index/settings.phtml, line: 262
 msgid "Disable All Currencies"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 259
+# File: module/Application/view/application/index/settings.phtml, line: 268
 msgid "Disable U.S. Dollar"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 265
+# File: module/Application/view/application/index/settings.phtml, line: 274
 msgid "Disable Argentine Peso"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 271
+# File: module/Application/view/application/index/settings.phtml, line: 280
 msgid "Disable Pound Sterling"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 277
+# File: module/Application/view/application/index/settings.phtml, line: 286
 msgid "Disable Euros"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 283
+# File: module/Application/view/application/index/settings.phtml, line: 292
 msgid "Disable Australian Dollar"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 289
+# File: module/Application/view/application/index/settings.phtml, line: 298
 msgid "Disable South African Rand"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 295
+# File: module/Application/view/application/index/settings.phtml, line: 304
 msgid "Disable Algerian Dinar"
 msgstr ""
 #
