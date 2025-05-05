@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-05 09:20-0400\n"
+"POT-Creation-Date: 2025-05-05 11:02-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2497,7 +2497,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 28
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 23
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 24
-# File: module/Application/view/application/marketing/view.phtml, line: 106
+# File: module/Application/view/application/marketing/view.phtml, line: 104
 msgid "Address"
 msgstr ""
 #
@@ -3564,7 +3564,7 @@ msgstr ""
 # File: module/Application/view/application/agents/view.phtml, line: 58
 # File: module/Application/view/application/marketing/list.phtml, line: 51
 # File: module/Application/view/application/marketing/view.phtml, line: 28
-# File: module/Application/view/application/marketing/view.phtml, line: 57
+# File: module/Application/view/application/marketing/view.phtml, line: 55
 msgid "Edit"
 msgstr ""
 #
@@ -3837,8 +3837,7 @@ msgid "Birthday"
 msgstr ""
 #
 # File: module/Application/view/application/customers/edit.phtml, line: 7
-# File: module/Application/view/application/marketing/edit.phtml, line: 8
-msgid "Edit Campaign"
+msgid "Edit Customers"
 msgstr ""
 #
 # File: module/Application/view/application/customers/edit.phtml, line: 43
@@ -3868,55 +3867,55 @@ msgstr ""
 # File: module/Application/view/application/customers/view.phtml, line: 39
 # File: module/Application/view/application/support/view.phtml, line: 27
 # File: module/Application/view/application/agents/view.phtml, line: 40
-# File: module/Application/view/application/marketing/view.phtml, line: 39
+# File: module/Application/view/application/marketing/view.phtml, line: 37
 msgid "Info"
 msgstr ""
 #
 # File: module/Application/view/application/customers/view.phtml, line: 60
 # File: module/Application/view/application/agents/view.phtml, line: 64
-# File: module/Application/view/application/marketing/view.phtml, line: 58
+# File: module/Application/view/application/marketing/view.phtml, line: 56
 msgid "Block"
 msgstr ""
 #
 # File: module/Application/view/application/customers/view.phtml, line: 69
 # File: module/Application/view/application/agents/view.phtml, line: 94
-# File: module/Application/view/application/marketing/view.phtml, line: 67
+# File: module/Application/view/application/marketing/view.phtml, line: 65
 msgid "Lifetime Spent"
 msgstr ""
 #
 # File: module/Application/view/application/customers/view.phtml, line: 87
 # File: module/Application/view/application/agents/view.phtml, line: 114
-# File: module/Application/view/application/marketing/view.phtml, line: 85
+# File: module/Application/view/application/marketing/view.phtml, line: 83
 msgid "Average Reservation"
 msgstr ""
 #
 # File: module/Application/view/application/customers/view.phtml, line: 98
 # File: module/Application/view/application/agents/view.phtml, line: 133
-# File: module/Application/view/application/marketing/view.phtml, line: 96
+# File: module/Application/view/application/marketing/view.phtml, line: 94
 msgid "Reservation Count"
 msgstr ""
 #
 # File: module/Application/view/application/customers/view.phtml, line: 153
 # File: module/Application/view/application/agents/view.phtml, line: 200
-# File: module/Application/view/application/marketing/view.phtml, line: 149
+# File: module/Application/view/application/marketing/view.phtml, line: 147
 msgid "Billing Address"
 msgstr ""
 #
 # File: module/Application/view/application/customers/view.phtml, line: 232
 # File: module/Application/view/application/agents/view.phtml, line: 303
-# File: module/Application/view/application/marketing/view.phtml, line: 229
+# File: module/Application/view/application/marketing/view.phtml, line: 227
 msgid "Recent Reservations"
 msgstr ""
 #
 # File: module/Application/view/application/customers/view.phtml, line: 234
 # File: module/Application/view/application/agents/view.phtml, line: 307
-# File: module/Application/view/application/marketing/view.phtml, line: 231
+# File: module/Application/view/application/marketing/view.phtml, line: 229
 msgid "View All"
 msgstr ""
 #
 # File: module/Application/view/application/customers/view.phtml, line: 275
 # File: module/Application/view/application/agents/view.phtml, line: 374
-# File: module/Application/view/application/marketing/view.phtml, line: 303
+# File: module/Application/view/application/marketing/view.phtml, line: 301
 msgid "History"
 msgstr ""
 #
@@ -3933,8 +3932,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 33
 # File: module/Application/view/application/view-reservation/index.phtml, line: 45
 # File: module/Application/view/application/agents/view.phtml, line: 393
-# File: module/Application/view/application/marketing/view.phtml, line: 324
-# File: module/Application/view/application/marketing/view.phtml, line: 353
+# File: module/Application/view/application/marketing/view.phtml, line: 322
+# File: module/Application/view/application/marketing/view.phtml, line: 351
 msgid "New Reservation"
 msgstr ""
 #
@@ -6676,6 +6675,10 @@ msgstr ""
 #
 # File: module/Application/view/application/marketing/new.phtml, line: 246
 msgid "Please select layout"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/edit.phtml, line: 8
+msgid "Edit Campaign"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/edit.phtml, line: 47
