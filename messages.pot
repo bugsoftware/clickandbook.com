@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-01 17:05-0400\n"
+"POT-Creation-Date: 2025-06-02 02:12-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,7 +66,7 @@ msgstr ""
 # File: module/Application/src/Controller/AgentsController.php, line: 3676
 # File: module/Application/src/Controller/AgentsController.php, line: 3697
 # File: module/Application/src/Controller/MarketingController.php, line: 190
-# File: module/Application/src/Controller/IndexController.php, line: 10203
+# File: module/Application/src/Controller/IndexController.php, line: 10286
 msgid "Not Available"
 msgstr ""
 #
@@ -118,6 +118,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/FlightsController.php, line: 364
 # File: module/Application/src/Controller/FlightsController.php, line: 985
+# File: module/Application/src/Controller/IndexController.php, line: 221
 msgid "Paid"
 msgstr ""
 #
@@ -175,14 +176,14 @@ msgstr ""
 #
 # File: module/Application/src/Controller/PackagesController.php, line: 449
 # File: module/Application/src/Controller/PackagesController.php, line: 1944
-# File: module/Application/view/application/index/index.phtml, line: 701
+# File: module/Application/view/application/index/index.phtml, line: 732
 # File: module/Application/view/application/packages/edit.phtml, line: 67
 msgid "No"
 msgstr ""
 #
 # File: module/Application/src/Controller/PackagesController.php, line: 453
 # File: module/Application/src/Controller/PackagesController.php, line: 1948
-# File: module/Application/view/application/index/index.phtml, line: 702
+# File: module/Application/view/application/index/index.phtml, line: 733
 # File: module/Application/view/application/packages/edit.phtml, line: 69
 msgid "Yes"
 msgstr ""
@@ -229,6 +230,7 @@ msgid "All Companies/Markets"
 msgstr ""
 #
 # File: module/Application/src/Controller/PackagesController.php, line: 630
+# File: module/Application/src/Controller/IndexController.php, line: 218
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 72
 msgid "Unknown"
 msgstr ""
@@ -474,7 +476,7 @@ msgstr ""
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 263
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 401
 # File: module/Application/view/application/index/index.phtml, line: 125
-# File: module/Application/view/application/index/index.phtml, line: 639
+# File: module/Application/view/application/index/index.phtml, line: 670
 # File: module/Application/view/application/reservations/index.phtml, line: 32
 # File: module/Application/view/application/reservations/list.phtml, line: 12
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 12
@@ -523,19 +525,19 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 149
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 424
-# File: module/Application/src/Controller/IndexController.php, line: 11290
+# File: module/Application/src/Controller/IndexController.php, line: 11373
 msgid "Arabic"
 msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 152
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 427
-# File: module/Application/src/Controller/IndexController.php, line: 11284
+# File: module/Application/src/Controller/IndexController.php, line: 11367
 msgid "Armenian"
 msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 155
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 430
-# File: module/Application/src/Controller/IndexController.php, line: 11286
+# File: module/Application/src/Controller/IndexController.php, line: 11369
 msgid "Chinese"
 msgstr ""
 #
@@ -546,7 +548,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 161
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 436
-# File: module/Application/src/Controller/IndexController.php, line: 11278
+# File: module/Application/src/Controller/IndexController.php, line: 11361
 msgid "French"
 msgstr ""
 #
@@ -567,13 +569,13 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 173
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 448
-# File: module/Application/src/Controller/IndexController.php, line: 11280
+# File: module/Application/src/Controller/IndexController.php, line: 11363
 msgid "Italian"
 msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 176
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 451
-# File: module/Application/src/Controller/IndexController.php, line: 11288
+# File: module/Application/src/Controller/IndexController.php, line: 11371
 msgid "Japanese"
 msgstr ""
 #
@@ -589,7 +591,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 185
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 460
-# File: module/Application/src/Controller/IndexController.php, line: 11276
+# File: module/Application/src/Controller/IndexController.php, line: 11359
 # File: module/Application/view/application/index/order.phtml, line: 67
 msgid "Portuguese"
 msgstr ""
@@ -606,7 +608,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 194
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 469
-# File: module/Application/src/Controller/IndexController.php, line: 11274
+# File: module/Application/src/Controller/IndexController.php, line: 11357
 # File: module/Application/view/application/index/order.phtml, line: 65
 msgid "Spanish"
 msgstr ""
@@ -623,7 +625,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 203
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 478
-# File: module/Application/src/Controller/IndexController.php, line: 11272
+# File: module/Application/src/Controller/IndexController.php, line: 11355
 # File: module/Application/view/application/index/order.phtml, line: 63
 msgid "English"
 msgstr ""
@@ -844,162 +846,183 @@ msgstr ""
 msgid "Search for"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1846
-# File: module/Application/src/Controller/IndexController.php, line: 1848
-# File: module/Application/src/Controller/IndexController.php, line: 1949
-# File: module/Application/src/Controller/IndexController.php, line: 1951
-# File: module/Application/src/Controller/IndexController.php, line: 8762
-# File: module/Application/src/Controller/IndexController.php, line: 8763
+# File: module/Application/src/Controller/IndexController.php, line: 223
+# File: module/Application/view/application/customers/search.phtml, line: 54
+# File: module/Application/view/application/customers/searchcustomers.phtml, line: 62
+# File: module/Application/view/application/customers/edit.phtml, line: 45
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 36
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 36
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 36
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 36
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 36
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 36
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 36
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 36
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 36
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 36
+# File: module/Application/view/application/agents/view.phtml, line: 341
+# File: module/Application/view/application/agents/search.phtml, line: 54
+# File: module/Application/view/application/agents/searchagents.phtml, line: 64
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 65
+msgid "Pending"
+msgstr ""
+#
+# File: module/Application/src/Controller/IndexController.php, line: 1925
+# File: module/Application/src/Controller/IndexController.php, line: 1927
+# File: module/Application/src/Controller/IndexController.php, line: 2028
+# File: module/Application/src/Controller/IndexController.php, line: 2030
+# File: module/Application/src/Controller/IndexController.php, line: 8841
+# File: module/Application/src/Controller/IndexController.php, line: 8842
 msgid "Hi"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1847
+# File: module/Application/src/Controller/IndexController.php, line: 1926
 msgid "You will be billed monthly on the"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1847
+# File: module/Application/src/Controller/IndexController.php, line: 1926
 msgid "of each month for the amount of"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1847
+# File: module/Application/src/Controller/IndexController.php, line: 1926
 msgid "based on your selected plan."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1848
+# File: module/Application/src/Controller/IndexController.php, line: 1927
 msgid "Success! You're Now Subscribed to Click & Book"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1848
+# File: module/Application/src/Controller/IndexController.php, line: 1927
 msgid "Thank you for subscribing to Click & Book! We're happy to confirm that your subscription is now active. You can log in to your dashboard at any time to manage your account, access exclusive features, and make the most of your plan."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1848
+# File: module/Application/src/Controller/IndexController.php, line: 1927
 msgid "If you have any questions or need assistance, our customer support team is always ready to help. Your subscription panel is as follows:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1850
+# File: module/Application/src/Controller/IndexController.php, line: 1929
 msgid "Approval Code:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1852
+# File: module/Application/src/Controller/IndexController.php, line: 1931
 msgid "Once again, welcome to Click & Book - We are excited to have you on board!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1852
-# File: module/Application/src/Controller/IndexController.php, line: 1951
-# File: module/Application/src/Controller/IndexController.php, line: 8763
+# File: module/Application/src/Controller/IndexController.php, line: 1931
+# File: module/Application/src/Controller/IndexController.php, line: 2030
+# File: module/Application/src/Controller/IndexController.php, line: 8842
 msgid "Thanks"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1853
+# File: module/Application/src/Controller/IndexController.php, line: 1932
 msgid "Your Click & Book Subscription Is Confirmed!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1868
+# File: module/Application/src/Controller/IndexController.php, line: 1947
 msgid "Membership Fee Click & Book Subscription Is Confirmed!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1951
+# File: module/Application/src/Controller/IndexController.php, line: 2030
 msgid "Click & Book Subscription Failed"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1951
+# File: module/Application/src/Controller/IndexController.php, line: 2030
 msgid "Unfortunately, we were unable to process your payment for your Click & Book subscription due to a credit card payment failure. As a result, your subscription could not be completed."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1951
+# File: module/Application/src/Controller/IndexController.php, line: 2030
 msgid "To resolve this issue, please try processing the payment again using a different card or verifying the details of your current payment method. If the issue persists, our customer support team is here to help. Selected subscription panel:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1951
+# File: module/Application/src/Controller/IndexController.php, line: 2030
 msgid "Thank you for choosing Click & Book. We look forward to assisting you!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 1952
+# File: module/Application/src/Controller/IndexController.php, line: 2031
 msgid "Click & Book Subscription Payment Failed!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8197
+# File: module/Application/src/Controller/IndexController.php, line: 8276
 msgid "Your Click & Book verification code is:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8416
-# File: module/Application/src/Controller/IndexController.php, line: 8618
+# File: module/Application/src/Controller/IndexController.php, line: 8495
+# File: module/Application/src/Controller/IndexController.php, line: 8697
 msgid "Dear Team,"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8418
+# File: module/Application/src/Controller/IndexController.php, line: 8497
 msgid "A member has successfully uploaded their identification document to the system. Please initiate the review process to verify compliance with our requirements."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8420
-# File: module/Application/src/Controller/IndexController.php, line: 8622
+# File: module/Application/src/Controller/IndexController.php, line: 8499
+# File: module/Application/src/Controller/IndexController.php, line: 8701
 msgid "Details:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8422
-# File: module/Application/src/Controller/IndexController.php, line: 8624
+# File: module/Application/src/Controller/IndexController.php, line: 8501
+# File: module/Application/src/Controller/IndexController.php, line: 8703
 msgid "Member Name:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8424
-# File: module/Application/src/Controller/IndexController.php, line: 8626
+# File: module/Application/src/Controller/IndexController.php, line: 8503
+# File: module/Application/src/Controller/IndexController.php, line: 8705
 msgid "Member Id:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8426
-# File: module/Application/src/Controller/IndexController.php, line: 8628
+# File: module/Application/src/Controller/IndexController.php, line: 8505
+# File: module/Application/src/Controller/IndexController.php, line: 8707
 msgid "Submission Date:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8428
+# File: module/Application/src/Controller/IndexController.php, line: 8507
 msgid "Please review all submitted documents and confirm their accuracy. If any issues are found, kindly reach out to the member for clarification or corrections."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8430
-# File: module/Application/src/Controller/IndexController.php, line: 8632
+# File: module/Application/src/Controller/IndexController.php, line: 8509
+# File: module/Application/src/Controller/IndexController.php, line: 8711
 msgid "Best regards,"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8432
-# File: module/Application/src/Controller/IndexController.php, line: 8634
+# File: module/Application/src/Controller/IndexController.php, line: 8511
+# File: module/Application/src/Controller/IndexController.php, line: 8713
 msgid "Click & Book Team"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8445
+# File: module/Application/src/Controller/IndexController.php, line: 8524
 msgid "Action Needed: Driver's License Submitted for Verification"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8620
+# File: module/Application/src/Controller/IndexController.php, line: 8699
 msgid "A member has successfully submitted their bank account information to the system. Please proceed with the review process to ensure compliance with verification requirements."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8630
+# File: module/Application/src/Controller/IndexController.php, line: 8709
 msgid "Please review all submitted bank account information and verify its accuracy. If any discrepancies are found, kindly contact the member for clarification or necessary corrections."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8647
+# File: module/Application/src/Controller/IndexController.php, line: 8726
 msgid "Action Required: Bank Account Information Submitted for Verification"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8763
-# File: module/Application/src/Controller/IndexController.php, line: 8764
+# File: module/Application/src/Controller/IndexController.php, line: 8842
+# File: module/Application/src/Controller/IndexController.php, line: 8843
 msgid "Verify your email"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8763
+# File: module/Application/src/Controller/IndexController.php, line: 8842
 msgid "To activate your account, please verify your email address. Your account will not be activated until your email address is confirmed."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8763
+# File: module/Application/src/Controller/IndexController.php, line: 8842
 msgid "Please enter this code to complete the email verification process."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 8763
+# File: module/Application/src/Controller/IndexController.php, line: 8842
 msgid "This is valid for 30 minutes only"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11282
+# File: module/Application/src/Controller/IndexController.php, line: 11365
 msgid "Deutsch"
 msgstr ""
 #
@@ -1037,6 +1060,7 @@ msgstr ""
 # File: module/Application/view/application/index/banners.phtml, line: 17
 # File: module/Application/view/application/index/bannersedit.phtml, line: 17
 # File: module/Application/view/application/index/order.phtml, line: 346
+# File: module/Application/view/application/index/transactions.phtml, line: 10
 # File: module/Application/view/application/customers/index.phtml, line: 10
 # File: module/Application/view/application/cruises/index.phtml, line: 8
 # File: module/Application/view/application/hotels/index.phtml, line: 9
@@ -1301,71 +1325,80 @@ msgstr ""
 msgid "Next Renewal Date"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 297
+# File: module/Application/view/application/index/index.phtml, line: 295
+# File: module/Application/view/application/index/transactions.phtml, line: 12
+msgid "Credit Card Transactions"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 296
+msgid "Your Charges Summary"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 306
 msgid "Cancel Subscription"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 298
+# File: module/Application/view/application/index/index.phtml, line: 307
 msgid "Cancel Next Renewal Date"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 637
-# File: module/Application/view/application/index/index.phtml, line: 663
+# File: module/Application/view/application/index/index.phtml, line: 668
+# File: module/Application/view/application/index/index.phtml, line: 694
 msgid "Monday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 637
-# File: module/Application/view/application/index/index.phtml, line: 663
+# File: module/Application/view/application/index/index.phtml, line: 668
+# File: module/Application/view/application/index/index.phtml, line: 694
 msgid "Tuesday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 637
-# File: module/Application/view/application/index/index.phtml, line: 663
+# File: module/Application/view/application/index/index.phtml, line: 668
+# File: module/Application/view/application/index/index.phtml, line: 694
 msgid "Wednesday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 637
-# File: module/Application/view/application/index/index.phtml, line: 663
+# File: module/Application/view/application/index/index.phtml, line: 668
+# File: module/Application/view/application/index/index.phtml, line: 694
 msgid "Thursday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 637
-# File: module/Application/view/application/index/index.phtml, line: 663
+# File: module/Application/view/application/index/index.phtml, line: 668
+# File: module/Application/view/application/index/index.phtml, line: 694
 msgid "Friday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 637
-# File: module/Application/view/application/index/index.phtml, line: 663
+# File: module/Application/view/application/index/index.phtml, line: 668
+# File: module/Application/view/application/index/index.phtml, line: 694
 msgid "Saturday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 637
-# File: module/Application/view/application/index/index.phtml, line: 663
+# File: module/Application/view/application/index/index.phtml, line: 668
+# File: module/Application/view/application/index/index.phtml, line: 694
 msgid "Sunday"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 665
+# File: module/Application/view/application/index/index.phtml, line: 696
 msgid "Searches"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 688
+# File: module/Application/view/application/index/index.phtml, line: 719
 # File: module/Application/view/application/index/setup.phtml, line: 163
 msgid "Next"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 688
+# File: module/Application/view/application/index/index.phtml, line: 719
 msgid "Prev"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 688
+# File: module/Application/view/application/index/index.phtml, line: 719
 msgid "Done"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 696
+# File: module/Application/view/application/index/index.phtml, line: 727
 msgid "Cancel subscription"
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 699
+# File: module/Application/view/application/index/index.phtml, line: 730
 msgid "Are you sure you want to cancel your subscription? Once canceled, you will lose access to all your data. Do you want to proceed?"
 msgstr ""
 #
@@ -2364,6 +2397,7 @@ msgstr ""
 # File: module/Application/view/application/index/seo.phtml, line: 42
 # File: module/Application/view/application/index/banners.phtml, line: 49
 # File: module/Application/view/application/index/bannersedit.phtml, line: 46
+# File: module/Application/view/application/index/transactions.phtml, line: 6
 # File: module/Application/view/layout/layout.phtml, line: 80
 msgid "Billing"
 msgstr ""
@@ -3983,6 +4017,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/banners.phtml, line: 80
 # File: module/Application/view/application/index/bannersedit.phtml, line: 130
+# File: module/Application/view/application/index/transactions.phtml, line: 27
 # File: module/Application/view/application/flights/airblock.phtml, line: 43
 # File: module/Application/view/application/flights/airblock.phtml, line: 45
 # File: module/Application/view/application/flights/newairblock.phtml, line: 30
@@ -4280,6 +4315,33 @@ msgstr ""
 msgid "You must acknowledge the non-refundable policy before proceeding."
 msgstr ""
 #
+# File: module/Application/view/application/index/transactions.phtml, line: 19
+msgid "Transaction History: Complete Record of Transactions"
+msgstr ""
+#
+# File: module/Application/view/application/index/transactions.phtml, line: 25
+# File: module/Application/view/application/agents/view.phtml, line: 335
+# File: module/Application/view/application/marketing/list.phtml, line: 27
+msgid "Date"
+msgstr ""
+#
+# File: module/Application/view/application/index/transactions.phtml, line: 26
+# File: module/Application/view/application/agents/edit.phtml, line: 150
+# File: module/Application/view/application/agents/edit.phtml, line: 152
+# File: module/Application/view/application/agents/new.phtml, line: 37
+msgid "Plan"
+msgstr ""
+#
+# File: module/Application/view/application/index/transactions.phtml, line: 28
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 46
+# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 100
+# File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 68
+# File: module/Application/view/application/quick-books/charge.phtml, line: 27
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 29
+# File: module/Application/view/application/quick-books/editcharge.phtml, line: 26
+msgid "Amount"
+msgstr ""
+#
 # File: module/Application/view/application/customers/index.phtml, line: 41
 # File: module/Application/view/application/customers/new.phtml, line: 7
 # File: module/Application/view/application/customers/new.phtml, line: 20
@@ -4412,26 +4474,6 @@ msgstr ""
 # File: module/Application/view/application/agents/search.phtml, line: 53
 # File: module/Application/view/application/agents/searchagents.phtml, line: 62
 msgid "Choose status"
-msgstr ""
-#
-# File: module/Application/view/application/customers/search.phtml, line: 54
-# File: module/Application/view/application/customers/searchcustomers.phtml, line: 62
-# File: module/Application/view/application/customers/edit.phtml, line: 45
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 36
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 36
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 36
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 36
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 36
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 36
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 36
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 36
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 36
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 36
-# File: module/Application/view/application/agents/view.phtml, line: 341
-# File: module/Application/view/application/agents/search.phtml, line: 54
-# File: module/Application/view/application/agents/searchagents.phtml, line: 64
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 65
-msgid "Pending"
 msgstr ""
 #
 # File: module/Application/view/application/customers/search.phtml, line: 55
@@ -7093,12 +7135,6 @@ msgstr ""
 msgid "Packages Markups"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 150
-# File: module/Application/view/application/agents/edit.phtml, line: 152
-# File: module/Application/view/application/agents/new.phtml, line: 37
-msgid "Plan"
-msgstr ""
-#
 # File: module/Application/view/application/agents/edit.phtml, line: 181
 msgid "Disable"
 msgstr ""
@@ -7244,11 +7280,6 @@ msgstr ""
 #
 # File: module/Application/view/application/agents/view.phtml, line: 324
 msgid "Id"
-msgstr ""
-#
-# File: module/Application/view/application/agents/view.phtml, line: 335
-# File: module/Application/view/application/marketing/list.phtml, line: 27
-msgid "Date"
 msgstr ""
 #
 # File: module/Application/view/application/agents/view.phtml, line: 357
@@ -7398,15 +7429,6 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 49
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 47
 msgid "Day"
-msgstr ""
-#
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 46
-# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 100
-# File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 68
-# File: module/Application/view/application/quick-books/charge.phtml, line: 27
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 29
-# File: module/Application/view/application/quick-books/editcharge.phtml, line: 26
-msgid "Amount"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 48
