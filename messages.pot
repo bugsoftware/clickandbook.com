@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-06 10:14-0400\n"
+"POT-Creation-Date: 2025-06-06 12:27-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -511,7 +511,7 @@ msgstr ""
 # File: module/Application/view/application/index/billing.phtml, line: 117
 # File: module/Application/view/application/reports/index.phtml, line: 32
 # File: module/Application/view/application/reports/globalware.phtml, line: 11
-# File: module/Application/view/application/reports/search.phtml, line: 11
+# File: module/Application/view/application/reports/search.phtml, line: 12
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 337
 # File: module/Application/view/layout/layout.phtml, line: 144
 msgid "Reports"
@@ -1247,8 +1247,9 @@ msgstr ""
 # File: module/Application/view/application/packages/index.phtml, line: 15
 # File: module/Application/view/application/packages/packages.phtml, line: 19
 # File: module/Application/view/application/insurances/index.phtml, line: 16
+# File: module/Application/view/application/reports/index.phtml, line: 21
 # File: module/Application/view/application/reports/globalware.phtml, line: 17
-# File: module/Application/view/application/reports/search.phtml, line: 17
+# File: module/Application/view/application/reports/search.phtml, line: 18
 # File: module/Application/view/application/agents/index.phtml, line: 22
 msgid "Take a Tour"
 msgstr ""
@@ -1562,6 +1563,7 @@ msgstr ""
 # File: module/Application/view/application/packages/newpackage.phtml, line: 151
 # File: module/Application/view/application/packages/edit.phtml, line: 192
 # File: module/Application/view/application/insurances/settings.phtml, line: 102
+# File: module/Application/view/application/reports/search.phtml, line: 115
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 426
 # File: module/Application/view/application/support/edit.phtml, line: 83
 # File: module/Application/view/application/agents/edit.phtml, line: 761
@@ -2923,7 +2925,9 @@ msgstr ""
 # File: module/Application/view/application/index/settings.phtml, line: 43
 # File: module/Application/view/application/index/seo.phtml, line: 43
 # File: module/Application/view/application/index/transactions.phtml, line: 29
-# File: module/Application/view/application/reports/search.phtml, line: 32
+# File: module/Application/view/application/reports/globalware.phtml, line: 33
+# File: module/Application/view/application/reports/search.phtml, line: 42
+# File: module/Application/view/application/reports/search.phtml, line: 72
 msgid "Invoice"
 msgstr ""
 #
@@ -4343,7 +4347,8 @@ msgid "Transaction History: Complete Record of Transactions"
 msgstr ""
 #
 # File: module/Application/view/application/index/transactions.phtml, line: 25
-# File: module/Application/view/application/reports/search.phtml, line: 31
+# File: module/Application/view/application/reports/globalware.phtml, line: 32
+# File: module/Application/view/application/reports/search.phtml, line: 71
 # File: module/Application/view/application/agents/view.phtml, line: 335
 # File: module/Application/view/application/marketing/list.phtml, line: 27
 msgid "Date"
@@ -4434,6 +4439,7 @@ msgstr ""
 # File: module/Application/view/application/reservations/index.phtml, line: 51
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 42
 # File: module/Application/view/application/reports/index.phtml, line: 51
+# File: module/Application/view/application/reports/search.phtml, line: 54
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 30
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 34
 # File: module/Application/view/application/support/index.phtml, line: 38
@@ -5021,7 +5027,8 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/listreservations.phtml, line: 33
 # File: module/Application/view/application/packages/listreservations.phtml, line: 33
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 33
-# File: module/Application/view/application/reports/search.phtml, line: 39
+# File: module/Application/view/application/reports/globalware.phtml, line: 40
+# File: module/Application/view/application/reports/search.phtml, line: 79
 msgid "Commission"
 msgstr ""
 #
@@ -5035,6 +5042,7 @@ msgstr ""
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 20
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 20
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 20
+# File: module/Application/view/application/reports/search.phtml, line: 27
 msgid "Use the form below to search for reservations. Input your query and press the search button."
 msgstr ""
 #
@@ -5521,7 +5529,9 @@ msgstr ""
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 50
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 28
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 33
-# File: module/Application/view/application/reports/search.phtml, line: 36
+# File: module/Application/view/application/reports/globalware.phtml, line: 37
+# File: module/Application/view/application/reports/search.phtml, line: 38
+# File: module/Application/view/application/reports/search.phtml, line: 76
 msgid "PNR"
 msgstr ""
 #
@@ -6581,7 +6591,8 @@ msgid "Dinners"
 msgstr ""
 #
 # File: module/Application/view/application/packages/newpackage.phtml, line: 79
-# File: module/Application/view/application/reports/search.phtml, line: 34
+# File: module/Application/view/application/reports/globalware.phtml, line: 35
+# File: module/Application/view/application/reports/search.phtml, line: 74
 msgid "Itinerary"
 msgstr ""
 #
@@ -6687,27 +6698,70 @@ msgid "Search Reservation"
 msgstr ""
 #
 # File: module/Application/view/application/reports/index.phtml, line: 42
+# File: module/Application/view/application/reports/globalware.phtml, line: 26
+# File: module/Application/view/application/reports/search.phtml, line: 32
 msgid "Globalware"
 msgstr ""
 #
-# File: module/Application/view/application/reports/search.phtml, line: 25
-msgid "Search Report"
+# File: module/Application/view/application/reports/index.phtml, line: 43
+# File: module/Application/view/application/reports/index.phtml, line: 52
+msgid "Commissions"
 msgstr ""
 #
-# File: module/Application/view/application/reports/search.phtml, line: 33
+# File: module/Application/view/application/reports/globalware.phtml, line: 26
+# File: module/Application/view/application/reports/search.phtml, line: 32
+msgid "Commission Report for "
+msgstr ""
+#
+# File: module/Application/view/application/reports/globalware.phtml, line: 26
+# File: module/Application/view/application/reports/search.phtml, line: 32
+msgid "from"
+msgstr ""
+#
+# File: module/Application/view/application/reports/globalware.phtml, line: 26
+# File: module/Application/view/application/reports/search.phtml, line: 32
+msgid "to"
+msgstr ""
+#
+# File: module/Application/view/application/reports/globalware.phtml, line: 34
+# File: module/Application/view/application/reports/search.phtml, line: 73
 msgid "Account Id"
 msgstr ""
 #
-# File: module/Application/view/application/reports/search.phtml, line: 35
+# File: module/Application/view/application/reports/globalware.phtml, line: 36
+# File: module/Application/view/application/reports/search.phtml, line: 75
 msgid "Ticket Number"
 msgstr ""
 #
-# File: module/Application/view/application/reports/search.phtml, line: 37
+# File: module/Application/view/application/reports/globalware.phtml, line: 38
+# File: module/Application/view/application/reports/search.phtml, line: 77
 msgid "Base Fare"
 msgstr ""
 #
-# File: module/Application/view/application/reports/search.phtml, line: 38
+# File: module/Application/view/application/reports/globalware.phtml, line: 39
+# File: module/Application/view/application/reports/search.phtml, line: 78
 msgid "Taxes"
+msgstr ""
+#
+# File: module/Application/view/application/reports/globalware.phtml, line: 59
+# File: module/Application/view/application/reports/search.phtml, line: 99
+msgid "Total:"
+msgstr ""
+#
+# File: module/Application/view/application/reports/search.phtml, line: 32
+msgid "Search for Commissions"
+msgstr ""
+#
+# File: module/Application/view/application/reports/search.phtml, line: 46
+msgid "Search From Date"
+msgstr ""
+#
+# File: module/Application/view/application/reports/search.phtml, line: 50
+msgid "Search To Date"
+msgstr ""
+#
+# File: module/Application/view/application/reports/search.phtml, line: 65
+msgid "Search Report"
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index.phtml, line: 7
