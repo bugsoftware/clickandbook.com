@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-04 03:01-0400\n"
+"POT-Creation-Date: 2025-07-08 01:52-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4433,7 +4433,7 @@ msgid "Expiration Date"
 msgstr ""
 #
 # File: module/Application/view/application/index/order.phtml, line: 377
-# File: module/Application/view/application/view-reservation/index.phtml, line: 276
+# File: module/Application/view/application/view-reservation/index.phtml, line: 309
 msgid "Billing Information"
 msgstr ""
 #
@@ -5194,7 +5194,7 @@ msgstr ""
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 31
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 31
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 31
-# File: module/Application/view/application/view-reservation/index.phtml, line: 187
+# File: module/Application/view/application/view-reservation/index.phtml, line: 188
 msgid "Travel Date"
 msgstr ""
 #
@@ -5210,7 +5210,7 @@ msgstr ""
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 34
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 29
 # File: module/Application/view/application/view-reservation/index.phtml, line: 58
-# File: module/Application/view/application/view-reservation/index.phtml, line: 271
+# File: module/Application/view/application/view-reservation/index.phtml, line: 304
 # File: module/Application/view/application/view-reservation/status.phtml, line: 13
 # File: module/Application/view/application/view-reservation/status.phtml, line: 16
 msgid "Reservation Status"
@@ -5924,7 +5924,7 @@ msgid "Return Arrival"
 msgstr ""
 #
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 42
-# File: module/Application/view/application/view-reservation/index.phtml, line: 190
+# File: module/Application/view/application/view-reservation/index.phtml, line: 191
 msgid "Price"
 msgstr ""
 #
@@ -7025,6 +7025,7 @@ msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index.phtml, line: 17
 # File: module/Application/view/application/view-reservation/index.phtml, line: 21
+# File: module/Application/view/application/view-reservation/index.phtml, line: 260
 msgid "View Reservation"
 msgstr ""
 #
@@ -7041,68 +7042,116 @@ msgstr ""
 msgid "Unknown Status"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 134
+# File: module/Application/view/application/view-reservation/index.phtml, line: 135
 msgid "Tracking"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 134
+# File: module/Application/view/application/view-reservation/index.phtml, line: 135
 msgid "GEO Target Location"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 135
+# File: module/Application/view/application/view-reservation/index.phtml, line: 136
 msgid "IP Address:"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 138
+# File: module/Application/view/application/view-reservation/index.phtml, line: 139
 msgid "Location:"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 140
+# File: module/Application/view/application/view-reservation/index.phtml, line: 141
 msgid "Mobile:"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 142
+# File: module/Application/view/application/view-reservation/index.phtml, line: 143
 msgid "ISP:"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 176
+# File: module/Application/view/application/view-reservation/index.phtml, line: 177
 msgid "Reservation"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 184
+# File: module/Application/view/application/view-reservation/index.phtml, line: 185
 msgid "Service"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 242
+# File: module/Application/view/application/view-reservation/index.phtml, line: 243
 msgid "Service Fee :"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 243
+# File: module/Application/view/application/view-reservation/index.phtml, line: 244
 msgid "Discount :"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 244
+# File: module/Application/view/application/view-reservation/index.phtml, line: 245
 msgid "Total :"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 253
+# File: module/Application/view/application/view-reservation/index.phtml, line: 254
 msgid "Invoice was created on a computer and is valid without the signature and seal."
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 258
-msgid "Payment Link"
+# File: module/Application/view/application/view-reservation/index.phtml, line: 259
+msgid "Cancel Reservation"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 261
+msgid "View Voucher"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 264
+msgid "Send Reservation"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 267
+# File: module/Application/view/application/view-reservation/index.phtml, line: 276
+# File: module/Application/view/application/view-reservation/index.phtml, line: 283
+msgid "By Email"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 268
+# File: module/Application/view/application/view-reservation/index.phtml, line: 277
+# File: module/Application/view/application/view-reservation/index.phtml, line: 284
+msgid "By Whatsapp"
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index.phtml, line: 273
+msgid "Send Voucher"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 281
+# File: module/Application/view/application/view-reservation/index.phtml, line: 478
+msgid "Send Payment Link"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 291
+msgid "Payment Link"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 306
 msgid "Credit Card Information"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 279
+# File: module/Application/view/application/view-reservation/index.phtml, line: 312
 msgid "Passenger Information"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 294
+# File: module/Application/view/application/view-reservation/index.phtml, line: 327
 msgid "Auditing Details"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 483
+msgid "Complete the information below to generate your personalized payment link"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 503
+# File: module/Application/view/application/knowledge-base/item.phtml, line: 33
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 123
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 134
+msgid "Close"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 504
+msgid "Send"
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/guests.phtml, line: 8
@@ -7301,12 +7350,6 @@ msgstr ""
 #
 # File: module/Application/view/application/knowledge-base/item.phtml, line: 29
 msgid "View Video"
-msgstr ""
-#
-# File: module/Application/view/application/knowledge-base/item.phtml, line: 33
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 123
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 134
-msgid "Close"
 msgstr ""
 #
 # File: module/Application/view/application/knowledge-base/list.phtml, line: 30
