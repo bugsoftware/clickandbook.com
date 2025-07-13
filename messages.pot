@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-13 17:58-0400\n"
+"POT-Creation-Date: 2025-07-13 18:59-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -225,7 +225,7 @@ msgid "5"
 msgstr ""
 #
 # File: module/Application/src/Controller/PackagesController.php, line: 621
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1095
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1427
 msgid "All Companies/Markets"
 msgstr ""
 #
@@ -396,41 +396,33 @@ msgstr ""
 msgid "PayeeZy"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 203
-# File: module/Application/src/Controller/ViewReservationController.php, line: 211
-# File: module/Application/src/Controller/ViewReservationController.php, line: 431
-# File: module/Application/src/Controller/ViewReservationController.php, line: 439
+# File: module/Application/src/Controller/ViewReservationController.php, line: 763
+# File: module/Application/src/Controller/ViewReservationController.php, line: 771
 msgid "Dear"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 204
-# File: module/Application/src/Controller/ViewReservationController.php, line: 432
+# File: module/Application/src/Controller/ViewReservationController.php, line: 764
 # File: module/Application/view/application/view-reservation/index.phtml, line: 310
 msgid "Payment Link"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 211
-# File: module/Application/src/Controller/ViewReservationController.php, line: 439
+# File: module/Application/src/Controller/ViewReservationController.php, line: 771
 msgid "Complete the payment using the secure link provided below."
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 211
-# File: module/Application/src/Controller/ViewReservationController.php, line: 439
+# File: module/Application/src/Controller/ViewReservationController.php, line: 771
 msgid "Thank you for choosing us! To confirm your reservation, please complete your payment using the secure link provided below."
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 211
-# File: module/Application/src/Controller/ViewReservationController.php, line: 439
+# File: module/Application/src/Controller/ViewReservationController.php, line: 771
 msgid "If you have any questions or need assistance, our customer support team is always ready to help."
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 215
-# File: module/Application/src/Controller/ViewReservationController.php, line: 443
+# File: module/Application/src/Controller/ViewReservationController.php, line: 775
 msgid "Simply click the link to finalize your payment. If you have any questions or need assistance, feel free to reach out-we're here to help!"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 215
-# File: module/Application/src/Controller/ViewReservationController.php, line: 443
+# File: module/Application/src/Controller/ViewReservationController.php, line: 775
 # File: module/Application/src/Controller/IndexController.php, line: 2104
 # File: module/Application/src/Controller/IndexController.php, line: 2146
 # File: module/Application/src/Controller/IndexController.php, line: 2249
@@ -438,17 +430,16 @@ msgstr ""
 msgid "Thanks"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 216
-# File: module/Application/src/Controller/ViewReservationController.php, line: 444
+# File: module/Application/src/Controller/ViewReservationController.php, line: 776
 msgid "Payment Link for Your Reservation - Action Required"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1032
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1364
 msgid "All Departments"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1051
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1070
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1383
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1402
 msgid "Direct Booking"
 msgstr ""
 #
@@ -902,8 +893,9 @@ msgstr ""
 # File: module/Application/view/application/customers/list.phtml, line: 35
 # File: module/Application/view/application/packages/newpackage.phtml, line: 101
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 45
-# File: module/Application/view/application/view-reservation/index.phtml, line: 561
-# File: module/Application/view/application/view-reservation/index.phtml, line: 596
+# File: module/Application/view/application/view-reservation/index.phtml, line: 582
+# File: module/Application/view/application/view-reservation/index.phtml, line: 617
+# File: module/Application/view/application/view-reservation/index.phtml, line: 652
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 40
 # File: module/Application/view/application/support/list.phtml, line: 32
 # File: module/Application/view/application/support/search.phtml, line: 40
@@ -952,8 +944,9 @@ msgstr ""
 # File: module/Application/view/application/customers/edit.phtml, line: 40
 # File: module/Application/view/application/customers/list.phtml, line: 36
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 49
-# File: module/Application/view/application/view-reservation/index.phtml, line: 565
-# File: module/Application/view/application/view-reservation/index.phtml, line: 600
+# File: module/Application/view/application/view-reservation/index.phtml, line: 586
+# File: module/Application/view/application/view-reservation/index.phtml, line: 621
+# File: module/Application/view/application/view-reservation/index.phtml, line: 656
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 36
 # File: module/Application/view/application/support/list.phtml, line: 33
 # File: module/Application/view/application/support/search.phtml, line: 44
@@ -1244,47 +1237,47 @@ msgstr ""
 msgid "Deutsch"
 msgstr ""
 #
-# File: module/Application/src/Shared/Sendemailv2.php, line: 441
-# File: module/Application/src/Shared/Sendemailv2.php, line: 447
+# File: module/Application/src/Shared/Sendemailv2.php, line: 484
+# File: module/Application/src/Shared/Sendemailv2.php, line: 490
 msgid "Reservation is being processed"
 msgstr ""
 #
-# File: module/Application/src/Shared/Sendemailv2.php, line: 833
+# File: module/Application/src/Shared/Sendemailv2.php, line: 924
 msgid "Your Reservation is Confirmed"
 msgstr ""
 #
-# File: module/Application/src/Shared/Sendemailv2.php, line: 835
-# File: module/Application/src/Shared/Sendemailv2.php, line: 841
-# File: module/Application/src/Shared/Sendemailv2.php, line: 2670
-# File: module/Application/src/Shared/Sendemailv2.php, line: 2672
-# File: module/Application/src/Shared/Sendemailv2.php, line: 2688
-# File: module/Application/src/Shared/Sendemailv2.php, line: 2690
+# File: module/Application/src/Shared/Sendemailv2.php, line: 926
+# File: module/Application/src/Shared/Sendemailv2.php, line: 932
+# File: module/Application/src/Shared/Sendemailv2.php, line: 2891
+# File: module/Application/src/Shared/Sendemailv2.php, line: 2893
+# File: module/Application/src/Shared/Sendemailv2.php, line: 2909
+# File: module/Application/src/Shared/Sendemailv2.php, line: 2911
 msgid "Your Reservation with"
 msgstr ""
 #
-# File: module/Application/src/Shared/Sendemailv2.php, line: 835
-# File: module/Application/src/Shared/Sendemailv2.php, line: 2670
-# File: module/Application/src/Shared/Sendemailv2.php, line: 2688
+# File: module/Application/src/Shared/Sendemailv2.php, line: 926
+# File: module/Application/src/Shared/Sendemailv2.php, line: 2891
+# File: module/Application/src/Shared/Sendemailv2.php, line: 2909
 msgid "is Confirmed"
 msgstr ""
 #
-# File: module/Application/src/Shared/Sendemailv2.php, line: 839
+# File: module/Application/src/Shared/Sendemailv2.php, line: 930
 msgid "Your Reservation is Being Processed"
 msgstr ""
 #
-# File: module/Application/src/Shared/Sendemailv2.php, line: 841
-# File: module/Application/src/Shared/Sendemailv2.php, line: 2672
-# File: module/Application/src/Shared/Sendemailv2.php, line: 2690
+# File: module/Application/src/Shared/Sendemailv2.php, line: 932
+# File: module/Application/src/Shared/Sendemailv2.php, line: 2893
+# File: module/Application/src/Shared/Sendemailv2.php, line: 2911
 msgid "is Being Processed"
 msgstr ""
 #
-# File: module/Application/src/Shared/Sendemailv2.php, line: 2027
+# File: module/Application/src/Shared/Sendemailv2.php, line: 2202
 # File: module/Application/view/application/index/banners.phtml, line: 94
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 102
 msgid "Air"
 msgstr ""
 #
-# File: module/Application/src/Shared/Sendemailv2.php, line: 2034
+# File: module/Application/src/Shared/Sendemailv2.php, line: 2209
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 923
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 938
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 976
@@ -1294,24 +1287,24 @@ msgstr ""
 msgid "Escorted Tour"
 msgstr ""
 #
-# File: module/Application/src/Shared/Sendemailv2.php, line: 2041
+# File: module/Application/src/Shared/Sendemailv2.php, line: 2216
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1150
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1164
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1202
 msgid "Package"
 msgstr ""
 #
-# File: module/Application/src/Shared/Sendemailv2.php, line: 2048
+# File: module/Application/src/Shared/Sendemailv2.php, line: 2223
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1340
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1378
 msgid "Insurance"
 msgstr ""
 #
-# File: module/Application/src/Shared/Sendemailv2.php, line: 2052
+# File: module/Application/src/Shared/Sendemailv2.php, line: 2227
 msgid "Only"
 msgstr ""
 #
-# File: module/Application/src/Shared/Sendemailv2.php, line: 2410
+# File: module/Application/src/Shared/Sendemailv2.php, line: 2611
 msgid "Your MoneyGram Order Confirmation and Reference Number"
 msgstr ""
 #
@@ -2507,6 +2500,7 @@ msgstr ""
 # File: module/Application/view/application/reports/search.phtml, line: 116
 # File: module/Application/view/application/view-reservation/index.phtml, line: 517
 # File: module/Application/view/application/view-reservation/index.phtml, line: 538
+# File: module/Application/view/application/view-reservation/index.phtml, line: 559
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 426
 # File: module/Application/view/application/support/edit.phtml, line: 83
 # File: module/Application/view/application/agents/edit.phtml, line: 761
@@ -2820,8 +2814,9 @@ msgstr ""
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 75
 # File: module/Application/view/application/packages/edit.phtml, line: 30
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 41
-# File: module/Application/view/application/view-reservation/index.phtml, line: 557
-# File: module/Application/view/application/view-reservation/index.phtml, line: 592
+# File: module/Application/view/application/view-reservation/index.phtml, line: 578
+# File: module/Application/view/application/view-reservation/index.phtml, line: 613
+# File: module/Application/view/application/view-reservation/index.phtml, line: 648
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 28
 # File: module/Application/view/application/marketing/list.phtml, line: 28
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 45
@@ -7745,16 +7740,17 @@ msgid "By Whatsapp"
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index.phtml, line: 277
+# File: module/Application/view/application/view-reservation/index.phtml, line: 640
 msgid "Send Voucher"
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index.phtml, line: 287
-# File: module/Application/view/application/view-reservation/index.phtml, line: 549
-# File: module/Application/view/application/view-reservation/index.phtml, line: 584
+# File: module/Application/view/application/view-reservation/index.phtml, line: 570
 msgid "Send Payment Link"
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index.phtml, line: 297
+# File: module/Application/view/application/view-reservation/index.phtml, line: 605
 msgid "Send Terms & Conditions"
 msgstr ""
 #
@@ -7766,28 +7762,35 @@ msgstr ""
 msgid "Auditing Details"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 554
+# File: module/Application/view/application/view-reservation/index.phtml, line: 575
 msgid "Complete the information below to generate your personalized payment link"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 568
+# File: module/Application/view/application/view-reservation/index.phtml, line: 589
+# File: module/Application/view/application/view-reservation/index.phtml, line: 624
 msgid "Message"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 574
-# File: module/Application/view/application/view-reservation/index.phtml, line: 605
+# File: module/Application/view/application/view-reservation/index.phtml, line: 595
+# File: module/Application/view/application/view-reservation/index.phtml, line: 630
+# File: module/Application/view/application/view-reservation/index.phtml, line: 661
 # File: module/Application/view/application/knowledge-base/item.phtml, line: 33
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 123
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 134
 msgid "Close"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 575
-# File: module/Application/view/application/view-reservation/index.phtml, line: 606
+# File: module/Application/view/application/view-reservation/index.phtml, line: 596
+# File: module/Application/view/application/view-reservation/index.phtml, line: 631
+# File: module/Application/view/application/view-reservation/index.phtml, line: 662
 msgid "Send"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index.phtml, line: 589
+# File: module/Application/view/application/view-reservation/index.phtml, line: 610
+msgid "Complete the information below to generate your personalized Terms and Conditions for signature via HelloSign"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 645
 msgid "Complete the information below to send voucher"
 msgstr ""
 #
