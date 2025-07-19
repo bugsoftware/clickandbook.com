@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-19 13:12-0400\n"
+"POT-Creation-Date: 2025-07-19 14:46-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,8 +29,8 @@ msgstr ""
 # File: module/Application/src/Controller/CustomersController.php, line: 2190
 # File: module/Application/src/Controller/CruisesController.php, line: 1102
 # File: module/Application/src/Controller/CruisesController.php, line: 1469
-# File: module/Application/src/Controller/HotelsController.php, line: 1634
-# File: module/Application/src/Controller/HotelsController.php, line: 2025
+# File: module/Application/src/Controller/HotelsController.php, line: 2506
+# File: module/Application/src/Controller/HotelsController.php, line: 2897
 # File: module/Application/src/Controller/FlightsController.php, line: 2315
 # File: module/Application/src/Controller/FlightsController.php, line: 2535
 # File: module/Application/src/Controller/FlightsController.php, line: 2755
@@ -73,7 +73,7 @@ msgstr ""
 msgid "Not Available"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 604
+# File: module/Application/src/Controller/HotelsController.php, line: 1476
 # File: module/Application/src/Controller/PackagesController.php, line: 630
 # File: module/Application/src/Controller/IndexController.php, line: 219
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 58
@@ -81,7 +81,7 @@ msgstr ""
 msgid "Unknown"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 607
+# File: module/Application/src/Controller/HotelsController.php, line: 1479
 # File: module/Application/view/application/index/banners.phtml, line: 92
 # File: module/Application/view/application/index/banners.phtml, line: 105
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 86
@@ -504,6 +504,17 @@ msgstr ""
 # File: module/Application/view/application/hotels/hotels.phtml, line: 24
 # File: module/Application/view/application/hotels/newhotel.phtml, line: 12
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 12
+# File: module/Application/view/application/hotels/manage.phtml, line: 11
+# File: module/Application/view/application/hotels/rooms.phtml, line: 11
+# File: module/Application/view/application/hotels/images.phtml, line: 11
+# File: module/Application/view/application/hotels/policies.phtml, line: 11
+# File: module/Application/view/application/hotels/cancellationpolicies.phtml, line: 11
+# File: module/Application/view/application/hotels/childpolicies.phtml, line: 11
+# File: module/Application/view/application/hotels/contracts.phtml, line: 11
+# File: module/Application/view/application/hotels/contractrates.phtml, line: 11
+# File: module/Application/view/application/hotels/mealsupplements.phtml, line: 11
+# File: module/Application/view/application/hotels/specialoffers.phtml, line: 11
+# File: module/Application/view/application/hotels/stopsale.phtml, line: 11
 # File: module/Application/view/application/packages/newpackage.phtml, line: 47
 # File: module/Application/view/application/packages/newpackage.phtml, line: 48
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 84
@@ -2040,6 +2051,17 @@ msgstr ""
 # File: module/Application/view/application/cruises/index.phtml, line: 8
 # File: module/Application/view/application/hotels/index.phtml, line: 9
 # File: module/Application/view/application/hotels/hotels.phtml, line: 9
+# File: module/Application/view/application/hotels/manage.phtml, line: 9
+# File: module/Application/view/application/hotels/rooms.phtml, line: 9
+# File: module/Application/view/application/hotels/images.phtml, line: 9
+# File: module/Application/view/application/hotels/policies.phtml, line: 9
+# File: module/Application/view/application/hotels/cancellationpolicies.phtml, line: 9
+# File: module/Application/view/application/hotels/childpolicies.phtml, line: 9
+# File: module/Application/view/application/hotels/contracts.phtml, line: 9
+# File: module/Application/view/application/hotels/contractrates.phtml, line: 9
+# File: module/Application/view/application/hotels/mealsupplements.phtml, line: 9
+# File: module/Application/view/application/hotels/specialoffers.phtml, line: 9
+# File: module/Application/view/application/hotels/stopsale.phtml, line: 9
 # File: module/Application/view/application/flights/index.phtml, line: 9
 # File: module/Application/view/application/cars/index.phtml, line: 9
 # File: module/Application/view/application/activities/index.phtml, line: 9
@@ -2103,6 +2125,17 @@ msgstr ""
 # File: module/Application/view/application/hotels/hotels.phtml, line: 10
 # File: module/Application/view/application/hotels/newhotel.phtml, line: 11
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 11
+# File: module/Application/view/application/hotels/manage.phtml, line: 10
+# File: module/Application/view/application/hotels/rooms.phtml, line: 10
+# File: module/Application/view/application/hotels/images.phtml, line: 10
+# File: module/Application/view/application/hotels/policies.phtml, line: 10
+# File: module/Application/view/application/hotels/cancellationpolicies.phtml, line: 10
+# File: module/Application/view/application/hotels/childpolicies.phtml, line: 10
+# File: module/Application/view/application/hotels/contracts.phtml, line: 10
+# File: module/Application/view/application/hotels/contractrates.phtml, line: 10
+# File: module/Application/view/application/hotels/mealsupplements.phtml, line: 10
+# File: module/Application/view/application/hotels/specialoffers.phtml, line: 10
+# File: module/Application/view/application/hotels/stopsale.phtml, line: 10
 # File: module/Application/view/application/flights/index.phtml, line: 10
 # File: module/Application/view/application/flights/listreservations.phtml, line: 11
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 11
@@ -2205,6 +2238,17 @@ msgstr ""
 # File: module/Application/view/application/cruises/index.phtml, line: 15
 # File: module/Application/view/application/hotels/index.phtml, line: 16
 # File: module/Application/view/application/hotels/hotels.phtml, line: 17
+# File: module/Application/view/application/hotels/manage.phtml, line: 18
+# File: module/Application/view/application/hotels/rooms.phtml, line: 18
+# File: module/Application/view/application/hotels/images.phtml, line: 18
+# File: module/Application/view/application/hotels/policies.phtml, line: 18
+# File: module/Application/view/application/hotels/cancellationpolicies.phtml, line: 18
+# File: module/Application/view/application/hotels/childpolicies.phtml, line: 18
+# File: module/Application/view/application/hotels/contracts.phtml, line: 18
+# File: module/Application/view/application/hotels/contractrates.phtml, line: 18
+# File: module/Application/view/application/hotels/mealsupplements.phtml, line: 18
+# File: module/Application/view/application/hotels/specialoffers.phtml, line: 18
+# File: module/Application/view/application/hotels/stopsale.phtml, line: 18
 # File: module/Application/view/application/flights/index.phtml, line: 16
 # File: module/Application/view/application/cars/index.phtml, line: 16
 # File: module/Application/view/application/activities/index.phtml, line: 16
@@ -2233,6 +2277,17 @@ msgstr ""
 # File: module/Application/view/application/cruises/index.phtml, line: 22
 # File: module/Application/view/application/hotels/index.phtml, line: 23
 # File: module/Application/view/application/hotels/hotels.phtml, line: 24
+# File: module/Application/view/application/hotels/manage.phtml, line: 25
+# File: module/Application/view/application/hotels/rooms.phtml, line: 25
+# File: module/Application/view/application/hotels/images.phtml, line: 25
+# File: module/Application/view/application/hotels/policies.phtml, line: 25
+# File: module/Application/view/application/hotels/cancellationpolicies.phtml, line: 25
+# File: module/Application/view/application/hotels/childpolicies.phtml, line: 25
+# File: module/Application/view/application/hotels/contracts.phtml, line: 25
+# File: module/Application/view/application/hotels/contractrates.phtml, line: 25
+# File: module/Application/view/application/hotels/mealsupplements.phtml, line: 25
+# File: module/Application/view/application/hotels/specialoffers.phtml, line: 25
+# File: module/Application/view/application/hotels/stopsale.phtml, line: 25
 # File: module/Application/view/application/flights/index.phtml, line: 23
 # File: module/Application/view/application/cars/index.phtml, line: 23
 # File: module/Application/view/application/activities/index.phtml, line: 23
@@ -2568,7 +2623,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/settings.phtml, line: 78
 # File: module/Application/view/application/hotels/generalsettings.phtml, line: 102
 # File: module/Application/view/application/hotels/paymentsettings.phtml, line: 72
-# File: module/Application/view/application/hotels/newhotel.phtml, line: 74
+# File: module/Application/view/application/hotels/newhotel.phtml, line: 73
 # File: module/Application/view/application/flights/settings.phtml, line: 78
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 102
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 91
@@ -4382,6 +4437,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 50
 # File: module/Application/view/application/hotels/searchreservations.phtml, line: 79
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 62
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 65
 # File: module/Application/view/application/flights/listreservations.phtml, line: 50
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 79
 # File: module/Application/view/application/flights/issueticket.phtml, line: 69
@@ -4458,7 +4514,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 38
 # File: module/Application/view/application/hotels/generalsettings.phtml, line: 78
 # File: module/Application/view/application/hotels/paymentsettings.phtml, line: 48
-# File: module/Application/view/application/hotels/newhotel.phtml, line: 33
+# File: module/Application/view/application/hotels/newhotel.phtml, line: 32
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 78
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 67
 # File: module/Application/view/application/flights/airblock.phtml, line: 82
@@ -6410,6 +6466,66 @@ msgstr ""
 msgid "Mapped"
 msgstr ""
 #
+# File: module/Application/view/application/hotels/manage.phtml, line: 25
+msgid "Manage Hotel"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/manage.phtml, line: 35
+# File: module/Application/view/application/hotels/rooms.phtml, line: 25
+msgid "Rooms"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/manage.phtml, line: 43
+# File: module/Application/view/application/hotels/images.phtml, line: 25
+msgid "Images"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/manage.phtml, line: 51
+# File: module/Application/view/application/hotels/policies.phtml, line: 25
+msgid "Policies"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/manage.phtml, line: 59
+# File: module/Application/view/application/hotels/cancellationpolicies.phtml, line: 25
+msgid "Cancellation Policies"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/manage.phtml, line: 69
+# File: module/Application/view/application/hotels/childpolicies.phtml, line: 25
+msgid "Child Policies"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/manage.phtml, line: 87
+# File: module/Application/view/application/hotels/contracts.phtml, line: 25
+msgid "Contracts"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/manage.phtml, line: 95
+# File: module/Application/view/application/hotels/contractrates.phtml, line: 25
+msgid "Contract Rates"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/manage.phtml, line: 103
+# File: module/Application/view/application/hotels/mealsupplements.phtml, line: 25
+msgid "Meal Supplements"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/manage.phtml, line: 111
+# File: module/Application/view/application/hotels/specialoffers.phtml, line: 25
+# File: module/Application/view/application/escortedtours/index.phtml, line: 105
+# File: module/Application/view/application/escortedtours/settings.phtml, line: 69
+# File: module/Application/view/application/escortedtours/specialoffers.phtml, line: 7
+# File: module/Application/view/application/escortedtours/specialoffers.phtml, line: 12
+# File: module/Application/view/application/escortedtours/specialoffers.phtml, line: 18
+# File: module/Application/view/application/escortedtours/addspecialoffers.phtml, line: 12
+msgid "Special Offers"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/manage.phtml, line: 119
+# File: module/Application/view/application/hotels/stopsale.phtml, line: 25
+msgid "Stop Sale"
+msgstr ""
+#
 # File: module/Application/view/application/flights/index.phtml, line: 64
 # File: module/Application/view/application/flights/airblocks.phtml, line: 7
 # File: module/Application/view/application/flights/airblocks.phtml, line: 13
@@ -7146,15 +7262,6 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/lastminuteescortedtours.phtml, line: 12
 # File: module/Application/view/application/escortedtours/lastminuteescortedtours.phtml, line: 18
 msgid "Last Minute Escorted Tours"
-msgstr ""
-#
-# File: module/Application/view/application/escortedtours/index.phtml, line: 105
-# File: module/Application/view/application/escortedtours/settings.phtml, line: 69
-# File: module/Application/view/application/escortedtours/specialoffers.phtml, line: 7
-# File: module/Application/view/application/escortedtours/specialoffers.phtml, line: 12
-# File: module/Application/view/application/escortedtours/specialoffers.phtml, line: 18
-# File: module/Application/view/application/escortedtours/addspecialoffers.phtml, line: 12
-msgid "Special Offers"
 msgstr ""
 #
 # File: module/Application/view/application/escortedtours/index.phtml, line: 136
