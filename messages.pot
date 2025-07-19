@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-17 13:20-0400\n"
+"POT-Creation-Date: 2025-07-19 05:09-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,8 +29,8 @@ msgstr ""
 # File: module/Application/src/Controller/CustomersController.php, line: 2190
 # File: module/Application/src/Controller/CruisesController.php, line: 1102
 # File: module/Application/src/Controller/CruisesController.php, line: 1469
-# File: module/Application/src/Controller/HotelsController.php, line: 971
-# File: module/Application/src/Controller/HotelsController.php, line: 1345
+# File: module/Application/src/Controller/HotelsController.php, line: 1184
+# File: module/Application/src/Controller/HotelsController.php, line: 1558
 # File: module/Application/src/Controller/FlightsController.php, line: 2315
 # File: module/Application/src/Controller/FlightsController.php, line: 2535
 # File: module/Application/src/Controller/FlightsController.php, line: 2755
@@ -67,7 +67,26 @@ msgstr ""
 # File: module/Application/src/Controller/AgentsController.php, line: 3697
 # File: module/Application/src/Controller/MarketingController.php, line: 190
 # File: module/Application/src/Controller/IndexController.php, line: 10529
+# File: module/Application/src/Controller/CMSController.php, line: 133
+# File: module/Application/src/Controller/CMSController.php, line: 154
+# File: module/Application/src/Controller/CMSController.php, line: 175
 msgid "Not Available"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 156
+# File: module/Application/src/Controller/PackagesController.php, line: 630
+# File: module/Application/src/Controller/IndexController.php, line: 219
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 58
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 72
+msgid "Unknown"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 159
+# File: module/Application/view/application/index/banners.phtml, line: 92
+# File: module/Application/view/application/index/banners.phtml, line: 105
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 86
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 49
+msgid "All"
 msgstr ""
 #
 # File: module/Application/src/Controller/FlightsController.php, line: 301
@@ -231,12 +250,6 @@ msgstr ""
 msgid "All Companies/Markets"
 msgstr ""
 #
-# File: module/Application/src/Controller/PackagesController.php, line: 630
-# File: module/Application/src/Controller/IndexController.php, line: 219
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 72
-msgid "Unknown"
-msgstr ""
-#
 # File: module/Application/src/Controller/PackagesController.php, line: 1807
 msgid "Standard Package"
 msgstr ""
@@ -352,6 +365,7 @@ msgid "Dupplicated"
 msgstr ""
 #
 # File: module/Application/src/Controller/ReservationsController.php, line: 383
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 56
 # File: module/Application/view/application/view-reservation/index.phtml, line: 93
 # File: module/Application/view/application/agents/edit.phtml, line: 183
 msgid "Pending Review"
@@ -486,6 +500,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/paymentsettings.phtml, line: 11
 # File: module/Application/view/application/hotels/hotels.phtml, line: 11
 # File: module/Application/view/application/hotels/hotels.phtml, line: 24
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 12
 # File: module/Application/view/application/packages/newpackage.phtml, line: 47
 # File: module/Application/view/application/packages/newpackage.phtml, line: 48
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 84
@@ -894,6 +909,7 @@ msgstr ""
 # File: module/Application/view/application/customers/new.phtml, line: 27
 # File: module/Application/view/application/customers/edit.phtml, line: 29
 # File: module/Application/view/application/customers/list.phtml, line: 35
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 29
 # File: module/Application/view/application/packages/newpackage.phtml, line: 101
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 45
 # File: module/Application/view/application/view-reservation/index.phtml, line: 888
@@ -1018,6 +1034,7 @@ msgstr ""
 # File: module/Application/view/application/agents/new.phtml, line: 33
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 30
 # File: module/Application/view/application/marketing/new.phtml, line: 83
+# File: module/Application/view/application/cms/pages.phtml, line: 29
 msgid "Country"
 msgstr ""
 #
@@ -2078,6 +2095,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/generalsettings.phtml, line: 10
 # File: module/Application/view/application/hotels/paymentsettings.phtml, line: 10
 # File: module/Application/view/application/hotels/hotels.phtml, line: 10
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 11
 # File: module/Application/view/application/flights/index.phtml, line: 10
 # File: module/Application/view/application/flights/listreservations.phtml, line: 11
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 11
@@ -2170,6 +2188,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 12
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 10
 # File: module/Application/view/application/cms/index.phtml, line: 10
+# File: module/Application/view/application/cms/pages.phtml, line: 11
 # File: module/Application/view/layout/layout.phtml, line: 7
 # File: module/Application/view/layout/layout.phtml, line: 129
 msgid "Dashboard"
@@ -2248,6 +2267,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 175
 # File: module/Application/view/application/cms/index.phtml, line: 23
+# File: module/Application/view/application/cms/pages.phtml, line: 12
 msgid "CMS"
 msgstr ""
 #
@@ -3828,6 +3848,7 @@ msgstr ""
 # File: module/Application/view/application/customers/new.phtml, line: 26
 # File: module/Application/view/application/customers/edit.phtml, line: 28
 # File: module/Application/view/application/customers/list.phtml, line: 29
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 30
 # File: module/Application/view/application/flights/airblock.phtml, line: 28
 # File: module/Application/view/application/flights/newairblock.phtml, line: 27
 # File: module/Application/view/application/packages/listpackages.phtml, line: 31
@@ -4251,6 +4272,7 @@ msgstr ""
 # File: module/Application/view/application/customers/new.phtml, line: 35
 # File: module/Application/view/application/customers/edit.phtml, line: 37
 # File: module/Application/view/application/customers/list.phtml, line: 32
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 28
 # File: module/Application/view/application/packages/newpackage.phtml, line: 33
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 76
 # File: module/Application/view/application/packages/edit.phtml, line: 115
@@ -4272,6 +4294,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 53
 # File: module/Application/view/application/marketing/new.phtml, line: 129
 # File: module/Application/view/application/marketing/edit.phtml, line: 49
+# File: module/Application/view/application/cms/pages.phtml, line: 31
 msgid "City"
 msgstr ""
 #
@@ -4286,6 +4309,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 66
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 35
 # File: module/Application/view/application/hotels/searchreservations.phtml, line: 65
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 33
 # File: module/Application/view/application/flights/listreservations.phtml, line: 35
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 65
 # File: module/Application/view/application/flights/issueticket.phtml, line: 55
@@ -4347,6 +4371,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/popularrivercruises.phtml, line: 35
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 50
 # File: module/Application/view/application/hotels/searchreservations.phtml, line: 79
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 62
 # File: module/Application/view/application/flights/listreservations.phtml, line: 50
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 79
 # File: module/Application/view/application/flights/issueticket.phtml, line: 69
@@ -5028,6 +5053,7 @@ msgstr ""
 # File: module/Application/view/application/index/banners.phtml, line: 80
 # File: module/Application/view/application/index/bannersedit.phtml, line: 130
 # File: module/Application/view/application/index/transactions.phtml, line: 27
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 32
 # File: module/Application/view/application/flights/airblock.phtml, line: 43
 # File: module/Application/view/application/flights/airblock.phtml, line: 45
 # File: module/Application/view/application/flights/newairblock.phtml, line: 30
@@ -5047,14 +5073,8 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 51
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 31
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 47
+# File: module/Application/view/application/cms/pages.phtml, line: 32
 msgid "Status"
-msgstr ""
-#
-# File: module/Application/view/application/index/banners.phtml, line: 92
-# File: module/Application/view/application/index/banners.phtml, line: 105
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 86
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 49
-msgid "All"
 msgstr ""
 #
 # File: module/Application/view/application/index/banners.phtml, line: 100
@@ -5090,12 +5110,14 @@ msgid "Inline"
 msgstr ""
 #
 # File: module/Application/view/application/index/banners.phtml, line: 114
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 54
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 95
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 55
 msgid "Inactive"
 msgstr ""
 #
 # File: module/Application/view/application/index/banners.phtml, line: 114
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 52
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 93
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 54
 msgid "Active"
@@ -5385,6 +5407,9 @@ msgstr ""
 # File: module/Application/view/application/customers/list.phtml, line: 7
 # File: module/Application/view/application/customers/list.phtml, line: 13
 # File: module/Application/view/application/customers/list.phtml, line: 20
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 7
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 13
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 20
 # File: module/Application/view/application/packages/listpackages.phtml, line: 7
 # File: module/Application/view/application/packages/listpackages.phtml, line: 13
 # File: module/Application/view/application/packages/listpackages.phtml, line: 20
@@ -5412,6 +5437,9 @@ msgstr ""
 # File: module/Application/view/application/marketing/edit.phtml, line: 14
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 14
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 14
+# File: module/Application/view/application/cms/pages.phtml, line: 7
+# File: module/Application/view/application/cms/pages.phtml, line: 13
+# File: module/Application/view/application/cms/pages.phtml, line: 20
 msgid "List"
 msgstr ""
 #
@@ -6345,6 +6373,22 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/hotels.phtml, line: 52
 msgid "Search Hotels"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 27
+msgid "Hotel Name"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 31
+msgid "Mapping"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 45
+msgid "Not Mapped"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 47
+msgid "Mapped"
 msgstr ""
 #
 # File: module/Application/view/application/flights/index.phtml, line: 64
@@ -8438,6 +8482,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 33
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 41
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 42
+# File: module/Application/view/application/cms/pages.phtml, line: 27
 msgid "Title"
 msgstr ""
 #
@@ -9058,6 +9103,14 @@ msgstr ""
 #
 # File: module/Application/view/application/cms/index.phtml, line: 33
 msgid "Pages"
+msgstr ""
+#
+# File: module/Application/view/application/cms/pages.phtml, line: 28
+msgid "Airport"
+msgstr ""
+#
+# File: module/Application/view/application/cms/pages.phtml, line: 30
+msgid "Zone"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 61
