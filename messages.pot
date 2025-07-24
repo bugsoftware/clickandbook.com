@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-24 02:20-0400\n"
+"POT-Creation-Date: 2025-07-24 08:00-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,10 +29,10 @@ msgstr ""
 # File: module/Application/src/Controller/CustomersController.php, line: 2190
 # File: module/Application/src/Controller/CruisesController.php, line: 1102
 # File: module/Application/src/Controller/CruisesController.php, line: 1469
-# File: module/Application/src/Controller/HotelsController.php, line: 3223
-# File: module/Application/src/Controller/HotelsController.php, line: 3245
-# File: module/Application/src/Controller/HotelsController.php, line: 4262
-# File: module/Application/src/Controller/HotelsController.php, line: 4653
+# File: module/Application/src/Controller/HotelsController.php, line: 3483
+# File: module/Application/src/Controller/HotelsController.php, line: 3505
+# File: module/Application/src/Controller/HotelsController.php, line: 4522
+# File: module/Application/src/Controller/HotelsController.php, line: 4913
 # File: module/Application/src/Controller/FlightsController.php, line: 2315
 # File: module/Application/src/Controller/FlightsController.php, line: 2535
 # File: module/Application/src/Controller/FlightsController.php, line: 2755
@@ -75,9 +75,9 @@ msgstr ""
 msgid "Not Available"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 319
-# File: module/Application/src/Controller/HotelsController.php, line: 1020
-# File: module/Application/src/Controller/HotelsController.php, line: 2856
+# File: module/Application/src/Controller/HotelsController.php, line: 579
+# File: module/Application/src/Controller/HotelsController.php, line: 1280
+# File: module/Application/src/Controller/HotelsController.php, line: 3116
 # File: module/Application/view/application/index/banners.phtml, line: 114
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 52
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 45
@@ -87,9 +87,9 @@ msgstr ""
 msgid "Active"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 323
-# File: module/Application/src/Controller/HotelsController.php, line: 1024
-# File: module/Application/src/Controller/HotelsController.php, line: 2860
+# File: module/Application/src/Controller/HotelsController.php, line: 583
+# File: module/Application/src/Controller/HotelsController.php, line: 1284
+# File: module/Application/src/Controller/HotelsController.php, line: 3120
 # File: module/Application/view/application/index/banners.phtml, line: 114
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 54
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 47
@@ -99,10 +99,10 @@ msgstr ""
 msgid "Inactive"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 1153
-# File: module/Application/src/Controller/HotelsController.php, line: 1171
-# File: module/Application/src/Controller/HotelsController.php, line: 1189
-# File: module/Application/src/Controller/HotelsController.php, line: 3020
+# File: module/Application/src/Controller/HotelsController.php, line: 1413
+# File: module/Application/src/Controller/HotelsController.php, line: 1431
+# File: module/Application/src/Controller/HotelsController.php, line: 1449
+# File: module/Application/src/Controller/HotelsController.php, line: 3280
 # File: module/Application/src/Controller/PackagesController.php, line: 630
 # File: module/Application/src/Controller/IndexController.php, line: 219
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 58
@@ -111,10 +111,10 @@ msgstr ""
 msgid "Unknown"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 1156
-# File: module/Application/src/Controller/HotelsController.php, line: 1174
-# File: module/Application/src/Controller/HotelsController.php, line: 1192
-# File: module/Application/src/Controller/HotelsController.php, line: 3023
+# File: module/Application/src/Controller/HotelsController.php, line: 1416
+# File: module/Application/src/Controller/HotelsController.php, line: 1434
+# File: module/Application/src/Controller/HotelsController.php, line: 1452
+# File: module/Application/src/Controller/HotelsController.php, line: 3283
 # File: module/Application/view/application/index/banners.phtml, line: 92
 # File: module/Application/view/application/index/banners.phtml, line: 105
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 86
@@ -122,7 +122,7 @@ msgstr ""
 msgid "All"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2864
+# File: module/Application/src/Controller/HotelsController.php, line: 3124
 # File: module/Application/src/Controller/ReservationsController.php, line: 608
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 56
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 49
@@ -560,6 +560,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcancellationpolicy.phtml, line: 11
 # File: module/Application/view/application/hotels/listcancellationpolicies.phtml, line: 11
 # File: module/Application/view/application/hotels/editroom.phtml, line: 12
+# File: module/Application/view/application/hotels/listimages.phtml, line: 11
+# File: module/Application/view/application/hotels/newimage.phtml, line: 11
 # File: module/Application/view/application/packages/newpackage.phtml, line: 49
 # File: module/Application/view/application/packages/newpackage.phtml, line: 50
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 84
@@ -2140,6 +2142,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcancellationpolicy.phtml, line: 9
 # File: module/Application/view/application/hotels/listcancellationpolicies.phtml, line: 9
 # File: module/Application/view/application/hotels/editroom.phtml, line: 10
+# File: module/Application/view/application/hotels/listimages.phtml, line: 9
+# File: module/Application/view/application/hotels/newimage.phtml, line: 9
 # File: module/Application/view/application/flights/index.phtml, line: 9
 # File: module/Application/view/application/cars/index.phtml, line: 9
 # File: module/Application/view/application/activities/index.phtml, line: 9
@@ -2223,6 +2227,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcancellationpolicy.phtml, line: 10
 # File: module/Application/view/application/hotels/listcancellationpolicies.phtml, line: 10
 # File: module/Application/view/application/hotels/editroom.phtml, line: 11
+# File: module/Application/view/application/hotels/listimages.phtml, line: 10
+# File: module/Application/view/application/hotels/newimage.phtml, line: 10
 # File: module/Application/view/application/flights/index.phtml, line: 10
 # File: module/Application/view/application/flights/listreservations.phtml, line: 11
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 11
@@ -2344,6 +2350,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcancellationpolicy.phtml, line: 19
 # File: module/Application/view/application/hotels/listcancellationpolicies.phtml, line: 19
 # File: module/Application/view/application/hotels/editroom.phtml, line: 20
+# File: module/Application/view/application/hotels/listimages.phtml, line: 19
+# File: module/Application/view/application/hotels/newimage.phtml, line: 19
 # File: module/Application/view/application/flights/index.phtml, line: 16
 # File: module/Application/view/application/cars/index.phtml, line: 16
 # File: module/Application/view/application/activities/index.phtml, line: 16
@@ -2724,6 +2732,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/editpolicy.phtml, line: 66
 # File: module/Application/view/application/hotels/newcancellationpolicy.phtml, line: 99
 # File: module/Application/view/application/hotels/editroom.phtml, line: 416
+# File: module/Application/view/application/hotels/newimage.phtml, line: 66
 # File: module/Application/view/application/flights/settings.phtml, line: 78
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 102
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 91
@@ -4485,6 +4494,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listpolicies.phtml, line: 34
 # File: module/Application/view/application/hotels/listrooms.phtml, line: 37
 # File: module/Application/view/application/hotels/listcancellationpolicies.phtml, line: 38
+# File: module/Application/view/application/hotels/listimages.phtml, line: 40
 # File: module/Application/view/application/flights/listreservations.phtml, line: 35
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 65
 # File: module/Application/view/application/flights/issueticket.phtml, line: 55
@@ -4636,6 +4646,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/editpolicy.phtml, line: 38
 # File: module/Application/view/application/hotels/newcancellationpolicy.phtml, line: 54
 # File: module/Application/view/application/hotels/editroom.phtml, line: 172
+# File: module/Application/view/application/hotels/newimage.phtml, line: 38
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 78
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 67
 # File: module/Application/view/application/flights/airblock.phtml, line: 82
@@ -4703,6 +4714,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/newroom.phtml, line: 33
 # File: module/Application/view/application/hotels/listrooms.phtml, line: 33
 # File: module/Application/view/application/hotels/editroom.phtml, line: 33
+# File: module/Application/view/application/hotels/newimage.phtml, line: 30
 # File: module/Application/view/application/flights/airblocks.phtml, line: 40
 # File: module/Application/view/application/flights/airblock.phtml, line: 76
 # File: module/Application/view/application/flights/newairblock.phtml, line: 49
@@ -5220,6 +5232,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/editroom.phtml, line: 105
 # File: module/Application/view/application/hotels/editroom.phtml, line: 109
 # File: module/Application/view/application/hotels/editroom.phtml, line: 113
+# File: module/Application/view/application/hotels/listimages.phtml, line: 37
+# File: module/Application/view/application/hotels/newimage.phtml, line: 33
 msgid "Image"
 msgstr ""
 #
@@ -6759,6 +6773,9 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/manage.phtml, line: 43
 # File: module/Application/view/application/hotels/images.phtml, line: 25
+# File: module/Application/view/application/hotels/images.phtml, line: 35
+# File: module/Application/view/application/hotels/listimages.phtml, line: 13
+# File: module/Application/view/application/hotels/newimage.phtml, line: 13
 msgid "Images"
 msgstr ""
 #
@@ -6820,6 +6837,11 @@ msgstr ""
 msgid "New Room"
 msgstr ""
 #
+# File: module/Application/view/application/hotels/images.phtml, line: 43
+# File: module/Application/view/application/hotels/newimage.phtml, line: 26
+msgid "New Image"
+msgstr ""
+#
 # File: module/Application/view/application/hotels/policies.phtml, line: 43
 # File: module/Application/view/application/hotels/newpolicy.phtml, line: 26
 msgid "New Policy"
@@ -6855,6 +6877,7 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/newroom.phtml, line: 37
 # File: module/Application/view/application/hotels/editroom.phtml, line: 37
+# File: module/Application/view/application/hotels/newimage.phtml, line: 31
 # File: module/Application/view/application/packages/newpackage.phtml, line: 29
 # File: module/Application/view/application/packages/edit.phtml, line: 72
 msgid "Sort Order"
@@ -6928,6 +6951,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/editroom.phtml, line: 105
 # File: module/Application/view/application/hotels/editroom.phtml, line: 109
 # File: module/Application/view/application/hotels/editroom.phtml, line: 113
+# File: module/Application/view/application/hotels/newimage.phtml, line: 33
 msgid "Upload image"
 msgstr ""
 #
@@ -7015,6 +7039,10 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/editroom.phtml, line: 27
 msgid "Edit Room"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/listimages.phtml, line: 25
+msgid "List Images"
 msgstr ""
 #
 # File: module/Application/view/application/flights/index.phtml, line: 64
