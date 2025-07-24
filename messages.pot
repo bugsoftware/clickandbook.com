@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-24 10:13-0400\n"
+"POT-Creation-Date: 2025-07-24 15:48-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -292,7 +292,7 @@ msgid "5"
 msgstr ""
 #
 # File: module/Application/src/Controller/PackagesController.php, line: 621
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1669
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1804
 msgid "All Companies/Markets"
 msgstr ""
 #
@@ -454,33 +454,33 @@ msgstr ""
 msgid "PayeeZy"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1005
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1013
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1140
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1148
 msgid "Dear"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1006
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1141
 # File: module/Application/view/application/view-reservation/index.phtml, line: 263
 msgid "Payment Link"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1013
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1148
 msgid "Complete the payment using the secure link provided below."
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1013
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1148
 msgid "Thank you for choosing us! To confirm your reservation, please complete your payment using the secure link provided below."
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1013
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1148
 msgid "If you have any questions or need assistance, our customer support team is always ready to help."
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1017
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1152
 msgid "Simply click the link to finalize your payment. If you have any questions or need assistance, feel free to reach out-we're here to help!"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1017
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1152
 # File: module/Application/src/Controller/IndexController.php, line: 2104
 # File: module/Application/src/Controller/IndexController.php, line: 2146
 # File: module/Application/src/Controller/IndexController.php, line: 2249
@@ -488,16 +488,16 @@ msgstr ""
 msgid "Thanks"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1018
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1153
 msgid "Payment Link for Your Reservation - Action Required"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1606
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1741
 msgid "All Departments"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1625
-# File: module/Application/src/Controller/ViewReservationController.php, line: 1644
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1760
+# File: module/Application/src/Controller/ViewReservationController.php, line: 1779
 msgid "Direct Booking"
 msgstr ""
 #
@@ -8463,7 +8463,8 @@ msgid "Cancel Reservation"
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index.phtml, line: 287
-msgid "Add Settlement"
+# File: module/Application/view/application/view-reservation/index.phtml, line: 718
+msgid "Add Payment / Settlement"
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index.phtml, line: 291
@@ -8519,10 +8520,6 @@ msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index.phtml, line: 366
 msgid "Auditing Details"
-msgstr ""
-#
-# File: module/Application/view/application/view-reservation/index.phtml, line: 718
-msgid "Add Payment"
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index.phtml, line: 723
