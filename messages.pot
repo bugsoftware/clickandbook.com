@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-28 13:15-0400\n"
+"POT-Creation-Date: 2025-08-28 17:29-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,15 +18,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 #
 # File: module/Application/src/Controller/CustomersController.php, line: 267
-# File: module/Application/src/Controller/CustomersController.php, line: 1979
-# File: module/Application/src/Controller/CustomersController.php, line: 2000
-# File: module/Application/src/Controller/CustomersController.php, line: 2021
-# File: module/Application/src/Controller/CustomersController.php, line: 2243
-# File: module/Application/src/Controller/CustomersController.php, line: 2264
-# File: module/Application/src/Controller/CustomersController.php, line: 2285
-# File: module/Application/src/Controller/CustomersController.php, line: 2629
-# File: module/Application/src/Controller/CustomersController.php, line: 2650
-# File: module/Application/src/Controller/CustomersController.php, line: 2671
+# File: module/Application/src/Controller/CustomersController.php, line: 1993
+# File: module/Application/src/Controller/CustomersController.php, line: 2014
+# File: module/Application/src/Controller/CustomersController.php, line: 2035
+# File: module/Application/src/Controller/CustomersController.php, line: 2257
+# File: module/Application/src/Controller/CustomersController.php, line: 2278
+# File: module/Application/src/Controller/CustomersController.php, line: 2299
+# File: module/Application/src/Controller/CustomersController.php, line: 2643
+# File: module/Application/src/Controller/CustomersController.php, line: 2664
+# File: module/Application/src/Controller/CustomersController.php, line: 2685
 # File: module/Application/src/Controller/CruisesController.php, line: 1102
 # File: module/Application/src/Controller/CruisesController.php, line: 1469
 # File: module/Application/src/Controller/FlightsController.php, line: 2315
@@ -430,8 +430,8 @@ msgstr ""
 #
 # File: module/Application/src/Controller/ReservationsController.php, line: 536
 # File: module/Application/view/application/customers/view.phtml, line: 265
-# File: module/Application/view/application/customers/view.phtml, line: 374
-# File: module/Application/view/application/customers/view.phtml, line: 403
+# File: module/Application/view/application/customers/view.phtml, line: 409
+# File: module/Application/view/application/customers/view.phtml, line: 438
 # File: module/Application/view/application/cruises/index.phtml, line: 35
 # File: module/Application/view/application/hotels/index.phtml, line: 33
 # File: module/Application/view/application/flights/index.phtml, line: 33
@@ -5245,6 +5245,7 @@ msgid "IP Address"
 msgstr ""
 #
 # File: module/Application/view/application/index/securitylog.phtml, line: 70
+# File: module/Application/view/application/customers/view.phtml, line: 373
 # File: module/Application/view/application/hotels/newroom.phtml, line: 33
 # File: module/Application/view/application/hotels/listrooms.phtml, line: 33
 # File: module/Application/view/application/hotels/editroom.phtml, line: 33
@@ -6697,7 +6698,24 @@ msgstr ""
 msgid "Sent Text Message to"
 msgstr ""
 #
-# File: module/Application/view/application/customers/view.phtml, line: 356
+# File: module/Application/view/application/customers/view.phtml, line: 358
+msgid "Coupons"
+msgstr ""
+#
+# File: module/Application/view/application/customers/view.phtml, line: 358
+msgid "Gift Cards"
+msgstr ""
+#
+# File: module/Application/view/application/customers/view.phtml, line: 367
+msgid "Gift Card"
+msgstr ""
+#
+# File: module/Application/view/application/customers/view.phtml, line: 379
+# File: module/Application/view/application/customers/view.phtml, line: 380
+msgid "Valid Until"
+msgstr ""
+#
+# File: module/Application/view/application/customers/view.phtml, line: 391
 # File: module/Application/view/application/packages/view.phtml, line: 274
 # File: module/Application/view/application/agents/view.phtml, line: 374
 # File: module/Application/view/application/marketing/view.phtml, line: 301
