@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-10 04:45-0400\n"
+"POT-Creation-Date: 2025-09-23 09:09-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1350,32 +1350,32 @@ msgstr ""
 msgid "Country"
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 223
+# File: module/Application/src/Controller/JSONController.php, line: 311
 msgid "Asia"
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 226
+# File: module/Application/src/Controller/JSONController.php, line: 314
 msgid "Africa"
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 229
+# File: module/Application/src/Controller/JSONController.php, line: 317
 msgid "North America"
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 232
+# File: module/Application/src/Controller/JSONController.php, line: 320
 msgid "South America"
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 235
+# File: module/Application/src/Controller/JSONController.php, line: 323
 msgid "Europe"
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 238
-# File: module/Application/src/Controller/JSONController.php, line: 241
+# File: module/Application/src/Controller/JSONController.php, line: 326
+# File: module/Application/src/Controller/JSONController.php, line: 329
 msgid "Oceania"
 msgstr ""
 #
-# File: module/Application/src/Controller/JSONController.php, line: 994
+# File: module/Application/src/Controller/JSONController.php, line: 1082
 msgid "Search for"
 msgstr ""
 #
@@ -1763,6 +1763,7 @@ msgstr ""
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 42
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 86
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 49
+# File: module/Application/view/application/portfolio/index.phtml, line: 29
 msgid "All"
 msgstr ""
 #
@@ -2741,6 +2742,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/index.phtml, line: 17
 # File: module/Application/view/application/cms/index.phtml, line: 9
 # File: module/Application/view/application/cms/editpage.phtml, line: 9
+# File: module/Application/view/application/portfolio/index.phtml, line: 15
 msgid "Home"
 msgstr ""
 #
@@ -7981,6 +7983,7 @@ msgstr ""
 # File: module/Application/view/application/knowledge-base/item.phtml, line: 33
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 123
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 134
+# File: module/Application/view/application/portfolio/index.phtml, line: 175
 msgid "Close"
 msgstr ""
 #
@@ -10749,6 +10752,7 @@ msgid "TREND"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/list.phtml, line: 46
+# File: module/Application/view/application/portfolio/index.phtml, line: 178
 msgid "Preview"
 msgstr ""
 #
@@ -11084,6 +11088,20 @@ msgstr ""
 #
 # File: module/Application/view/application/cms/editpage.phtml, line: 81
 msgid "Pages Description"
+msgstr ""
+#
+# File: module/Application/view/application/portfolio/index.phtml, line: 12
+# File: module/Application/view/application/portfolio/index.phtml, line: 16
+msgid "Portfolio"
+msgstr ""
+#
+# File: module/Application/view/application/portfolio/index.phtml, line: 56
+msgid "Load More"
+msgstr ""
+#
+# File: module/Application/view/application/portfolio/index.phtml, line: 98
+# File: module/Application/view/application/portfolio/index.phtml, line: 174
+msgid "Image Preview"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 61
