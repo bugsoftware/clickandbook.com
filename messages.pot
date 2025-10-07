@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-07 12:17-0400\n"
+"POT-Creation-Date: 2025-10-07 12:56-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3035,7 +3035,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 18
 # File: module/Application/view/application/hotels/listcontractrates.phtml, line: 18
 # File: module/Application/view/application/hotels/editcontractrate.phtml, line: 18
-# File: module/Application/view/application/hotels/editcontract.phtml, line: 18
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 19
 # File: module/Application/view/application/flights/index.phtml, line: 16
 # File: module/Application/view/application/cars/index.phtml, line: 16
 # File: module/Application/view/application/activities/index.phtml, line: 16
@@ -3454,7 +3454,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcontract.phtml, line: 95
 # File: module/Application/view/application/hotels/mappedhotels.phtml, line: 89
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 340
-# File: module/Application/view/application/hotels/editcontract.phtml, line: 75
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 74
 # File: module/Application/view/application/flights/settings.phtml, line: 78
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 102
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 91
@@ -3804,7 +3804,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 32
 # File: module/Application/view/application/hotels/mappedhotels.phtml, line: 28
 # File: module/Application/view/application/hotels/listcontractrates.phtml, line: 32
-# File: module/Application/view/application/hotels/editcontract.phtml, line: 29
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 30
 # File: module/Application/view/application/flights/airblocks.phtml, line: 37
 # File: module/Application/view/application/flights/airblock.phtml, line: 24
 # File: module/Application/view/application/flights/newairblock.phtml, line: 24
@@ -5497,7 +5497,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcontract.phtml, line: 52
 # File: module/Application/view/application/hotels/mappedhotels.phtml, line: 37
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 183
-# File: module/Application/view/application/hotels/editcontract.phtml, line: 45
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 46
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 78
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 67
 # File: module/Application/view/application/flights/airblock.phtml, line: 82
@@ -5657,7 +5657,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcontract.phtml, line: 40
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 33
 # File: module/Application/view/application/hotels/listcontractrates.phtml, line: 33
-# File: module/Application/view/application/hotels/editcontract.phtml, line: 38
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 39
 # File: module/Application/view/application/portfolio/new.phtml, line: 29
 msgid "Code"
 msgstr ""
@@ -6162,7 +6162,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcontract.phtml, line: 46
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 36
 # File: module/Application/view/application/hotels/listcontractrates.phtml, line: 36
-# File: module/Application/view/application/hotels/editcontract.phtml, line: 41
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 42
 # File: module/Application/view/application/flights/airblock.phtml, line: 43
 # File: module/Application/view/application/flights/airblock.phtml, line: 45
 # File: module/Application/view/application/flights/newairblock.phtml, line: 30
@@ -8039,6 +8039,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/manage.phtml, line: 101
 # File: module/Application/view/application/hotels/contracts.phtml, line: 25
 # File: module/Application/view/application/hotels/contracts.phtml, line: 35
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 13
 msgid "Contracts"
 msgstr ""
 #
@@ -8304,6 +8305,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 34
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 157
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 253
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 622
 msgid "Age From"
 msgstr ""
 #
@@ -8312,6 +8314,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 35
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 158
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 257
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 622
 msgid "Age To"
 msgstr ""
 #
@@ -8320,6 +8323,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 36
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 159
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 261
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 622
 msgid "Price Type"
 msgstr ""
 #
@@ -8358,7 +8362,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 34
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 33
 # File: module/Application/view/application/hotels/listcontractrates.phtml, line: 34
-# File: module/Application/view/application/hotels/editcontract.phtml, line: 31
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 32
 msgid "Date From"
 msgstr ""
 #
@@ -8366,7 +8370,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 35
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 37
 # File: module/Application/view/application/hotels/listcontractrates.phtml, line: 35
-# File: module/Application/view/application/hotels/editcontract.phtml, line: 35
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 36
 msgid "Date To"
 msgstr ""
 #
@@ -8454,18 +8458,6 @@ msgstr ""
 msgid "Add New Child Pricing"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 622
-msgid "AgeFrom"
-msgstr ""
-#
-# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 622
-msgid "AgeTo"
-msgstr ""
-#
-# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 622
-msgid "PriceType"
-msgstr ""
-#
 # File: module/Application/view/application/hotels/listcontractrates.phtml, line: 25
 msgid "List Contract Rate"
 msgstr ""
@@ -8474,7 +8466,7 @@ msgstr ""
 msgid "Edit Contract Rate"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/editcontract.phtml, line: 25
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 26
 msgid "Edit Contract"
 msgstr ""
 #
