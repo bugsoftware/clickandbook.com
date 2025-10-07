@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-01 17:01-0400\n"
+"POT-Creation-Date: 2025-10-07 02:18-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -74,10 +74,10 @@ msgstr ""
 # File: module/Application/src/Controller/CMSController.php, line: 475
 # File: module/Application/src/Controller/CMSController.php, line: 496
 # File: module/Application/src/Controller/CMSController.php, line: 517
-# File: module/Application/src/Controller/HotelsController.php, line: 4917
-# File: module/Application/src/Controller/HotelsController.php, line: 4939
-# File: module/Application/src/Controller/HotelsController.php, line: 5956
-# File: module/Application/src/Controller/HotelsController.php, line: 6347
+# File: module/Application/src/Controller/HotelsController.php, line: 5141
+# File: module/Application/src/Controller/HotelsController.php, line: 5163
+# File: module/Application/src/Controller/HotelsController.php, line: 6180
+# File: module/Application/src/Controller/HotelsController.php, line: 6571
 msgid "Not Available"
 msgstr ""
 #
@@ -93,11 +93,11 @@ msgstr ""
 # File: module/Application/src/Controller/IndexController.php, line: 396
 # File: module/Application/src/Controller/IndexController.php, line: 398
 # File: module/Application/src/Controller/IndexController.php, line: 781
-# File: module/Application/src/Controller/HotelsController.php, line: 831
-# File: module/Application/src/Controller/HotelsController.php, line: 2843
-# File: module/Application/src/Controller/HotelsController.php, line: 2861
-# File: module/Application/src/Controller/HotelsController.php, line: 2879
-# File: module/Application/src/Controller/HotelsController.php, line: 4714
+# File: module/Application/src/Controller/HotelsController.php, line: 1055
+# File: module/Application/src/Controller/HotelsController.php, line: 3067
+# File: module/Application/src/Controller/HotelsController.php, line: 3085
+# File: module/Application/src/Controller/HotelsController.php, line: 3103
+# File: module/Application/src/Controller/HotelsController.php, line: 4938
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 58
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 101
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 72
@@ -296,6 +296,8 @@ msgstr ""
 # File: module/Application/src/Controller/FlightsController.php, line: 624
 # File: module/Application/src/Controller/FlightsController.php, line: 963
 # File: module/Application/src/Controller/FlightsController.php, line: 1463
+# File: module/Application/src/Controller/HotelsController.php, line: 119
+# File: module/Application/src/Controller/HotelsController.php, line: 449
 # File: module/Application/view/application/customers/edit.phtml, line: 44
 # File: module/Application/view/application/flights/airblock.phtml, line: 46
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 74
@@ -309,6 +311,8 @@ msgstr ""
 # File: module/Application/src/Controller/FlightsController.php, line: 1467
 # File: module/Application/src/Controller/PackagesController.php, line: 441
 # File: module/Application/src/Controller/PackagesController.php, line: 1910
+# File: module/Application/src/Controller/HotelsController.php, line: 121
+# File: module/Application/src/Controller/HotelsController.php, line: 451
 # File: module/Application/view/application/customers/edit.phtml, line: 45
 # File: module/Application/view/application/flights/airblock.phtml, line: 47
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 74
@@ -375,7 +379,8 @@ msgstr ""
 #
 # File: module/Application/src/Controller/PackagesController.php, line: 437
 # File: module/Application/src/Controller/PackagesController.php, line: 1906
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 73
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 68
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 68
 # File: module/Application/view/application/packages/listpackages.phtml, line: 58
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 46
 # File: module/Application/view/application/packages/edit.phtml, line: 56
@@ -416,8 +421,8 @@ msgstr ""
 #
 # File: module/Application/src/Controller/PackagesController.php, line: 466
 # File: module/Application/src/Controller/PackagesController.php, line: 1935
-# File: module/Application/src/Controller/HotelsController.php, line: 1287
-# File: module/Application/src/Controller/HotelsController.php, line: 1315
+# File: module/Application/src/Controller/HotelsController.php, line: 1511
+# File: module/Application/src/Controller/HotelsController.php, line: 1539
 # File: module/Application/view/application/hotels/edit.phtml, line: 41
 # File: module/Application/view/application/hotels/edit.phtml, line: 51
 # File: module/Application/view/application/packages/edit.phtml, line: 83
@@ -426,8 +431,8 @@ msgstr ""
 #
 # File: module/Application/src/Controller/PackagesController.php, line: 470
 # File: module/Application/src/Controller/PackagesController.php, line: 1939
-# File: module/Application/src/Controller/HotelsController.php, line: 1291
-# File: module/Application/src/Controller/HotelsController.php, line: 1319
+# File: module/Application/src/Controller/HotelsController.php, line: 1515
+# File: module/Application/src/Controller/HotelsController.php, line: 1543
 # File: module/Application/view/application/hotels/edit.phtml, line: 42
 # File: module/Application/view/application/hotels/edit.phtml, line: 52
 # File: module/Application/view/application/packages/edit.phtml, line: 85
@@ -436,8 +441,8 @@ msgstr ""
 #
 # File: module/Application/src/Controller/PackagesController.php, line: 474
 # File: module/Application/src/Controller/PackagesController.php, line: 1943
-# File: module/Application/src/Controller/HotelsController.php, line: 1295
-# File: module/Application/src/Controller/HotelsController.php, line: 1323
+# File: module/Application/src/Controller/HotelsController.php, line: 1519
+# File: module/Application/src/Controller/HotelsController.php, line: 1547
 # File: module/Application/view/application/hotels/edit.phtml, line: 43
 # File: module/Application/view/application/hotels/edit.phtml, line: 53
 # File: module/Application/view/application/packages/edit.phtml, line: 87
@@ -446,8 +451,8 @@ msgstr ""
 #
 # File: module/Application/src/Controller/PackagesController.php, line: 478
 # File: module/Application/src/Controller/PackagesController.php, line: 1947
-# File: module/Application/src/Controller/HotelsController.php, line: 1299
-# File: module/Application/src/Controller/HotelsController.php, line: 1327
+# File: module/Application/src/Controller/HotelsController.php, line: 1523
+# File: module/Application/src/Controller/HotelsController.php, line: 1551
 # File: module/Application/view/application/hotels/edit.phtml, line: 44
 # File: module/Application/view/application/hotels/edit.phtml, line: 54
 # File: module/Application/view/application/packages/edit.phtml, line: 89
@@ -456,8 +461,8 @@ msgstr ""
 #
 # File: module/Application/src/Controller/PackagesController.php, line: 482
 # File: module/Application/src/Controller/PackagesController.php, line: 1951
-# File: module/Application/src/Controller/HotelsController.php, line: 1303
-# File: module/Application/src/Controller/HotelsController.php, line: 1331
+# File: module/Application/src/Controller/HotelsController.php, line: 1527
+# File: module/Application/src/Controller/HotelsController.php, line: 1555
 # File: module/Application/view/application/hotels/edit.phtml, line: 45
 # File: module/Application/view/application/hotels/edit.phtml, line: 55
 # File: module/Application/view/application/packages/edit.phtml, line: 91
@@ -466,8 +471,8 @@ msgstr ""
 #
 # File: module/Application/src/Controller/PackagesController.php, line: 486
 # File: module/Application/src/Controller/PackagesController.php, line: 1955
-# File: module/Application/src/Controller/HotelsController.php, line: 1307
-# File: module/Application/src/Controller/HotelsController.php, line: 1335
+# File: module/Application/src/Controller/HotelsController.php, line: 1531
+# File: module/Application/src/Controller/HotelsController.php, line: 1559
 # File: module/Application/view/application/hotels/edit.phtml, line: 46
 # File: module/Application/view/application/hotels/edit.phtml, line: 56
 # File: module/Application/view/application/packages/edit.phtml, line: 93
@@ -669,8 +674,8 @@ msgid "Dupplicated"
 msgstr ""
 #
 # File: module/Application/src/Controller/ReservationsController.php, line: 600
-# File: module/Application/src/Controller/HotelsController.php, line: 1200
-# File: module/Application/src/Controller/HotelsController.php, line: 4558
+# File: module/Application/src/Controller/HotelsController.php, line: 1424
+# File: module/Application/src/Controller/HotelsController.php, line: 4782
 # File: module/Application/view/application/customers/view.phtml, line: 324
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 56
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 49
@@ -900,6 +905,10 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcontract.phtml, line: 11
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 11
 # File: module/Application/view/application/hotels/mappedhotels.phtml, line: 12
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 11
+# File: module/Application/view/application/hotels/listcontractrates.phtml, line: 11
+# File: module/Application/view/application/hotels/editcontractrate.phtml, line: 11
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 11
 # File: module/Application/view/application/packages/newpackage.phtml, line: 49
 # File: module/Application/view/application/packages/newpackage.phtml, line: 50
 # File: module/Application/view/application/view-reservation/index.phtml, line: 531
@@ -1675,11 +1684,11 @@ msgid "Deutsch"
 msgstr ""
 #
 # File: module/Application/src/Controller/CMSController.php, line: 233
-# File: module/Application/src/Controller/HotelsController.php, line: 483
-# File: module/Application/src/Controller/HotelsController.php, line: 1192
-# File: module/Application/src/Controller/HotelsController.php, line: 1925
-# File: module/Application/src/Controller/HotelsController.php, line: 2710
-# File: module/Application/src/Controller/HotelsController.php, line: 4550
+# File: module/Application/src/Controller/HotelsController.php, line: 707
+# File: module/Application/src/Controller/HotelsController.php, line: 1416
+# File: module/Application/src/Controller/HotelsController.php, line: 2149
+# File: module/Application/src/Controller/HotelsController.php, line: 2934
+# File: module/Application/src/Controller/HotelsController.php, line: 4774
 # File: module/Application/view/application/index/banners.phtml, line: 114
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 52
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 45
@@ -1692,11 +1701,11 @@ msgid "Active"
 msgstr ""
 #
 # File: module/Application/src/Controller/CMSController.php, line: 237
-# File: module/Application/src/Controller/HotelsController.php, line: 487
-# File: module/Application/src/Controller/HotelsController.php, line: 1196
-# File: module/Application/src/Controller/HotelsController.php, line: 1929
-# File: module/Application/src/Controller/HotelsController.php, line: 2714
-# File: module/Application/src/Controller/HotelsController.php, line: 4554
+# File: module/Application/src/Controller/HotelsController.php, line: 711
+# File: module/Application/src/Controller/HotelsController.php, line: 1420
+# File: module/Application/src/Controller/HotelsController.php, line: 2153
+# File: module/Application/src/Controller/HotelsController.php, line: 2938
+# File: module/Application/src/Controller/HotelsController.php, line: 4778
 # File: module/Application/view/application/index/banners.phtml, line: 114
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 54
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 47
@@ -1708,109 +1717,109 @@ msgstr ""
 msgid "Inactive"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 682
+# File: module/Application/src/Controller/HotelsController.php, line: 906
 # File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 48
 msgid "Percentage Based on Double Occupancy Rate"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 686
+# File: module/Application/src/Controller/HotelsController.php, line: 910
 # File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 48
 msgid "Percentage Based on Total Rate"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 834
-# File: module/Application/src/Controller/HotelsController.php, line: 2846
-# File: module/Application/src/Controller/HotelsController.php, line: 2864
-# File: module/Application/src/Controller/HotelsController.php, line: 2882
+# File: module/Application/src/Controller/HotelsController.php, line: 1058
+# File: module/Application/src/Controller/HotelsController.php, line: 3070
+# File: module/Application/src/Controller/HotelsController.php, line: 3088
+# File: module/Application/src/Controller/HotelsController.php, line: 3106
 msgid "No Selection"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2124
-# File: module/Application/src/Controller/HotelsController.php, line: 2302
+# File: module/Application/src/Controller/HotelsController.php, line: 2348
+# File: module/Application/src/Controller/HotelsController.php, line: 2526
 msgid "No Rule"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2128
-# File: module/Application/src/Controller/HotelsController.php, line: 2300
+# File: module/Application/src/Controller/HotelsController.php, line: 2352
+# File: module/Application/src/Controller/HotelsController.php, line: 2524
 msgid "Charge Full Stay"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2132
+# File: module/Application/src/Controller/HotelsController.php, line: 2356
 msgid "1 Night Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2136
+# File: module/Application/src/Controller/HotelsController.php, line: 2360
 msgid "2 Nights Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2140
+# File: module/Application/src/Controller/HotelsController.php, line: 2364
 msgid "3 Nights Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2144
+# File: module/Application/src/Controller/HotelsController.php, line: 2368
 msgid "4 Nights Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2148
+# File: module/Application/src/Controller/HotelsController.php, line: 2372
 msgid "5 Nights Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2152
+# File: module/Application/src/Controller/HotelsController.php, line: 2376
 msgid "6 Nights Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2156
+# File: module/Application/src/Controller/HotelsController.php, line: 2380
 msgid "7 Nights Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2160
+# File: module/Application/src/Controller/HotelsController.php, line: 2384
 msgid "8 Nights Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2164
+# File: module/Application/src/Controller/HotelsController.php, line: 2388
 msgid "9 Nights Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2168
+# File: module/Application/src/Controller/HotelsController.php, line: 2392
 msgid "10 Nights Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2172
+# File: module/Application/src/Controller/HotelsController.php, line: 2396
 msgid "11 Nights Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2176
+# File: module/Application/src/Controller/HotelsController.php, line: 2400
 msgid "12 Nights Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2180
+# File: module/Application/src/Controller/HotelsController.php, line: 2404
 msgid "13 Nights Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2184
+# File: module/Application/src/Controller/HotelsController.php, line: 2408
 msgid "14 Nights Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2188
+# File: module/Application/src/Controller/HotelsController.php, line: 2412
 msgid "15 Nights Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2304
-# File: module/Application/src/Controller/HotelsController.php, line: 2306
+# File: module/Application/src/Controller/HotelsController.php, line: 2528
+# File: module/Application/src/Controller/HotelsController.php, line: 2530
 # File: module/Application/view/application/quick-books/charge.phtml, line: 17
 msgid "Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2304
+# File: module/Application/src/Controller/HotelsController.php, line: 2528
 msgid "night"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 2306
+# File: module/Application/src/Controller/HotelsController.php, line: 2530
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1346
 msgid "nights"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 4717
+# File: module/Application/src/Controller/HotelsController.php, line: 4941
 # File: module/Application/view/application/index/banners.phtml, line: 92
 # File: module/Application/view/application/index/banners.phtml, line: 105
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 42
@@ -2544,6 +2553,12 @@ msgstr ""
 # File: module/Application/view/application/hotels/editroom.phtml, line: 151
 # File: module/Application/view/application/hotels/editroom.phtml, line: 219
 # File: module/Application/view/application/hotels/editroom.phtml, line: 433
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 103
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 221
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 413
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 103
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 221
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 413
 # File: module/Application/view/application/view-reservation/index.phtml, line: 353
 # File: module/Application/view/application/view-reservation/index.phtml, line: 486
 # File: module/Application/view/application/view-reservation/index.phtml, line: 623
@@ -2567,6 +2582,12 @@ msgstr ""
 # File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 30
 # File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 31
 # File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 33
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 156
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 249
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 622
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 156
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 249
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 622
 # File: module/Application/view/application/view-reservation/index.phtml, line: 353
 # File: module/Application/view/application/view-reservation/index.phtml, line: 486
 # File: module/Application/view/application/view-reservation/index.phtml, line: 623
@@ -2775,6 +2796,10 @@ msgstr ""
 # File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 9
 # File: module/Application/view/application/hotels/newcontract.phtml, line: 9
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 9
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 9
+# File: module/Application/view/application/hotels/listcontractrates.phtml, line: 9
+# File: module/Application/view/application/hotels/editcontractrate.phtml, line: 9
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 9
 # File: module/Application/view/application/flights/index.phtml, line: 9
 # File: module/Application/view/application/cars/index.phtml, line: 9
 # File: module/Application/view/application/activities/index.phtml, line: 9
@@ -2876,6 +2901,10 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcontract.phtml, line: 10
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 10
 # File: module/Application/view/application/hotels/mappedhotels.phtml, line: 11
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 10
+# File: module/Application/view/application/hotels/listcontractrates.phtml, line: 10
+# File: module/Application/view/application/hotels/editcontractrate.phtml, line: 10
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 10
 # File: module/Application/view/application/flights/index.phtml, line: 10
 # File: module/Application/view/application/flights/listreservations.phtml, line: 11
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 11
@@ -3006,6 +3035,10 @@ msgstr ""
 # File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 19
 # File: module/Application/view/application/hotels/newcontract.phtml, line: 18
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 18
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 18
+# File: module/Application/view/application/hotels/listcontractrates.phtml, line: 18
+# File: module/Application/view/application/hotels/editcontractrate.phtml, line: 18
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 18
 # File: module/Application/view/application/flights/index.phtml, line: 16
 # File: module/Application/view/application/cars/index.phtml, line: 16
 # File: module/Application/view/application/activities/index.phtml, line: 16
@@ -3047,6 +3080,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/specialoffers.phtml, line: 25
 # File: module/Application/view/application/hotels/stopsale.phtml, line: 25
 # File: module/Application/view/application/hotels/newcontract.phtml, line: 25
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 25
 # File: module/Application/view/application/flights/index.phtml, line: 23
 # File: module/Application/view/application/cars/index.phtml, line: 23
 # File: module/Application/view/application/activities/index.phtml, line: 23
@@ -3420,8 +3454,9 @@ msgstr ""
 # File: module/Application/view/application/hotels/newimage.phtml, line: 66
 # File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 107
 # File: module/Application/view/application/hotels/edit.phtml, line: 209
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 125
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 340
 # File: module/Application/view/application/hotels/mappedhotels.phtml, line: 89
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 340
 # File: module/Application/view/application/flights/settings.phtml, line: 78
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 102
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 91
@@ -3769,6 +3804,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/edit.phtml, line: 28
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 32
 # File: module/Application/view/application/hotels/mappedhotels.phtml, line: 28
+# File: module/Application/view/application/hotels/listcontractrates.phtml, line: 32
 # File: module/Application/view/application/flights/airblocks.phtml, line: 37
 # File: module/Application/view/application/flights/airblock.phtml, line: 24
 # File: module/Application/view/application/flights/newairblock.phtml, line: 24
@@ -5297,6 +5333,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 39
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 37
 # File: module/Application/view/application/hotels/mappedhotels.phtml, line: 59
+# File: module/Application/view/application/hotels/listcontractrates.phtml, line: 37
 # File: module/Application/view/application/flights/listreservations.phtml, line: 35
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 65
 # File: module/Application/view/application/flights/issueticket.phtml, line: 55
@@ -5457,8 +5494,9 @@ msgstr ""
 # File: module/Application/view/application/hotels/newimage.phtml, line: 38
 # File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 62
 # File: module/Application/view/application/hotels/edit.phtml, line: 168
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 84
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 183
 # File: module/Application/view/application/hotels/mappedhotels.phtml, line: 37
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 183
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 78
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 67
 # File: module/Application/view/application/flights/airblock.phtml, line: 82
@@ -5616,6 +5654,7 @@ msgstr ""
 # File: module/Application/view/application/index/setup.phtml, line: 43
 # File: module/Application/view/application/index/setup.phtml, line: 72
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 33
+# File: module/Application/view/application/hotels/listcontractrates.phtml, line: 33
 # File: module/Application/view/application/portfolio/new.phtml, line: 29
 msgid "Code"
 msgstr ""
@@ -6117,6 +6156,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/editroom.phtml, line: 36
 # File: module/Application/view/application/hotels/edit.phtml, line: 77
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 36
+# File: module/Application/view/application/hotels/listcontractrates.phtml, line: 36
 # File: module/Application/view/application/flights/airblock.phtml, line: 43
 # File: module/Application/view/application/flights/airblock.phtml, line: 45
 # File: module/Application/view/application/flights/newairblock.phtml, line: 30
@@ -7486,6 +7526,10 @@ msgstr ""
 # File: module/Application/view/application/cruises/popularrivercruises.phtml, line: 34
 # File: module/Application/view/application/hotels/newroom.phtml, line: 129
 # File: module/Application/view/application/hotels/editroom.phtml, line: 133
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 85
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 138
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 85
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 138
 # File: module/Application/view/application/escortedtours/americadestinations.phtml, line: 51
 # File: module/Application/view/application/escortedtours/africadestinations.phtml, line: 51
 # File: module/Application/view/application/escortedtours/asiaandmiddleeastdestinations.phtml, line: 51
@@ -7536,6 +7580,10 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 13
 # File: module/Application/view/application/hotels/newroom.phtml, line: 439
 # File: module/Application/view/application/hotels/editroom.phtml, line: 444
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 232
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 276
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 232
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 276
 # File: module/Application/view/application/escortedtours/addpopularescortedtours.phtml, line: 13
 # File: module/Application/view/application/escortedtours/addafricadestinations.phtml, line: 13
 # File: module/Application/view/application/escortedtours/addamericadestinations.phtml, line: 13
@@ -7994,6 +8042,7 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/manage.phtml, line: 95
 # File: module/Application/view/application/hotels/contractrates.phtml, line: 25
+# File: module/Application/view/application/hotels/contractrates.phtml, line: 35
 msgid "Contract Rates"
 msgstr ""
 #
@@ -8046,6 +8095,11 @@ msgstr ""
 # File: module/Application/view/application/hotels/contracts.phtml, line: 43
 # File: module/Application/view/application/hotels/newcontract.phtml, line: 25
 msgid "New Contract"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/contractrates.phtml, line: 43
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 25
+msgid "New Contract Rate"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/listpolicies.phtml, line: 26
@@ -8177,6 +8231,10 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/newroom.phtml, line: 438
 # File: module/Application/view/application/hotels/editroom.phtml, line: 443
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 231
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 275
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 231
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 275
 msgid "Cancel"
 msgstr ""
 #
@@ -8243,25 +8301,40 @@ msgstr ""
 # File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 34
 # File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 35
 # File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 34
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 157
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 253
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 157
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 253
 msgid "Age From"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 38
 # File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 39
 # File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 35
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 158
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 257
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 158
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 257
 msgid "Age To"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 42
 # File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 43
 # File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 36
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 159
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 261
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 159
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 261
 msgid "Price Type"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 47
 # File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 48
 # File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 37
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 38
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 41
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 42
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 41
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 42
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 109
 msgid "Room Type"
 msgstr ""
@@ -8288,59 +8361,117 @@ msgstr ""
 msgid "Please select official class"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 29
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 30
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 30
 msgid "Contract"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 31
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 33
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 34
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 33
+# File: module/Application/view/application/hotels/listcontractrates.phtml, line: 34
 msgid "Date From"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 35
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 37
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 35
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 37
+# File: module/Application/view/application/hotels/listcontractrates.phtml, line: 35
 msgid "Date To"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 39
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 45
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 45
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 120
 msgid "Meal Plan"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 40
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 41
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 48
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 49
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 48
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 49
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 37
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 91
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 95
 msgid "Allotment"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 44
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 45
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 52
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 53
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 52
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 53
 msgid "MLOS"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 48
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 49
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 56
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 57
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 56
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 57
 msgid "Release Period"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 53
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 55
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 60
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 61
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 60
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 61
 msgid "Select Residency Source Market (optional)"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 62
 # File: module/Application/view/application/hotels/newcontract.phtml, line: 64
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 65
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 64
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 65
 msgid "Select Nationality Source Market (optional)"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 75
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 71
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 71
 msgid "Adult Pricing"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 78
-msgid "Child Pricing"
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 75
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 75
+msgid "Add New Adult Pricing"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 104
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 160
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 225
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 269
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 413
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 622
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 104
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 160
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 225
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 269
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 413
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 622
+msgid "Rate"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 124
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 124
+msgid "Children Pricing"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 128
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 128
+msgid "Add New Child Pricing"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 622
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 622
+msgid "AgeFrom"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 622
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 622
+msgid "AgeTo"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 622
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 622
+msgid "PriceType"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/listcontracts.phtml, line: 25
@@ -8363,6 +8494,18 @@ msgstr ""
 # File: module/Application/view/application/hotels/mappedhotels.phtml, line: 58
 # File: module/Application/view/application/packages/listpackages.phtml, line: 35
 msgid "Updated"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/listcontractrates.phtml, line: 25
+msgid "List Contract Rate"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/editcontractrate.phtml, line: 25
+msgid "Edit Contract Rate"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 25
+msgid "Edit Contract"
 msgstr ""
 #
 # File: module/Application/view/application/flights/index.phtml, line: 64
