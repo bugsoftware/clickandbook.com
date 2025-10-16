@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-15 16:57-0400\n"
+"POT-Creation-Date: 2025-10-16 02:35-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -149,7 +149,7 @@ msgstr ""
 # File: module/Application/view/application/customers/index.phtml, line: 96
 # File: module/Application/view/application/customers/support.phtml, line: 7
 # File: module/Application/view/application/customers/support.phtml, line: 13
-# File: module/Application/view/application/help/index.phtml, line: 124
+# File: module/Application/view/application/help/index.phtml, line: 100
 # File: module/Application/view/application/support/index.phtml, line: 6
 # File: module/Application/view/application/support/index.phtml, line: 10
 # File: module/Application/view/application/support/list.phtml, line: 12
@@ -1319,6 +1319,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1675
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1824
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 40
+# File: module/Application/view/application/help/index.phtml, line: 44
 # File: module/Application/view/application/support/list.phtml, line: 32
 # File: module/Application/view/application/support/search.phtml, line: 40
 # File: module/Application/view/application/support/search.phtml, line: 78
@@ -1381,6 +1382,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1681
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1829
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 36
+# File: module/Application/view/application/help/index.phtml, line: 48
 # File: module/Application/view/application/support/list.phtml, line: 33
 # File: module/Application/view/application/support/search.phtml, line: 44
 # File: module/Application/view/application/support/search.phtml, line: 79
@@ -3234,7 +3236,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 229
 # File: module/Application/view/application/help/index.phtml, line: 7
-# File: module/Application/view/application/help/index.phtml, line: 13
+# File: module/Application/view/application/help/index.phtml, line: 12
 # File: module/Application/view/layout/layout.phtml, line: 90
 # File: module/Application/view/layout/layout.phtml, line: 200
 msgid "Help"
@@ -3918,6 +3920,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1618
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1662
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1817
+# File: module/Application/view/application/help/index.phtml, line: 40
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 28
 # File: module/Application/view/application/marketing/list.phtml, line: 28
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 45
@@ -10498,6 +10501,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1548
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1590
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1632
+# File: module/Application/view/application/help/index.phtml, line: 51
 msgid "Message"
 msgstr ""
 #
@@ -10509,6 +10513,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1641
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1687
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1835
+# File: module/Application/view/application/help/index.phtml, line: 59
 msgid "Send"
 msgstr ""
 #
@@ -10769,7 +10774,7 @@ msgid "Knowledge Base"
 msgstr ""
 #
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 23
-# File: module/Application/view/application/help/index.phtml, line: 95
+# File: module/Application/view/application/help/index.phtml, line: 77
 msgid "Need help?"
 msgstr ""
 #
@@ -10809,28 +10814,44 @@ msgstr ""
 msgid "Unfortunately, this category is empty at the moment. You may want to check out other categories or visit us again soon."
 msgstr ""
 #
-# File: module/Application/view/application/help/index.phtml, line: 94
+# File: module/Application/view/application/help/index.phtml, line: 25
+msgid "Contact"
+msgstr ""
+#
+# File: module/Application/view/application/help/index.phtml, line: 29
+msgid "Thank you for reaching out!"
+msgstr ""
+#
+# File: module/Application/view/application/help/index.phtml, line: 30
+msgid "Thanks for reaching out. Your inquiry has been successfully submitted, and our support team will review it shortly. We'll get back to you with a clear, actionable response as soon as possible - so you can keep serving your travelers with confidence."
+msgstr ""
+#
+# File: module/Application/view/application/help/index.phtml, line: 37
+msgid "We would love to hear from you!"
+msgstr ""
+#
+# File: module/Application/view/application/help/index.phtml, line: 76
 msgid "Need more details?"
 msgstr ""
 #
-# File: module/Application/view/application/help/index.phtml, line: 96
+# File: module/Application/view/application/help/index.phtml, line: 78
 msgid "Click the buttom bellow to access our knowledge base, where you can find answers to frequently asked questions, tutorials, and videos. Learn how to use our products and services, troubleshoot issues, and get tips and tricks."
 msgstr ""
 #
-# File: module/Application/view/application/help/index.phtml, line: 106
+# File: module/Application/view/application/help/index.phtml, line: 82
 # File: module/Application/view/layout/layout.phtml, line: 91
 msgid "Docs"
 msgstr ""
 #
-# File: module/Application/view/application/help/index.phtml, line: 114
+# File: module/Application/view/application/help/index.phtml, line: 90
 msgid "Looking for support?"
 msgstr ""
 #
-# File: module/Application/view/application/help/index.phtml, line: 115
+# File: module/Application/view/application/help/index.phtml, line: 91
 msgid "Submit a Ticket!"
 msgstr ""
 #
-# File: module/Application/view/application/help/index.phtml, line: 116
+# File: module/Application/view/application/help/index.phtml, line: 92
 msgid "If you need further assistance, please click the button below to open a support ticket. Our customer service team will get back to you as soon as possible. Thank you for your patience and cooperation."
 msgstr ""
 #
