@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-22 08:49-0400\n"
+"POT-Creation-Date: 2025-10-22 09:36-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -75,7 +75,7 @@ msgstr ""
 # File: module/Application/src/Controller/AgentsController.php, line: 3655
 # File: module/Application/src/Controller/AgentsController.php, line: 3676
 # File: module/Application/src/Controller/AgentsController.php, line: 3697
-# File: module/Application/src/Controller/MarketingController.php, line: 352
+# File: module/Application/src/Controller/MarketingController.php, line: 463
 # File: module/Application/src/Controller/IndexController.php, line: 11248
 # File: module/Application/src/Controller/CMSController.php, line: 475
 # File: module/Application/src/Controller/CMSController.php, line: 496
@@ -3743,7 +3743,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 173
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 141
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 260
-# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 106
+# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 110
 # File: module/Application/view/application/cms/editpage.phtml, line: 109
 # File: module/Application/view/application/portfolio/index.phtml, line: 141
 # File: module/Application/view/application/portfolio/new.phtml, line: 120
@@ -4068,7 +4068,6 @@ msgstr ""
 # File: module/Application/view/application/help/index.phtml, line: 40
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 28
 # File: module/Application/view/application/marketing/list.phtml, line: 28
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 45
 # File: module/Application/view/application/portfolio/new.phtml, line: 25
 # File: module/Application/view/application/portfolio/categories.phtml, line: 27
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 24
@@ -5407,6 +5406,8 @@ msgstr ""
 # File: module/Application/view/application/index/content.phtml, line: 91
 # File: module/Application/view/application/index/content.phtml, line: 116
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 43
+# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 33
+# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 34
 # File: module/Application/view/application/portfolio/new.phtml, line: 57
 # File: module/Application/view/application/portfolio/new.phtml, line: 58
 msgid "Language"
@@ -5814,7 +5815,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 120
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 51
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 96
-# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 39
+# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 43
 # File: module/Application/view/application/cms/editpage.phtml, line: 87
 # File: module/Application/view/application/portfolio/new.phtml, line: 76
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 37
@@ -5836,7 +5837,6 @@ msgstr ""
 #
 # File: module/Application/view/application/index/securitylog.phtml, line: 67
 # File: module/Application/view/application/customers/support.phtml, line: 39
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 38
 msgid "Date/Time Created"
 msgstr ""
 #
@@ -8160,6 +8160,7 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/newhotel.phtml, line: 37
 # File: module/Application/view/application/hotels/edit.phtml, line: 37
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 44
 msgid "Sender Email"
 msgstr ""
 #
@@ -11847,6 +11848,10 @@ msgstr ""
 msgid "Filter by campaign"
 msgstr ""
 #
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 38
+msgid "Date/Time"
+msgstr ""
+#
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 41
 msgid "Error Status"
 msgstr ""
@@ -11855,8 +11860,9 @@ msgstr ""
 msgid "Phone Number"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 44
-msgid "Email From"
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 45
+# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 30
+msgid "Sender Name"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 46
@@ -11911,11 +11917,7 @@ msgstr ""
 msgid "Your flyer campaign has been successfully queued for processing. The sending process will begin shortly. Thank you for your patience."
 msgstr ""
 #
-# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 30
-msgid "Sender Name"
-msgstr ""
-#
-# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 33
+# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 37
 msgid "Email recipients"
 msgstr ""
 #
