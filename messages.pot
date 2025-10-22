@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-22 09:41-0400\n"
+"POT-Creation-Date: 2025-10-22 09:59-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -109,7 +109,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 58
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 101
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 72
-# File: module/Application/view/application/portfolio/categories.phtml, line: 47
+# File: module/Application/view/application/portfolio/categories.phtml, line: 57
 msgid "Unknown"
 msgstr ""
 #
@@ -697,7 +697,7 @@ msgstr ""
 # File: module/Application/src/Controller/HotelsController.php, line: 3430
 # File: module/Application/src/Controller/HotelsController.php, line: 6825
 # File: module/Application/src/Controller/PortfolioController.php, line: 233
-# File: module/Application/src/Controller/PortfolioController.php, line: 402
+# File: module/Application/src/Controller/PortfolioController.php, line: 401
 # File: module/Application/view/application/customers/view.phtml, line: 322
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 56
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 49
@@ -713,7 +713,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 708
 # File: module/Application/view/application/view-reservation/index.phtml, line: 742
 # File: module/Application/view/application/agents/edit.phtml, line: 183
-# File: module/Application/view/application/portfolio/categories.phtml, line: 45
+# File: module/Application/view/application/portfolio/categories.phtml, line: 55
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 31
 msgid "Pending Review"
 msgstr ""
@@ -1736,7 +1736,7 @@ msgstr ""
 # File: module/Application/src/Controller/HotelsController.php, line: 4977
 # File: module/Application/src/Controller/HotelsController.php, line: 6817
 # File: module/Application/src/Controller/PortfolioController.php, line: 221
-# File: module/Application/src/Controller/PortfolioController.php, line: 390
+# File: module/Application/src/Controller/PortfolioController.php, line: 389
 # File: module/Application/view/application/index/banners.phtml, line: 114
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 52
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 45
@@ -1745,7 +1745,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 93
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 54
 # File: module/Application/view/application/cms/editpage.phtml, line: 43
-# File: module/Application/view/application/portfolio/categories.phtml, line: 41
+# File: module/Application/view/application/portfolio/categories.phtml, line: 51
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 29
 msgid "Active"
 msgstr ""
@@ -1762,7 +1762,7 @@ msgstr ""
 # File: module/Application/src/Controller/HotelsController.php, line: 4981
 # File: module/Application/src/Controller/HotelsController.php, line: 6821
 # File: module/Application/src/Controller/PortfolioController.php, line: 225
-# File: module/Application/src/Controller/PortfolioController.php, line: 394
+# File: module/Application/src/Controller/PortfolioController.php, line: 393
 # File: module/Application/view/application/index/banners.phtml, line: 114
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 54
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 47
@@ -1771,7 +1771,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 95
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 55
 # File: module/Application/view/application/cms/editpage.phtml, line: 44
-# File: module/Application/view/application/portfolio/categories.phtml, line: 43
+# File: module/Application/view/application/portfolio/categories.phtml, line: 53
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 30
 msgid "Inactive"
 msgstr ""
@@ -3234,7 +3234,7 @@ msgstr ""
 # File: module/Application/view/application/cms/pages.phtml, line: 11
 # File: module/Application/view/application/cms/editpage.phtml, line: 10
 # File: module/Application/view/application/portfolio/new.phtml, line: 10
-# File: module/Application/view/application/portfolio/categories.phtml, line: 11
+# File: module/Application/view/application/portfolio/categories.phtml, line: 12
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 11
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 11
 # File: module/Application/view/layout/layout.phtml, line: 7
@@ -3386,7 +3386,7 @@ msgstr ""
 # File: module/Application/view/application/portfolio/index.phtml, line: 12
 # File: module/Application/view/application/portfolio/index.phtml, line: 16
 # File: module/Application/view/application/portfolio/new.phtml, line: 11
-# File: module/Application/view/application/portfolio/categories.phtml, line: 12
+# File: module/Application/view/application/portfolio/categories.phtml, line: 13
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 12
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 12
 msgid "Portfolio"
@@ -4069,7 +4069,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 28
 # File: module/Application/view/application/marketing/list.phtml, line: 28
 # File: module/Application/view/application/portfolio/new.phtml, line: 25
-# File: module/Application/view/application/portfolio/categories.phtml, line: 27
+# File: module/Application/view/application/portfolio/categories.phtml, line: 37
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 24
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 25
 msgid "Name"
@@ -5633,7 +5633,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/edit.phtml, line: 163
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 48
 # File: module/Application/view/application/cms/pages.phtml, line: 33
-# File: module/Application/view/application/portfolio/categories.phtml, line: 30
+# File: module/Application/view/application/portfolio/categories.phtml, line: 40
 msgid "Action"
 msgstr ""
 #
@@ -5716,8 +5716,6 @@ msgstr ""
 # File: module/Application/view/application/marketing/index.phtml, line: 152
 # File: module/Application/view/application/marketing/list.phtml, line: 41
 # File: module/Application/view/application/cms/pages.phtml, line: 47
-# File: module/Application/view/application/portfolio/categories.phtml, line: 51
-# File: module/Application/view/application/portfolio/categories.phtml, line: 54
 msgid "View"
 msgstr ""
 #
@@ -6473,7 +6471,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 47
 # File: module/Application/view/application/cms/pages.phtml, line: 32
 # File: module/Application/view/application/cms/editpage.phtml, line: 40
-# File: module/Application/view/application/portfolio/categories.phtml, line: 29
+# File: module/Application/view/application/portfolio/categories.phtml, line: 39
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 26
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 28
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 27
@@ -7038,8 +7036,8 @@ msgstr ""
 # File: module/Application/view/application/cms/pages.phtml, line: 7
 # File: module/Application/view/application/cms/pages.phtml, line: 13
 # File: module/Application/view/application/cms/pages.phtml, line: 20
-# File: module/Application/view/application/portfolio/categories.phtml, line: 7
-# File: module/Application/view/application/portfolio/categories.phtml, line: 20
+# File: module/Application/view/application/portfolio/categories.phtml, line: 8
+# File: module/Application/view/application/portfolio/categories.phtml, line: 30
 msgid "List"
 msgstr ""
 #
@@ -7846,6 +7844,7 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/southamericadestinations.phtml, line: 19
 # File: module/Application/view/application/escortedtours/lastminuteescortedtours.phtml, line: 19
 # File: module/Application/view/application/escortedtours/specialoffers.phtml, line: 19
+# File: module/Application/view/application/portfolio/categories.phtml, line: 22
 msgid "Add New"
 msgstr ""
 #
@@ -8480,7 +8479,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/mappedhotels.phtml, line: 27
 # File: module/Application/view/application/packages/newpackage.phtml, line: 32
 # File: module/Application/view/application/packages/edit.phtml, line: 72
-# File: module/Application/view/application/portfolio/categories.phtml, line: 28
+# File: module/Application/view/application/portfolio/categories.phtml, line: 38
 msgid "Sort Order"
 msgstr ""
 #
@@ -10983,7 +10982,7 @@ msgstr ""
 #
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 43
 # File: module/Application/view/application/portfolio/index.phtml, line: 24
-# File: module/Application/view/application/portfolio/categories.phtml, line: 13
+# File: module/Application/view/application/portfolio/categories.phtml, line: 14
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 13
 msgid "Categories"
 msgstr ""
