@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-23 02:22-0400\n"
+"POT-Creation-Date: 2025-10-23 15:58-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -383,6 +383,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/FlightsController.php, line: 1514
 # File: module/Application/src/Controller/FlightsController.php, line: 2388
+# File: module/Application/src/Controller/PortfolioController.php, line: 282
 msgid "All Companys"
 msgstr ""
 #
@@ -696,8 +697,8 @@ msgstr ""
 # File: module/Application/src/Controller/ReservationsController.php, line: 600
 # File: module/Application/src/Controller/HotelsController.php, line: 3430
 # File: module/Application/src/Controller/HotelsController.php, line: 6825
-# File: module/Application/src/Controller/PortfolioController.php, line: 273
-# File: module/Application/src/Controller/PortfolioController.php, line: 441
+# File: module/Application/src/Controller/PortfolioController.php, line: 548
+# File: module/Application/src/Controller/PortfolioController.php, line: 716
 # File: module/Application/view/application/customers/view.phtml, line: 322
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 56
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 49
@@ -1735,8 +1736,8 @@ msgstr ""
 # File: module/Application/src/Controller/HotelsController.php, line: 4155
 # File: module/Application/src/Controller/HotelsController.php, line: 4977
 # File: module/Application/src/Controller/HotelsController.php, line: 6817
-# File: module/Application/src/Controller/PortfolioController.php, line: 261
-# File: module/Application/src/Controller/PortfolioController.php, line: 429
+# File: module/Application/src/Controller/PortfolioController.php, line: 536
+# File: module/Application/src/Controller/PortfolioController.php, line: 704
 # File: module/Application/view/application/index/banners.phtml, line: 114
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 52
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 45
@@ -1761,8 +1762,8 @@ msgstr ""
 # File: module/Application/src/Controller/HotelsController.php, line: 4159
 # File: module/Application/src/Controller/HotelsController.php, line: 4981
 # File: module/Application/src/Controller/HotelsController.php, line: 6821
-# File: module/Application/src/Controller/PortfolioController.php, line: 265
-# File: module/Application/src/Controller/PortfolioController.php, line: 433
+# File: module/Application/src/Controller/PortfolioController.php, line: 540
+# File: module/Application/src/Controller/PortfolioController.php, line: 708
 # File: module/Application/view/application/index/banners.phtml, line: 114
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 54
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 47
@@ -1909,6 +1910,15 @@ msgstr ""
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 49
 # File: module/Application/view/application/portfolio/index.phtml, line: 45
 msgid "All"
+msgstr ""
+#
+# File: module/Application/src/Controller/PortfolioController.php, line: 257
+# File: module/Application/view/application/packages/edit.phtml, line: 64
+msgid "Please select"
+msgstr ""
+#
+# File: module/Application/src/Controller/PortfolioController.php, line: 306
+msgid "All Categories"
 msgstr ""
 #
 # File: module/Application/src/Shared/Sendemailv2.php, line: 486
@@ -2339,7 +2349,6 @@ msgstr ""
 # File: module/Application/view/application/portfolio/new.phtml, line: 33
 # File: module/Application/view/application/portfolio/new.phtml, line: 34
 # File: module/Application/view/application/portfolio/edit.phtml, line: 33
-# File: module/Application/view/application/portfolio/edit.phtml, line: 34
 msgid "Category"
 msgstr ""
 #
@@ -3753,7 +3762,7 @@ msgstr ""
 # File: module/Application/view/application/portfolio/new.phtml, line: 120
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 78
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 72
-# File: module/Application/view/application/portfolio/edit.phtml, line: 120
+# File: module/Application/view/application/portfolio/edit.phtml, line: 140
 msgid "Please wait..."
 msgstr ""
 #
@@ -5049,8 +5058,7 @@ msgstr ""
 # File: module/Application/view/application/agents/new.phtml, line: 26
 # File: module/Application/view/application/portfolio/new.phtml, line: 37
 # File: module/Application/view/application/portfolio/new.phtml, line: 38
-# File: module/Application/view/application/portfolio/edit.phtml, line: 37
-# File: module/Application/view/application/portfolio/edit.phtml, line: 38
+# File: module/Application/view/application/portfolio/edit.phtml, line: 39
 msgid "Company"
 msgstr ""
 #
@@ -5418,8 +5426,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 34
 # File: module/Application/view/application/portfolio/new.phtml, line: 57
 # File: module/Application/view/application/portfolio/new.phtml, line: 58
-# File: module/Application/view/application/portfolio/edit.phtml, line: 57
-# File: module/Application/view/application/portfolio/edit.phtml, line: 58
+# File: module/Application/view/application/portfolio/edit.phtml, line: 61
 msgid "Language"
 msgstr ""
 #
@@ -5828,7 +5835,7 @@ msgstr ""
 # File: module/Application/view/application/portfolio/new.phtml, line: 76
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 37
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 31
-# File: module/Application/view/application/portfolio/edit.phtml, line: 76
+# File: module/Application/view/application/portfolio/edit.phtml, line: 86
 msgid "Submit"
 msgstr ""
 #
@@ -6400,8 +6407,8 @@ msgstr ""
 # File: module/Application/view/application/flights/campaing.phtml, line: 30
 # File: module/Application/view/application/portfolio/new.phtml, line: 67
 # File: module/Application/view/application/portfolio/new.phtml, line: 68
-# File: module/Application/view/application/portfolio/edit.phtml, line: 67
-# File: module/Application/view/application/portfolio/edit.phtml, line: 68
+# File: module/Application/view/application/portfolio/edit.phtml, line: 73
+# File: module/Application/view/application/portfolio/edit.phtml, line: 74
 msgid "Image"
 msgstr ""
 #
@@ -6434,7 +6441,7 @@ msgstr ""
 # File: module/Application/view/application/index/banners.phtml, line: 78
 # File: module/Application/view/application/index/bannersedit.phtml, line: 166
 # File: module/Application/view/application/portfolio/new.phtml, line: 45
-# File: module/Application/view/application/portfolio/edit.phtml, line: 45
+# File: module/Application/view/application/portfolio/edit.phtml, line: 49
 msgid "Views"
 msgstr ""
 #
@@ -9181,6 +9188,7 @@ msgstr ""
 #
 # File: module/Application/view/application/flights/airblock.phtml, line: 30
 # File: module/Application/view/application/flights/newairblock.phtml, line: 28
+# File: module/Application/view/application/portfolio/edit.phtml, line: 41
 msgid "Select Company"
 msgstr ""
 #
@@ -10101,10 +10109,6 @@ msgstr ""
 #
 # File: module/Application/view/application/packages/edit.phtml, line: 19
 msgid "Package Details"
-msgstr ""
-#
-# File: module/Application/view/application/packages/edit.phtml, line: 64
-msgid "Please select"
 msgstr ""
 #
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 23
@@ -12009,6 +12013,7 @@ msgstr ""
 #
 # File: module/Application/view/application/portfolio/index.phtml, line: 128
 # File: module/Application/view/application/portfolio/index.phtml, line: 268
+# File: module/Application/view/application/portfolio/edit.phtml, line: 77
 msgid "Image Preview"
 msgstr ""
 #
@@ -12028,27 +12033,26 @@ msgid "New Flyer"
 msgstr ""
 #
 # File: module/Application/view/application/portfolio/new.phtml, line: 41
-# File: module/Application/view/application/portfolio/edit.phtml, line: 41
+# File: module/Application/view/application/portfolio/edit.phtml, line: 45
 msgid "Likes"
 msgstr ""
 #
 # File: module/Application/view/application/portfolio/new.phtml, line: 49
-# File: module/Application/view/application/portfolio/edit.phtml, line: 49
+# File: module/Application/view/application/portfolio/edit.phtml, line: 53
 msgid "Sort order"
 msgstr ""
 #
 # File: module/Application/view/application/portfolio/new.phtml, line: 53
-# File: module/Application/view/application/portfolio/edit.phtml, line: 53
+# File: module/Application/view/application/portfolio/edit.phtml, line: 57
 msgid "Expire Date"
 msgstr ""
 #
 # File: module/Application/view/application/portfolio/new.phtml, line: 68
-# File: module/Application/view/application/portfolio/edit.phtml, line: 68
+# File: module/Application/view/application/portfolio/edit.phtml, line: 74
 msgid "Upload Image"
 msgstr ""
 #
 # File: module/Application/view/application/portfolio/new.phtml, line: 113
-# File: module/Application/view/application/portfolio/edit.phtml, line: 113
 msgid "Image is required! Please upload image."
 msgstr ""
 #
@@ -12070,6 +12074,14 @@ msgstr ""
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 14
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 21
 msgid "New Category"
+msgstr ""
+#
+# File: module/Application/view/application/portfolio/edit.phtml, line: 35
+msgid "Select Category"
+msgstr ""
+#
+# File: module/Application/view/application/portfolio/edit.phtml, line: 63
+msgid "Select Language"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 61
