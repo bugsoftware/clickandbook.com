@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-24 11:49-0400\n"
+"POT-Creation-Date: 2025-10-24 16:20-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -385,7 +385,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/FlightsController.php, line: 1514
 # File: module/Application/src/Controller/FlightsController.php, line: 2388
-# File: module/Application/src/Controller/PortfolioController.php, line: 290
+# File: module/Application/src/Controller/PortfolioController.php, line: 369
 msgid "All Companys"
 msgstr ""
 #
@@ -699,8 +699,8 @@ msgstr ""
 # File: module/Application/src/Controller/ReservationsController.php, line: 600
 # File: module/Application/src/Controller/HotelsController.php, line: 3430
 # File: module/Application/src/Controller/HotelsController.php, line: 6825
-# File: module/Application/src/Controller/PortfolioController.php, line: 563
-# File: module/Application/src/Controller/PortfolioController.php, line: 731
+# File: module/Application/src/Controller/PortfolioController.php, line: 642
+# File: module/Application/src/Controller/PortfolioController.php, line: 810
 # File: module/Application/view/application/customers/view.phtml, line: 322
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 56
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 49
@@ -1740,8 +1740,8 @@ msgstr ""
 # File: module/Application/src/Controller/HotelsController.php, line: 4155
 # File: module/Application/src/Controller/HotelsController.php, line: 4977
 # File: module/Application/src/Controller/HotelsController.php, line: 6817
-# File: module/Application/src/Controller/PortfolioController.php, line: 551
-# File: module/Application/src/Controller/PortfolioController.php, line: 719
+# File: module/Application/src/Controller/PortfolioController.php, line: 630
+# File: module/Application/src/Controller/PortfolioController.php, line: 798
 # File: module/Application/view/application/index/banners.phtml, line: 114
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 52
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 45
@@ -1768,8 +1768,8 @@ msgstr ""
 # File: module/Application/src/Controller/HotelsController.php, line: 4159
 # File: module/Application/src/Controller/HotelsController.php, line: 4981
 # File: module/Application/src/Controller/HotelsController.php, line: 6821
-# File: module/Application/src/Controller/PortfolioController.php, line: 555
-# File: module/Application/src/Controller/PortfolioController.php, line: 723
+# File: module/Application/src/Controller/PortfolioController.php, line: 634
+# File: module/Application/src/Controller/PortfolioController.php, line: 802
 # File: module/Application/view/application/index/banners.phtml, line: 114
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 54
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 47
@@ -1915,16 +1915,16 @@ msgstr ""
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 42
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 86
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 49
-# File: module/Application/view/application/portfolio/index.phtml, line: 45
+# File: module/Application/view/application/portfolio/index.phtml, line: 49
 msgid "All"
 msgstr ""
 #
-# File: module/Application/src/Controller/PortfolioController.php, line: 257
+# File: module/Application/src/Controller/PortfolioController.php, line: 336
 # File: module/Application/view/application/packages/edit.phtml, line: 64
 msgid "Please select"
 msgstr ""
 #
-# File: module/Application/src/Controller/PortfolioController.php, line: 322
+# File: module/Application/src/Controller/PortfolioController.php, line: 401
 msgid "All Categories"
 msgstr ""
 #
@@ -3062,7 +3062,7 @@ msgstr ""
 # File: module/Application/view/application/cms/index.phtml, line: 9
 # File: module/Application/view/application/cms/editpage.phtml, line: 9
 # File: module/Application/view/application/cms/new.phtml, line: 9
-# File: module/Application/view/application/portfolio/index.phtml, line: 19
+# File: module/Application/view/application/portfolio/index.phtml, line: 23
 msgid "Home"
 msgstr ""
 #
@@ -3406,8 +3406,8 @@ msgid "CMS"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 218
-# File: module/Application/view/application/portfolio/index.phtml, line: 16
 # File: module/Application/view/application/portfolio/index.phtml, line: 20
+# File: module/Application/view/application/portfolio/index.phtml, line: 24
 # File: module/Application/view/application/portfolio/new.phtml, line: 11
 # File: module/Application/view/application/portfolio/categories.phtml, line: 13
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 12
@@ -3770,7 +3770,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 110
 # File: module/Application/view/application/cms/editpage.phtml, line: 122
 # File: module/Application/view/application/cms/new.phtml, line: 123
-# File: module/Application/view/application/portfolio/index.phtml, line: 157
+# File: module/Application/view/application/portfolio/index.phtml, line: 163
 # File: module/Application/view/application/portfolio/new.phtml, line: 120
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 78
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 72
@@ -7413,10 +7413,10 @@ msgstr ""
 #
 # File: module/Application/view/application/customers/view.phtml, line: 441
 # File: module/Application/view/application/customers/view.phtml, line: 442
-# File: module/Application/view/application/portfolio/index.phtml, line: 58
-# File: module/Application/view/application/portfolio/index.phtml, line: 59
-# File: module/Application/view/application/portfolio/index.phtml, line: 88
-# File: module/Application/view/application/portfolio/index.phtml, line: 89
+# File: module/Application/view/application/portfolio/index.phtml, line: 62
+# File: module/Application/view/application/portfolio/index.phtml, line: 63
+# File: module/Application/view/application/portfolio/index.phtml, line: 93
+# File: module/Application/view/application/portfolio/index.phtml, line: 94
 msgid "Valid Until"
 msgstr ""
 #
@@ -7913,6 +7913,7 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/lastminuteescortedtours.phtml, line: 34
 # File: module/Application/view/application/escortedtours/specialoffers.phtml, line: 34
 # File: module/Application/view/application/view-reservation/guests.phtml, line: 44
+# File: module/Application/view/application/portfolio/index.phtml, line: 316
 msgid "Delete"
 msgstr ""
 #
@@ -8626,8 +8627,9 @@ msgstr ""
 # File: module/Application/view/application/knowledge-base/item.phtml, line: 33
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 123
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 134
-# File: module/Application/view/application/portfolio/index.phtml, line: 272
-# File: module/Application/view/application/portfolio/index.phtml, line: 279
+# File: module/Application/view/application/portfolio/index.phtml, line: 291
+# File: module/Application/view/application/portfolio/index.phtml, line: 298
+# File: module/Application/view/application/portfolio/index.phtml, line: 311
 msgid "Close"
 msgstr ""
 #
@@ -8635,6 +8637,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/editroom.phtml, line: 443
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 220
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 262
+# File: module/Application/view/application/portfolio/index.phtml, line: 315
 msgid "Cancel"
 msgstr ""
 #
@@ -11026,7 +11029,7 @@ msgid "Search for articles!"
 msgstr ""
 #
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 43
-# File: module/Application/view/application/portfolio/index.phtml, line: 28
+# File: module/Application/view/application/portfolio/index.phtml, line: 32
 # File: module/Application/view/application/portfolio/categories.phtml, line: 14
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 13
 msgid "Categories"
@@ -11660,7 +11663,7 @@ msgid "TREND"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/list.phtml, line: 46
-# File: module/Application/view/application/portfolio/index.phtml, line: 276
+# File: module/Application/view/application/portfolio/index.phtml, line: 295
 msgid "Preview"
 msgstr ""
 #
@@ -12065,37 +12068,50 @@ msgstr ""
 msgid "Pages Description"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/index.phtml, line: 32
+# File: module/Application/view/application/portfolio/index.phtml, line: 36
 # File: module/Application/view/application/portfolio/new.phtml, line: 12
 msgid "Upload New"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/index.phtml, line: 70
-# File: module/Application/view/application/portfolio/index.phtml, line: 100
+# File: module/Application/view/application/portfolio/index.phtml, line: 74
+# File: module/Application/view/application/portfolio/index.phtml, line: 105
+msgid "Delete Flyer"
+msgstr ""
+#
+# File: module/Application/view/application/portfolio/index.phtml, line: 75
+# File: module/Application/view/application/portfolio/index.phtml, line: 106
 # File: module/Application/view/application/portfolio/edit.phtml, line: 7
 # File: module/Application/view/application/portfolio/edit.phtml, line: 12
 # File: module/Application/view/application/portfolio/edit.phtml, line: 19
 msgid "Edit Flyer"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/index.phtml, line: 78
+# File: module/Application/view/application/portfolio/index.phtml, line: 83
 msgid "Load More"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/index.phtml, line: 128
-# File: module/Application/view/application/portfolio/index.phtml, line: 268
+# File: module/Application/view/application/portfolio/index.phtml, line: 134
+# File: module/Application/view/application/portfolio/index.phtml, line: 287
 # File: module/Application/view/application/portfolio/edit.phtml, line: 77
 msgid "Image Preview"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/index.phtml, line: 270
-# File: module/Application/view/application/portfolio/index.phtml, line: 280
+# File: module/Application/view/application/portfolio/index.phtml, line: 289
+# File: module/Application/view/application/portfolio/index.phtml, line: 299
 msgid "Send by email"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/index.phtml, line: 271
-# File: module/Application/view/application/portfolio/index.phtml, line: 281
+# File: module/Application/view/application/portfolio/index.phtml, line: 290
+# File: module/Application/view/application/portfolio/index.phtml, line: 300
 msgid "Download"
+msgstr ""
+#
+# File: module/Application/view/application/portfolio/index.phtml, line: 310
+msgid "Confirm Deletion"
+msgstr ""
+#
+# File: module/Application/view/application/portfolio/index.phtml, line: 313
+msgid "Are you sure you want to delete this flyer? This action cannot be undone."
 msgstr ""
 #
 # File: module/Application/view/application/portfolio/new.phtml, line: 7
