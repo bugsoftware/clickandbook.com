@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-30 06:36-0400\n"
+"POT-Creation-Date: 2025-10-30 09:55-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -75,7 +75,7 @@ msgstr ""
 # File: module/Application/src/Controller/AgentsController.php, line: 3655
 # File: module/Application/src/Controller/AgentsController.php, line: 3676
 # File: module/Application/src/Controller/AgentsController.php, line: 3697
-# File: module/Application/src/Controller/MarketingController.php, line: 495
+# File: module/Application/src/Controller/MarketingController.php, line: 519
 # File: module/Application/src/Controller/IndexController.php, line: 11592
 # File: module/Application/src/Controller/CMSController.php, line: 872
 # File: module/Application/src/Controller/CMSController.php, line: 893
@@ -3777,7 +3777,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 173
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 141
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 260
-# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 110
+# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 111
 # File: module/Application/view/application/cms/editpage.phtml, line: 122
 # File: module/Application/view/application/cms/new.phtml, line: 123
 # File: module/Application/view/application/portfolio/index.phtml, line: 175
@@ -5858,7 +5858,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 120
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 51
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 96
-# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 43
+# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 44
 # File: module/Application/view/application/cms/editpage.phtml, line: 100
 # File: module/Application/view/application/cms/new.phtml, line: 101
 # File: module/Application/view/application/portfolio/new.phtml, line: 80
@@ -12046,7 +12046,11 @@ msgstr ""
 msgid "Your flyer campaign has been successfully queued for processing. The sending process will begin shortly. Thank you for your patience."
 msgstr ""
 #
-# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 37
+# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 36
+msgid "Do not send agent location (Remove address, city, state, zip code and country information from top and footer) "
+msgstr ""
+#
+# File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 38
 msgid "Email recipients"
 msgstr ""
 #
