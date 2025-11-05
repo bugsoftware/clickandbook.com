@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-05 12:26-0500\n"
+"POT-Creation-Date: 2025-11-05 12:46-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1003,6 +1003,8 @@ msgstr ""
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 12
 # File: module/Application/view/application/packages/editexclusion.phtml, line: 12
 # File: module/Application/view/application/packages/editexclusion.phtml, line: 13
+# File: module/Application/view/application/packages/editinclusion.phtml, line: 12
+# File: module/Application/view/application/packages/editinclusion.phtml, line: 13
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 237
 # File: module/Application/view/layout/layout.phtml, line: 138
 msgid "Packages"
@@ -3032,6 +3034,7 @@ msgstr ""
 # File: module/Application/view/application/packages/newitinerary.phtml, line: 9
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 10
 # File: module/Application/view/application/packages/editexclusion.phtml, line: 10
+# File: module/Application/view/application/packages/editinclusion.phtml, line: 10
 # File: module/Application/view/application/insurances/index.phtml, line: 9
 # File: module/Application/view/application/reservations/index.phtml, line: 10
 # File: module/Application/view/application/reports/index.phtml, line: 11
@@ -3219,6 +3222,7 @@ msgstr ""
 # File: module/Application/view/application/packages/newitinerary.phtml, line: 10
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 11
 # File: module/Application/view/application/packages/editexclusion.phtml, line: 11
+# File: module/Application/view/application/packages/editinclusion.phtml, line: 11
 # File: module/Application/view/application/insurances/index.phtml, line: 10
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 11
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 11
@@ -3760,6 +3764,7 @@ msgstr ""
 # File: module/Application/view/application/packages/newitinerary.phtml, line: 72
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 84
 # File: module/Application/view/application/packages/editexclusion.phtml, line: 98
+# File: module/Application/view/application/packages/editinclusion.phtml, line: 98
 # File: module/Application/view/application/insurances/settings.phtml, line: 102
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 407
 # File: module/Application/view/application/reports/search.phtml, line: 116
@@ -4096,11 +4101,13 @@ msgstr ""
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 33
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 72
 # File: module/Application/view/application/packages/edit.phtml, line: 29
+# File: module/Application/view/application/packages/inclusions.phtml, line: 32
 # File: module/Application/view/application/packages/exclusions.phtml, line: 34
 # File: module/Application/view/application/packages/newinclusion.phtml, line: 26
 # File: module/Application/view/application/packages/newexclusion.phtml, line: 27
 # File: module/Application/view/application/packages/newitinerary.phtml, line: 27
 # File: module/Application/view/application/packages/editexclusion.phtml, line: 30
+# File: module/Application/view/application/packages/editinclusion.phtml, line: 30
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 41
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1576
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1618
@@ -5453,6 +5460,7 @@ msgstr ""
 # File: module/Application/view/application/index/content.phtml, line: 70
 # File: module/Application/view/application/index/content.phtml, line: 91
 # File: module/Application/view/application/index/content.phtml, line: 116
+# File: module/Application/view/application/packages/inclusions.phtml, line: 33
 # File: module/Application/view/application/packages/exclusions.phtml, line: 35
 # File: module/Application/view/application/packages/newinclusion.phtml, line: 28
 # File: module/Application/view/application/packages/newinclusion.phtml, line: 29
@@ -5460,6 +5468,8 @@ msgstr ""
 # File: module/Application/view/application/packages/newexclusion.phtml, line: 30
 # File: module/Application/view/application/packages/editexclusion.phtml, line: 33
 # File: module/Application/view/application/packages/editexclusion.phtml, line: 34
+# File: module/Application/view/application/packages/editinclusion.phtml, line: 33
+# File: module/Application/view/application/packages/editinclusion.phtml, line: 34
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 43
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 33
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 34
@@ -5672,6 +5682,7 @@ msgstr ""
 # File: module/Application/view/application/packages/listpackages.phtml, line: 37
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 76
 # File: module/Application/view/application/packages/images.phtml, line: 40
+# File: module/Application/view/application/packages/inclusions.phtml, line: 34
 # File: module/Application/view/application/packages/exclusions.phtml, line: 36
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 35
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 65
@@ -5859,6 +5870,7 @@ msgstr ""
 # File: module/Application/view/application/packages/newitinerary.phtml, line: 50
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 43
 # File: module/Application/view/application/packages/editexclusion.phtml, line: 43
+# File: module/Application/view/application/packages/editinclusion.phtml, line: 43
 # File: module/Application/view/application/insurances/settings.phtml, line: 78
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 191
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1557
@@ -10288,6 +10300,7 @@ msgstr ""
 # File: module/Application/view/application/packages/inclusions.phtml, line: 14
 # File: module/Application/view/application/packages/inclusions.phtml, line: 26
 # File: module/Application/view/application/packages/newinclusion.phtml, line: 14
+# File: module/Application/view/application/packages/editinclusion.phtml, line: 15
 msgid "Inclusions"
 msgstr ""
 #
@@ -10351,6 +10364,11 @@ msgstr ""
 # File: module/Application/view/application/packages/editexclusion.phtml, line: 7
 # File: module/Application/view/application/packages/editexclusion.phtml, line: 22
 msgid "Edit Package Exclusion"
+msgstr ""
+#
+# File: module/Application/view/application/packages/editinclusion.phtml, line: 7
+# File: module/Application/view/application/packages/editinclusion.phtml, line: 22
+msgid "Edit Package Inclusion"
 msgstr ""
 #
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 23
