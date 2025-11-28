@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-28 09:29-0500\n"
+"POT-Creation-Date: 2025-11-28 11:22-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -142,9 +142,9 @@ msgstr ""
 # File: module/Application/src/Controller/ActivitiesController.php, line: 952
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1339
 # File: module/Application/src/Controller/TransfersController.php, line: 948
-# File: module/Application/src/Controller/TransfersController.php, line: 1317
+# File: module/Application/src/Controller/TransfersController.php, line: 1339
 # File: module/Application/src/Controller/EscortedtoursController.php, line: 3775
-# File: module/Application/src/Controller/EscortedtoursController.php, line: 4136
+# File: module/Application/src/Controller/EscortedtoursController.php, line: 4158
 # File: module/Application/src/Controller/InsurancesController.php, line: 421
 # File: module/Application/src/Controller/InsurancesController.php, line: 787
 # File: module/Application/src/Controller/ReservationsController.php, line: 871
@@ -383,6 +383,8 @@ msgstr ""
 # File: module/Application/src/Controller/FlightsController.php, line: 4998
 # File: module/Application/src/Controller/CarsController.php, line: 1380
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1407
+# File: module/Application/src/Controller/TransfersController.php, line: 1407
+# File: module/Application/src/Controller/EscortedtoursController.php, line: 4226
 # File: module/Application/src/Controller/HotelsController.php, line: 8707
 msgid "All Payment Status"
 msgstr ""
@@ -391,6 +393,8 @@ msgstr ""
 # File: module/Application/src/Controller/FlightsController.php, line: 5048
 # File: module/Application/src/Controller/CarsController.php, line: 1430
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1457
+# File: module/Application/src/Controller/TransfersController.php, line: 1457
+# File: module/Application/src/Controller/EscortedtoursController.php, line: 4276
 # File: module/Application/src/Controller/HotelsController.php, line: 8757
 msgid "All Reservation Status"
 msgstr ""
@@ -2347,9 +2351,9 @@ msgstr ""
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 62
 # File: module/Application/view/application/activities/listreservations.phtml, line: 34
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 62
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 31
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 33
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 62
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 31
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 33
 # File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 65
 # File: module/Application/view/application/packages/listreservations.phtml, line: 31
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 62
@@ -2559,9 +2563,9 @@ msgstr ""
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 63
 # File: module/Application/view/application/activities/listreservations.phtml, line: 35
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 63
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 32
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 34
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 63
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 32
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 34
 # File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 66
 # File: module/Application/view/application/packages/listreservations.phtml, line: 32
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 63
@@ -2596,7 +2600,7 @@ msgstr ""
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 61
 # File: module/Application/view/application/activities/listreservations.phtml, line: 33
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 61
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 30
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 32
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 61
 # File: module/Application/view/application/packages/listreservations.phtml, line: 30
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 61
@@ -2798,9 +2802,9 @@ msgstr ""
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 64
 # File: module/Application/view/application/activities/listreservations.phtml, line: 37
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 64
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 34
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 36
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 64
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 34
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 36
 # File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 67
 # File: module/Application/view/application/packages/listreservations.phtml, line: 34
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 64
@@ -5571,9 +5575,9 @@ msgstr ""
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 60
 # File: module/Application/view/application/activities/listreservations.phtml, line: 32
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 60
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 29
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 31
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 60
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 29
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 31
 # File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 63
 # File: module/Application/view/application/packages/listreservations.phtml, line: 29
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 60
@@ -5692,9 +5696,9 @@ msgstr ""
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 65
 # File: module/Application/view/application/activities/listreservations.phtml, line: 38
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 65
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 35
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 37
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 65
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 35
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 37
 # File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 68
 # File: module/Application/view/application/packages/listreservations.phtml, line: 35
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 65
@@ -5776,10 +5780,10 @@ msgstr ""
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 79
 # File: module/Application/view/application/activities/listreservations.phtml, line: 54
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 79
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 50
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 52
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 79
 # File: module/Application/view/application/escortedtours/index.phtml, line: 226
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 50
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 52
 # File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 82
 # File: module/Application/view/application/escortedtours/americadestinations.phtml, line: 58
 # File: module/Application/view/application/escortedtours/africadestinations.phtml, line: 58
@@ -7888,10 +7892,10 @@ msgstr ""
 # File: module/Application/view/application/activities/listreservations.phtml, line: 29
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 28
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 58
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 27
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 29
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 28
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 58
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 27
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 29
 # File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 28
 # File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 61
 # File: module/Application/view/application/packages/listreservations.phtml, line: 27
@@ -7923,9 +7927,9 @@ msgstr ""
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 59
 # File: module/Application/view/application/activities/listreservations.phtml, line: 30
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 59
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 28
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 30
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 59
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 28
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 30
 # File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 62
 # File: module/Application/view/application/packages/listreservations.phtml, line: 28
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 59
@@ -8073,6 +8077,8 @@ msgstr ""
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 74
 # File: module/Application/view/application/cars/listreservations.phtml, line: 23
 # File: module/Application/view/application/activities/listreservations.phtml, line: 23
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 23
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 23
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 30
 # File: module/Application/view/application/view-reservation/status.phtml, line: 4
 # File: module/Application/view/application/view-reservation/status.phtml, line: 7
@@ -8089,7 +8095,9 @@ msgstr ""
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 34
 # File: module/Application/view/application/activities/listreservations.phtml, line: 24
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 34
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 24
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 34
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 24
 # File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 34
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 34
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 34
@@ -8109,8 +8117,8 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 35
 # File: module/Application/view/application/cars/listreservations.phtml, line: 35
 # File: module/Application/view/application/activities/listreservations.phtml, line: 36
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 33
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 33
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 35
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 35
 # File: module/Application/view/application/packages/listreservations.phtml, line: 33
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 33
 # File: module/Application/view/application/reports/globalware.phtml, line: 44
@@ -10305,7 +10313,7 @@ msgstr ""
 msgid "Reload"
 msgstr ""
 #
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 30
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 32
 # File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 64
 msgid "Tour"
 msgstr ""
