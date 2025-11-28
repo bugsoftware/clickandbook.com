@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-27 12:01-0500\n"
+"POT-Creation-Date: 2025-11-28 05:40-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -137,8 +137,8 @@ msgstr ""
 # File: module/Application/src/Controller/FlightsController.php, line: 3935
 # File: module/Application/src/Controller/FlightsController.php, line: 4545
 # File: module/Application/src/Controller/FlightsController.php, line: 4908
-# File: module/Application/src/Controller/CarsController.php, line: 950
-# File: module/Application/src/Controller/CarsController.php, line: 1291
+# File: module/Application/src/Controller/CarsController.php, line: 948
+# File: module/Application/src/Controller/CarsController.php, line: 1312
 # File: module/Application/src/Controller/ActivitiesController.php, line: 952
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1317
 # File: module/Application/src/Controller/TransfersController.php, line: 948
@@ -482,6 +482,16 @@ msgstr ""
 msgid "All Airlines"
 msgstr ""
 #
+# File: module/Application/src/Controller/CarsController.php, line: 1380
+# File: module/Application/src/Controller/HotelsController.php, line: 8707
+msgid "All Payment Status"
+msgstr ""
+#
+# File: module/Application/src/Controller/CarsController.php, line: 1430
+# File: module/Application/src/Controller/HotelsController.php, line: 8757
+msgid "All Reservation Status"
+msgstr ""
+#
 # File: module/Application/src/Controller/PackagesController.php, line: 1357
 # File: module/Application/src/Controller/PackagesController.php, line: 1496
 # File: module/Application/src/Controller/HotelsController.php, line: 3518
@@ -550,7 +560,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/PackagesController.php, line: 2968
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1483
-# File: module/Application/view/application/cars/listreservations.phtml, line: 30
+# File: module/Application/view/application/cars/listreservations.phtml, line: 32
 # File: module/Application/view/application/packages/newpackage.phtml, line: 40
 # File: module/Application/view/application/packages/edit.phtml, line: 127
 # File: module/Application/view/application/packages/edititinerary.phtml, line: 42
@@ -1821,14 +1831,6 @@ msgstr ""
 msgid "All"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 8707
-msgid "All Payment Status"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 8757
-msgid "All Reservation Status"
-msgstr ""
-#
 # File: module/Application/src/Controller/PortfolioController.php, line: 341
 # File: module/Application/view/application/packages/edit.phtml, line: 65
 msgid "Please select"
@@ -2547,7 +2549,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 34
 # File: module/Application/view/application/hotels/searchreservations.phtml, line: 63
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 63
-# File: module/Application/view/application/cars/listreservations.phtml, line: 32
+# File: module/Application/view/application/cars/listreservations.phtml, line: 34
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 63
 # File: module/Application/view/application/activities/listreservations.phtml, line: 33
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 63
@@ -2786,7 +2788,7 @@ msgstr ""
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 52
 # File: module/Application/view/application/flights/addbags.phtml, line: 53
 # File: module/Application/view/application/flights/selectseat.phtml, line: 52
-# File: module/Application/view/application/cars/listreservations.phtml, line: 34
+# File: module/Application/view/application/cars/listreservations.phtml, line: 36
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 64
 # File: module/Application/view/application/activities/listreservations.phtml, line: 35
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 64
@@ -5559,7 +5561,7 @@ msgstr ""
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 48
 # File: module/Application/view/application/flights/addbags.phtml, line: 49
 # File: module/Application/view/application/flights/selectseat.phtml, line: 48
-# File: module/Application/view/application/cars/listreservations.phtml, line: 29
+# File: module/Application/view/application/cars/listreservations.phtml, line: 31
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 60
 # File: module/Application/view/application/activities/listreservations.phtml, line: 30
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 60
@@ -5680,7 +5682,7 @@ msgstr ""
 # File: module/Application/view/application/flights/listairblocks.phtml, line: 42
 # File: module/Application/view/application/flights/airblocksreport.phtml, line: 51
 # File: module/Application/view/application/flights/campaings.phtml, line: 35
-# File: module/Application/view/application/cars/listreservations.phtml, line: 35
+# File: module/Application/view/application/cars/listreservations.phtml, line: 37
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 65
 # File: module/Application/view/application/activities/listreservations.phtml, line: 36
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 65
@@ -5764,7 +5766,7 @@ msgstr ""
 # File: module/Application/view/application/flights/listairblocks.phtml, line: 53
 # File: module/Application/view/application/flights/airblocksreport.phtml, line: 76
 # File: module/Application/view/application/flights/campaings.phtml, line: 43
-# File: module/Application/view/application/cars/listreservations.phtml, line: 50
+# File: module/Application/view/application/cars/listreservations.phtml, line: 52
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 79
 # File: module/Application/view/application/activities/listreservations.phtml, line: 52
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 79
@@ -7874,7 +7876,7 @@ msgstr ""
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 46
 # File: module/Application/view/application/flights/addbags.phtml, line: 47
 # File: module/Application/view/application/flights/selectseat.phtml, line: 46
-# File: module/Application/view/application/cars/listreservations.phtml, line: 27
+# File: module/Application/view/application/cars/listreservations.phtml, line: 29
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 28
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 58
 # File: module/Application/view/application/activities/listreservations.phtml, line: 27
@@ -7911,7 +7913,7 @@ msgstr ""
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 47
 # File: module/Application/view/application/flights/addbags.phtml, line: 48
 # File: module/Application/view/application/flights/selectseat.phtml, line: 47
-# File: module/Application/view/application/cars/listreservations.phtml, line: 28
+# File: module/Application/view/application/cars/listreservations.phtml, line: 30
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 59
 # File: module/Application/view/application/activities/listreservations.phtml, line: 28
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 59
@@ -8062,7 +8064,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 64
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 35
 # File: module/Application/view/application/flights/listreservations.phtml, line: 33
-# File: module/Application/view/application/cars/listreservations.phtml, line: 33
+# File: module/Application/view/application/cars/listreservations.phtml, line: 35
 # File: module/Application/view/application/activities/listreservations.phtml, line: 34
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 33
 # File: module/Application/view/application/escortedtours/listreservations.phtml, line: 33
@@ -8108,6 +8110,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 24
 # File: module/Application/view/application/hotels/searchreservations.phtml, line: 34
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 34
+# File: module/Application/view/application/cars/listreservations.phtml, line: 24
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 34
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 34
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 34
@@ -8419,6 +8422,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 23
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 69
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 74
+# File: module/Application/view/application/cars/listreservations.phtml, line: 23
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 30
 # File: module/Application/view/application/view-reservation/status.phtml, line: 4
 # File: module/Application/view/application/view-reservation/status.phtml, line: 7
@@ -9990,7 +9994,7 @@ msgstr ""
 msgid "Edit Campaign"
 msgstr ""
 #
-# File: module/Application/view/application/cars/listreservations.phtml, line: 31
+# File: module/Application/view/application/cars/listreservations.phtml, line: 33
 msgid "Car/Vendor"
 msgstr ""
 #
