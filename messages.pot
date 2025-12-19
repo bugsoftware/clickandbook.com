@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-18 10:32-0500\n"
+"POT-Creation-Date: 2025-12-19 10:15-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -288,9 +288,9 @@ msgstr ""
 # File: module/Application/src/Controller/CustomersController.php, line: 4158
 # File: module/Application/src/Controller/CustomersController.php, line: 4179
 # File: module/Application/src/Controller/CustomersController.php, line: 4200
-# File: module/Application/src/Controller/CustomersController.php, line: 4607
-# File: module/Application/src/Controller/CustomersController.php, line: 4628
-# File: module/Application/src/Controller/CustomersController.php, line: 4649
+# File: module/Application/src/Controller/CustomersController.php, line: 4627
+# File: module/Application/src/Controller/CustomersController.php, line: 4648
+# File: module/Application/src/Controller/CustomersController.php, line: 4669
 # File: module/Application/src/Controller/CruisesController.php, line: 1102
 # File: module/Application/src/Controller/CruisesController.php, line: 1494
 # File: module/Application/src/Controller/FlightsController.php, line: 637
@@ -383,12 +383,12 @@ msgid "Created"
 msgstr ""
 #
 # File: module/Application/src/Controller/CustomersController.php, line: 2437
-# File: module/Application/view/application/customers/support.phtml, line: 34
+# File: module/Application/view/application/customers/support.phtml, line: 30
 msgid "Agent/Customer"
 msgstr ""
 #
 # File: module/Application/src/Controller/CustomersController.php, line: 2438
-# File: module/Application/view/application/customers/support.phtml, line: 31
+# File: module/Application/view/application/customers/support.phtml, line: 27
 # File: module/Application/view/application/customers/editsupport.phtml, line: 27
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 33
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 41
@@ -400,13 +400,12 @@ msgid "Title"
 msgstr ""
 #
 # File: module/Application/src/Controller/CustomersController.php, line: 2439
-# File: module/Application/view/application/customers/support.phtml, line: 30
 # File: module/Application/view/application/customers/editsupport.phtml, line: 26
 msgid "Quote"
 msgstr ""
 #
 # File: module/Application/src/Controller/CustomersController.php, line: 2440
-# File: module/Application/view/application/customers/support.phtml, line: 37
+# File: module/Application/view/application/customers/support.phtml, line: 33
 # File: module/Application/view/application/customers/editsupport.phtml, line: 28
 # File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 11
 msgid "User"
@@ -4475,6 +4474,7 @@ msgstr ""
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 37
 # File: module/Application/view/application/customers/new.phtml, line: 26
 # File: module/Application/view/application/customers/edit.phtml, line: 28
+# File: module/Application/view/application/customers/editsupport.phtml, line: 52
 # File: module/Application/view/application/flights/airblocksreport.phtml, line: 35
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 12
 # File: module/Application/view/application/support/search.phtml, line: 36
@@ -5799,7 +5799,7 @@ msgstr ""
 # File: module/Application/view/application/customers/search.phtml, line: 87
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 97
 # File: module/Application/view/application/customers/list.phtml, line: 37
-# File: module/Application/view/application/customers/support.phtml, line: 40
+# File: module/Application/view/application/customers/support.phtml, line: 36
 # File: module/Application/view/application/customers/reservations.phtml, line: 33
 # File: module/Application/view/application/customers/rewards.phtml, line: 39
 # File: module/Application/view/application/customers/expectedrewards.phtml, line: 39
@@ -5879,7 +5879,7 @@ msgstr ""
 # File: module/Application/view/application/customers/search.phtml, line: 104
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 114
 # File: module/Application/view/application/customers/list.phtml, line: 54
-# File: module/Application/view/application/customers/support.phtml, line: 57
+# File: module/Application/view/application/customers/support.phtml, line: 52
 # File: module/Application/view/application/customers/reservations.phtml, line: 47
 # File: module/Application/view/application/customers/rewards.phtml, line: 58
 # File: module/Application/view/application/customers/expectedrewards.phtml, line: 58
@@ -6106,7 +6106,7 @@ msgid "Password mismatch"
 msgstr ""
 #
 # File: module/Application/view/application/index/securitylog.phtml, line: 67
-# File: module/Application/view/application/customers/support.phtml, line: 39
+# File: module/Application/view/application/customers/support.phtml, line: 35
 # File: module/Application/view/application/customers/editsupport.phtml, line: 32
 msgid "Date/Time Created"
 msgstr ""
@@ -6723,7 +6723,7 @@ msgstr ""
 # File: module/Application/view/application/index/transactions.phtml, line: 27
 # File: module/Application/view/application/customers/view.phtml, line: 287
 # File: module/Application/view/application/customers/view.phtml, line: 405
-# File: module/Application/view/application/customers/support.phtml, line: 32
+# File: module/Application/view/application/customers/support.phtml, line: 28
 # File: module/Application/view/application/customers/quotes.phtml, line: 29
 # File: module/Application/view/application/customers/editsupport.phtml, line: 33
 # File: module/Application/view/application/hotels/newhotel.phtml, line: 65
@@ -6838,7 +6838,7 @@ msgid "Landing / Page"
 msgstr ""
 #
 # File: module/Application/view/application/index/bannersedit.phtml, line: 106
-# File: module/Application/view/application/customers/support.phtml, line: 36
+# File: module/Application/view/application/customers/support.phtml, line: 32
 # File: module/Application/view/application/customers/editsupport.phtml, line: 31
 # File: module/Application/view/application/view-reservation/status.phtml, line: 48
 # File: module/Application/view/application/view-reservation/status.phtml, line: 51
@@ -7378,7 +7378,7 @@ msgstr ""
 # File: module/Application/view/application/customers/list.phtml, line: 7
 # File: module/Application/view/application/customers/list.phtml, line: 13
 # File: module/Application/view/application/customers/list.phtml, line: 20
-# File: module/Application/view/application/customers/support.phtml, line: 21
+# File: module/Application/view/application/customers/support.phtml, line: 20
 # File: module/Application/view/application/customers/rewards.phtml, line: 7
 # File: module/Application/view/application/customers/rewards.phtml, line: 13
 # File: module/Application/view/application/customers/rewards.phtml, line: 20
@@ -8095,12 +8095,7 @@ msgstr ""
 msgid "History"
 msgstr ""
 #
-# File: module/Application/view/application/customers/support.phtml, line: 22
-# File: module/Application/view/application/agents/list.phtml, line: 22
-msgid "Export to Excel"
-msgstr ""
-#
-# File: module/Application/view/application/customers/support.phtml, line: 33
+# File: module/Application/view/application/customers/support.phtml, line: 29
 # File: module/Application/view/application/customers/editsupport.phtml, line: 40
 # File: module/Application/view/application/customers/editsupport.phtml, line: 41
 # File: module/Application/view/application/hotels/newroom.phtml, line: 38
@@ -8116,12 +8111,12 @@ msgstr ""
 msgid "Type"
 msgstr ""
 #
-# File: module/Application/view/application/customers/support.phtml, line: 35
+# File: module/Application/view/application/customers/support.phtml, line: 31
 # File: module/Application/view/application/customers/editsupport.phtml, line: 61
 msgid "Assigned Agent"
 msgstr ""
 #
-# File: module/Application/view/application/customers/support.phtml, line: 38
+# File: module/Application/view/application/customers/support.phtml, line: 34
 # File: module/Application/view/application/customers/editsupport.phtml, line: 53
 # File: module/Application/view/application/support/list.phtml, line: 35
 # File: module/Application/view/application/support/search.phtml, line: 81
@@ -8303,10 +8298,6 @@ msgstr ""
 # File: module/Application/view/application/customers/editsupport.phtml, line: 22
 # File: module/Application/view/application/support/edit.phtml, line: 7
 msgid "Edit Support"
-msgstr ""
-#
-# File: module/Application/view/application/customers/editsupport.phtml, line: 52
-msgid "last Name"
 msgstr ""
 #
 # File: module/Application/view/application/customers/editsupport.phtml, line: 55
@@ -12532,6 +12523,10 @@ msgstr ""
 #
 # File: module/Application/view/application/agents/edit.phtml, line: 689
 msgid "Disable Ticketing"
+msgstr ""
+#
+# File: module/Application/view/application/agents/list.phtml, line: 22
+msgid "Export to Excel"
 msgstr ""
 #
 # File: module/Application/view/application/agents/list.phtml, line: 67
