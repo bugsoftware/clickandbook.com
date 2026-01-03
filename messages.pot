@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-03 10:17-0500\n"
+"POT-Creation-Date: 2026-01-03 11:24-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,13 +17,12 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 184
-# File: module/Application/src/Controller/CustomersController.php, line: 185
-# File: module/Application/src/Controller/CustomersController.php, line: 186
-# File: module/Application/src/Controller/CustomersController.php, line: 249
-# File: module/Application/src/Controller/CustomersController.php, line: 268
-# File: module/Application/src/Controller/FlightsController.php, line: 371
-# File: module/Application/src/Controller/FlightsController.php, line: 1106
+# File: module/Application/src/Controller/CustomersController.php, line: 279
+# File: module/Application/src/Controller/CustomersController.php, line: 280
+# File: module/Application/src/Controller/CustomersController.php, line: 281
+# File: module/Application/src/Controller/CustomersController.php, line: 344
+# File: module/Application/src/Controller/CustomersController.php, line: 363
+# File: module/Application/src/Controller/FlightsController.php, line: 1042
 # File: module/Application/src/Controller/PackagesController.php, line: 2964
 # File: module/Application/src/Controller/ReservationsController.php, line: 593
 # File: module/Application/src/Controller/ViewReservationController.php, line: 2971
@@ -37,14 +36,14 @@ msgstr ""
 msgid "None"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 218
-# File: module/Application/src/Controller/CustomersController.php, line: 232
-# File: module/Application/src/Controller/CustomersController.php, line: 246
-# File: module/Application/src/Controller/CustomersController.php, line: 265
-# File: module/Application/src/Controller/CustomersController.php, line: 2304
-# File: module/Application/src/Controller/CustomersController.php, line: 2337
-# File: module/Application/src/Controller/CustomersController.php, line: 2357
-# File: module/Application/src/Controller/CustomersController.php, line: 2377
+# File: module/Application/src/Controller/CustomersController.php, line: 313
+# File: module/Application/src/Controller/CustomersController.php, line: 327
+# File: module/Application/src/Controller/CustomersController.php, line: 341
+# File: module/Application/src/Controller/CustomersController.php, line: 360
+# File: module/Application/src/Controller/CustomersController.php, line: 2399
+# File: module/Application/src/Controller/CustomersController.php, line: 2432
+# File: module/Application/src/Controller/CustomersController.php, line: 2452
+# File: module/Application/src/Controller/CustomersController.php, line: 2472
 # File: module/Application/src/Controller/ViewReservationController.php, line: 2918
 # File: module/Application/src/Controller/ViewReservationController.php, line: 2982
 # File: module/Application/src/Controller/ViewReservationController.php, line: 3043
@@ -73,14 +72,14 @@ msgstr ""
 msgid "Unknown"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 221
-# File: module/Application/src/Controller/CustomersController.php, line: 235
+# File: module/Application/src/Controller/CustomersController.php, line: 316
+# File: module/Application/src/Controller/CustomersController.php, line: 330
 msgid "Direct Reservation"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 275
-# File: module/Application/src/Controller/CustomersController.php, line: 2316
-# File: module/Application/src/Controller/CustomersController.php, line: 2387
+# File: module/Application/src/Controller/CustomersController.php, line: 370
+# File: module/Application/src/Controller/CustomersController.php, line: 2411
+# File: module/Application/src/Controller/CustomersController.php, line: 2482
 # File: module/Application/src/Controller/SupportController.php, line: 213
 # File: module/Application/src/Controller/SupportController.php, line: 456
 # File: module/Application/view/application/customers/editsupport.phtml, line: 35
@@ -89,15 +88,15 @@ msgstr ""
 msgid "Open"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 279
-# File: module/Application/src/Controller/CustomersController.php, line: 2320
-# File: module/Application/src/Controller/CustomersController.php, line: 2391
+# File: module/Application/src/Controller/CustomersController.php, line: 374
+# File: module/Application/src/Controller/CustomersController.php, line: 2415
+# File: module/Application/src/Controller/CustomersController.php, line: 2486
 # File: module/Application/view/application/customers/editsupport.phtml, line: 37
 msgid "In Progress"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 283
-# File: module/Application/src/Controller/CustomersController.php, line: 2318
+# File: module/Application/src/Controller/CustomersController.php, line: 378
+# File: module/Application/src/Controller/CustomersController.php, line: 2413
 # File: module/Application/src/Controller/SupportController.php, line: 215
 # File: module/Application/src/Controller/SupportController.php, line: 458
 # File: module/Application/view/application/customers/editsupport.phtml, line: 36
@@ -106,8 +105,8 @@ msgstr ""
 msgid "Closed"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 291
-# File: module/Application/src/Controller/CustomersController.php, line: 2397
+# File: module/Application/src/Controller/CustomersController.php, line: 386
+# File: module/Application/src/Controller/CustomersController.php, line: 2492
 # File: module/Application/view/application/customers/index.phtml, line: 96
 # File: module/Application/view/application/customers/support.phtml, line: 7
 # File: module/Application/view/application/customers/support.phtml, line: 13
@@ -126,31 +125,31 @@ msgstr ""
 msgid "Support"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 295
-# File: module/Application/src/Controller/CustomersController.php, line: 2399
+# File: module/Application/src/Controller/CustomersController.php, line: 390
+# File: module/Application/src/Controller/CustomersController.php, line: 2494
 # File: module/Application/view/application/customers/editsupport.phtml, line: 43
 msgid "Price Match"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 299
-# File: module/Application/src/Controller/CustomersController.php, line: 2401
+# File: module/Application/src/Controller/CustomersController.php, line: 394
+# File: module/Application/src/Controller/CustomersController.php, line: 2496
 # File: module/Application/view/application/customers/editsupport.phtml, line: 44
 msgid "Reward Points"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 303
-# File: module/Application/src/Controller/CustomersController.php, line: 2403
+# File: module/Application/src/Controller/CustomersController.php, line: 398
+# File: module/Application/src/Controller/CustomersController.php, line: 2498
 # File: module/Application/view/application/customers/editsupport.phtml, line: 45
 msgid "Groups"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 307
-# File: module/Application/src/Controller/CustomersController.php, line: 2405
+# File: module/Application/src/Controller/CustomersController.php, line: 402
+# File: module/Application/src/Controller/CustomersController.php, line: 2500
 # File: module/Application/view/application/customers/editsupport.phtml, line: 46
 msgid "Weddings"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 311
+# File: module/Application/src/Controller/CustomersController.php, line: 406
 # File: module/Application/view/application/index/presentation.phtml, line: 34
 # File: module/Application/view/application/index/presentation.phtml, line: 52
 # File: module/Application/view/application/index/presentation.phtml, line: 220
@@ -175,12 +174,12 @@ msgstr ""
 msgid "Contact Us"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 333
+# File: module/Application/src/Controller/CustomersController.php, line: 428
 msgid "All Companies"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 992
-# File: module/Application/src/Controller/CustomersController.php, line: 1020
+# File: module/Application/src/Controller/CustomersController.php, line: 1087
+# File: module/Application/src/Controller/CustomersController.php, line: 1115
 # File: module/Application/src/Controller/CMSController.php, line: 358
 # File: module/Application/src/Controller/CMSController.php, line: 630
 # File: module/Application/src/Controller/HotelsController.php, line: 360
@@ -211,8 +210,8 @@ msgstr ""
 msgid "Active"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 994
-# File: module/Application/src/Controller/CustomersController.php, line: 1022
+# File: module/Application/src/Controller/CustomersController.php, line: 1089
+# File: module/Application/src/Controller/CustomersController.php, line: 1117
 # File: module/Application/src/Controller/CMSController.php, line: 362
 # File: module/Application/src/Controller/CMSController.php, line: 634
 # File: module/Application/src/Controller/HotelsController.php, line: 364
@@ -243,28 +242,28 @@ msgstr ""
 msgid "Inactive"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 1011
+# File: module/Application/src/Controller/CustomersController.php, line: 1106
 msgid "Unknown Customer"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 1035
+# File: module/Application/src/Controller/CustomersController.php, line: 1130
 # File: module/Application/view/application/index/search.phtml, line: 1827
 msgid "Flight"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 1035
+# File: module/Application/src/Controller/CustomersController.php, line: 1130
 # File: module/Application/view/application/reports/globalware.phtml, line: 25
 # File: module/Application/view/application/reports/search.phtml, line: 32
 msgid "from"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 1035
+# File: module/Application/src/Controller/CustomersController.php, line: 1130
 # File: module/Application/view/application/reports/globalware.phtml, line: 25
 # File: module/Application/view/application/reports/search.phtml, line: 32
 msgid "to"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 1041
+# File: module/Application/src/Controller/CustomersController.php, line: 1136
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 607
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 622
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 647
@@ -274,37 +273,36 @@ msgstr ""
 msgid "Hotel"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 1476
-# File: module/Application/src/Controller/CustomersController.php, line: 1497
-# File: module/Application/src/Controller/CustomersController.php, line: 1518
-# File: module/Application/src/Controller/CustomersController.php, line: 1726
-# File: module/Application/src/Controller/CustomersController.php, line: 1747
-# File: module/Application/src/Controller/CustomersController.php, line: 1768
-# File: module/Application/src/Controller/CustomersController.php, line: 2090
-# File: module/Application/src/Controller/CustomersController.php, line: 3570
-# File: module/Application/src/Controller/CustomersController.php, line: 3592
-# File: module/Application/src/Controller/CustomersController.php, line: 3614
-# File: module/Application/src/Controller/CustomersController.php, line: 3962
-# File: module/Application/src/Controller/CustomersController.php, line: 3983
-# File: module/Application/src/Controller/CustomersController.php, line: 4004
-# File: module/Application/src/Controller/CustomersController.php, line: 4226
-# File: module/Application/src/Controller/CustomersController.php, line: 4247
-# File: module/Application/src/Controller/CustomersController.php, line: 4268
-# File: module/Application/src/Controller/CustomersController.php, line: 4695
-# File: module/Application/src/Controller/CustomersController.php, line: 4716
-# File: module/Application/src/Controller/CustomersController.php, line: 4737
+# File: module/Application/src/Controller/CustomersController.php, line: 1571
+# File: module/Application/src/Controller/CustomersController.php, line: 1592
+# File: module/Application/src/Controller/CustomersController.php, line: 1613
+# File: module/Application/src/Controller/CustomersController.php, line: 1821
+# File: module/Application/src/Controller/CustomersController.php, line: 1842
+# File: module/Application/src/Controller/CustomersController.php, line: 1863
+# File: module/Application/src/Controller/CustomersController.php, line: 2185
+# File: module/Application/src/Controller/CustomersController.php, line: 3665
+# File: module/Application/src/Controller/CustomersController.php, line: 3687
+# File: module/Application/src/Controller/CustomersController.php, line: 3709
+# File: module/Application/src/Controller/CustomersController.php, line: 4057
+# File: module/Application/src/Controller/CustomersController.php, line: 4078
+# File: module/Application/src/Controller/CustomersController.php, line: 4099
+# File: module/Application/src/Controller/CustomersController.php, line: 4321
+# File: module/Application/src/Controller/CustomersController.php, line: 4342
+# File: module/Application/src/Controller/CustomersController.php, line: 4363
+# File: module/Application/src/Controller/CustomersController.php, line: 4830
+# File: module/Application/src/Controller/CustomersController.php, line: 4851
+# File: module/Application/src/Controller/CustomersController.php, line: 4872
 # File: module/Application/src/Controller/CruisesController.php, line: 1102
 # File: module/Application/src/Controller/CruisesController.php, line: 1494
-# File: module/Application/src/Controller/FlightsController.php, line: 354
-# File: module/Application/src/Controller/FlightsController.php, line: 1061
-# File: module/Application/src/Controller/FlightsController.php, line: 1075
-# File: module/Application/src/Controller/FlightsController.php, line: 1076
-# File: module/Application/src/Controller/FlightsController.php, line: 3699
-# File: module/Application/src/Controller/FlightsController.php, line: 3919
-# File: module/Application/src/Controller/FlightsController.php, line: 4139
-# File: module/Application/src/Controller/FlightsController.php, line: 4359
-# File: module/Application/src/Controller/FlightsController.php, line: 4969
-# File: module/Application/src/Controller/FlightsController.php, line: 5355
+# File: module/Application/src/Controller/FlightsController.php, line: 997
+# File: module/Application/src/Controller/FlightsController.php, line: 1011
+# File: module/Application/src/Controller/FlightsController.php, line: 1012
+# File: module/Application/src/Controller/FlightsController.php, line: 3635
+# File: module/Application/src/Controller/FlightsController.php, line: 3855
+# File: module/Application/src/Controller/FlightsController.php, line: 4075
+# File: module/Application/src/Controller/FlightsController.php, line: 4295
+# File: module/Application/src/Controller/FlightsController.php, line: 4905
+# File: module/Application/src/Controller/FlightsController.php, line: 5311
 # File: module/Application/src/Controller/CarsController.php, line: 948
 # File: module/Application/src/Controller/CarsController.php, line: 1315
 # File: module/Application/src/Controller/ActivitiesController.php, line: 952
@@ -340,19 +338,19 @@ msgstr ""
 msgid "Not Available"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 2307
-# File: module/Application/src/Controller/CustomersController.php, line: 2340
-# File: module/Application/src/Controller/CustomersController.php, line: 2360
-# File: module/Application/src/Controller/CustomersController.php, line: 2380
+# File: module/Application/src/Controller/CustomersController.php, line: 2402
+# File: module/Application/src/Controller/CustomersController.php, line: 2435
+# File: module/Application/src/Controller/CustomersController.php, line: 2455
+# File: module/Application/src/Controller/CustomersController.php, line: 2475
 msgid "Not set"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 2389
+# File: module/Application/src/Controller/CustomersController.php, line: 2484
 msgid "Closes"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 2484
-# File: module/Application/src/Controller/CustomersController.php, line: 2520
+# File: module/Application/src/Controller/CustomersController.php, line: 2579
+# File: module/Application/src/Controller/CustomersController.php, line: 2615
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 130
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 267
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 405
@@ -372,25 +370,26 @@ msgstr ""
 # File: module/Application/view/application/customers/newwhitelist.phtml, line: 13
 # File: module/Application/view/application/customers/editwhitelist.phtml, line: 13
 # File: module/Application/view/application/customers/editsupport.phtml, line: 13
+# File: module/Application/view/application/customers/bounces.phtml, line: 12
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 312
 # File: module/Application/view/layout/layout.phtml, line: 141
 # File: module/Application/view/layout/layout.phtml, line: 157
 msgid "Customers"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 2504
+# File: module/Application/src/Controller/CustomersController.php, line: 2599
 # File: module/Application/src/Controller/AgentsController.php, line: 3796
 # File: module/Application/view/application/packages/listpackages.phtml, line: 29
 # File: module/Application/view/application/agents/list.phtml, line: 30
 msgid "Created"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 2505
+# File: module/Application/src/Controller/CustomersController.php, line: 2600
 # File: module/Application/view/application/customers/support.phtml, line: 30
 msgid "Agent/Customer"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 2506
+# File: module/Application/src/Controller/CustomersController.php, line: 2601
 # File: module/Application/view/application/customers/support.phtml, line: 27
 # File: module/Application/view/application/customers/editsupport.phtml, line: 27
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 33
@@ -402,23 +401,23 @@ msgstr ""
 msgid "Title"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 2507
+# File: module/Application/src/Controller/CustomersController.php, line: 2602
 # File: module/Application/view/application/customers/editsupport.phtml, line: 26
 msgid "Quote"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 2508
+# File: module/Application/src/Controller/CustomersController.php, line: 2603
 # File: module/Application/view/application/customers/support.phtml, line: 33
 # File: module/Application/view/application/customers/editsupport.phtml, line: 28
 # File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 11
 msgid "User"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 2522
+# File: module/Application/src/Controller/CustomersController.php, line: 2617
 msgid "Customers Support"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 3783
+# File: module/Application/src/Controller/CustomersController.php, line: 3878
 # File: module/Application/src/Controller/ViewReservationController.php, line: 2905
 # File: module/Application/src/Controller/IndexController.php, line: 2058
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 176
@@ -446,12 +445,12 @@ msgstr ""
 msgid "Pending"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 3785
+# File: module/Application/src/Controller/CustomersController.php, line: 3880
 # File: module/Application/src/Controller/ViewReservationController.php, line: 2907
 msgid "Credited"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 3787
+# File: module/Application/src/Controller/CustomersController.php, line: 3882
 # File: module/Application/src/Controller/ViewReservationController.php, line: 2909
 # File: module/Application/view/application/customers/search.phtml, line: 56
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 66
@@ -472,7 +471,7 @@ msgid "Cancelled"
 msgstr ""
 #
 # File: module/Application/src/Controller/CruisesController.php, line: 1562
-# File: module/Application/src/Controller/FlightsController.php, line: 5423
+# File: module/Application/src/Controller/FlightsController.php, line: 5379
 # File: module/Application/src/Controller/CarsController.php, line: 1383
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1409
 # File: module/Application/src/Controller/TransfersController.php, line: 1407
@@ -484,7 +483,7 @@ msgid "All Payment Status"
 msgstr ""
 #
 # File: module/Application/src/Controller/CruisesController.php, line: 1612
-# File: module/Application/src/Controller/FlightsController.php, line: 5473
+# File: module/Application/src/Controller/FlightsController.php, line: 5429
 # File: module/Application/src/Controller/CarsController.php, line: 1433
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1459
 # File: module/Application/src/Controller/TransfersController.php, line: 1457
@@ -495,21 +494,21 @@ msgstr ""
 msgid "All Reservation Status"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 1684
-# File: module/Application/src/Controller/FlightsController.php, line: 2400
+# File: module/Application/src/Controller/FlightsController.php, line: 1620
+# File: module/Application/src/Controller/FlightsController.php, line: 2336
 msgid "All Charters"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 1707
-# File: module/Application/src/Controller/FlightsController.php, line: 1991
-# File: module/Application/src/Controller/FlightsController.php, line: 2866
+# File: module/Application/src/Controller/FlightsController.php, line: 1643
+# File: module/Application/src/Controller/FlightsController.php, line: 1927
+# File: module/Application/src/Controller/FlightsController.php, line: 2802
 msgid "All Aircrafts"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 1724
-# File: module/Application/src/Controller/FlightsController.php, line: 2008
-# File: module/Application/src/Controller/FlightsController.php, line: 2347
-# File: module/Application/src/Controller/FlightsController.php, line: 2884
+# File: module/Application/src/Controller/FlightsController.php, line: 1660
+# File: module/Application/src/Controller/FlightsController.php, line: 1944
+# File: module/Application/src/Controller/FlightsController.php, line: 2283
+# File: module/Application/src/Controller/FlightsController.php, line: 2820
 # File: module/Application/src/Controller/HotelsController.php, line: 2211
 # File: module/Application/view/application/customers/edit.phtml, line: 45
 # File: module/Application/view/application/flights/airblock.phtml, line: 48
@@ -518,10 +517,10 @@ msgstr ""
 msgid "Enabled"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 1728
-# File: module/Application/src/Controller/FlightsController.php, line: 2012
-# File: module/Application/src/Controller/FlightsController.php, line: 2351
-# File: module/Application/src/Controller/FlightsController.php, line: 2888
+# File: module/Application/src/Controller/FlightsController.php, line: 1664
+# File: module/Application/src/Controller/FlightsController.php, line: 1948
+# File: module/Application/src/Controller/FlightsController.php, line: 2287
+# File: module/Application/src/Controller/FlightsController.php, line: 2824
 # File: module/Application/src/Controller/HotelsController.php, line: 2213
 # File: module/Application/view/application/customers/edit.phtml, line: 46
 # File: module/Application/view/application/flights/airblock.phtml, line: 49
@@ -535,50 +534,50 @@ msgstr ""
 msgid "Disabled"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 1738
-# File: module/Application/src/Controller/FlightsController.php, line: 2361
+# File: module/Application/src/Controller/FlightsController.php, line: 1674
+# File: module/Application/src/Controller/FlightsController.php, line: 2297
 msgid "Pending Prepaid"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 1742
-# File: module/Application/src/Controller/FlightsController.php, line: 2365
+# File: module/Application/src/Controller/FlightsController.php, line: 1678
+# File: module/Application/src/Controller/FlightsController.php, line: 2301
 msgid "Prepaid"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 1746
-# File: module/Application/src/Controller/FlightsController.php, line: 2369
+# File: module/Application/src/Controller/FlightsController.php, line: 1682
+# File: module/Application/src/Controller/FlightsController.php, line: 2305
 # File: module/Application/src/Controller/IndexController.php, line: 2056
 msgid "Paid"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 1750
-# File: module/Application/src/Controller/FlightsController.php, line: 2373
+# File: module/Application/src/Controller/FlightsController.php, line: 1686
+# File: module/Application/src/Controller/FlightsController.php, line: 2309
 msgid "Returned Without Penalty"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 1754
-# File: module/Application/src/Controller/FlightsController.php, line: 2377
+# File: module/Application/src/Controller/FlightsController.php, line: 1690
+# File: module/Application/src/Controller/FlightsController.php, line: 2313
 msgid "Returned With Penalty"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 1758
-# File: module/Application/src/Controller/FlightsController.php, line: 2381
+# File: module/Application/src/Controller/FlightsController.php, line: 1694
+# File: module/Application/src/Controller/FlightsController.php, line: 2317
 msgid "Canceled"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 1762
-# File: module/Application/src/Controller/FlightsController.php, line: 2385
+# File: module/Application/src/Controller/FlightsController.php, line: 1698
+# File: module/Application/src/Controller/FlightsController.php, line: 2321
 msgid "Issued"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 1945
-# File: module/Application/src/Controller/FlightsController.php, line: 2819
+# File: module/Application/src/Controller/FlightsController.php, line: 1881
+# File: module/Application/src/Controller/FlightsController.php, line: 2755
 # File: module/Application/src/Controller/PortfolioController.php, line: 374
 msgid "All Companys"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 1969
-# File: module/Application/src/Controller/FlightsController.php, line: 2843
+# File: module/Application/src/Controller/FlightsController.php, line: 1905
+# File: module/Application/src/Controller/FlightsController.php, line: 2779
 msgid "All Airlines"
 msgstr ""
 #
@@ -1328,7 +1327,6 @@ msgstr ""
 # File: module/Application/view/application/index/bannersedit.phtml, line: 110
 # File: module/Application/view/application/customers/editsupport.phtml, line: 30
 # File: module/Application/view/application/flights/airblocksreport.phtml, line: 49
-# File: module/Application/view/application/flights/listfarealerts.phtml, line: 36
 # File: module/Application/view/application/view-reservation/status.phtml, line: 39
 # File: module/Application/view/application/view-reservation/status.phtml, line: 42
 # File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 10
@@ -1378,11 +1376,13 @@ msgstr ""
 # File: module/Application/view/application/customers/newwhitelist.phtml, line: 27
 # File: module/Application/view/application/customers/editwhitelist.phtml, line: 27
 # File: module/Application/view/application/customers/editsupport.phtml, line: 50
+# File: module/Application/view/application/customers/bounces.phtml, line: 27
 # File: module/Application/view/application/hotels/newhotel.phtml, line: 35
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 29
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 72
 # File: module/Application/view/application/hotels/edit.phtml, line: 35
 # File: module/Application/view/application/flights/airblocksreport.phtml, line: 36
+# File: module/Application/view/application/flights/listfarealerts.phtml, line: 30
 # File: module/Application/view/application/packages/newpackage.phtml, line: 107
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 45
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1850
@@ -1452,6 +1452,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/newhotel.phtml, line: 33
 # File: module/Application/view/application/hotels/edit.phtml, line: 33
 # File: module/Application/view/application/flights/airblocksreport.phtml, line: 37
+# File: module/Application/view/application/flights/listfarealerts.phtml, line: 29
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 49
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1855
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1897
@@ -2352,6 +2353,7 @@ msgstr ""
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1525
 # File: module/Application/view/application/index/transactions.phtml, line: 25
 # File: module/Application/view/application/customers/view.phtml, line: 283
+# File: module/Application/view/application/flights/listfarealerts.phtml, line: 27
 # File: module/Application/view/application/reports/globalware.phtml, line: 36
 # File: module/Application/view/application/reports/search.phtml, line: 72
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1788
@@ -2365,6 +2367,7 @@ msgstr ""
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 431
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 567
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 44
+# File: module/Application/view/application/flights/listfarealerts.phtml, line: 34
 # File: module/Application/view/application/marketing/edit.phtml, line: 112
 msgid "Departure"
 msgstr ""
@@ -2913,7 +2916,7 @@ msgstr ""
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1728
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 2116
 # File: module/Application/view/application/flights/farealert.phtml, line: 44
-# File: module/Application/view/application/flights/listfarealerts.phtml, line: 39
+# File: module/Application/view/application/flights/listfarealerts.phtml, line: 33
 # File: module/Application/view/application/marketing/edit.phtml, line: 50
 # File: module/Application/view/application/marketing/edit.phtml, line: 111
 # File: module/Application/view/application/marketing/edit.phtml, line: 158
@@ -3228,6 +3231,7 @@ msgstr ""
 # File: module/Application/view/application/customers/newwhitelist.phtml, line: 12
 # File: module/Application/view/application/customers/editwhitelist.phtml, line: 12
 # File: module/Application/view/application/customers/editsupport.phtml, line: 12
+# File: module/Application/view/application/customers/bounces.phtml, line: 11
 # File: module/Application/view/application/cruises/index.phtml, line: 9
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 11
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 11
@@ -5263,8 +5267,6 @@ msgstr ""
 # File: module/Application/view/application/hotels/edit.phtml, line: 62
 # File: module/Application/view/application/flights/airblock.phtml, line: 30
 # File: module/Application/view/application/flights/newairblock.phtml, line: 28
-# File: module/Application/view/application/flights/listfarealerts.phtml, line: 24
-# File: module/Application/view/application/flights/listfarealerts.phtml, line: 40
 # File: module/Application/view/application/packages/listpackages.phtml, line: 33
 # File: module/Application/view/application/support/list.phtml, line: 29
 # File: module/Application/view/application/support/search.phtml, line: 75
@@ -5852,6 +5854,7 @@ msgstr ""
 # File: module/Application/view/application/customers/expectedrewards.phtml, line: 39
 # File: module/Application/view/application/customers/quotes.phtml, line: 34
 # File: module/Application/view/application/customers/whitelist.phtml, line: 32
+# File: module/Application/view/application/customers/bounces.phtml, line: 30
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 38
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 66
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 39
@@ -7831,6 +7834,9 @@ msgid "White List"
 msgstr ""
 #
 # File: module/Application/view/application/customers/index.phtml, line: 134
+# File: module/Application/view/application/customers/bounces.phtml, line: 7
+# File: module/Application/view/application/customers/bounces.phtml, line: 13
+# File: module/Application/view/application/customers/bounces.phtml, line: 20
 msgid "Email Bounces"
 msgstr ""
 #
@@ -8081,6 +8087,7 @@ msgstr ""
 #
 # File: module/Application/view/application/customers/view.phtml, line: 273
 # File: module/Application/view/application/customers/view.phtml, line: 389
+# File: module/Application/view/application/customers/bounces.phtml, line: 26
 # File: module/Application/view/application/agents/view.phtml, line: 324
 msgid "Id"
 msgstr ""
@@ -8656,6 +8663,14 @@ msgstr ""
 # File: module/Application/view/application/customers/editsupport.phtml, line: 66
 # File: module/Application/view/application/customers/editsupport.phtml, line: 67
 msgid "Question/Answer"
+msgstr ""
+#
+# File: module/Application/view/application/customers/bounces.phtml, line: 28
+msgid "Reason"
+msgstr ""
+#
+# File: module/Application/view/application/customers/bounces.phtml, line: 29
+msgid "Reason Type"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/index.phtml, line: 59
@@ -10573,7 +10588,6 @@ msgstr ""
 #
 # File: module/Application/view/application/flights/airblock.phtml, line: 32
 # File: module/Application/view/application/flights/newairblock.phtml, line: 28
-# File: module/Application/view/application/flights/listfarealerts.phtml, line: 24
 # File: module/Application/view/application/portfolio/edit.phtml, line: 41
 msgid "Select Company"
 msgstr ""
@@ -10660,6 +10674,7 @@ msgid "Arrrival"
 msgstr ""
 #
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 46
+# File: module/Application/view/application/flights/listfarealerts.phtml, line: 35
 # File: module/Application/view/application/marketing/edit.phtml, line: 113
 msgid "Return"
 msgstr ""
@@ -10719,19 +10734,21 @@ msgstr ""
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 34
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 39
 # File: module/Application/view/application/flights/farealert.phtml, line: 27
-# File: module/Application/view/application/flights/listfarealerts.phtml, line: 37
+# File: module/Application/view/application/flights/listfarealerts.phtml, line: 31
 msgid "Flight Type"
 msgstr ""
 #
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 37
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 42
 # File: module/Application/view/application/flights/farealert.phtml, line: 30
+# File: module/Application/view/application/flights/listfarealerts.phtml, line: 46
 msgid "Round Trip"
 msgstr ""
 #
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 41
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 46
 # File: module/Application/view/application/flights/farealert.phtml, line: 34
+# File: module/Application/view/application/flights/listfarealerts.phtml, line: 46
 msgid "One Way"
 msgstr ""
 #
@@ -10902,7 +10919,7 @@ msgid "New Fare Alert"
 msgstr ""
 #
 # File: module/Application/view/application/flights/farealert.phtml, line: 39
-# File: module/Application/view/application/flights/listfarealerts.phtml, line: 38
+# File: module/Application/view/application/flights/listfarealerts.phtml, line: 32
 # File: module/Application/view/application/marketing/edit.phtml, line: 110
 # File: module/Application/view/application/marketing/edit.phtml, line: 157
 msgid "Origin"
@@ -10913,22 +10930,24 @@ msgid "Search by email or phone, or enter details for a new customer"
 msgstr ""
 #
 # File: module/Application/view/application/flights/farealert.phtml, line: 61
-# File: module/Application/view/application/flights/listfarealerts.phtml, line: 35
 msgid "Customer Email"
 msgstr ""
 #
 # File: module/Application/view/application/flights/farealert.phtml, line: 62
-# File: module/Application/view/application/flights/listfarealerts.phtml, line: 33
+# File: module/Application/view/application/flights/listfarealerts.phtml, line: 28
 msgid "Customer Name"
 msgstr ""
 #
 # File: module/Application/view/application/flights/farealert.phtml, line: 63
-# File: module/Application/view/application/flights/listfarealerts.phtml, line: 34
 msgid "Customer Phone"
 msgstr ""
 #
-# File: module/Application/view/application/flights/listfarealerts.phtml, line: 41
+# File: module/Application/view/application/flights/listfarealerts.phtml, line: 36
 msgid "Direct"
+msgstr ""
+#
+# File: module/Application/view/application/flights/listfarealerts.phtml, line: 51
+msgid "Non Stop"
 msgstr ""
 #
 # File: module/Application/view/application/cars/listreservations.phtml, line: 33
