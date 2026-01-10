@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-10 03:48-0500\n"
+"POT-Creation-Date: 2026-01-10 08:49-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -987,7 +987,7 @@ msgstr ""
 # File: module/Application/view/application/flights/campaing.phtml, line: 11
 # File: module/Application/view/application/flights/farealert.phtml, line: 12
 # File: module/Application/view/application/flights/listfarealerts.phtml, line: 12
-# File: module/Application/view/application/flights/viewfarealert.phtml, line: 12
+# File: module/Application/view/application/flights/viewfarealert.phtml, line: 14
 # File: module/Application/view/application/packages/newpackage.phtml, line: 65
 # File: module/Application/view/application/packages/newpackage.phtml, line: 66
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 109
@@ -2967,7 +2967,6 @@ msgstr ""
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 2116
 # File: module/Application/view/application/flights/farealert.phtml, line: 44
 # File: module/Application/view/application/flights/listfarealerts.phtml, line: 33
-# File: module/Application/view/application/flights/viewfarealert.phtml, line: 31
 # File: module/Application/view/application/marketing/edit.phtml, line: 50
 # File: module/Application/view/application/marketing/edit.phtml, line: 111
 # File: module/Application/view/application/marketing/edit.phtml, line: 158
@@ -3371,7 +3370,7 @@ msgstr ""
 # File: module/Application/view/application/flights/campaing.phtml, line: 10
 # File: module/Application/view/application/flights/farealert.phtml, line: 11
 # File: module/Application/view/application/flights/listfarealerts.phtml, line: 11
-# File: module/Application/view/application/flights/viewfarealert.phtml, line: 11
+# File: module/Application/view/application/flights/viewfarealert.phtml, line: 12
 # File: module/Application/view/application/cars/index.phtml, line: 10
 # File: module/Application/view/application/cars/listreservations.phtml, line: 11
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 11
@@ -3970,7 +3969,6 @@ msgstr ""
 # File: module/Application/view/application/flights/addcampaign.phtml, line: 88
 # File: module/Application/view/application/flights/campaing.phtml, line: 71
 # File: module/Application/view/application/flights/farealert.phtml, line: 118
-# File: module/Application/view/application/flights/viewfarealert.phtml, line: 79
 # File: module/Application/view/application/cars/settings.phtml, line: 78
 # File: module/Application/view/application/cars/generalsettings.phtml, line: 102
 # File: module/Application/view/application/cars/paymentsettings.phtml, line: 71
@@ -6164,7 +6162,6 @@ msgstr ""
 # File: module/Application/view/application/flights/addcampaign.phtml, line: 37
 # File: module/Application/view/application/flights/campaing.phtml, line: 36
 # File: module/Application/view/application/flights/farealert.phtml, line: 67
-# File: module/Application/view/application/flights/viewfarealert.phtml, line: 39
 # File: module/Application/view/application/cars/generalsettings.phtml, line: 78
 # File: module/Application/view/application/cars/paymentsettings.phtml, line: 47
 # File: module/Application/view/application/activities/generalsettings.phtml, line: 78
@@ -10605,7 +10602,7 @@ msgstr ""
 # File: module/Application/view/application/flights/index.phtml, line: 105
 # File: module/Application/view/application/flights/listfarealerts.phtml, line: 14
 # File: module/Application/view/application/flights/listfarealerts.phtml, line: 21
-# File: module/Application/view/application/flights/viewfarealert.phtml, line: 13
+# File: module/Application/view/application/flights/viewfarealert.phtml, line: 16
 msgid "List Fare Alerts"
 msgstr ""
 #
@@ -11123,7 +11120,6 @@ msgstr ""
 #
 # File: module/Application/view/application/flights/campaing.phtml, line: 13
 # File: module/Application/view/application/flights/campaing.phtml, line: 20
-# File: module/Application/view/application/flights/viewfarealert.phtml, line: 21
 # File: module/Application/view/application/marketing/edit.phtml, line: 8
 msgid "Edit Campaign"
 msgstr ""
@@ -11136,7 +11132,6 @@ msgstr ""
 #
 # File: module/Application/view/application/flights/farealert.phtml, line: 39
 # File: module/Application/view/application/flights/listfarealerts.phtml, line: 32
-# File: module/Application/view/application/flights/viewfarealert.phtml, line: 26
 # File: module/Application/view/application/marketing/edit.phtml, line: 110
 # File: module/Application/view/application/marketing/edit.phtml, line: 157
 msgid "Origin"
@@ -11174,8 +11169,12 @@ msgid "Non Stop"
 msgstr ""
 #
 # File: module/Application/view/application/flights/viewfarealert.phtml, line: 7
-# File: module/Application/view/application/flights/viewfarealert.phtml, line: 14
+# File: module/Application/view/application/flights/viewfarealert.phtml, line: 18
 msgid "View Fare Alert"
+msgstr ""
+#
+# File: module/Application/view/application/flights/viewfarealert.phtml, line: 25
+msgid "View Fare Alert Progress"
 msgstr ""
 #
 # File: module/Application/view/application/cars/listreservations.phtml, line: 33
