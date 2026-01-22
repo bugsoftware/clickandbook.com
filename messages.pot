@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-21 09:20-0500\n"
+"POT-Creation-Date: 2026-01-22 16:06-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,18 +42,6 @@ msgstr ""
 # File: module/Application/src/Controller/CustomersController.php, line: 3357
 # File: module/Application/src/Controller/CustomersController.php, line: 3378
 # File: module/Application/src/Controller/CustomersController.php, line: 3700
-# File: module/Application/src/Controller/CustomersController.php, line: 5186
-# File: module/Application/src/Controller/CustomersController.php, line: 5208
-# File: module/Application/src/Controller/CustomersController.php, line: 5230
-# File: module/Application/src/Controller/CustomersController.php, line: 5578
-# File: module/Application/src/Controller/CustomersController.php, line: 5599
-# File: module/Application/src/Controller/CustomersController.php, line: 5620
-# File: module/Application/src/Controller/CustomersController.php, line: 5842
-# File: module/Application/src/Controller/CustomersController.php, line: 5863
-# File: module/Application/src/Controller/CustomersController.php, line: 5884
-# File: module/Application/src/Controller/CustomersController.php, line: 6351
-# File: module/Application/src/Controller/CustomersController.php, line: 6372
-# File: module/Application/src/Controller/CustomersController.php, line: 6393
 # File: module/Application/src/Controller/EscortedtoursController.php, line: 3775
 # File: module/Application/src/Controller/EscortedtoursController.php, line: 4160
 # File: module/Application/src/Controller/FlightsController.php, line: 1244
@@ -714,59 +702,6 @@ msgstr ""
 msgid "Customers Support"
 msgstr ""
 #
-# File: module/Application/src/Controller/CustomersController.php, line: 5399
-# File: module/Application/src/Controller/IndexController.php, line: 2059
-# File: module/Application/src/Controller/ViewReservationController.php, line: 2906
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 176
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 781
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 1476
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 1629
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 1817
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 2205
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 36
-# File: module/Application/view/application/agents/search.phtml, line: 54
-# File: module/Application/view/application/agents/searchagents.phtml, line: 64
-# File: module/Application/view/application/agents/view.phtml, line: 341
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 36
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 36
-# File: module/Application/view/application/customers/search.phtml, line: 54
-# File: module/Application/view/application/customers/searchcustomers.phtml, line: 62
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 36
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 36
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 36
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 36
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 65
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 36
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 36
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 36
-msgid "Pending"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 5401
-# File: module/Application/src/Controller/ViewReservationController.php, line: 2908
-msgid "Credited"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 5403
-# File: module/Application/src/Controller/ViewReservationController.php, line: 2910
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 38
-# File: module/Application/view/application/agents/search.phtml, line: 56
-# File: module/Application/view/application/agents/searchagents.phtml, line: 68
-# File: module/Application/view/application/agents/view.phtml, line: 341
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 38
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 38
-# File: module/Application/view/application/customers/search.phtml, line: 56
-# File: module/Application/view/application/customers/searchcustomers.phtml, line: 66
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 38
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 38
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 38
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 38
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 38
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 38
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 38
-msgid "Cancelled"
-msgstr ""
-#
 # File: module/Application/src/Controller/FlightsController.php, line: 1867
 # File: module/Application/src/Controller/FlightsController.php, line: 2583
 msgid "All Charters"
@@ -1171,6 +1106,33 @@ msgstr ""
 # File: module/Application/src/Controller/IndexController.php, line: 1937
 # File: module/Application/src/Controller/IndexController.php, line: 1955
 msgid "Your Click & Book Membership Has Been Cancelled!"
+msgstr ""
+#
+# File: module/Application/src/Controller/IndexController.php, line: 2059
+# File: module/Application/src/Controller/ViewReservationController.php, line: 2906
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 176
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 781
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 1476
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 1629
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 1817
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 2205
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 36
+# File: module/Application/view/application/agents/search.phtml, line: 54
+# File: module/Application/view/application/agents/searchagents.phtml, line: 64
+# File: module/Application/view/application/agents/view.phtml, line: 341
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 36
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 36
+# File: module/Application/view/application/customers/search.phtml, line: 54
+# File: module/Application/view/application/customers/searchcustomers.phtml, line: 62
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 36
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 36
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 36
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 36
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 65
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 36
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 36
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 36
+msgid "Pending"
 msgstr ""
 #
 # File: module/Application/src/Controller/IndexController.php, line: 3956
@@ -1957,6 +1919,29 @@ msgstr ""
 #
 # File: module/Application/src/Controller/ViewReservationController.php, line: 2883
 msgid "All Companies/Markets"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 2908
+msgid "Credited"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 2910
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 38
+# File: module/Application/view/application/agents/search.phtml, line: 56
+# File: module/Application/view/application/agents/searchagents.phtml, line: 68
+# File: module/Application/view/application/agents/view.phtml, line: 341
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 38
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 38
+# File: module/Application/view/application/customers/search.phtml, line: 56
+# File: module/Application/view/application/customers/searchcustomers.phtml, line: 66
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 38
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 38
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 38
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 38
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 38
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 38
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 38
+msgid "Cancelled"
 msgstr ""
 #
 # File: module/Application/src/Controller/ViewReservationController.php, line: 2912
