@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-24 09:56-0500\n"
+"POT-Creation-Date: 2026-02-24 10:56-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -179,6 +179,7 @@ msgstr ""
 # File: module/Application/view/application/index/invoices.phtml, line: 90
 # File: module/Application/view/application/index/order.phtml, line: 456
 # File: module/Application/view/application/index/order.phtml, line: 490
+# File: module/Application/view/application/index/presentation.phtml, line: 2096
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 140
 # File: module/Application/view/application/index/register.phtml, line: 145
 # File: module/Application/view/application/index/setup.phtml, line: 177
@@ -254,6 +255,7 @@ msgstr ""
 # File: module/Application/view/application/index/invoices.phtml, line: 91
 # File: module/Application/view/application/index/order.phtml, line: 425
 # File: module/Application/view/application/index/order.phtml, line: 475
+# File: module/Application/view/application/index/presentation.phtml, line: 2062
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 138
 # File: module/Application/view/application/index/register.phtml, line: 144
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 124
@@ -323,6 +325,7 @@ msgstr ""
 # File: module/Application/view/application/index/invoices.phtml, line: 89
 # File: module/Application/view/application/index/order.phtml, line: 432
 # File: module/Application/view/application/index/order.phtml, line: 479
+# File: module/Application/view/application/index/presentation.phtml, line: 2069
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 138
 # File: module/Application/view/application/index/register.phtml, line: 154
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 124
@@ -532,6 +535,7 @@ msgstr ""
 # File: module/Application/view/application/customers/support.phtml, line: 7
 # File: module/Application/view/application/customers/support.phtml, line: 13
 # File: module/Application/view/application/help/index.phtml, line: 100
+# File: module/Application/view/application/index/presentation.phtml, line: 148
 # File: module/Application/view/application/support/edit.phtml, line: 12
 # File: module/Application/view/application/support/edit.phtml, line: 20
 # File: module/Application/view/application/support/index.phtml, line: 6
@@ -570,6 +574,8 @@ msgstr ""
 #
 # File: module/Application/src/Controller/CustomersController.php, line: 1808
 # File: module/Application/view/application/customers/editsupport.phtml, line: 47
+# File: module/Application/view/application/index/presentation.phtml, line: 116
+# File: module/Application/view/application/index/presentation.phtml, line: 176
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 33
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 51
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 126
@@ -1295,7 +1301,7 @@ msgstr ""
 msgid "This is valid for 30 minutes only"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 13820
+# File: module/Application/src/Controller/IndexController.php, line: 13825
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 203
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 478
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3002
@@ -1304,7 +1310,7 @@ msgstr ""
 msgid "English"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 13822
+# File: module/Application/src/Controller/IndexController.php, line: 13827
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 194
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 469
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3005
@@ -1313,7 +1319,7 @@ msgstr ""
 msgid "Spanish"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 13824
+# File: module/Application/src/Controller/IndexController.php, line: 13829
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 185
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 460
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3011
@@ -1322,44 +1328,44 @@ msgstr ""
 msgid "Portuguese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 13826
+# File: module/Application/src/Controller/IndexController.php, line: 13831
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 161
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 436
 msgid "French"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 13828
+# File: module/Application/src/Controller/IndexController.php, line: 13833
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 173
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 448
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3008
 msgid "Italian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 13830
+# File: module/Application/src/Controller/IndexController.php, line: 13835
 msgid "Deutsch"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 13832
+# File: module/Application/src/Controller/IndexController.php, line: 13837
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 152
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 427
 msgid "Armenian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 13834
+# File: module/Application/src/Controller/IndexController.php, line: 13839
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 155
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 430
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3026
 msgid "Chinese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 13836
+# File: module/Application/src/Controller/IndexController.php, line: 13841
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 176
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 451
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3017
 msgid "Japanese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 13838
+# File: module/Application/src/Controller/IndexController.php, line: 13843
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 149
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 424
 msgid "Arabic"
@@ -2131,6 +2137,7 @@ msgid "Reservation Request"
 msgstr ""
 #
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 44
+# File: module/Application/view/application/index/presentation.phtml, line: 1831
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 138
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 124
 # File: module/Application/view/application/index/presentation.old.phtml, line: 232
@@ -4040,6 +4047,9 @@ msgstr ""
 # File: module/Application/view/application/index/order.phtml, line: 382
 # File: module/Application/view/application/index/password.phtml, line: 17
 # File: module/Application/view/application/index/preferences.phtml, line: 11
+# File: module/Application/view/application/index/presentation.phtml, line: 111
+# File: module/Application/view/application/index/presentation.phtml, line: 171
+# File: module/Application/view/application/index/presentation.phtml, line: 1918
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 28
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 41
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 169
@@ -5461,6 +5471,7 @@ msgstr ""
 # File: module/Application/view/application/flights/airblocksreport.phtml, line: 34
 # File: module/Application/view/application/index/order.phtml, line: 420
 # File: module/Application/view/application/index/order.phtml, line: 473
+# File: module/Application/view/application/index/presentation.phtml, line: 2050
 # File: module/Application/view/application/index/register.phtml, line: 140
 # File: module/Application/view/application/index/updatecreditcard.phtml, line: 73
 # File: module/Application/view/application/index/presentation.old.phtml, line: 309
@@ -5495,6 +5506,7 @@ msgstr ""
 # File: module/Application/view/application/flights/airblocksreport.phtml, line: 35
 # File: module/Application/view/application/index/order.phtml, line: 421
 # File: module/Application/view/application/index/order.phtml, line: 474
+# File: module/Application/view/application/index/presentation.phtml, line: 2055
 # File: module/Application/view/application/index/register.phtml, line: 141
 # File: module/Application/view/application/index/updatecreditcard.phtml, line: 74
 # File: module/Application/view/application/index/presentation.old.phtml, line: 310
@@ -5571,6 +5583,7 @@ msgstr ""
 # File: module/Application/view/application/index/password.phtml, line: 13
 # File: module/Application/view/application/index/password.phtml, line: 19
 # File: module/Application/view/application/index/password.phtml, line: 56
+# File: module/Application/view/application/index/presentation.phtml, line: 2103
 # File: module/Application/view/application/index/register.phtml, line: 148
 # File: module/Application/view/application/index/seo.phtml, line: 49
 # File: module/Application/view/application/index/settings.phtml, line: 49
@@ -9192,6 +9205,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/accepttermsandconditions.phtml, line: 13
 # File: module/Application/view/application/index/order.phtml, line: 503
+# File: module/Application/view/application/index/presentation.phtml, line: 2000
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 172
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 158
 # File: module/Application/view/application/index/presentation.old.phtml, line: 281
@@ -9978,6 +9992,8 @@ msgid "Forgot?"
 msgstr ""
 #
 # File: module/Application/view/application/index/login.phtml, line: 126
+# File: module/Application/view/application/index/presentation.phtml, line: 215
+# File: module/Application/view/application/index/presentation.phtml, line: 2116
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 34
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 53
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 34
@@ -10370,25 +10386,15 @@ msgstr ""
 msgid "Knowing your preferred language helps us tailor your experience - from displaying the system interface in your chosen language to ensuring that booking details, notifications, and support are communicated clearly and comfortably."
 msgstr ""
 #
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 29
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 43
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 29
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 43
-# File: module/Application/view/application/index/presentation.old.phtml, line: 28
-# File: module/Application/view/application/index/presentation.old.phtml, line: 44
-# File: module/Application/view/application/index/presentation.old.phtml, line: 278
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 29
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 43
-# File: module/Application/view/application/index/tutorials.old.phtml, line: 29
-# File: module/Application/view/application/index/partners.old.phtml, line: 28
-# File: module/Application/view/application/index/partners.old.phtml, line: 42
-# File: module/Application/view/application/index/partners.old.phtml, line: 240
-# File: module/Application/view/application/index/products.old.phtml, line: 29
-# File: module/Application/view/application/index/products.old.phtml, line: 43
-# File: module/Application/view/application/index/products.old.phtml, line: 251
-msgid "Who are we?"
+# File: module/Application/view/application/index/presentation.phtml, line: 112
+# File: module/Application/view/application/index/presentation.phtml, line: 172
+# File: module/Application/view/application/index/presentation.phtml, line: 1919
+msgid "Who Are We?"
 msgstr ""
 #
+# File: module/Application/view/application/index/presentation.phtml, line: 113
+# File: module/Application/view/application/index/presentation.phtml, line: 173
+# File: module/Application/view/application/index/presentation.phtml, line: 1920
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 30
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 45
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 170
@@ -10410,6 +10416,9 @@ msgstr ""
 msgid "Products"
 msgstr ""
 #
+# File: module/Application/view/application/index/presentation.phtml, line: 114
+# File: module/Application/view/application/index/presentation.phtml, line: 174
+# File: module/Application/view/application/index/presentation.phtml, line: 1921
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 31
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 47
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 171
@@ -10433,6 +10442,9 @@ msgstr ""
 msgid "Partners"
 msgstr ""
 #
+# File: module/Application/view/application/index/presentation.phtml, line: 115
+# File: module/Application/view/application/index/presentation.phtml, line: 175
+# File: module/Application/view/application/index/presentation.phtml, line: 1922
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 32
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 49
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 32
@@ -10449,6 +10461,270 @@ msgstr ""
 msgid "Tutorials"
 msgstr ""
 #
+# File: module/Application/view/application/index/presentation.phtml, line: 147
+msgid "FAQ"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 212
+msgid "Everything A Click Away"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 213
+msgid "The best online booking platform, specialist in the tourism industry!"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 216
+msgid "Sign Up Here"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 370
+msgid "About Us"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 371
+msgid "Connecting the World of Tourism in One Click"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 1829
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 138
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 124
+# File: module/Application/view/application/index/presentation.old.phtml, line: 232
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
+# File: module/Application/view/application/index/tutorials.old.phtml, line: 329
+# File: module/Application/view/application/index/partners.old.phtml, line: 210
+# File: module/Application/view/application/index/products.old.phtml, line: 221
+msgid "Company Type"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 1830
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 138
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 124
+# File: module/Application/view/application/index/presentation.old.phtml, line: 232
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
+# File: module/Application/view/application/index/tutorials.old.phtml, line: 329
+# File: module/Application/view/application/index/partners.old.phtml, line: 210
+# File: module/Application/view/application/index/products.old.phtml, line: 221
+msgid "Travel Agency"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 1832
+# File: module/Application/view/application/index/presentation.phtml, line: 2034
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 138
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 124
+# File: module/Application/view/application/index/presentation.old.phtml, line: 232
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
+# File: module/Application/view/application/index/tutorials.old.phtml, line: 329
+# File: module/Application/view/application/index/partners.old.phtml, line: 210
+# File: module/Application/view/application/index/products.old.phtml, line: 221
+msgid "Freelancer"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 1833
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 138
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 124
+# File: module/Application/view/application/index/presentation.old.phtml, line: 232
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
+# File: module/Application/view/application/index/tutorials.old.phtml, line: 329
+# File: module/Application/view/application/index/partners.old.phtml, line: 210
+# File: module/Application/view/application/index/products.old.phtml, line: 221
+msgid "Tour Operator"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 1834
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 138
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 124
+# File: module/Application/view/application/index/presentation.old.phtml, line: 232
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
+# File: module/Application/view/application/index/tutorials.old.phtml, line: 329
+# File: module/Application/view/application/index/partners.old.phtml, line: 210
+# File: module/Application/view/application/index/products.old.phtml, line: 221
+msgid "Hotel Chain"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 1835
+# File: module/Application/view/application/index/presentation.phtml, line: 2085
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 138
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 124
+# File: module/Application/view/application/index/presentation.old.phtml, line: 232
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
+# File: module/Application/view/application/index/tutorials.old.phtml, line: 329
+# File: module/Application/view/application/index/partners.old.phtml, line: 210
+# File: module/Application/view/application/index/products.old.phtml, line: 221
+msgid "Other"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 1864
+msgid "Send Message"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 1882
+msgid "get updated the latest newsletter"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 1888
+msgid "Enter Email"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 1889
+msgid "Subscribe Now"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 1902
+msgid "Your trusted platform for seamless online bookings and effortless scheduling!"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 1915
+msgid "Useful Link"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 1995
+msgid "All Rights Reserved."
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2001
+msgid "Careers"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2002
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 173
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 159
+# File: module/Application/view/application/index/presentation.old.phtml, line: 282
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 141
+# File: module/Application/view/application/index/tutorials.old.phtml, line: 362
+# File: module/Application/view/application/index/partners.old.phtml, line: 243
+# File: module/Application/view/application/index/products.old.phtml, line: 254
+msgid "Privacy Policy"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2026
+msgid "Register"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2028
+msgid "I want to join as"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2041
+msgid "Travel Agent or Agency"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2070
+# File: module/Application/view/application/index/search.phtml, line: 185
+# File: module/Application/view/application/index/search.phtml, line: 187
+# File: module/Application/view/application/index/search.phtml, line: 192
+# File: module/Application/view/application/index/search.phtml, line: 194
+# File: module/Application/view/application/index/search.phtml, line: 200
+# File: module/Application/view/application/index/presentation.old.phtml, line: 241
+# File: module/Application/view/application/index/presentation.old.phtml, line: 243
+msgid "United States"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2071
+msgid "United Kingdom"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2072
+msgid "Canada"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2073
+msgid "Australia"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2074
+msgid "Germany"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2075
+# File: module/Application/view/application/index/search.phtml, line: 24
+msgid "France"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2076
+# File: module/Application/view/application/index/search.phtml, line: 20
+msgid "Spain"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2077
+# File: module/Application/view/application/index/search.phtml, line: 28
+msgid "Italy"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2078
+# File: module/Application/view/application/index/search.phtml, line: 185
+# File: module/Application/view/application/index/search.phtml, line: 187
+# File: module/Application/view/application/index/search.phtml, line: 192
+# File: module/Application/view/application/index/search.phtml, line: 194
+msgid "Peru"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2079
+msgid "Argentina"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2080
+msgid "Chile"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2081
+# File: module/Application/view/application/index/search.phtml, line: 187
+# File: module/Application/view/application/index/search.phtml, line: 194
+msgid "Colombia"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2082
+msgid "Brazil"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2083
+# File: module/Application/view/application/index/search.phtml, line: 210
+msgid "Dominican Republic"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2084
+msgid "Portugal"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2091
+# File: module/Application/view/application/index/userinfo.phtml, line: 88
+# File: module/Application/view/application/index/presentation.old.phtml, line: 311
+# File: module/Application/view/application/index/tutorials.old.phtml, line: 416
+# File: module/Application/view/application/index/partners.old.phtml, line: 297
+# File: module/Application/view/application/index/products.old.phtml, line: 306
+msgid "Agency Name"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2112
+msgid "Sign Up"
+msgstr ""
+#
+# File: module/Application/view/application/index/presentation.phtml, line: 2115
+# File: module/Application/view/application/index/presentation.old.phtml, line: 69
+# File: module/Application/view/application/index/tutorials.old.phtml, line: 397
+# File: module/Application/view/application/index/partners.old.phtml, line: 278
+# File: module/Application/view/application/index/products.old.phtml, line: 287
+msgid "Already a Member?"
+msgstr ""
+#
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 29
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 43
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 29
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 43
+# File: module/Application/view/application/index/presentation.old.phtml, line: 28
+# File: module/Application/view/application/index/presentation.old.phtml, line: 44
+# File: module/Application/view/application/index/presentation.old.phtml, line: 278
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 29
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 43
+# File: module/Application/view/application/index/tutorials.old.phtml, line: 29
+# File: module/Application/view/application/index/partners.old.phtml, line: 28
+# File: module/Application/view/application/index/partners.old.phtml, line: 42
+# File: module/Application/view/application/index/partners.old.phtml, line: 240
+# File: module/Application/view/application/index/products.old.phtml, line: 29
+# File: module/Application/view/application/index/products.old.phtml, line: 43
+# File: module/Application/view/application/index/products.old.phtml, line: 251
+msgid "Who are we?"
+msgstr ""
+#
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 79
 msgid "PRIVACY POLICY"
 msgstr ""
@@ -10461,66 +10737,6 @@ msgstr ""
 # File: module/Application/view/application/index/partners.old.phtml, line: 201
 # File: module/Application/view/application/index/products.old.phtml, line: 212
 msgid "Through the perfect combination of people and technology, we offer the best experiences."
-msgstr ""
-#
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 138
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 124
-# File: module/Application/view/application/index/presentation.old.phtml, line: 232
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
-# File: module/Application/view/application/index/tutorials.old.phtml, line: 329
-# File: module/Application/view/application/index/partners.old.phtml, line: 210
-# File: module/Application/view/application/index/products.old.phtml, line: 221
-msgid "Company Type"
-msgstr ""
-#
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 138
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 124
-# File: module/Application/view/application/index/presentation.old.phtml, line: 232
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
-# File: module/Application/view/application/index/tutorials.old.phtml, line: 329
-# File: module/Application/view/application/index/partners.old.phtml, line: 210
-# File: module/Application/view/application/index/products.old.phtml, line: 221
-msgid "Travel Agency"
-msgstr ""
-#
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 138
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 124
-# File: module/Application/view/application/index/presentation.old.phtml, line: 232
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
-# File: module/Application/view/application/index/tutorials.old.phtml, line: 329
-# File: module/Application/view/application/index/partners.old.phtml, line: 210
-# File: module/Application/view/application/index/products.old.phtml, line: 221
-msgid "Freelancer"
-msgstr ""
-#
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 138
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 124
-# File: module/Application/view/application/index/presentation.old.phtml, line: 232
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
-# File: module/Application/view/application/index/tutorials.old.phtml, line: 329
-# File: module/Application/view/application/index/partners.old.phtml, line: 210
-# File: module/Application/view/application/index/products.old.phtml, line: 221
-msgid "Tour Operator"
-msgstr ""
-#
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 138
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 124
-# File: module/Application/view/application/index/presentation.old.phtml, line: 232
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
-# File: module/Application/view/application/index/tutorials.old.phtml, line: 329
-# File: module/Application/view/application/index/partners.old.phtml, line: 210
-# File: module/Application/view/application/index/products.old.phtml, line: 221
-msgid "Hotel Chain"
-msgstr ""
-#
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 138
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 124
-# File: module/Application/view/application/index/presentation.old.phtml, line: 232
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
-# File: module/Application/view/application/index/tutorials.old.phtml, line: 329
-# File: module/Application/view/application/index/partners.old.phtml, line: 210
-# File: module/Application/view/application/index/products.old.phtml, line: 221
-msgid "Other"
 msgstr ""
 #
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 140
@@ -10564,16 +10780,6 @@ msgstr ""
 # File: module/Application/view/application/index/partners.old.phtml, line: 212
 # File: module/Application/view/application/index/products.old.phtml, line: 223
 msgid "send message"
-msgstr ""
-#
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 173
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 159
-# File: module/Application/view/application/index/presentation.old.phtml, line: 282
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 141
-# File: module/Application/view/application/index/tutorials.old.phtml, line: 362
-# File: module/Application/view/application/index/partners.old.phtml, line: 243
-# File: module/Application/view/application/index/products.old.phtml, line: 254
-msgid "Privacy Policy"
 msgstr ""
 #
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 189
@@ -10975,18 +11181,6 @@ msgstr ""
 msgid "Explore trending countries"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 20
-msgid "Spain"
-msgstr ""
-#
-# File: module/Application/view/application/index/search.phtml, line: 24
-msgid "France"
-msgstr ""
-#
-# File: module/Application/view/application/index/search.phtml, line: 28
-msgid "Italy"
-msgstr ""
-#
 # File: module/Application/view/application/index/search.phtml, line: 32
 msgid "Turkey"
 msgstr ""
@@ -11130,37 +11324,11 @@ msgstr ""
 msgid "Select country of origin"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 185
-# File: module/Application/view/application/index/search.phtml, line: 187
-# File: module/Application/view/application/index/search.phtml, line: 192
-# File: module/Application/view/application/index/search.phtml, line: 194
-msgid "Peru"
-msgstr ""
-#
-# File: module/Application/view/application/index/search.phtml, line: 185
-# File: module/Application/view/application/index/search.phtml, line: 187
-# File: module/Application/view/application/index/search.phtml, line: 192
-# File: module/Application/view/application/index/search.phtml, line: 194
-# File: module/Application/view/application/index/search.phtml, line: 200
-# File: module/Application/view/application/index/presentation.old.phtml, line: 241
-# File: module/Application/view/application/index/presentation.old.phtml, line: 243
-msgid "United States"
-msgstr ""
-#
 # File: module/Application/view/application/index/search.phtml, line: 187
 # File: module/Application/view/application/index/search.phtml, line: 194
 # File: module/Application/view/application/index/search.phtml, line: 205
 # File: module/Application/view/application/index/search.phtml, line: 215
 msgid "Mexico"
-msgstr ""
-#
-# File: module/Application/view/application/index/search.phtml, line: 187
-# File: module/Application/view/application/index/search.phtml, line: 194
-msgid "Colombia"
-msgstr ""
-#
-# File: module/Application/view/application/index/search.phtml, line: 210
-msgid "Dominican Republic"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 220
@@ -12570,14 +12738,6 @@ msgstr ""
 msgid "Last name"
 msgstr ""
 #
-# File: module/Application/view/application/index/userinfo.phtml, line: 88
-# File: module/Application/view/application/index/presentation.old.phtml, line: 311
-# File: module/Application/view/application/index/tutorials.old.phtml, line: 416
-# File: module/Application/view/application/index/partners.old.phtml, line: 297
-# File: module/Application/view/application/index/products.old.phtml, line: 306
-msgid "Agency Name"
-msgstr ""
-#
 # File: module/Application/view/application/index/userinfo.phtml, line: 92
 msgid "ERP"
 msgstr ""
@@ -12642,13 +12802,6 @@ msgstr ""
 # File: module/Application/view/application/index/partners.old.phtml, line: 275
 # File: module/Application/view/application/index/products.old.phtml, line: 284
 msgid "Travel Agent or Agency?"
-msgstr ""
-#
-# File: module/Application/view/application/index/presentation.old.phtml, line: 69
-# File: module/Application/view/application/index/tutorials.old.phtml, line: 397
-# File: module/Application/view/application/index/partners.old.phtml, line: 278
-# File: module/Application/view/application/index/products.old.phtml, line: 287
-msgid "Already a Member?"
 msgstr ""
 #
 # File: module/Application/view/application/index/presentation.old.phtml, line: 71
