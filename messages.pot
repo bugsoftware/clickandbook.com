@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-28 12:46-0500\n"
+"POT-Creation-Date: 2026-02-28 16:48-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,7 +57,7 @@ msgstr ""
 # File: module/Application/src/Controller/HotelsController.php, line: 7213
 # File: module/Application/src/Controller/HotelsController.php, line: 8006
 # File: module/Application/src/Controller/HotelsController.php, line: 8311
-# File: module/Application/src/Controller/IndexController.php, line: 13095
+# File: module/Application/src/Controller/IndexController.php, line: 13033
 # File: module/Application/src/Controller/InsurancesController.php, line: 365
 # File: module/Application/src/Controller/InsurancesController.php, line: 645
 # File: module/Application/src/Controller/MarketingController.php, line: 519
@@ -189,7 +189,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 108
 # File: module/Application/view/application/index/whoarewe.phtml, line: 646
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 331
-# File: module/Application/view/application/index/tutorials.phtml, line: 863
 # File: module/Application/view/application/index/partners.old.phtml, line: 212
 # File: module/Application/view/application/index/partners.phtml, line: 696
 # File: module/Application/view/application/index/products.old.phtml, line: 223
@@ -212,6 +211,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1893
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1944
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2137
+# File: module/Application/view/application/tutorials/index.phtml, line: 933
 msgid "Email"
 msgstr ""
 #
@@ -275,7 +275,6 @@ msgstr ""
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 329
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 417
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 440
-# File: module/Application/view/application/index/tutorials.phtml, line: 829
 # File: module/Application/view/application/index/partners.old.phtml, line: 210
 # File: module/Application/view/application/index/partners.old.phtml, line: 298
 # File: module/Application/view/application/index/partners.old.phtml, line: 321
@@ -301,6 +300,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1950
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2142
 # File: module/Application/view/application/blog/details.phtml, line: 691
+# File: module/Application/view/application/tutorials/index.phtml, line: 899
 msgid "Phone"
 msgstr ""
 #
@@ -353,8 +353,6 @@ msgstr ""
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 329
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 418
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 441
-# File: module/Application/view/application/index/tutorials.phtml, line: 246
-# File: module/Application/view/application/index/tutorials.phtml, line: 836
 # File: module/Application/view/application/index/partners.old.phtml, line: 210
 # File: module/Application/view/application/index/partners.old.phtml, line: 299
 # File: module/Application/view/application/index/partners.old.phtml, line: 322
@@ -381,6 +379,8 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1705
 # File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 13
 # File: module/Application/view/application/blog/details.phtml, line: 697
+# File: module/Application/view/application/tutorials/index.phtml, line: 234
+# File: module/Application/view/application/tutorials/index.phtml, line: 906
 msgid "Country"
 msgstr ""
 #
@@ -566,7 +566,6 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 136
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 136
 # File: module/Application/view/application/index/whoarewe.phtml, line: 137
-# File: module/Application/view/application/index/tutorials.phtml, line: 139
 # File: module/Application/view/application/index/partners.phtml, line: 164
 # File: module/Application/view/application/index/products.phtml, line: 139
 # File: module/Application/view/application/index/prices.phtml, line: 120
@@ -583,6 +582,7 @@ msgstr ""
 # File: module/Application/view/application/blog/list.phtml, line: 98
 # File: module/Application/view/application/view/index.phtml, line: 118
 # File: module/Application/view/application/faq/index.phtml, line: 121
+# File: module/Application/view/application/tutorials/index.phtml, line: 139
 # File: module/Application/view/layout/layout.phtml, line: 146
 # File: module/Application/view/layout/layout.phtml, line: 207
 msgid "Support"
@@ -634,9 +634,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 332
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 33
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 317
-# File: module/Application/view/application/index/tutorials.phtml, line: 106
-# File: module/Application/view/application/index/tutorials.phtml, line: 178
-# File: module/Application/view/application/index/tutorials.phtml, line: 547
 # File: module/Application/view/application/index/partners.old.phtml, line: 32
 # File: module/Application/view/application/index/partners.old.phtml, line: 50
 # File: module/Application/view/application/index/partners.old.phtml, line: 198
@@ -668,12 +665,15 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 410
 # File: module/Application/view/application/blog/list.phtml, line: 66
 # File: module/Application/view/application/blog/list.phtml, line: 126
-# File: module/Application/view/application/blog/list.phtml, line: 361
+# File: module/Application/view/application/blog/list.phtml, line: 346
 # File: module/Application/view/application/view/index.phtml, line: 86
 # File: module/Application/view/application/view/index.phtml, line: 842
 # File: module/Application/view/application/faq/index.phtml, line: 89
 # File: module/Application/view/application/faq/index.phtml, line: 149
 # File: module/Application/view/application/faq/index.phtml, line: 235
+# File: module/Application/view/application/tutorials/index.phtml, line: 106
+# File: module/Application/view/application/tutorials/index.phtml, line: 167
+# File: module/Application/view/application/tutorials/index.phtml, line: 617
 msgid "Contact Us"
 msgstr ""
 #
@@ -1162,7 +1162,7 @@ msgstr ""
 # File: module/Application/src/Controller/IndexController.php, line: 11465
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 291
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 675
-# File: module/Application/src/Controller/BlogController.php, line: 169
+# File: module/Application/src/Controller/BlogController.php, line: 234
 msgid "Hi"
 msgstr ""
 #
@@ -1385,7 +1385,7 @@ msgstr ""
 msgid "This is valid for 30 minutes only"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14026
+# File: module/Application/src/Controller/IndexController.php, line: 13964
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 207
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 482
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3002
@@ -1394,7 +1394,7 @@ msgstr ""
 msgid "English"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14028
+# File: module/Application/src/Controller/IndexController.php, line: 13966
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 198
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 473
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3005
@@ -1403,7 +1403,7 @@ msgstr ""
 msgid "Spanish"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14030
+# File: module/Application/src/Controller/IndexController.php, line: 13968
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 189
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 464
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3011
@@ -1412,44 +1412,44 @@ msgstr ""
 msgid "Portuguese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14032
+# File: module/Application/src/Controller/IndexController.php, line: 13970
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 165
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 440
 msgid "French"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14034
+# File: module/Application/src/Controller/IndexController.php, line: 13972
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 177
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 452
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3008
 msgid "Italian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14036
+# File: module/Application/src/Controller/IndexController.php, line: 13974
 msgid "Deutsch"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14038
+# File: module/Application/src/Controller/IndexController.php, line: 13976
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 156
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 431
 msgid "Armenian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14040
+# File: module/Application/src/Controller/IndexController.php, line: 13978
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 159
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 434
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3026
 msgid "Chinese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14042
+# File: module/Application/src/Controller/IndexController.php, line: 13980
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 180
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 455
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3017
 msgid "Japanese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14044
+# File: module/Application/src/Controller/IndexController.php, line: 13982
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 153
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 428
 msgid "Arabic"
@@ -1997,7 +1997,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 291
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 675
-# File: module/Application/src/Controller/BlogController.php, line: 169
+# File: module/Application/src/Controller/BlogController.php, line: 234
 msgid "Best regards"
 msgstr ""
 #
@@ -2209,19 +2209,19 @@ msgstr ""
 msgid "3rd Payment"
 msgstr ""
 #
-# File: module/Application/src/Controller/BlogController.php, line: 161
+# File: module/Application/src/Controller/BlogController.php, line: 226
 msgid "We Received Your Blog Comment"
 msgstr ""
 #
-# File: module/Application/src/Controller/BlogController.php, line: 169
+# File: module/Application/src/Controller/BlogController.php, line: 234
 msgid "Thank you for posting a comment on our blog."
 msgstr ""
 #
-# File: module/Application/src/Controller/BlogController.php, line: 169
+# File: module/Application/src/Controller/BlogController.php, line: 234
 msgid "We confirm that your comment has been received and registered under"
 msgstr ""
 #
-# File: module/Application/src/Controller/BlogController.php, line: 169
+# File: module/Application/src/Controller/BlogController.php, line: 234
 msgid "Our team will review your message and get back to you if needed."
 msgstr ""
 #
@@ -2318,7 +2318,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
 # File: module/Application/view/application/index/whoarewe.phtml, line: 383
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 329
-# File: module/Application/view/application/index/tutorials.phtml, line: 598
 # File: module/Application/view/application/index/partners.old.phtml, line: 210
 # File: module/Application/view/application/index/partners.phtml, line: 416
 # File: module/Application/view/application/index/products.old.phtml, line: 221
@@ -2328,9 +2327,10 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
 # File: module/Application/view/application/blog/index.phtml, line: 262
 # File: module/Application/view/application/blog/details.phtml, line: 461
-# File: module/Application/view/application/blog/list.phtml, line: 412
+# File: module/Application/view/application/blog/list.phtml, line: 397
 # File: module/Application/view/application/view/index.phtml, line: 893
 # File: module/Application/view/application/faq/index.phtml, line: 286
+# File: module/Application/view/application/tutorials/index.phtml, line: 668
 msgid "Travel Agent"
 msgstr ""
 #
@@ -4270,10 +4270,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 469
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 28
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 358
-# File: module/Application/view/application/index/tutorials.phtml, line: 91
-# File: module/Application/view/application/index/tutorials.phtml, line: 163
-# File: module/Application/view/application/index/tutorials.phtml, line: 203
-# File: module/Application/view/application/index/tutorials.phtml, line: 684
 # File: module/Application/view/application/index/partners.old.phtml, line: 27
 # File: module/Application/view/application/index/partners.old.phtml, line: 40
 # File: module/Application/view/application/index/partners.old.phtml, line: 239
@@ -4357,7 +4353,7 @@ msgstr ""
 # File: module/Application/view/application/blog/list.phtml, line: 61
 # File: module/Application/view/application/blog/list.phtml, line: 121
 # File: module/Application/view/application/blog/list.phtml, line: 150
-# File: module/Application/view/application/blog/list.phtml, line: 498
+# File: module/Application/view/application/blog/list.phtml, line: 483
 # File: module/Application/view/application/view/index.phtml, line: 81
 # File: module/Application/view/application/view/index.phtml, line: 182
 # File: module/Application/view/application/view/index.phtml, line: 980
@@ -4365,6 +4361,10 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 144
 # File: module/Application/view/application/faq/index.phtml, line: 174
 # File: module/Application/view/application/faq/index.phtml, line: 372
+# File: module/Application/view/application/tutorials/index.phtml, line: 91
+# File: module/Application/view/application/tutorials/index.phtml, line: 162
+# File: module/Application/view/application/tutorials/index.phtml, line: 191
+# File: module/Application/view/application/tutorials/index.phtml, line: 754
 msgid "Home"
 msgstr ""
 #
@@ -5572,7 +5572,6 @@ msgstr ""
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 53
 # File: module/Application/view/application/hotels/searchreservations.phtml, line: 42
 # File: module/Application/view/application/index/search.phtml, line: 1301
-# File: module/Application/view/application/index/tutorials.phtml, line: 236
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 42
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 30
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 34
@@ -5589,6 +5588,7 @@ msgstr ""
 # File: module/Application/view/application/support/search.phtml, line: 13
 # File: module/Application/view/application/support/search.phtml, line: 56
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 42
+# File: module/Application/view/application/tutorials/index.phtml, line: 224
 msgid "Search"
 msgstr ""
 #
@@ -5724,7 +5724,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 600
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 414
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 438
-# File: module/Application/view/application/index/tutorials.phtml, line: 815
 # File: module/Application/view/application/index/partners.old.phtml, line: 295
 # File: module/Application/view/application/index/partners.old.phtml, line: 319
 # File: module/Application/view/application/index/partners.phtml, line: 647
@@ -5741,6 +5740,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 8
 # File: module/Application/view/application/blog/details.phtml, line: 679
 # File: module/Application/view/application/faq/index.phtml, line: 197
+# File: module/Application/view/application/tutorials/index.phtml, line: 885
 msgid "First Name"
 msgstr ""
 #
@@ -5770,7 +5770,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 605
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 415
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 439
-# File: module/Application/view/application/index/tutorials.phtml, line: 821
 # File: module/Application/view/application/index/partners.old.phtml, line: 296
 # File: module/Application/view/application/index/partners.old.phtml, line: 320
 # File: module/Application/view/application/index/partners.phtml, line: 653
@@ -5786,6 +5785,7 @@ msgstr ""
 # File: module/Application/view/application/support/search.phtml, line: 36
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 12
 # File: module/Application/view/application/blog/details.phtml, line: 684
+# File: module/Application/view/application/tutorials/index.phtml, line: 891
 msgid "Last Name"
 msgstr ""
 #
@@ -5863,7 +5863,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 653
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 420
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 443
-# File: module/Application/view/application/index/tutorials.phtml, line: 870
 # File: module/Application/view/application/index/partners.old.phtml, line: 301
 # File: module/Application/view/application/index/partners.old.phtml, line: 324
 # File: module/Application/view/application/index/partners.phtml, line: 703
@@ -5873,6 +5872,7 @@ msgstr ""
 # File: module/Application/view/application/index/prices.phtml, line: 806
 # File: module/Application/view/application/index/order.old.phtml, line: 491
 # File: module/Application/view/application/index/activate.phtml, line: 653
+# File: module/Application/view/application/tutorials/index.phtml, line: 940
 msgid "Password"
 msgstr ""
 #
@@ -5934,7 +5934,6 @@ msgstr ""
 # File: module/Application/view/application/index/register.phtml, line: 178
 # File: module/Application/view/application/index/search.phtml, line: 1123
 # File: module/Application/view/application/index/updatecreditcard.phtml, line: 91
-# File: module/Application/view/application/index/tutorials.phtml, line: 282
 # File: module/Application/view/application/index/order.old.phtml, line: 448
 # File: module/Application/view/application/index/order.old.phtml, line: 487
 # File: module/Application/view/application/marketing/edit.phtml, line: 49
@@ -5952,6 +5951,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 35
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 29
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 20
+# File: module/Application/view/application/tutorials/index.phtml, line: 270
 msgid "City"
 msgstr ""
 #
@@ -9490,7 +9490,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 140
 # File: module/Application/view/application/index/whoarewe.phtml, line: 551
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 361
-# File: module/Application/view/application/index/tutorials.phtml, line: 766
 # File: module/Application/view/application/index/partners.old.phtml, line: 242
 # File: module/Application/view/application/index/partners.phtml, line: 585
 # File: module/Application/view/application/index/products.old.phtml, line: 253
@@ -9508,9 +9507,10 @@ msgstr ""
 # File: module/Application/view/application/packages/termsandconditions.phtml, line: 26
 # File: module/Application/view/application/blog/index.phtml, line: 428
 # File: module/Application/view/application/blog/details.phtml, line: 629
-# File: module/Application/view/application/blog/list.phtml, line: 578
+# File: module/Application/view/application/blog/list.phtml, line: 563
 # File: module/Application/view/application/view/index.phtml, line: 1062
 # File: module/Application/view/application/faq/index.phtml, line: 454
+# File: module/Application/view/application/tutorials/index.phtml, line: 836
 msgid "Terms & Conditions"
 msgstr ""
 #
@@ -10327,8 +10327,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 185
 # File: module/Application/view/application/index/whoarewe.phtml, line: 667
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 34
-# File: module/Application/view/application/index/tutorials.phtml, line: 189
-# File: module/Application/view/application/index/tutorials.phtml, line: 883
 # File: module/Application/view/application/index/partners.old.phtml, line: 33
 # File: module/Application/view/application/index/partners.old.phtml, line: 52
 # File: module/Application/view/application/index/partners.phtml, line: 214
@@ -10349,9 +10347,11 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 174
 # File: module/Application/view/application/blog/details.phtml, line: 745
 # File: module/Application/view/application/blog/list.phtml, line: 136
-# File: module/Application/view/application/blog/list.phtml, line: 688
+# File: module/Application/view/application/blog/list.phtml, line: 673
 # File: module/Application/view/application/faq/index.phtml, line: 159
 # File: module/Application/view/application/faq/index.phtml, line: 568
+# File: module/Application/view/application/tutorials/index.phtml, line: 177
+# File: module/Application/view/application/tutorials/index.phtml, line: 953
 msgid "Login"
 msgstr ""
 #
@@ -10741,11 +10741,11 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 86
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 86
 # File: module/Application/view/application/index/whoarewe.phtml, line: 77
-# File: module/Application/view/application/index/tutorials.phtml, line: 77
 # File: module/Application/view/application/index/partners.phtml, line: 102
 # File: module/Application/view/application/index/products.phtml, line: 77
 # File: module/Application/view/application/index/prices.phtml, line: 70
 # File: module/Application/view/application/blog/details.phtml, line: 86
+# File: module/Application/view/application/tutorials/index.phtml, line: 77
 msgid "What are you looking for?"
 msgstr ""
 #
@@ -10761,9 +10761,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 93
 # File: module/Application/view/application/index/whoarewe.phtml, line: 163
 # File: module/Application/view/application/index/whoarewe.phtml, line: 470
-# File: module/Application/view/application/index/tutorials.phtml, line: 94
-# File: module/Application/view/application/index/tutorials.phtml, line: 166
-# File: module/Application/view/application/index/tutorials.phtml, line: 685
 # File: module/Application/view/application/index/partners.phtml, line: 119
 # File: module/Application/view/application/index/partners.phtml, line: 191
 # File: module/Application/view/application/index/partners.phtml, line: 504
@@ -10784,12 +10781,15 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 548
 # File: module/Application/view/application/blog/list.phtml, line: 62
 # File: module/Application/view/application/blog/list.phtml, line: 122
-# File: module/Application/view/application/blog/list.phtml, line: 499
+# File: module/Application/view/application/blog/list.phtml, line: 484
 # File: module/Application/view/application/view/index.phtml, line: 82
 # File: module/Application/view/application/view/index.phtml, line: 981
 # File: module/Application/view/application/faq/index.phtml, line: 85
 # File: module/Application/view/application/faq/index.phtml, line: 145
 # File: module/Application/view/application/faq/index.phtml, line: 373
+# File: module/Application/view/application/tutorials/index.phtml, line: 94
+# File: module/Application/view/application/tutorials/index.phtml, line: 163
+# File: module/Application/view/application/tutorials/index.phtml, line: 755
 msgid "Who Are We?"
 msgstr ""
 #
@@ -10813,9 +10813,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 471
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 30
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 359
-# File: module/Application/view/application/index/tutorials.phtml, line: 97
-# File: module/Application/view/application/index/tutorials.phtml, line: 169
-# File: module/Application/view/application/index/tutorials.phtml, line: 686
 # File: module/Application/view/application/index/partners.old.phtml, line: 29
 # File: module/Application/view/application/index/partners.old.phtml, line: 44
 # File: module/Application/view/application/index/partners.phtml, line: 122
@@ -10848,12 +10845,15 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 549
 # File: module/Application/view/application/blog/list.phtml, line: 63
 # File: module/Application/view/application/blog/list.phtml, line: 123
-# File: module/Application/view/application/blog/list.phtml, line: 500
+# File: module/Application/view/application/blog/list.phtml, line: 485
 # File: module/Application/view/application/view/index.phtml, line: 83
 # File: module/Application/view/application/view/index.phtml, line: 982
 # File: module/Application/view/application/faq/index.phtml, line: 86
 # File: module/Application/view/application/faq/index.phtml, line: 146
 # File: module/Application/view/application/faq/index.phtml, line: 374
+# File: module/Application/view/application/tutorials/index.phtml, line: 97
+# File: module/Application/view/application/tutorials/index.phtml, line: 164
+# File: module/Application/view/application/tutorials/index.phtml, line: 756
 msgid "Products"
 msgstr ""
 #
@@ -10877,9 +10877,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 472
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 31
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 360
-# File: module/Application/view/application/index/tutorials.phtml, line: 100
-# File: module/Application/view/application/index/tutorials.phtml, line: 172
-# File: module/Application/view/application/index/tutorials.phtml, line: 687
 # File: module/Application/view/application/index/partners.old.phtml, line: 30
 # File: module/Application/view/application/index/partners.old.phtml, line: 46
 # File: module/Application/view/application/index/partners.old.phtml, line: 241
@@ -10913,12 +10910,15 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 550
 # File: module/Application/view/application/blog/list.phtml, line: 64
 # File: module/Application/view/application/blog/list.phtml, line: 124
-# File: module/Application/view/application/blog/list.phtml, line: 501
+# File: module/Application/view/application/blog/list.phtml, line: 486
 # File: module/Application/view/application/view/index.phtml, line: 84
 # File: module/Application/view/application/view/index.phtml, line: 983
 # File: module/Application/view/application/faq/index.phtml, line: 87
 # File: module/Application/view/application/faq/index.phtml, line: 147
 # File: module/Application/view/application/faq/index.phtml, line: 375
+# File: module/Application/view/application/tutorials/index.phtml, line: 100
+# File: module/Application/view/application/tutorials/index.phtml, line: 165
+# File: module/Application/view/application/tutorials/index.phtml, line: 757
 msgid "Partners"
 msgstr ""
 #
@@ -10939,11 +10939,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 171
 # File: module/Application/view/application/index/whoarewe.phtml, line: 473
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 32
-# File: module/Application/view/application/index/tutorials.phtml, line: 103
-# File: module/Application/view/application/index/tutorials.phtml, line: 175
-# File: module/Application/view/application/index/tutorials.phtml, line: 201
-# File: module/Application/view/application/index/tutorials.phtml, line: 204
-# File: module/Application/view/application/index/tutorials.phtml, line: 688
 # File: module/Application/view/application/index/partners.old.phtml, line: 31
 # File: module/Application/view/application/index/partners.old.phtml, line: 48
 # File: module/Application/view/application/index/partners.phtml, line: 128
@@ -10972,12 +10967,17 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 551
 # File: module/Application/view/application/blog/list.phtml, line: 65
 # File: module/Application/view/application/blog/list.phtml, line: 125
-# File: module/Application/view/application/blog/list.phtml, line: 502
+# File: module/Application/view/application/blog/list.phtml, line: 487
 # File: module/Application/view/application/view/index.phtml, line: 85
 # File: module/Application/view/application/view/index.phtml, line: 984
 # File: module/Application/view/application/faq/index.phtml, line: 88
 # File: module/Application/view/application/faq/index.phtml, line: 148
 # File: module/Application/view/application/faq/index.phtml, line: 376
+# File: module/Application/view/application/tutorials/index.phtml, line: 103
+# File: module/Application/view/application/tutorials/index.phtml, line: 166
+# File: module/Application/view/application/tutorials/index.phtml, line: 189
+# File: module/Application/view/application/tutorials/index.phtml, line: 192
+# File: module/Application/view/application/tutorials/index.phtml, line: 758
 msgid "Tutorials"
 msgstr ""
 #
@@ -10985,7 +10985,6 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 135
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 135
 # File: module/Application/view/application/index/whoarewe.phtml, line: 136
-# File: module/Application/view/application/index/tutorials.phtml, line: 138
 # File: module/Application/view/application/index/partners.phtml, line: 163
 # File: module/Application/view/application/index/products.phtml, line: 138
 # File: module/Application/view/application/index/prices.phtml, line: 119
@@ -10995,6 +10994,7 @@ msgstr ""
 # File: module/Application/view/application/blog/list.phtml, line: 97
 # File: module/Application/view/application/view/index.phtml, line: 117
 # File: module/Application/view/application/faq/index.phtml, line: 120
+# File: module/Application/view/application/tutorials/index.phtml, line: 138
 msgid "FAQ"
 msgstr ""
 #
@@ -11220,14 +11220,14 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 252
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 238
 # File: module/Application/view/application/index/whoarewe.phtml, line: 333
-# File: module/Application/view/application/index/tutorials.phtml, line: 548
 # File: module/Application/view/application/index/partners.phtml, line: 366
 # File: module/Application/view/application/index/products.phtml, line: 464
 # File: module/Application/view/application/blog/index.phtml, line: 212
 # File: module/Application/view/application/blog/details.phtml, line: 411
-# File: module/Application/view/application/blog/list.phtml, line: 362
+# File: module/Application/view/application/blog/list.phtml, line: 347
 # File: module/Application/view/application/view/index.phtml, line: 843
 # File: module/Application/view/application/faq/index.phtml, line: 236
+# File: module/Application/view/application/tutorials/index.phtml, line: 618
 msgid "Contact Information"
 msgstr ""
 #
@@ -11235,13 +11235,13 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 253
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 239
 # File: module/Application/view/application/index/whoarewe.phtml, line: 334
-# File: module/Application/view/application/index/tutorials.phtml, line: 549
 # File: module/Application/view/application/index/partners.phtml, line: 367
 # File: module/Application/view/application/index/products.phtml, line: 465
 # File: module/Application/view/application/blog/index.phtml, line: 213
 # File: module/Application/view/application/blog/details.phtml, line: 412
-# File: module/Application/view/application/blog/list.phtml, line: 363
+# File: module/Application/view/application/blog/list.phtml, line: 348
 # File: module/Application/view/application/faq/index.phtml, line: 237
+# File: module/Application/view/application/tutorials/index.phtml, line: 619
 msgid "For any inquiries or assistance, feel free to contact us. Our team is ready to support you."
 msgstr ""
 #
@@ -11249,14 +11249,14 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 260
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 246
 # File: module/Application/view/application/index/whoarewe.phtml, line: 341
-# File: module/Application/view/application/index/tutorials.phtml, line: 556
 # File: module/Application/view/application/index/partners.phtml, line: 374
 # File: module/Application/view/application/index/products.phtml, line: 472
 # File: module/Application/view/application/blog/index.phtml, line: 220
 # File: module/Application/view/application/blog/details.phtml, line: 419
-# File: module/Application/view/application/blog/list.phtml, line: 370
+# File: module/Application/view/application/blog/list.phtml, line: 355
 # File: module/Application/view/application/view/index.phtml, line: 851
 # File: module/Application/view/application/faq/index.phtml, line: 244
+# File: module/Application/view/application/tutorials/index.phtml, line: 626
 msgid "Call Us For Query"
 msgstr ""
 #
@@ -11264,14 +11264,14 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 271
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 257
 # File: module/Application/view/application/index/whoarewe.phtml, line: 352
-# File: module/Application/view/application/index/tutorials.phtml, line: 567
 # File: module/Application/view/application/index/partners.phtml, line: 385
 # File: module/Application/view/application/index/products.phtml, line: 483
 # File: module/Application/view/application/blog/index.phtml, line: 231
 # File: module/Application/view/application/blog/details.phtml, line: 430
-# File: module/Application/view/application/blog/list.phtml, line: 381
+# File: module/Application/view/application/blog/list.phtml, line: 366
 # File: module/Application/view/application/view/index.phtml, line: 862
 # File: module/Application/view/application/faq/index.phtml, line: 255
+# File: module/Application/view/application/tutorials/index.phtml, line: 637
 msgid "Email Us Anytime"
 msgstr ""
 #
@@ -11279,14 +11279,14 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 282
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 268
 # File: module/Application/view/application/index/whoarewe.phtml, line: 363
-# File: module/Application/view/application/index/tutorials.phtml, line: 578
 # File: module/Application/view/application/index/partners.phtml, line: 396
 # File: module/Application/view/application/index/products.phtml, line: 494
 # File: module/Application/view/application/blog/index.phtml, line: 242
 # File: module/Application/view/application/blog/details.phtml, line: 441
-# File: module/Application/view/application/blog/list.phtml, line: 392
+# File: module/Application/view/application/blog/list.phtml, line: 377
 # File: module/Application/view/application/view/index.phtml, line: 873
 # File: module/Application/view/application/faq/index.phtml, line: 266
+# File: module/Application/view/application/tutorials/index.phtml, line: 648
 msgid "Visit Our Office"
 msgstr ""
 #
@@ -11294,15 +11294,15 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 294
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 280
 # File: module/Application/view/application/index/whoarewe.phtml, line: 375
-# File: module/Application/view/application/index/tutorials.phtml, line: 590
 # File: module/Application/view/application/index/partners.phtml, line: 408
 # File: module/Application/view/application/index/products.phtml, line: 506
 # File: module/Application/view/application/index/activate.phtml, line: 374
 # File: module/Application/view/application/blog/index.phtml, line: 254
 # File: module/Application/view/application/blog/details.phtml, line: 453
-# File: module/Application/view/application/blog/list.phtml, line: 404
+# File: module/Application/view/application/blog/list.phtml, line: 389
 # File: module/Application/view/application/view/index.phtml, line: 885
 # File: module/Application/view/application/faq/index.phtml, line: 278
+# File: module/Application/view/application/tutorials/index.phtml, line: 660
 msgid "Your Name"
 msgstr ""
 #
@@ -11311,16 +11311,16 @@ msgstr ""
 # File: module/Application/view/application/index/settings.phtml, line: 302
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 281
 # File: module/Application/view/application/index/whoarewe.phtml, line: 376
-# File: module/Application/view/application/index/tutorials.phtml, line: 591
 # File: module/Application/view/application/index/partners.phtml, line: 409
 # File: module/Application/view/application/index/products.phtml, line: 507
 # File: module/Application/view/application/index/activate.phtml, line: 300
 # File: module/Application/view/application/index/activate.phtml, line: 375
 # File: module/Application/view/application/blog/index.phtml, line: 255
 # File: module/Application/view/application/blog/details.phtml, line: 454
-# File: module/Application/view/application/blog/list.phtml, line: 405
+# File: module/Application/view/application/blog/list.phtml, line: 390
 # File: module/Application/view/application/view/index.phtml, line: 886
 # File: module/Application/view/application/faq/index.phtml, line: 279
+# File: module/Application/view/application/tutorials/index.phtml, line: 661
 msgid "Email Address"
 msgstr ""
 #
@@ -11328,16 +11328,16 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 296
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 282
 # File: module/Application/view/application/index/whoarewe.phtml, line: 377
-# File: module/Application/view/application/index/tutorials.phtml, line: 592
 # File: module/Application/view/application/index/partners.phtml, line: 410
 # File: module/Application/view/application/index/products.phtml, line: 508
 # File: module/Application/view/application/index/activate.phtml, line: 376
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 42
 # File: module/Application/view/application/blog/index.phtml, line: 256
 # File: module/Application/view/application/blog/details.phtml, line: 455
-# File: module/Application/view/application/blog/list.phtml, line: 406
+# File: module/Application/view/application/blog/list.phtml, line: 391
 # File: module/Application/view/application/view/index.phtml, line: 887
 # File: module/Application/view/application/faq/index.phtml, line: 280
+# File: module/Application/view/application/tutorials/index.phtml, line: 662
 msgid "Phone Number"
 msgstr ""
 #
@@ -11348,7 +11348,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 108
 # File: module/Application/view/application/index/whoarewe.phtml, line: 378
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 331
-# File: module/Application/view/application/index/tutorials.phtml, line: 593
 # File: module/Application/view/application/index/partners.old.phtml, line: 212
 # File: module/Application/view/application/index/partners.phtml, line: 411
 # File: module/Application/view/application/index/products.old.phtml, line: 223
@@ -11361,9 +11360,10 @@ msgstr ""
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 40
 # File: module/Application/view/application/blog/index.phtml, line: 257
 # File: module/Application/view/application/blog/details.phtml, line: 456
-# File: module/Application/view/application/blog/list.phtml, line: 407
+# File: module/Application/view/application/blog/list.phtml, line: 392
 # File: module/Application/view/application/view/index.phtml, line: 888
 # File: module/Application/view/application/faq/index.phtml, line: 281
+# File: module/Application/view/application/tutorials/index.phtml, line: 663
 msgid "Subject"
 msgstr ""
 #
@@ -11374,7 +11374,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
 # File: module/Application/view/application/index/whoarewe.phtml, line: 381
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 329
-# File: module/Application/view/application/index/tutorials.phtml, line: 596
 # File: module/Application/view/application/index/partners.old.phtml, line: 210
 # File: module/Application/view/application/index/partners.phtml, line: 414
 # File: module/Application/view/application/index/products.old.phtml, line: 221
@@ -11384,9 +11383,10 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
 # File: module/Application/view/application/blog/index.phtml, line: 260
 # File: module/Application/view/application/blog/details.phtml, line: 459
-# File: module/Application/view/application/blog/list.phtml, line: 410
+# File: module/Application/view/application/blog/list.phtml, line: 395
 # File: module/Application/view/application/view/index.phtml, line: 891
 # File: module/Application/view/application/faq/index.phtml, line: 284
+# File: module/Application/view/application/tutorials/index.phtml, line: 666
 msgid "Company Type"
 msgstr ""
 #
@@ -11397,7 +11397,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
 # File: module/Application/view/application/index/whoarewe.phtml, line: 382
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 329
-# File: module/Application/view/application/index/tutorials.phtml, line: 597
 # File: module/Application/view/application/index/partners.old.phtml, line: 210
 # File: module/Application/view/application/index/partners.phtml, line: 415
 # File: module/Application/view/application/index/products.old.phtml, line: 221
@@ -11407,9 +11406,10 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
 # File: module/Application/view/application/blog/index.phtml, line: 261
 # File: module/Application/view/application/blog/details.phtml, line: 460
-# File: module/Application/view/application/blog/list.phtml, line: 411
+# File: module/Application/view/application/blog/list.phtml, line: 396
 # File: module/Application/view/application/view/index.phtml, line: 892
 # File: module/Application/view/application/faq/index.phtml, line: 285
+# File: module/Application/view/application/tutorials/index.phtml, line: 667
 msgid "Travel Agency"
 msgstr ""
 #
@@ -11424,8 +11424,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 384
 # File: module/Application/view/application/index/whoarewe.phtml, line: 584
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 329
-# File: module/Application/view/application/index/tutorials.phtml, line: 599
-# File: module/Application/view/application/index/tutorials.phtml, line: 799
 # File: module/Application/view/application/index/partners.old.phtml, line: 210
 # File: module/Application/view/application/index/partners.phtml, line: 417
 # File: module/Application/view/application/index/partners.phtml, line: 627
@@ -11441,10 +11439,12 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 461
 # File: module/Application/view/application/blog/details.phtml, line: 462
 # File: module/Application/view/application/blog/details.phtml, line: 662
-# File: module/Application/view/application/blog/list.phtml, line: 413
-# File: module/Application/view/application/blog/list.phtml, line: 611
+# File: module/Application/view/application/blog/list.phtml, line: 398
+# File: module/Application/view/application/blog/list.phtml, line: 596
 # File: module/Application/view/application/view/index.phtml, line: 894
 # File: module/Application/view/application/faq/index.phtml, line: 287
+# File: module/Application/view/application/tutorials/index.phtml, line: 669
+# File: module/Application/view/application/tutorials/index.phtml, line: 869
 msgid "Freelancer"
 msgstr ""
 #
@@ -11455,7 +11455,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
 # File: module/Application/view/application/index/whoarewe.phtml, line: 385
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 329
-# File: module/Application/view/application/index/tutorials.phtml, line: 600
 # File: module/Application/view/application/index/partners.old.phtml, line: 210
 # File: module/Application/view/application/index/partners.phtml, line: 418
 # File: module/Application/view/application/index/products.old.phtml, line: 221
@@ -11465,9 +11464,10 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
 # File: module/Application/view/application/blog/index.phtml, line: 264
 # File: module/Application/view/application/blog/details.phtml, line: 463
-# File: module/Application/view/application/blog/list.phtml, line: 414
+# File: module/Application/view/application/blog/list.phtml, line: 399
 # File: module/Application/view/application/view/index.phtml, line: 895
 # File: module/Application/view/application/faq/index.phtml, line: 288
+# File: module/Application/view/application/tutorials/index.phtml, line: 670
 msgid "Tour Operator"
 msgstr ""
 #
@@ -11478,7 +11478,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
 # File: module/Application/view/application/index/whoarewe.phtml, line: 386
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 329
-# File: module/Application/view/application/index/tutorials.phtml, line: 601
 # File: module/Application/view/application/index/partners.old.phtml, line: 210
 # File: module/Application/view/application/index/partners.phtml, line: 419
 # File: module/Application/view/application/index/products.old.phtml, line: 221
@@ -11488,9 +11487,10 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
 # File: module/Application/view/application/blog/index.phtml, line: 265
 # File: module/Application/view/application/blog/details.phtml, line: 464
-# File: module/Application/view/application/blog/list.phtml, line: 415
+# File: module/Application/view/application/blog/list.phtml, line: 400
 # File: module/Application/view/application/view/index.phtml, line: 896
 # File: module/Application/view/application/faq/index.phtml, line: 289
+# File: module/Application/view/application/tutorials/index.phtml, line: 671
 msgid "Hotel Chain"
 msgstr ""
 #
@@ -11509,9 +11509,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 408
 # File: module/Application/view/application/index/whoarewe.phtml, line: 635
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 329
-# File: module/Application/view/application/index/tutorials.phtml, line: 602
-# File: module/Application/view/application/index/tutorials.phtml, line: 623
-# File: module/Application/view/application/index/tutorials.phtml, line: 852
 # File: module/Application/view/application/index/partners.old.phtml, line: 210
 # File: module/Application/view/application/index/partners.phtml, line: 420
 # File: module/Application/view/application/index/partners.phtml, line: 441
@@ -11532,12 +11529,15 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 465
 # File: module/Application/view/application/blog/details.phtml, line: 486
 # File: module/Application/view/application/blog/details.phtml, line: 713
-# File: module/Application/view/application/blog/list.phtml, line: 416
-# File: module/Application/view/application/blog/list.phtml, line: 437
+# File: module/Application/view/application/blog/list.phtml, line: 401
+# File: module/Application/view/application/blog/list.phtml, line: 422
 # File: module/Application/view/application/view/index.phtml, line: 897
 # File: module/Application/view/application/view/index.phtml, line: 918
 # File: module/Application/view/application/faq/index.phtml, line: 290
 # File: module/Application/view/application/faq/index.phtml, line: 311
+# File: module/Application/view/application/tutorials/index.phtml, line: 672
+# File: module/Application/view/application/tutorials/index.phtml, line: 693
+# File: module/Application/view/application/tutorials/index.phtml, line: 922
 msgid "Other"
 msgstr ""
 #
@@ -11545,15 +11545,15 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 311
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 297
 # File: module/Application/view/application/index/whoarewe.phtml, line: 392
-# File: module/Application/view/application/index/tutorials.phtml, line: 607
 # File: module/Application/view/application/index/partners.phtml, line: 425
 # File: module/Application/view/application/index/products.phtml, line: 523
 # File: module/Application/view/application/index/activate.phtml, line: 391
 # File: module/Application/view/application/blog/index.phtml, line: 271
 # File: module/Application/view/application/blog/details.phtml, line: 470
-# File: module/Application/view/application/blog/list.phtml, line: 421
+# File: module/Application/view/application/blog/list.phtml, line: 406
 # File: module/Application/view/application/view/index.phtml, line: 902
 # File: module/Application/view/application/faq/index.phtml, line: 295
+# File: module/Application/view/application/tutorials/index.phtml, line: 677
 msgid "Select Country"
 msgstr ""
 #
@@ -11572,8 +11572,6 @@ msgstr ""
 # File: module/Application/view/application/index/presentation.old.phtml, line: 243
 # File: module/Application/view/application/index/whoarewe.phtml, line: 393
 # File: module/Application/view/application/index/whoarewe.phtml, line: 620
-# File: module/Application/view/application/index/tutorials.phtml, line: 608
-# File: module/Application/view/application/index/tutorials.phtml, line: 837
 # File: module/Application/view/application/index/partners.phtml, line: 426
 # File: module/Application/view/application/index/partners.phtml, line: 669
 # File: module/Application/view/application/index/products.phtml, line: 524
@@ -11586,9 +11584,11 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 272
 # File: module/Application/view/application/blog/details.phtml, line: 471
 # File: module/Application/view/application/blog/details.phtml, line: 698
-# File: module/Application/view/application/blog/list.phtml, line: 422
+# File: module/Application/view/application/blog/list.phtml, line: 407
 # File: module/Application/view/application/view/index.phtml, line: 903
 # File: module/Application/view/application/faq/index.phtml, line: 296
+# File: module/Application/view/application/tutorials/index.phtml, line: 678
+# File: module/Application/view/application/tutorials/index.phtml, line: 907
 msgid "United States"
 msgstr ""
 #
@@ -11600,8 +11600,6 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 528
 # File: module/Application/view/application/index/whoarewe.phtml, line: 394
 # File: module/Application/view/application/index/whoarewe.phtml, line: 621
-# File: module/Application/view/application/index/tutorials.phtml, line: 609
-# File: module/Application/view/application/index/tutorials.phtml, line: 838
 # File: module/Application/view/application/index/partners.phtml, line: 427
 # File: module/Application/view/application/index/partners.phtml, line: 670
 # File: module/Application/view/application/index/products.phtml, line: 525
@@ -11613,9 +11611,11 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 273
 # File: module/Application/view/application/blog/details.phtml, line: 472
 # File: module/Application/view/application/blog/details.phtml, line: 699
-# File: module/Application/view/application/blog/list.phtml, line: 423
+# File: module/Application/view/application/blog/list.phtml, line: 408
 # File: module/Application/view/application/view/index.phtml, line: 904
 # File: module/Application/view/application/faq/index.phtml, line: 297
+# File: module/Application/view/application/tutorials/index.phtml, line: 679
+# File: module/Application/view/application/tutorials/index.phtml, line: 908
 msgid "United Kingdom"
 msgstr ""
 #
@@ -11627,8 +11627,6 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 529
 # File: module/Application/view/application/index/whoarewe.phtml, line: 395
 # File: module/Application/view/application/index/whoarewe.phtml, line: 622
-# File: module/Application/view/application/index/tutorials.phtml, line: 610
-# File: module/Application/view/application/index/tutorials.phtml, line: 839
 # File: module/Application/view/application/index/partners.phtml, line: 428
 # File: module/Application/view/application/index/partners.phtml, line: 671
 # File: module/Application/view/application/index/products.phtml, line: 526
@@ -11640,9 +11638,11 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 274
 # File: module/Application/view/application/blog/details.phtml, line: 473
 # File: module/Application/view/application/blog/details.phtml, line: 700
-# File: module/Application/view/application/blog/list.phtml, line: 424
+# File: module/Application/view/application/blog/list.phtml, line: 409
 # File: module/Application/view/application/view/index.phtml, line: 905
 # File: module/Application/view/application/faq/index.phtml, line: 298
+# File: module/Application/view/application/tutorials/index.phtml, line: 680
+# File: module/Application/view/application/tutorials/index.phtml, line: 909
 msgid "Canada"
 msgstr ""
 #
@@ -11654,8 +11654,6 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 530
 # File: module/Application/view/application/index/whoarewe.phtml, line: 396
 # File: module/Application/view/application/index/whoarewe.phtml, line: 623
-# File: module/Application/view/application/index/tutorials.phtml, line: 611
-# File: module/Application/view/application/index/tutorials.phtml, line: 840
 # File: module/Application/view/application/index/partners.phtml, line: 429
 # File: module/Application/view/application/index/partners.phtml, line: 672
 # File: module/Application/view/application/index/products.phtml, line: 527
@@ -11667,9 +11665,11 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 275
 # File: module/Application/view/application/blog/details.phtml, line: 474
 # File: module/Application/view/application/blog/details.phtml, line: 701
-# File: module/Application/view/application/blog/list.phtml, line: 425
+# File: module/Application/view/application/blog/list.phtml, line: 410
 # File: module/Application/view/application/view/index.phtml, line: 906
 # File: module/Application/view/application/faq/index.phtml, line: 299
+# File: module/Application/view/application/tutorials/index.phtml, line: 681
+# File: module/Application/view/application/tutorials/index.phtml, line: 910
 msgid "Australia"
 msgstr ""
 #
@@ -11681,8 +11681,6 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 531
 # File: module/Application/view/application/index/whoarewe.phtml, line: 397
 # File: module/Application/view/application/index/whoarewe.phtml, line: 624
-# File: module/Application/view/application/index/tutorials.phtml, line: 612
-# File: module/Application/view/application/index/tutorials.phtml, line: 841
 # File: module/Application/view/application/index/partners.phtml, line: 430
 # File: module/Application/view/application/index/partners.phtml, line: 673
 # File: module/Application/view/application/index/products.phtml, line: 528
@@ -11694,9 +11692,11 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 276
 # File: module/Application/view/application/blog/details.phtml, line: 475
 # File: module/Application/view/application/blog/details.phtml, line: 702
-# File: module/Application/view/application/blog/list.phtml, line: 426
+# File: module/Application/view/application/blog/list.phtml, line: 411
 # File: module/Application/view/application/view/index.phtml, line: 907
 # File: module/Application/view/application/faq/index.phtml, line: 300
+# File: module/Application/view/application/tutorials/index.phtml, line: 682
+# File: module/Application/view/application/tutorials/index.phtml, line: 911
 msgid "Germany"
 msgstr ""
 #
@@ -11709,8 +11709,6 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 532
 # File: module/Application/view/application/index/whoarewe.phtml, line: 398
 # File: module/Application/view/application/index/whoarewe.phtml, line: 625
-# File: module/Application/view/application/index/tutorials.phtml, line: 613
-# File: module/Application/view/application/index/tutorials.phtml, line: 842
 # File: module/Application/view/application/index/partners.phtml, line: 431
 # File: module/Application/view/application/index/partners.phtml, line: 674
 # File: module/Application/view/application/index/products.phtml, line: 529
@@ -11722,9 +11720,11 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 277
 # File: module/Application/view/application/blog/details.phtml, line: 476
 # File: module/Application/view/application/blog/details.phtml, line: 703
-# File: module/Application/view/application/blog/list.phtml, line: 427
+# File: module/Application/view/application/blog/list.phtml, line: 412
 # File: module/Application/view/application/view/index.phtml, line: 908
 # File: module/Application/view/application/faq/index.phtml, line: 301
+# File: module/Application/view/application/tutorials/index.phtml, line: 683
+# File: module/Application/view/application/tutorials/index.phtml, line: 912
 msgid "France"
 msgstr ""
 #
@@ -11737,8 +11737,6 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 533
 # File: module/Application/view/application/index/whoarewe.phtml, line: 399
 # File: module/Application/view/application/index/whoarewe.phtml, line: 626
-# File: module/Application/view/application/index/tutorials.phtml, line: 614
-# File: module/Application/view/application/index/tutorials.phtml, line: 843
 # File: module/Application/view/application/index/partners.phtml, line: 432
 # File: module/Application/view/application/index/partners.phtml, line: 675
 # File: module/Application/view/application/index/products.phtml, line: 530
@@ -11750,9 +11748,11 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 278
 # File: module/Application/view/application/blog/details.phtml, line: 477
 # File: module/Application/view/application/blog/details.phtml, line: 704
-# File: module/Application/view/application/blog/list.phtml, line: 428
+# File: module/Application/view/application/blog/list.phtml, line: 413
 # File: module/Application/view/application/view/index.phtml, line: 909
 # File: module/Application/view/application/faq/index.phtml, line: 302
+# File: module/Application/view/application/tutorials/index.phtml, line: 684
+# File: module/Application/view/application/tutorials/index.phtml, line: 913
 msgid "Spain"
 msgstr ""
 #
@@ -11765,8 +11765,6 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 534
 # File: module/Application/view/application/index/whoarewe.phtml, line: 400
 # File: module/Application/view/application/index/whoarewe.phtml, line: 627
-# File: module/Application/view/application/index/tutorials.phtml, line: 615
-# File: module/Application/view/application/index/tutorials.phtml, line: 844
 # File: module/Application/view/application/index/partners.phtml, line: 433
 # File: module/Application/view/application/index/partners.phtml, line: 676
 # File: module/Application/view/application/index/products.phtml, line: 531
@@ -11778,9 +11776,11 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 279
 # File: module/Application/view/application/blog/details.phtml, line: 478
 # File: module/Application/view/application/blog/details.phtml, line: 705
-# File: module/Application/view/application/blog/list.phtml, line: 429
+# File: module/Application/view/application/blog/list.phtml, line: 414
 # File: module/Application/view/application/view/index.phtml, line: 910
 # File: module/Application/view/application/faq/index.phtml, line: 303
+# File: module/Application/view/application/tutorials/index.phtml, line: 685
+# File: module/Application/view/application/tutorials/index.phtml, line: 914
 msgid "Italy"
 msgstr ""
 #
@@ -11796,8 +11796,6 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 535
 # File: module/Application/view/application/index/whoarewe.phtml, line: 401
 # File: module/Application/view/application/index/whoarewe.phtml, line: 628
-# File: module/Application/view/application/index/tutorials.phtml, line: 616
-# File: module/Application/view/application/index/tutorials.phtml, line: 845
 # File: module/Application/view/application/index/partners.phtml, line: 434
 # File: module/Application/view/application/index/partners.phtml, line: 677
 # File: module/Application/view/application/index/products.phtml, line: 532
@@ -11809,9 +11807,11 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 280
 # File: module/Application/view/application/blog/details.phtml, line: 479
 # File: module/Application/view/application/blog/details.phtml, line: 706
-# File: module/Application/view/application/blog/list.phtml, line: 430
+# File: module/Application/view/application/blog/list.phtml, line: 415
 # File: module/Application/view/application/view/index.phtml, line: 911
 # File: module/Application/view/application/faq/index.phtml, line: 304
+# File: module/Application/view/application/tutorials/index.phtml, line: 686
+# File: module/Application/view/application/tutorials/index.phtml, line: 915
 msgid "Peru"
 msgstr ""
 #
@@ -11823,8 +11823,6 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 536
 # File: module/Application/view/application/index/whoarewe.phtml, line: 402
 # File: module/Application/view/application/index/whoarewe.phtml, line: 629
-# File: module/Application/view/application/index/tutorials.phtml, line: 617
-# File: module/Application/view/application/index/tutorials.phtml, line: 846
 # File: module/Application/view/application/index/partners.phtml, line: 435
 # File: module/Application/view/application/index/partners.phtml, line: 678
 # File: module/Application/view/application/index/products.phtml, line: 533
@@ -11836,9 +11834,11 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 281
 # File: module/Application/view/application/blog/details.phtml, line: 480
 # File: module/Application/view/application/blog/details.phtml, line: 707
-# File: module/Application/view/application/blog/list.phtml, line: 431
+# File: module/Application/view/application/blog/list.phtml, line: 416
 # File: module/Application/view/application/view/index.phtml, line: 912
 # File: module/Application/view/application/faq/index.phtml, line: 305
+# File: module/Application/view/application/tutorials/index.phtml, line: 687
+# File: module/Application/view/application/tutorials/index.phtml, line: 916
 msgid "Argentina"
 msgstr ""
 #
@@ -11850,8 +11850,6 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 537
 # File: module/Application/view/application/index/whoarewe.phtml, line: 403
 # File: module/Application/view/application/index/whoarewe.phtml, line: 630
-# File: module/Application/view/application/index/tutorials.phtml, line: 618
-# File: module/Application/view/application/index/tutorials.phtml, line: 847
 # File: module/Application/view/application/index/partners.phtml, line: 436
 # File: module/Application/view/application/index/partners.phtml, line: 679
 # File: module/Application/view/application/index/products.phtml, line: 534
@@ -11863,9 +11861,11 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 282
 # File: module/Application/view/application/blog/details.phtml, line: 481
 # File: module/Application/view/application/blog/details.phtml, line: 708
-# File: module/Application/view/application/blog/list.phtml, line: 432
+# File: module/Application/view/application/blog/list.phtml, line: 417
 # File: module/Application/view/application/view/index.phtml, line: 913
 # File: module/Application/view/application/faq/index.phtml, line: 306
+# File: module/Application/view/application/tutorials/index.phtml, line: 688
+# File: module/Application/view/application/tutorials/index.phtml, line: 917
 msgid "Chile"
 msgstr ""
 #
@@ -11879,8 +11879,6 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 538
 # File: module/Application/view/application/index/whoarewe.phtml, line: 404
 # File: module/Application/view/application/index/whoarewe.phtml, line: 631
-# File: module/Application/view/application/index/tutorials.phtml, line: 619
-# File: module/Application/view/application/index/tutorials.phtml, line: 848
 # File: module/Application/view/application/index/partners.phtml, line: 437
 # File: module/Application/view/application/index/partners.phtml, line: 680
 # File: module/Application/view/application/index/products.phtml, line: 535
@@ -11893,9 +11891,11 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 283
 # File: module/Application/view/application/blog/details.phtml, line: 482
 # File: module/Application/view/application/blog/details.phtml, line: 709
-# File: module/Application/view/application/blog/list.phtml, line: 433
+# File: module/Application/view/application/blog/list.phtml, line: 418
 # File: module/Application/view/application/view/index.phtml, line: 914
 # File: module/Application/view/application/faq/index.phtml, line: 307
+# File: module/Application/view/application/tutorials/index.phtml, line: 689
+# File: module/Application/view/application/tutorials/index.phtml, line: 918
 msgid "Colombia"
 msgstr ""
 #
@@ -11907,8 +11907,6 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 539
 # File: module/Application/view/application/index/whoarewe.phtml, line: 405
 # File: module/Application/view/application/index/whoarewe.phtml, line: 632
-# File: module/Application/view/application/index/tutorials.phtml, line: 620
-# File: module/Application/view/application/index/tutorials.phtml, line: 849
 # File: module/Application/view/application/index/partners.phtml, line: 438
 # File: module/Application/view/application/index/partners.phtml, line: 681
 # File: module/Application/view/application/index/products.phtml, line: 536
@@ -11920,9 +11918,11 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 284
 # File: module/Application/view/application/blog/details.phtml, line: 483
 # File: module/Application/view/application/blog/details.phtml, line: 710
-# File: module/Application/view/application/blog/list.phtml, line: 434
+# File: module/Application/view/application/blog/list.phtml, line: 419
 # File: module/Application/view/application/view/index.phtml, line: 915
 # File: module/Application/view/application/faq/index.phtml, line: 308
+# File: module/Application/view/application/tutorials/index.phtml, line: 690
+# File: module/Application/view/application/tutorials/index.phtml, line: 919
 msgid "Brazil"
 msgstr ""
 #
@@ -11935,8 +11935,6 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 540
 # File: module/Application/view/application/index/whoarewe.phtml, line: 406
 # File: module/Application/view/application/index/whoarewe.phtml, line: 633
-# File: module/Application/view/application/index/tutorials.phtml, line: 621
-# File: module/Application/view/application/index/tutorials.phtml, line: 850
 # File: module/Application/view/application/index/partners.phtml, line: 439
 # File: module/Application/view/application/index/partners.phtml, line: 682
 # File: module/Application/view/application/index/products.phtml, line: 537
@@ -11949,9 +11947,11 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 285
 # File: module/Application/view/application/blog/details.phtml, line: 484
 # File: module/Application/view/application/blog/details.phtml, line: 711
-# File: module/Application/view/application/blog/list.phtml, line: 435
+# File: module/Application/view/application/blog/list.phtml, line: 420
 # File: module/Application/view/application/view/index.phtml, line: 916
 # File: module/Application/view/application/faq/index.phtml, line: 309
+# File: module/Application/view/application/tutorials/index.phtml, line: 691
+# File: module/Application/view/application/tutorials/index.phtml, line: 920
 msgid "Dominican Republic"
 msgstr ""
 #
@@ -11963,8 +11963,6 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 541
 # File: module/Application/view/application/index/whoarewe.phtml, line: 407
 # File: module/Application/view/application/index/whoarewe.phtml, line: 634
-# File: module/Application/view/application/index/tutorials.phtml, line: 622
-# File: module/Application/view/application/index/tutorials.phtml, line: 851
 # File: module/Application/view/application/index/partners.phtml, line: 440
 # File: module/Application/view/application/index/partners.phtml, line: 683
 # File: module/Application/view/application/index/products.phtml, line: 538
@@ -11976,9 +11974,11 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 286
 # File: module/Application/view/application/blog/details.phtml, line: 485
 # File: module/Application/view/application/blog/details.phtml, line: 712
-# File: module/Application/view/application/blog/list.phtml, line: 436
+# File: module/Application/view/application/blog/list.phtml, line: 421
 # File: module/Application/view/application/view/index.phtml, line: 917
 # File: module/Application/view/application/faq/index.phtml, line: 310
+# File: module/Application/view/application/tutorials/index.phtml, line: 692
+# File: module/Application/view/application/tutorials/index.phtml, line: 921
 msgid "Portugal"
 msgstr ""
 #
@@ -11986,15 +11986,15 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 330
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 316
 # File: module/Application/view/application/index/whoarewe.phtml, line: 411
-# File: module/Application/view/application/index/tutorials.phtml, line: 626
 # File: module/Application/view/application/index/partners.phtml, line: 444
 # File: module/Application/view/application/index/products.phtml, line: 542
 # File: module/Application/view/application/index/activate.phtml, line: 410
 # File: module/Application/view/application/blog/index.phtml, line: 290
 # File: module/Application/view/application/blog/details.phtml, line: 489
-# File: module/Application/view/application/blog/list.phtml, line: 440
+# File: module/Application/view/application/blog/list.phtml, line: 425
 # File: module/Application/view/application/view/index.phtml, line: 921
 # File: module/Application/view/application/faq/index.phtml, line: 314
+# File: module/Application/view/application/tutorials/index.phtml, line: 696
 msgid "Your Message"
 msgstr ""
 #
@@ -12002,15 +12002,15 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 331
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 317
 # File: module/Application/view/application/index/whoarewe.phtml, line: 412
-# File: module/Application/view/application/index/tutorials.phtml, line: 627
 # File: module/Application/view/application/index/partners.phtml, line: 445
 # File: module/Application/view/application/index/products.phtml, line: 543
 # File: module/Application/view/application/index/activate.phtml, line: 411
 # File: module/Application/view/application/blog/index.phtml, line: 291
 # File: module/Application/view/application/blog/details.phtml, line: 490
-# File: module/Application/view/application/blog/list.phtml, line: 441
+# File: module/Application/view/application/blog/list.phtml, line: 426
 # File: module/Application/view/application/view/index.phtml, line: 922
 # File: module/Application/view/application/faq/index.phtml, line: 315
+# File: module/Application/view/application/tutorials/index.phtml, line: 697
 msgid "Thank you for reaching out. Your message has been successfully sent, and our team will get back to you shortly."
 msgstr ""
 #
@@ -12018,16 +12018,16 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 333
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 319
 # File: module/Application/view/application/index/whoarewe.phtml, line: 414
-# File: module/Application/view/application/index/tutorials.phtml, line: 629
 # File: module/Application/view/application/index/partners.phtml, line: 447
 # File: module/Application/view/application/index/products.phtml, line: 545
 # File: module/Application/view/application/index/activate.phtml, line: 413
 # File: module/Application/view/application/blog/index.phtml, line: 293
 # File: module/Application/view/application/blog/details.phtml, line: 339
 # File: module/Application/view/application/blog/details.phtml, line: 492
-# File: module/Application/view/application/blog/list.phtml, line: 443
+# File: module/Application/view/application/blog/list.phtml, line: 428
 # File: module/Application/view/application/view/index.phtml, line: 924
 # File: module/Application/view/application/faq/index.phtml, line: 317
+# File: module/Application/view/application/tutorials/index.phtml, line: 699
 msgid "Send Message"
 msgstr ""
 #
@@ -12035,16 +12035,16 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 350
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 335
 # File: module/Application/view/application/index/whoarewe.phtml, line: 430
-# File: module/Application/view/application/index/tutorials.phtml, line: 645
 # File: module/Application/view/application/index/partners.phtml, line: 464
 # File: module/Application/view/application/index/products.phtml, line: 561
 # File: module/Application/view/application/index/prices.phtml, line: 581
 # File: module/Application/view/application/index/activate.phtml, line: 430
 # File: module/Application/view/application/blog/index.phtml, line: 309
 # File: module/Application/view/application/blog/details.phtml, line: 508
-# File: module/Application/view/application/blog/list.phtml, line: 459
+# File: module/Application/view/application/blog/list.phtml, line: 444
 # File: module/Application/view/application/view/index.phtml, line: 940
 # File: module/Application/view/application/faq/index.phtml, line: 333
+# File: module/Application/view/application/tutorials/index.phtml, line: 715
 msgid "get updated the latest newsletter"
 msgstr ""
 #
@@ -12052,15 +12052,15 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 352
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 337
 # File: module/Application/view/application/index/whoarewe.phtml, line: 432
-# File: module/Application/view/application/index/tutorials.phtml, line: 647
 # File: module/Application/view/application/index/partners.phtml, line: 466
 # File: module/Application/view/application/index/products.phtml, line: 563
 # File: module/Application/view/application/index/activate.phtml, line: 432
 # File: module/Application/view/application/blog/index.phtml, line: 311
 # File: module/Application/view/application/blog/details.phtml, line: 510
-# File: module/Application/view/application/blog/list.phtml, line: 461
+# File: module/Application/view/application/blog/list.phtml, line: 446
 # File: module/Application/view/application/view/index.phtml, line: 942
 # File: module/Application/view/application/faq/index.phtml, line: 335
+# File: module/Application/view/application/tutorials/index.phtml, line: 717
 msgid "You’re already subscribed to our newsletter!"
 msgstr ""
 #
@@ -12068,15 +12068,15 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 353
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 338
 # File: module/Application/view/application/index/whoarewe.phtml, line: 433
-# File: module/Application/view/application/index/tutorials.phtml, line: 648
 # File: module/Application/view/application/index/partners.phtml, line: 467
 # File: module/Application/view/application/index/products.phtml, line: 564
 # File: module/Application/view/application/index/activate.phtml, line: 433
 # File: module/Application/view/application/blog/index.phtml, line: 312
 # File: module/Application/view/application/blog/details.phtml, line: 511
-# File: module/Application/view/application/blog/list.phtml, line: 462
+# File: module/Application/view/application/blog/list.phtml, line: 447
 # File: module/Application/view/application/view/index.phtml, line: 943
 # File: module/Application/view/application/faq/index.phtml, line: 336
+# File: module/Application/view/application/tutorials/index.phtml, line: 718
 msgid "The email address you entered is invalid. Please check it and try again to subscribe to our newsletter!"
 msgstr ""
 #
@@ -12084,15 +12084,15 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 354
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 339
 # File: module/Application/view/application/index/whoarewe.phtml, line: 434
-# File: module/Application/view/application/index/tutorials.phtml, line: 649
 # File: module/Application/view/application/index/partners.phtml, line: 468
 # File: module/Application/view/application/index/products.phtml, line: 565
 # File: module/Application/view/application/index/activate.phtml, line: 434
 # File: module/Application/view/application/blog/index.phtml, line: 313
 # File: module/Application/view/application/blog/details.phtml, line: 512
-# File: module/Application/view/application/blog/list.phtml, line: 463
+# File: module/Application/view/application/blog/list.phtml, line: 448
 # File: module/Application/view/application/view/index.phtml, line: 944
 # File: module/Application/view/application/faq/index.phtml, line: 337
+# File: module/Application/view/application/tutorials/index.phtml, line: 719
 msgid "An unexpected error occurred. Please try again later!"
 msgstr ""
 #
@@ -12100,15 +12100,15 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 355
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 340
 # File: module/Application/view/application/index/whoarewe.phtml, line: 435
-# File: module/Application/view/application/index/tutorials.phtml, line: 650
 # File: module/Application/view/application/index/partners.phtml, line: 469
 # File: module/Application/view/application/index/products.phtml, line: 566
 # File: module/Application/view/application/index/activate.phtml, line: 435
 # File: module/Application/view/application/blog/index.phtml, line: 314
 # File: module/Application/view/application/blog/details.phtml, line: 513
-# File: module/Application/view/application/blog/list.phtml, line: 464
+# File: module/Application/view/application/blog/list.phtml, line: 449
 # File: module/Application/view/application/view/index.phtml, line: 945
 # File: module/Application/view/application/faq/index.phtml, line: 338
+# File: module/Application/view/application/tutorials/index.phtml, line: 720
 msgid "We couldn’t confirm your subscription request. Please try again."
 msgstr ""
 #
@@ -12116,15 +12116,15 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 356
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 341
 # File: module/Application/view/application/index/whoarewe.phtml, line: 436
-# File: module/Application/view/application/index/tutorials.phtml, line: 651
 # File: module/Application/view/application/index/partners.phtml, line: 470
 # File: module/Application/view/application/index/products.phtml, line: 567
 # File: module/Application/view/application/index/activate.phtml, line: 436
 # File: module/Application/view/application/blog/index.phtml, line: 315
 # File: module/Application/view/application/blog/details.phtml, line: 514
-# File: module/Application/view/application/blog/list.phtml, line: 465
+# File: module/Application/view/application/blog/list.phtml, line: 450
 # File: module/Application/view/application/view/index.phtml, line: 946
 # File: module/Application/view/application/faq/index.phtml, line: 339
+# File: module/Application/view/application/tutorials/index.phtml, line: 721
 msgid "Subscription successful! You’ve been added to our newsletter list!"
 msgstr ""
 #
@@ -12132,16 +12132,16 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 359
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 344
 # File: module/Application/view/application/index/whoarewe.phtml, line: 439
-# File: module/Application/view/application/index/tutorials.phtml, line: 654
 # File: module/Application/view/application/index/partners.phtml, line: 473
 # File: module/Application/view/application/index/products.phtml, line: 570
 # File: module/Application/view/application/index/prices.phtml, line: 587
 # File: module/Application/view/application/index/activate.phtml, line: 439
 # File: module/Application/view/application/blog/index.phtml, line: 318
 # File: module/Application/view/application/blog/details.phtml, line: 517
-# File: module/Application/view/application/blog/list.phtml, line: 468
+# File: module/Application/view/application/blog/list.phtml, line: 453
 # File: module/Application/view/application/view/index.phtml, line: 949
 # File: module/Application/view/application/faq/index.phtml, line: 342
+# File: module/Application/view/application/tutorials/index.phtml, line: 724
 msgid "Enter Email"
 msgstr ""
 #
@@ -12149,16 +12149,16 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 360
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 345
 # File: module/Application/view/application/index/whoarewe.phtml, line: 440
-# File: module/Application/view/application/index/tutorials.phtml, line: 655
 # File: module/Application/view/application/index/partners.phtml, line: 474
 # File: module/Application/view/application/index/products.phtml, line: 571
 # File: module/Application/view/application/index/prices.phtml, line: 588
 # File: module/Application/view/application/index/activate.phtml, line: 440
 # File: module/Application/view/application/blog/index.phtml, line: 319
 # File: module/Application/view/application/blog/details.phtml, line: 518
-# File: module/Application/view/application/blog/list.phtml, line: 469
+# File: module/Application/view/application/blog/list.phtml, line: 454
 # File: module/Application/view/application/view/index.phtml, line: 950
 # File: module/Application/view/application/faq/index.phtml, line: 343
+# File: module/Application/view/application/tutorials/index.phtml, line: 725
 msgid "Subscribe Now"
 msgstr ""
 #
@@ -12166,15 +12166,15 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 373
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 358
 # File: module/Application/view/application/index/whoarewe.phtml, line: 453
-# File: module/Application/view/application/index/tutorials.phtml, line: 668
 # File: module/Application/view/application/index/partners.phtml, line: 487
 # File: module/Application/view/application/index/products.phtml, line: 584
 # File: module/Application/view/application/index/prices.phtml, line: 601
 # File: module/Application/view/application/index/activate.phtml, line: 453
 # File: module/Application/view/application/blog/index.phtml, line: 332
 # File: module/Application/view/application/blog/details.phtml, line: 531
-# File: module/Application/view/application/blog/list.phtml, line: 482
+# File: module/Application/view/application/blog/list.phtml, line: 467
 # File: module/Application/view/application/faq/index.phtml, line: 356
+# File: module/Application/view/application/tutorials/index.phtml, line: 738
 msgid "Your trusted platform for seamless online bookings and effortless scheduling!"
 msgstr ""
 #
@@ -12182,13 +12182,13 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 386
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 371
 # File: module/Application/view/application/index/whoarewe.phtml, line: 466
-# File: module/Application/view/application/index/tutorials.phtml, line: 681
 # File: module/Application/view/application/index/partners.phtml, line: 500
 # File: module/Application/view/application/index/products.phtml, line: 597
 # File: module/Application/view/application/index/activate.phtml, line: 466
 # File: module/Application/view/application/blog/index.phtml, line: 345
 # File: module/Application/view/application/blog/details.phtml, line: 544
-# File: module/Application/view/application/blog/list.phtml, line: 495
+# File: module/Application/view/application/blog/list.phtml, line: 480
+# File: module/Application/view/application/tutorials/index.phtml, line: 751
 msgid "Useful Link"
 msgstr ""
 #
@@ -12196,29 +12196,29 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 400
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 385
 # File: module/Application/view/application/index/whoarewe.phtml, line: 480
-# File: module/Application/view/application/index/tutorials.phtml, line: 695
 # File: module/Application/view/application/index/partners.phtml, line: 514
 # File: module/Application/view/application/index/products.phtml, line: 611
 # File: module/Application/view/application/index/prices.phtml, line: 628
 # File: module/Application/view/application/index/activate.phtml, line: 480
 # File: module/Application/view/application/blog/index.phtml, line: 359
 # File: module/Application/view/application/blog/details.phtml, line: 558
-# File: module/Application/view/application/blog/list.phtml, line: 509
+# File: module/Application/view/application/blog/list.phtml, line: 494
 # File: module/Application/view/application/view/index.phtml, line: 991
+# File: module/Application/view/application/tutorials/index.phtml, line: 765
 msgid "Get In Touch"
 msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 1920
 # File: module/Application/view/application/index/whoarewe.phtml, line: 510
-# File: module/Application/view/application/index/tutorials.phtml, line: 725
 # File: module/Application/view/application/index/partners.phtml, line: 544
 # File: module/Application/view/application/index/products.phtml, line: 641
 # File: module/Application/view/application/index/prices.phtml, line: 658
 # File: module/Application/view/application/blog/index.phtml, line: 387
 # File: module/Application/view/application/blog/details.phtml, line: 588
-# File: module/Application/view/application/blog/list.phtml, line: 537
+# File: module/Application/view/application/blog/list.phtml, line: 522
 # File: module/Application/view/application/view/index.phtml, line: 1021
 # File: module/Application/view/application/faq/index.phtml, line: 413
+# File: module/Application/view/application/tutorials/index.phtml, line: 795
 msgid "Instagram Post"
 msgstr ""
 #
@@ -12226,15 +12226,15 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 467
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 452
 # File: module/Application/view/application/index/whoarewe.phtml, line: 546
-# File: module/Application/view/application/index/tutorials.phtml, line: 761
 # File: module/Application/view/application/index/partners.phtml, line: 580
 # File: module/Application/view/application/index/products.phtml, line: 683
 # File: module/Application/view/application/index/prices.phtml, line: 694
 # File: module/Application/view/application/index/activate.phtml, line: 546
 # File: module/Application/view/application/blog/index.phtml, line: 423
 # File: module/Application/view/application/blog/details.phtml, line: 624
-# File: module/Application/view/application/blog/list.phtml, line: 573
+# File: module/Application/view/application/blog/list.phtml, line: 558
 # File: module/Application/view/application/faq/index.phtml, line: 449
+# File: module/Application/view/application/tutorials/index.phtml, line: 831
 msgid "All Rights Reserved."
 msgstr ""
 #
@@ -12242,16 +12242,16 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 473
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 458
 # File: module/Application/view/application/index/whoarewe.phtml, line: 552
-# File: module/Application/view/application/index/tutorials.phtml, line: 767
 # File: module/Application/view/application/index/partners.phtml, line: 586
 # File: module/Application/view/application/index/products.phtml, line: 689
 # File: module/Application/view/application/index/prices.phtml, line: 700
 # File: module/Application/view/application/index/activate.phtml, line: 552
 # File: module/Application/view/application/blog/index.phtml, line: 429
 # File: module/Application/view/application/blog/details.phtml, line: 630
-# File: module/Application/view/application/blog/list.phtml, line: 579
+# File: module/Application/view/application/blog/list.phtml, line: 564
 # File: module/Application/view/application/view/index.phtml, line: 1063
 # File: module/Application/view/application/faq/index.phtml, line: 455
+# File: module/Application/view/application/tutorials/index.phtml, line: 837
 msgid "Careers"
 msgstr ""
 #
@@ -12263,7 +12263,6 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 141
 # File: module/Application/view/application/index/whoarewe.phtml, line: 553
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 362
-# File: module/Application/view/application/index/tutorials.phtml, line: 768
 # File: module/Application/view/application/index/partners.old.phtml, line: 243
 # File: module/Application/view/application/index/partners.phtml, line: 587
 # File: module/Application/view/application/index/products.old.phtml, line: 254
@@ -12274,9 +12273,10 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 173
 # File: module/Application/view/application/blog/index.phtml, line: 430
 # File: module/Application/view/application/blog/details.phtml, line: 631
-# File: module/Application/view/application/blog/list.phtml, line: 580
+# File: module/Application/view/application/blog/list.phtml, line: 565
 # File: module/Application/view/application/view/index.phtml, line: 1064
 # File: module/Application/view/application/faq/index.phtml, line: 456
+# File: module/Application/view/application/tutorials/index.phtml, line: 838
 msgid "Privacy Policy"
 msgstr ""
 #
@@ -12284,14 +12284,14 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 498
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 483
 # File: module/Application/view/application/index/whoarewe.phtml, line: 576
-# File: module/Application/view/application/index/tutorials.phtml, line: 791
 # File: module/Application/view/application/index/partners.phtml, line: 616
 # File: module/Application/view/application/index/products.phtml, line: 717
 # File: module/Application/view/application/index/prices.phtml, line: 726
 # File: module/Application/view/application/index/activate.phtml, line: 577
 # File: module/Application/view/application/blog/index.phtml, line: 453
 # File: module/Application/view/application/blog/details.phtml, line: 654
-# File: module/Application/view/application/blog/list.phtml, line: 603
+# File: module/Application/view/application/blog/list.phtml, line: 588
+# File: module/Application/view/application/tutorials/index.phtml, line: 861
 msgid "Register"
 msgstr ""
 #
@@ -12299,14 +12299,14 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 500
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 485
 # File: module/Application/view/application/index/whoarewe.phtml, line: 578
-# File: module/Application/view/application/index/tutorials.phtml, line: 793
 # File: module/Application/view/application/index/partners.phtml, line: 618
 # File: module/Application/view/application/index/products.phtml, line: 719
 # File: module/Application/view/application/index/prices.phtml, line: 728
 # File: module/Application/view/application/index/activate.phtml, line: 579
 # File: module/Application/view/application/blog/index.phtml, line: 455
 # File: module/Application/view/application/blog/details.phtml, line: 656
-# File: module/Application/view/application/blog/list.phtml, line: 605
+# File: module/Application/view/application/blog/list.phtml, line: 590
+# File: module/Application/view/application/tutorials/index.phtml, line: 863
 msgid "I want to join as"
 msgstr ""
 #
@@ -12314,14 +12314,14 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 513
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 498
 # File: module/Application/view/application/index/whoarewe.phtml, line: 591
-# File: module/Application/view/application/index/tutorials.phtml, line: 806
 # File: module/Application/view/application/index/partners.phtml, line: 637
 # File: module/Application/view/application/index/products.phtml, line: 737
 # File: module/Application/view/application/index/prices.phtml, line: 743
 # File: module/Application/view/application/index/activate.phtml, line: 592
 # File: module/Application/view/application/blog/index.phtml, line: 469
 # File: module/Application/view/application/blog/details.phtml, line: 669
-# File: module/Application/view/application/blog/list.phtml, line: 618
+# File: module/Application/view/application/blog/list.phtml, line: 603
+# File: module/Application/view/application/tutorials/index.phtml, line: 876
 msgid "Travel Agent or Agency"
 msgstr ""
 #
@@ -12330,13 +12330,13 @@ msgstr ""
 # File: module/Application/view/application/index/presentation.old.phtml, line: 311
 # File: module/Application/view/application/index/whoarewe.phtml, line: 641
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 416
-# File: module/Application/view/application/index/tutorials.phtml, line: 858
 # File: module/Application/view/application/index/partners.old.phtml, line: 297
 # File: module/Application/view/application/index/partners.phtml, line: 690
 # File: module/Application/view/application/index/products.old.phtml, line: 306
 # File: module/Application/view/application/index/products.phtml, line: 789
 # File: module/Application/view/application/index/prices.phtml, line: 794
 # File: module/Application/view/application/index/activate.phtml, line: 641
+# File: module/Application/view/application/tutorials/index.phtml, line: 928
 msgid "Agency Name"
 msgstr ""
 #
@@ -12344,16 +12344,16 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 586
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 569
 # File: module/Application/view/application/index/whoarewe.phtml, line: 663
-# File: module/Application/view/application/index/tutorials.phtml, line: 879
 # File: module/Application/view/application/index/partners.phtml, line: 713
 # File: module/Application/view/application/index/products.phtml, line: 811
 # File: module/Application/view/application/index/prices.phtml, line: 815
 # File: module/Application/view/application/index/activate.phtml, line: 662
 # File: module/Application/view/application/blog/index.phtml, line: 537
 # File: module/Application/view/application/blog/details.phtml, line: 741
-# File: module/Application/view/application/blog/list.phtml, line: 684
+# File: module/Application/view/application/blog/list.phtml, line: 669
 # File: module/Application/view/application/view/index.phtml, line: 1172
 # File: module/Application/view/application/faq/index.phtml, line: 564
+# File: module/Application/view/application/tutorials/index.phtml, line: 949
 msgid "Sign Up"
 msgstr ""
 #
@@ -12363,7 +12363,6 @@ msgstr ""
 # File: module/Application/view/application/index/presentation.old.phtml, line: 69
 # File: module/Application/view/application/index/whoarewe.phtml, line: 666
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 397
-# File: module/Application/view/application/index/tutorials.phtml, line: 882
 # File: module/Application/view/application/index/partners.old.phtml, line: 278
 # File: module/Application/view/application/index/partners.phtml, line: 716
 # File: module/Application/view/application/index/products.old.phtml, line: 287
@@ -12372,9 +12371,10 @@ msgstr ""
 # File: module/Application/view/application/index/activate.phtml, line: 665
 # File: module/Application/view/application/blog/index.phtml, line: 540
 # File: module/Application/view/application/blog/details.phtml, line: 744
-# File: module/Application/view/application/blog/list.phtml, line: 687
+# File: module/Application/view/application/blog/list.phtml, line: 672
 # File: module/Application/view/application/view/index.phtml, line: 1175
 # File: module/Application/view/application/faq/index.phtml, line: 567
+# File: module/Application/view/application/tutorials/index.phtml, line: 952
 msgid "Already a Member?"
 msgstr ""
 #
@@ -14907,18 +14907,6 @@ msgstr ""
 msgid "View Products"
 msgstr ""
 #
-# File: module/Application/view/application/index/tutorials.phtml, line: 6
-msgid "Click And Book | Easy, Fast, and Reliable Travel Booking - Tutorials?"
-msgstr ""
-#
-# File: module/Application/view/application/index/tutorials.phtml, line: 216
-msgid "The map below displays our customers by zip code, country, city, or name."
-msgstr ""
-#
-# File: module/Application/view/application/index/tutorials.phtml, line: 232
-msgid "Filter"
-msgstr ""
-#
 # File: module/Application/view/application/index/partners.phtml, line: 6
 msgid "Click and Book | Easy, Fast & Reliable Travel Booking Engine for Flights, Hotels & Activities"
 msgstr ""
@@ -17247,7 +17235,7 @@ msgstr ""
 #
 # File: module/Application/view/application/blog/index.phtml, line: 423
 # File: module/Application/view/application/blog/details.phtml, line: 624
-# File: module/Application/view/application/blog/list.phtml, line: 573
+# File: module/Application/view/application/blog/list.phtml, line: 558
 # File: module/Application/view/application/view/index.phtml, line: 1057
 # File: module/Application/view/application/faq/index.phtml, line: 449
 msgid "Copyright"
@@ -17358,6 +17346,18 @@ msgstr ""
 #
 # File: module/Application/view/application/faq/index.phtml, line: 206
 msgid "Ask Question Now"
+msgstr ""
+#
+# File: module/Application/view/application/tutorials/index.phtml, line: 6
+msgid "Click And Book | Easy, Fast, and Reliable Travel Booking - Tutorials?"
+msgstr ""
+#
+# File: module/Application/view/application/tutorials/index.phtml, line: 204
+msgid "The map below displays our customers by zip code, country, city, or name."
+msgstr ""
+#
+# File: module/Application/view/application/tutorials/index.phtml, line: 220
+msgid "Filter"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 62
