@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-02 09:18-0500\n"
+"POT-Creation-Date: 2026-03-03 02:41-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3914,8 +3914,8 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/generalsettings.phtml, line: 78
 # File: module/Application/view/application/activities/paymentsettings.phtml, line: 47
-# File: module/Application/view/application/agents/edit.phtml, line: 703
-# File: module/Application/view/application/agents/new.phtml, line: 52
+# File: module/Application/view/application/agents/edit.phtml, line: 706
+# File: module/Application/view/application/agents/new.phtml, line: 59
 # File: module/Application/view/application/cars/generalsettings.phtml, line: 78
 # File: module/Application/view/application/cars/paymentsettings.phtml, line: 47
 # File: module/Application/view/application/cms/editpage.phtml, line: 100
@@ -3925,7 +3925,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 38
 # File: module/Application/view/application/cruises/settings.phtml, line: 85
 # File: module/Application/view/application/customers/addpoints.phtml, line: 29
-# File: module/Application/view/application/customers/edit.phtml, line: 62
+# File: module/Application/view/application/customers/edit.phtml, line: 64
 # File: module/Application/view/application/customers/editsupport.phtml, line: 74
 # File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 82
 # File: module/Application/view/application/customers/editwhitelist.phtml, line: 32
@@ -4027,8 +4027,8 @@ msgstr ""
 # File: module/Application/view/application/activities/generalsettings.phtml, line: 102
 # File: module/Application/view/application/activities/paymentsettings.phtml, line: 71
 # File: module/Application/view/application/activities/settings.phtml, line: 78
-# File: module/Application/view/application/agents/edit.phtml, line: 777
-# File: module/Application/view/application/agents/new.phtml, line: 112
+# File: module/Application/view/application/agents/edit.phtml, line: 780
+# File: module/Application/view/application/agents/new.phtml, line: 119
 # File: module/Application/view/application/cars/generalsettings.phtml, line: 102
 # File: module/Application/view/application/cars/paymentsettings.phtml, line: 71
 # File: module/Application/view/application/cars/settings.phtml, line: 78
@@ -4039,7 +4039,7 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 185
 # File: module/Application/view/application/cruises/settings.phtml, line: 109
 # File: module/Application/view/application/customers/addpoints.phtml, line: 69
-# File: module/Application/view/application/customers/edit.phtml, line: 105
+# File: module/Application/view/application/customers/edit.phtml, line: 107
 # File: module/Application/view/application/customers/editsupport.phtml, line: 116
 # File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 137
 # File: module/Application/view/application/customers/editwhitelist.phtml, line: 74
@@ -6294,98 +6294,98 @@ msgstr ""
 msgid "Packages Markup Settings"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 549
-# File: module/Application/view/application/agents/new.phtml, line: 42
+# File: module/Application/view/application/agents/edit.phtml, line: 551
+# File: module/Application/view/application/agents/new.phtml, line: 43
 msgid "Enable Price Comparison"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 557
-# File: module/Application/view/application/agents/new.phtml, line: 46
+# File: module/Application/view/application/agents/edit.phtml, line: 560
+# File: module/Application/view/application/agents/new.phtml, line: 53
 msgid "Restrict Sub-Agent Creation"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 558
-# File: module/Application/view/application/agents/new.phtml, line: 47
+# File: module/Application/view/application/agents/edit.phtml, line: 561
+# File: module/Application/view/application/agents/new.phtml, line: 54
 msgid "When this checkbox is enabled, it will signify that the agent being created is restricted from creating sub-agents."
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 567
+# File: module/Application/view/application/agents/edit.phtml, line: 570
 msgid "Hotel Booking Lead Time"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 574
+# File: module/Application/view/application/agents/edit.phtml, line: 577
 msgid "Air Booking Lead Time"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 601
+# File: module/Application/view/application/agents/edit.phtml, line: 604
 msgid "Components"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 602
+# File: module/Application/view/application/agents/edit.phtml, line: 605
 msgid "Please use the checkboxes below to enable or disable website components according to your preferences."
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 613
+# File: module/Application/view/application/agents/edit.phtml, line: 616
 # File: module/Application/view/application/index/settings.phtml, line: 120
 msgid "Disable Hotels"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 620
+# File: module/Application/view/application/agents/edit.phtml, line: 623
 # File: module/Application/view/application/index/settings.phtml, line: 128
 msgid "Disable Flights"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 627
+# File: module/Application/view/application/agents/edit.phtml, line: 630
 # File: module/Application/view/application/index/settings.phtml, line: 136
 msgid "Disable Activities"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 634
+# File: module/Application/view/application/agents/edit.phtml, line: 637
 # File: module/Application/view/application/index/settings.phtml, line: 144
 msgid "Disable Packages"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 641
+# File: module/Application/view/application/agents/edit.phtml, line: 644
 # File: module/Application/view/application/index/settings.phtml, line: 152
 msgid "Disable Transfers"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 648
+# File: module/Application/view/application/agents/edit.phtml, line: 651
 # File: module/Application/view/application/index/settings.phtml, line: 160
 msgid "Disable Trip Planner"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 655
+# File: module/Application/view/application/agents/edit.phtml, line: 658
 # File: module/Application/view/application/index/settings.phtml, line: 124
 msgid "Disable Cruises"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 662
+# File: module/Application/view/application/agents/edit.phtml, line: 665
 # File: module/Application/view/application/index/settings.phtml, line: 132
 msgid "Disable Cars"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 669
+# File: module/Application/view/application/agents/edit.phtml, line: 672
 # File: module/Application/view/application/index/settings.phtml, line: 140
 msgid "Disable Escorted Tours"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 676
+# File: module/Application/view/application/agents/edit.phtml, line: 679
 # File: module/Application/view/application/index/settings.phtml, line: 148
 msgid "Disable Insurances"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 683
+# File: module/Application/view/application/agents/edit.phtml, line: 686
 # File: module/Application/view/application/index/settings.phtml, line: 156
 msgid "Disable Catalog"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 690
+# File: module/Application/view/application/agents/edit.phtml, line: 693
 # File: module/Application/view/application/index/settings.phtml, line: 164
 msgid "Disable Air Blocks"
 msgstr ""
 #
-# File: module/Application/view/application/agents/edit.phtml, line: 697
+# File: module/Application/view/application/agents/edit.phtml, line: 700
 msgid "Disable Ticketing"
 msgstr ""
 #
@@ -7130,6 +7130,22 @@ msgstr ""
 #
 # File: module/Application/view/application/customers/edit.phtml, line: 56
 msgid "Invalid phone"
+msgstr ""
+#
+# File: module/Application/view/application/customers/edit.phtml, line: 59
+msgid "Promotional Emails"
+msgstr ""
+#
+# File: module/Application/view/application/customers/edit.phtml, line: 59
+msgid "Do not send emails"
+msgstr ""
+#
+# File: module/Application/view/application/customers/edit.phtml, line: 60
+msgid "Whatsapp Messages"
+msgstr ""
+#
+# File: module/Application/view/application/customers/edit.phtml, line: 60
+msgid "Do not send whatsapp promos"
 msgstr ""
 #
 # File: module/Application/view/application/customers/editsupport.phtml, line: 8
