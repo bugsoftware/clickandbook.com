@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-04 02:43-0500\n"
+"POT-Creation-Date: 2026-03-04 08:08-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,9 +28,9 @@ msgstr ""
 # File: module/Application/src/Controller/AgentsController.php, line: 3325
 # File: module/Application/src/Controller/AgentsController.php, line: 3346
 # File: module/Application/src/Controller/AgentsController.php, line: 3367
-# File: module/Application/src/Controller/CMSController.php, line: 886
-# File: module/Application/src/Controller/CMSController.php, line: 907
-# File: module/Application/src/Controller/CMSController.php, line: 928
+# File: module/Application/src/Controller/CMSController.php, line: 1166
+# File: module/Application/src/Controller/CMSController.php, line: 1187
+# File: module/Application/src/Controller/CMSController.php, line: 1208
 # File: module/Application/src/Controller/CarsController.php, line: 779
 # File: module/Application/src/Controller/CarsController.php, line: 1038
 # File: module/Application/src/Controller/CruisesController.php, line: 859
@@ -386,8 +386,8 @@ msgstr ""
 msgid "Country"
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 372
-# File: module/Application/src/Controller/CMSController.php, line: 644
+# File: module/Application/src/Controller/CMSController.php, line: 652
+# File: module/Application/src/Controller/CMSController.php, line: 924
 # File: module/Application/src/Controller/CustomersController.php, line: 2364
 # File: module/Application/src/Controller/CustomersController.php, line: 2392
 # File: module/Application/src/Controller/HotelsController.php, line: 360
@@ -419,8 +419,8 @@ msgstr ""
 msgid "Active"
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 376
-# File: module/Application/src/Controller/CMSController.php, line: 648
+# File: module/Application/src/Controller/CMSController.php, line: 656
+# File: module/Application/src/Controller/CMSController.php, line: 928
 # File: module/Application/src/Controller/CustomersController.php, line: 2366
 # File: module/Application/src/Controller/CustomersController.php, line: 2394
 # File: module/Application/src/Controller/HotelsController.php, line: 364
@@ -771,6 +771,11 @@ msgstr ""
 # File: module/Application/view/application/cms/editpage.phtml, line: 29
 # File: module/Application/view/application/cms/new.phtml, line: 30
 # File: module/Application/view/application/cms/pages.phtml, line: 27
+# File: module/Application/view/application/cms/populardestinations.phtml, line: 29
+# File: module/Application/view/application/cms/popularpackages.phtml, line: 29
+# File: module/Application/view/application/cms/winterdestinations.phtml, line: 29
+# File: module/Application/view/application/cms/featureddestinations.phtml, line: 29
+# File: module/Application/view/application/cms/featuredhotels.phtml, line: 29
 # File: module/Application/view/application/customers/edit.phtml, line: 26
 # File: module/Application/view/application/customers/edit.phtml, line: 28
 # File: module/Application/view/application/customers/editsupport.phtml, line: 27
@@ -781,6 +786,9 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 39
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 42
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 31
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 38
+# File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 30
+# File: module/Application/view/application/quick-books/edittutorial.phtml, line: 35
 msgid "Title"
 msgstr ""
 #
@@ -1396,9 +1404,12 @@ msgstr ""
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3002
 # File: module/Application/view/application/index/order.phtml, line: 77
 # File: module/Application/view/application/index/order.old.phtml, line: 77
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 53
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 47
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 34
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 38
+# File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 51
+# File: module/Application/view/application/quick-books/edittutorial.phtml, line: 57
 msgid "English"
 msgstr ""
 #
@@ -1408,9 +1419,12 @@ msgstr ""
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3005
 # File: module/Application/view/application/index/order.phtml, line: 78
 # File: module/Application/view/application/index/order.old.phtml, line: 78
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 53
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 47
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 35
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 39
+# File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 52
+# File: module/Application/view/application/quick-books/edittutorial.phtml, line: 58
 msgid "Spanish"
 msgstr ""
 #
@@ -2704,6 +2718,9 @@ msgid "Item"
 msgstr ""
 #
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 582
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 39
+# File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 35
+# File: module/Application/view/application/quick-books/edittutorial.phtml, line: 40
 # File: module/Application/view/application/support/view.phtml, line: 93
 msgid "Details"
 msgstr ""
@@ -3551,6 +3568,11 @@ msgstr ""
 # File: module/Application/view/application/cms/index.phtml, line: 10
 # File: module/Application/view/application/cms/new.phtml, line: 10
 # File: module/Application/view/application/cms/pages.phtml, line: 11
+# File: module/Application/view/application/cms/populardestinations.phtml, line: 10
+# File: module/Application/view/application/cms/popularpackages.phtml, line: 10
+# File: module/Application/view/application/cms/winterdestinations.phtml, line: 10
+# File: module/Application/view/application/cms/featureddestinations.phtml, line: 10
+# File: module/Application/view/application/cms/featuredhotels.phtml, line: 10
 # File: module/Application/view/application/cruises/addpopularcruises.phtml, line: 10
 # File: module/Application/view/application/cruises/addpopulardestinations.phtml, line: 10
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 10
@@ -3801,7 +3823,9 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/generalsettings.phtml, line: 34
 # File: module/Application/view/application/cars/generalsettings.phtml, line: 34
-# File: module/Application/view/application/cms/index.phtml, line: 51
+# File: module/Application/view/application/cms/index.phtml, line: 60
+# File: module/Application/view/application/cms/populardestinations.phtml, line: 12
+# File: module/Application/view/application/cms/populardestinations.phtml, line: 25
 # File: module/Application/view/application/cruises/index.phtml, line: 93
 # File: module/Application/view/application/cruises/populardestinations.phtml, line: 7
 # File: module/Application/view/application/cruises/populardestinations.phtml, line: 12
@@ -3921,6 +3945,11 @@ msgstr ""
 # File: module/Application/view/application/cars/paymentsettings.phtml, line: 47
 # File: module/Application/view/application/cms/editpage.phtml, line: 100
 # File: module/Application/view/application/cms/new.phtml, line: 101
+# File: module/Application/view/application/cms/populardestinations.phtml, line: 33
+# File: module/Application/view/application/cms/popularpackages.phtml, line: 33
+# File: module/Application/view/application/cms/winterdestinations.phtml, line: 33
+# File: module/Application/view/application/cms/featureddestinations.phtml, line: 33
+# File: module/Application/view/application/cms/featuredhotels.phtml, line: 33
 # File: module/Application/view/application/cruises/addpopularcruises.phtml, line: 38
 # File: module/Application/view/application/cruises/addpopulardestinations.phtml, line: 38
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 38
@@ -4019,6 +4048,8 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 116
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 45
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 50
+# File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 60
+# File: module/Application/view/application/quick-books/edittutorial.phtml, line: 65
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 191
 # File: module/Application/view/application/support/edit.phtml, line: 42
 # File: module/Application/view/application/transfers/generalsettings.phtml, line: 78
@@ -4037,6 +4068,11 @@ msgstr ""
 # File: module/Application/view/application/cars/settings.phtml, line: 78
 # File: module/Application/view/application/cms/editpage.phtml, line: 122
 # File: module/Application/view/application/cms/new.phtml, line: 123
+# File: module/Application/view/application/cms/populardestinations.phtml, line: 55
+# File: module/Application/view/application/cms/popularpackages.phtml, line: 55
+# File: module/Application/view/application/cms/winterdestinations.phtml, line: 55
+# File: module/Application/view/application/cms/featureddestinations.phtml, line: 55
+# File: module/Application/view/application/cms/featuredhotels.phtml, line: 55
 # File: module/Application/view/application/cruises/addpopularcruises.phtml, line: 185
 # File: module/Application/view/application/cruises/addpopulardestinations.phtml, line: 189
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 185
@@ -4192,6 +4228,11 @@ msgstr ""
 # File: module/Application/view/application/cms/editpage.phtml, line: 9
 # File: module/Application/view/application/cms/index.phtml, line: 9
 # File: module/Application/view/application/cms/new.phtml, line: 9
+# File: module/Application/view/application/cms/populardestinations.phtml, line: 9
+# File: module/Application/view/application/cms/popularpackages.phtml, line: 9
+# File: module/Application/view/application/cms/winterdestinations.phtml, line: 9
+# File: module/Application/view/application/cms/featureddestinations.phtml, line: 9
+# File: module/Application/view/application/cms/featuredhotels.phtml, line: 9
 # File: module/Application/view/application/cruises/index.phtml, line: 8
 # File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 12
 # File: module/Application/view/application/customers/index.phtml, line: 10
@@ -4390,6 +4431,11 @@ msgstr ""
 # File: module/Application/view/application/cms/editpage.phtml, line: 18
 # File: module/Application/view/application/cms/index.phtml, line: 16
 # File: module/Application/view/application/cms/new.phtml, line: 19
+# File: module/Application/view/application/cms/populardestinations.phtml, line: 18
+# File: module/Application/view/application/cms/popularpackages.phtml, line: 18
+# File: module/Application/view/application/cms/winterdestinations.phtml, line: 18
+# File: module/Application/view/application/cms/featureddestinations.phtml, line: 18
+# File: module/Application/view/application/cms/featuredhotels.phtml, line: 18
 # File: module/Application/view/application/cruises/index.phtml, line: 15
 # File: module/Application/view/application/escortedtours/index.phtml, line: 16
 # File: module/Application/view/application/flights/airblocks.phtml, line: 18
@@ -4885,6 +4931,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 37
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 42
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 48
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 41
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 38
 # File: module/Application/view/application/reservations/list.phtml, line: 37
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 65
@@ -5413,6 +5460,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 57
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 66
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 112
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 54
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 48
 # File: module/Application/view/application/reservations/list.phtml, line: 90
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 79
@@ -6466,6 +6514,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 25
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 25
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 39
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 35
 # File: module/Application/view/application/support/list.phtml, line: 27
 # File: module/Application/view/application/support/search.phtml, line: 73
 msgid "Date time Created"
@@ -6645,6 +6694,11 @@ msgstr ""
 # File: module/Application/view/application/cms/index.phtml, line: 23
 # File: module/Application/view/application/cms/new.phtml, line: 11
 # File: module/Application/view/application/cms/pages.phtml, line: 12
+# File: module/Application/view/application/cms/populardestinations.phtml, line: 11
+# File: module/Application/view/application/cms/popularpackages.phtml, line: 11
+# File: module/Application/view/application/cms/winterdestinations.phtml, line: 11
+# File: module/Application/view/application/cms/featureddestinations.phtml, line: 11
+# File: module/Application/view/application/cms/featuredhotels.phtml, line: 11
 # File: module/Application/view/application/index/index.phtml, line: 237
 msgid "CMS"
 msgstr ""
@@ -6709,6 +6763,9 @@ msgstr ""
 # File: module/Application/view/application/index/socialmedia.phtml, line: 42
 # File: module/Application/view/application/index/userinfo.phtml, line: 41
 # File: module/Application/view/application/index/viewsecuritylog.phtml, line: 39
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 36
+# File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 23
+# File: module/Application/view/application/quick-books/edittutorial.phtml, line: 27
 msgid "SEO"
 msgstr ""
 #
@@ -6830,6 +6887,33 @@ msgstr ""
 # File: module/Application/view/application/cms/new.phtml, line: 13
 # File: module/Application/view/application/cms/new.phtml, line: 26
 msgid "New Page"
+msgstr ""
+#
+# File: module/Application/view/application/cms/index.phtml, line: 51
+# File: module/Application/view/application/cms/popularpackages.phtml, line: 12
+# File: module/Application/view/application/cms/popularpackages.phtml, line: 25
+# File: module/Application/view/application/packages/settings.phtml, line: 69
+msgid "Popular Packages"
+msgstr ""
+#
+# File: module/Application/view/application/cms/index.phtml, line: 69
+# File: module/Application/view/application/cms/winterdestinations.phtml, line: 12
+# File: module/Application/view/application/cms/winterdestinations.phtml, line: 25
+msgid "Winter Destinations"
+msgstr ""
+#
+# File: module/Application/view/application/cms/index.phtml, line: 88
+# File: module/Application/view/application/cms/featureddestinations.phtml, line: 12
+# File: module/Application/view/application/cms/featureddestinations.phtml, line: 25
+msgid "Featured Destinations"
+msgstr ""
+#
+# File: module/Application/view/application/cms/index.phtml, line: 97
+# File: module/Application/view/application/cms/featuredhotels.phtml, line: 12
+# File: module/Application/view/application/cms/featuredhotels.phtml, line: 25
+# File: module/Application/view/application/hotels/generalsettings.phtml, line: 48
+# File: module/Application/view/application/hotels/index.phtml, line: 105
+msgid "Featured Hotels"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/addpopularcruises.phtml, line: 7
@@ -7986,6 +8070,8 @@ msgstr ""
 # File: module/Application/view/application/portfolio/edit.phtml, line: 74
 # File: module/Application/view/application/portfolio/new.phtml, line: 67
 # File: module/Application/view/application/portfolio/new.phtml, line: 68
+# File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 40
+# File: module/Application/view/application/quick-books/edittutorial.phtml, line: 45
 msgid "Image"
 msgstr ""
 #
@@ -9283,11 +9369,6 @@ msgstr ""
 msgid "Enable Featured Hotels"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/generalsettings.phtml, line: 48
-# File: module/Application/view/application/hotels/index.phtml, line: 105
-msgid "Featured Hotels"
-msgstr ""
-#
 # File: module/Application/view/application/hotels/generalsettings.phtml, line: 67
 msgid "Enable Popular Hotels"
 msgstr ""
@@ -9756,7 +9837,6 @@ msgstr ""
 #
 # File: module/Application/view/application/index/banners.phtml, line: 125
 # File: module/Application/view/application/index/bannersedit.phtml, line: 83
-# File: module/Application/view/application/index/settings.phtml, line: 180
 msgid "Section"
 msgstr ""
 #
@@ -10040,9 +10120,12 @@ msgstr ""
 # File: module/Application/view/application/portfolio/edit.phtml, line: 61
 # File: module/Application/view/application/portfolio/new.phtml, line: 57
 # File: module/Application/view/application/portfolio/new.phtml, line: 58
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 40
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 37
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 30
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 35
+# File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 48
+# File: module/Application/view/application/quick-books/edittutorial.phtml, line: 54
 msgid "Language"
 msgstr ""
 #
@@ -11011,6 +11094,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 49
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 32
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 49
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 27
 # File: module/Application/view/application/blog/index.phtml, line: 87
 # File: module/Application/view/application/blog/index.phtml, line: 147
 # File: module/Application/view/application/blog/index.phtml, line: 352
@@ -13770,8 +13854,11 @@ msgid "Disable Popular Packages"
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 176
-# File: module/Application/view/application/index/settings.phtml, line: 180
 msgid "Disable Popular Destinations"
+msgstr ""
+#
+# File: module/Application/view/application/index/settings.phtml, line: 180
+msgid "Disable Featured Destinations"
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 184
@@ -13784,6 +13871,10 @@ msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 192
 msgid "Disable Airline Slider"
+msgstr ""
+#
+# File: module/Application/view/application/index/settings.phtml, line: 196
+msgid "Disable Featured Hotels"
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 196
@@ -15956,6 +16047,8 @@ msgstr ""
 # File: module/Application/view/application/portfolio/edit.phtml, line: 63
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 33
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 37
+# File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 50
+# File: module/Application/view/application/quick-books/edittutorial.phtml, line: 56
 msgid "Select Language"
 msgstr ""
 #
@@ -16183,10 +16276,6 @@ msgstr ""
 msgid "Enable Popular Packages"
 msgstr ""
 #
-# File: module/Application/view/application/packages/settings.phtml, line: 69
-msgid "Popular Packages"
-msgstr ""
-#
 # File: module/Application/view/application/packages/termsandconditions.phtml, line: 40
 msgid "Conditions"
 msgstr ""
@@ -16369,6 +16458,8 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 117
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 46
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 51
+# File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 61
+# File: module/Application/view/application/quick-books/edittutorial.phtml, line: 66
 msgid "Reset"
 msgstr ""
 #
@@ -16538,6 +16629,17 @@ msgstr ""
 msgid "Unknown Type"
 msgstr ""
 #
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 26
+# File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 16
+msgid "Add New Tutorial"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 37
+# File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 26
+# File: module/Application/view/application/quick-books/edittutorial.phtml, line: 31
+msgid "Author"
+msgstr ""
+#
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 26
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 16
 msgid "Add New FAQ"
@@ -16562,6 +16664,15 @@ msgstr ""
 #
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 19
 msgid "Edit FAQ"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 44
+# File: module/Application/view/application/quick-books/edittutorial.phtml, line: 49
+msgid "Video"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/edittutorial.phtml, line: 19
+msgid "Edit Tutorial"
 msgstr ""
 #
 # File: module/Application/view/application/reports/globalware.phtml, line: 25
