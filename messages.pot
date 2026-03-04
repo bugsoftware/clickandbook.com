@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-03 16:23-0500\n"
+"POT-Creation-Date: 2026-03-04 02:43-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,9 +28,9 @@ msgstr ""
 # File: module/Application/src/Controller/AgentsController.php, line: 3325
 # File: module/Application/src/Controller/AgentsController.php, line: 3346
 # File: module/Application/src/Controller/AgentsController.php, line: 3367
-# File: module/Application/src/Controller/CMSController.php, line: 816
-# File: module/Application/src/Controller/CMSController.php, line: 837
-# File: module/Application/src/Controller/CMSController.php, line: 858
+# File: module/Application/src/Controller/CMSController.php, line: 886
+# File: module/Application/src/Controller/CMSController.php, line: 907
+# File: module/Application/src/Controller/CMSController.php, line: 928
 # File: module/Application/src/Controller/CarsController.php, line: 779
 # File: module/Application/src/Controller/CarsController.php, line: 1038
 # File: module/Application/src/Controller/CruisesController.php, line: 859
@@ -386,8 +386,8 @@ msgstr ""
 msgid "Country"
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 302
-# File: module/Application/src/Controller/CMSController.php, line: 574
+# File: module/Application/src/Controller/CMSController.php, line: 372
+# File: module/Application/src/Controller/CMSController.php, line: 644
 # File: module/Application/src/Controller/CustomersController.php, line: 2364
 # File: module/Application/src/Controller/CustomersController.php, line: 2392
 # File: module/Application/src/Controller/HotelsController.php, line: 360
@@ -419,8 +419,8 @@ msgstr ""
 msgid "Active"
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 306
-# File: module/Application/src/Controller/CMSController.php, line: 578
+# File: module/Application/src/Controller/CMSController.php, line: 376
+# File: module/Application/src/Controller/CMSController.php, line: 648
 # File: module/Application/src/Controller/CustomersController.php, line: 2366
 # File: module/Application/src/Controller/CustomersController.php, line: 2394
 # File: module/Application/src/Controller/HotelsController.php, line: 364
@@ -693,8 +693,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/CustomersController.php, line: 2407
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 596
-# File: module/Application/view/application/index/search.phtml, line: 1350
-# File: module/Application/view/application/index/search.phtml, line: 1914
+# File: module/Application/view/application/index/search.phtml, line: 1351
 msgid "Flight"
 msgstr ""
 #
@@ -1398,6 +1397,8 @@ msgstr ""
 # File: module/Application/view/application/index/order.phtml, line: 77
 # File: module/Application/view/application/index/order.old.phtml, line: 77
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 47
+# File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 34
+# File: module/Application/view/application/quick-books/editfaq.phtml, line: 38
 msgid "English"
 msgstr ""
 #
@@ -1408,6 +1409,8 @@ msgstr ""
 # File: module/Application/view/application/index/order.phtml, line: 78
 # File: module/Application/view/application/index/order.old.phtml, line: 78
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 47
+# File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 35
+# File: module/Application/view/application/quick-books/editfaq.phtml, line: 39
 msgid "Spanish"
 msgstr ""
 #
@@ -1507,11 +1510,10 @@ msgid "Oceania"
 msgstr ""
 #
 # File: module/Application/src/Controller/JSONController.php, line: 1381
-# File: module/Application/view/application/index/search.phtml, line: 1362
-# File: module/Application/view/application/index/search.phtml, line: 1926
-# File: module/Application/view/application/index/search.phtml, line: 1997
-# File: module/Application/view/application/index/search.phtml, line: 2143
-# File: module/Application/view/application/index/search.phtml, line: 2259
+# File: module/Application/view/application/index/search.phtml, line: 1363
+# File: module/Application/view/application/index/search.phtml, line: 1925
+# File: module/Application/view/application/index/search.phtml, line: 2071
+# File: module/Application/view/application/index/search.phtml, line: 2187
 msgid "Search for"
 msgstr ""
 #
@@ -2813,9 +2815,8 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 551
 # File: module/Application/view/application/index/search.phtml, line: 613
 # File: module/Application/view/application/index/search.phtml, line: 698
-# File: module/Application/view/application/index/search.phtml, line: 1337
-# File: module/Application/view/application/index/search.phtml, line: 1901
-# File: module/Application/view/application/index/search.phtml, line: 2350
+# File: module/Application/view/application/index/search.phtml, line: 1338
+# File: module/Application/view/application/index/search.phtml, line: 2278
 msgid "Room"
 msgstr ""
 #
@@ -3146,8 +3147,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/newmealsupplement.phtml, line: 38
 # File: module/Application/view/application/index/search.phtml, line: 827
 # File: module/Application/view/application/index/search.phtml, line: 1143
-# File: module/Application/view/application/index/search.phtml, line: 1341
-# File: module/Application/view/application/index/search.phtml, line: 1905
+# File: module/Application/view/application/index/search.phtml, line: 1342
 msgid "Adult"
 msgstr ""
 #
@@ -3178,9 +3178,8 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 1096
 # File: module/Application/view/application/index/search.phtml, line: 1101
 # File: module/Application/view/application/index/search.phtml, line: 1148
-# File: module/Application/view/application/index/search.phtml, line: 1342
-# File: module/Application/view/application/index/search.phtml, line: 1906
-# File: module/Application/view/application/index/search.phtml, line: 2351
+# File: module/Application/view/application/index/search.phtml, line: 1343
+# File: module/Application/view/application/index/search.phtml, line: 2279
 # File: module/Application/view/application/view-reservation/index.phtml, line: 357
 # File: module/Application/view/application/view-reservation/index.phtml, line: 490
 # File: module/Application/view/application/view-reservation/index.phtml, line: 627
@@ -3196,9 +3195,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/editmealsupplement.phtml, line: 37
 # File: module/Application/view/application/hotels/newmealsupplement.phtml, line: 39
 # File: module/Application/view/application/index/search.phtml, line: 827
-# File: module/Application/view/application/index/search.phtml, line: 1339
-# File: module/Application/view/application/index/search.phtml, line: 1903
-# File: module/Application/view/application/index/search.phtml, line: 2375
+# File: module/Application/view/application/index/search.phtml, line: 1340
+# File: module/Application/view/application/index/search.phtml, line: 2303
 msgid "Child"
 msgstr ""
 #
@@ -3229,9 +3227,8 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 1103
 # File: module/Application/view/application/index/search.phtml, line: 1143
 # File: module/Application/view/application/index/search.phtml, line: 1152
-# File: module/Application/view/application/index/search.phtml, line: 1340
-# File: module/Application/view/application/index/search.phtml, line: 1904
-# File: module/Application/view/application/index/search.phtml, line: 2352
+# File: module/Application/view/application/index/search.phtml, line: 1341
+# File: module/Application/view/application/index/search.phtml, line: 2280
 # File: module/Application/view/application/view-reservation/index.phtml, line: 357
 # File: module/Application/view/application/view-reservation/index.phtml, line: 490
 # File: module/Application/view/application/view-reservation/index.phtml, line: 627
@@ -3804,6 +3801,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/generalsettings.phtml, line: 34
 # File: module/Application/view/application/cars/generalsettings.phtml, line: 34
+# File: module/Application/view/application/cms/index.phtml, line: 51
 # File: module/Application/view/application/cruises/index.phtml, line: 93
 # File: module/Application/view/application/cruises/populardestinations.phtml, line: 7
 # File: module/Application/view/application/cruises/populardestinations.phtml, line: 12
@@ -4019,8 +4017,8 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 70
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 86
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 116
-# File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 41
-# File: module/Application/view/application/quick-books/editfaq.phtml, line: 41
+# File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 45
+# File: module/Application/view/application/quick-books/editfaq.phtml, line: 50
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 191
 # File: module/Application/view/application/support/edit.phtml, line: 42
 # File: module/Application/view/application/transfers/generalsettings.phtml, line: 78
@@ -4105,7 +4103,7 @@ msgstr ""
 # File: module/Application/view/application/index/preferences.phtml, line: 180
 # File: module/Application/view/application/index/register.phtml, line: 314
 # File: module/Application/view/application/index/search.phtml, line: 349
-# File: module/Application/view/application/index/search.phtml, line: 1392
+# File: module/Application/view/application/index/search.phtml, line: 1393
 # File: module/Application/view/application/index/settings.phtml, line: 398
 # File: module/Application/view/application/index/setup.phtml, line: 206
 # File: module/Application/view/application/index/setup.phtml, line: 218
@@ -9173,8 +9171,7 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 566
 # File: module/Application/view/application/index/search.phtml, line: 628
 # File: module/Application/view/application/index/search.phtml, line: 703
-# File: module/Application/view/application/index/search.phtml, line: 1338
-# File: module/Application/view/application/index/search.phtml, line: 1902
+# File: module/Application/view/application/index/search.phtml, line: 1339
 msgid "Rooms"
 msgstr ""
 #
@@ -10044,8 +10041,8 @@ msgstr ""
 # File: module/Application/view/application/portfolio/new.phtml, line: 57
 # File: module/Application/view/application/portfolio/new.phtml, line: 58
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 37
-# File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 32
-# File: module/Application/view/application/quick-books/editfaq.phtml, line: 32
+# File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 30
+# File: module/Application/view/application/quick-books/editfaq.phtml, line: 35
 msgid "Language"
 msgstr ""
 #
@@ -10315,7 +10312,7 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 1018
 # File: module/Application/view/application/index/search.phtml, line: 1108
 # File: module/Application/view/application/index/search.phtml, line: 1159
-# File: module/Application/view/application/index/search.phtml, line: 1382
+# File: module/Application/view/application/index/search.phtml, line: 1383
 msgid "Done"
 msgstr ""
 #
@@ -13460,159 +13457,131 @@ msgstr ""
 msgid "Select drop off hour"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1312
-# File: module/Application/view/application/index/search.phtml, line: 1876
+# File: module/Application/view/application/index/search.phtml, line: 1313
 msgid "Clear"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1313
-# File: module/Application/view/application/index/search.phtml, line: 1877
+# File: module/Application/view/application/index/search.phtml, line: 1314
 msgid "Apply"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1314
-# File: module/Application/view/application/index/search.phtml, line: 1878
+# File: module/Application/view/application/index/search.phtml, line: 1315
 msgid "From"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1315
-# File: module/Application/view/application/index/search.phtml, line: 1879
+# File: module/Application/view/application/index/search.phtml, line: 1316
 msgid "To"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1316
-# File: module/Application/view/application/index/search.phtml, line: 1880
+# File: module/Application/view/application/index/search.phtml, line: 1317
 msgid "Su"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1317
-# File: module/Application/view/application/index/search.phtml, line: 1881
+# File: module/Application/view/application/index/search.phtml, line: 1318
 msgid "Mo"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1318
-# File: module/Application/view/application/index/search.phtml, line: 1882
+# File: module/Application/view/application/index/search.phtml, line: 1319
 msgid "Tu"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1319
-# File: module/Application/view/application/index/search.phtml, line: 1883
+# File: module/Application/view/application/index/search.phtml, line: 1320
 msgid "We"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1320
-# File: module/Application/view/application/index/search.phtml, line: 1884
+# File: module/Application/view/application/index/search.phtml, line: 1321
 msgid "Th"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1321
-# File: module/Application/view/application/index/search.phtml, line: 1885
+# File: module/Application/view/application/index/search.phtml, line: 1322
 msgid "Fr"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1322
-# File: module/Application/view/application/index/search.phtml, line: 1886
+# File: module/Application/view/application/index/search.phtml, line: 1323
 msgid "Sa"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1323
-# File: module/Application/view/application/index/search.phtml, line: 1887
+# File: module/Application/view/application/index/search.phtml, line: 1324
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 60
 msgid "January"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1324
-# File: module/Application/view/application/index/search.phtml, line: 1888
+# File: module/Application/view/application/index/search.phtml, line: 1325
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 62
 msgid "February"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1325
-# File: module/Application/view/application/index/search.phtml, line: 1889
+# File: module/Application/view/application/index/search.phtml, line: 1326
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 64
 msgid "March"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1326
-# File: module/Application/view/application/index/search.phtml, line: 1890
+# File: module/Application/view/application/index/search.phtml, line: 1327
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 66
 msgid "April"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1327
-# File: module/Application/view/application/index/search.phtml, line: 1891
+# File: module/Application/view/application/index/search.phtml, line: 1328
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 68
 msgid "May"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1328
-# File: module/Application/view/application/index/search.phtml, line: 1892
+# File: module/Application/view/application/index/search.phtml, line: 1329
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 70
 msgid "June"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1329
-# File: module/Application/view/application/index/search.phtml, line: 1893
+# File: module/Application/view/application/index/search.phtml, line: 1330
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 72
 msgid "July"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1330
-# File: module/Application/view/application/index/search.phtml, line: 1894
+# File: module/Application/view/application/index/search.phtml, line: 1331
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 74
 msgid "August"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1331
-# File: module/Application/view/application/index/search.phtml, line: 1895
+# File: module/Application/view/application/index/search.phtml, line: 1332
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 76
 msgid "September"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1332
-# File: module/Application/view/application/index/search.phtml, line: 1896
+# File: module/Application/view/application/index/search.phtml, line: 1333
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 78
 msgid "October"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1333
-# File: module/Application/view/application/index/search.phtml, line: 1897
+# File: module/Application/view/application/index/search.phtml, line: 1334
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 80
 msgid "November"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1334
-# File: module/Application/view/application/index/search.phtml, line: 1898
+# File: module/Application/view/application/index/search.phtml, line: 1335
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 82
 msgid "December"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1335
-# File: module/Application/view/application/index/search.phtml, line: 1899
+# File: module/Application/view/application/index/search.phtml, line: 1336
 msgid "Age"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1336
-# File: module/Application/view/application/index/search.phtml, line: 1900
-# File: module/Application/view/application/index/search.phtml, line: 2375
+# File: module/Application/view/application/index/search.phtml, line: 1337
+# File: module/Application/view/application/index/search.phtml, line: 2303
 msgid "Age of child"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1343
 # File: module/Application/view/application/index/search.phtml, line: 1344
-# File: module/Application/view/application/index/search.phtml, line: 1907
-# File: module/Application/view/application/index/search.phtml, line: 1908
+# File: module/Application/view/application/index/search.phtml, line: 1345
 msgid "Infant"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1351
-# File: module/Application/view/application/index/search.phtml, line: 1915
+# File: module/Application/view/application/index/search.phtml, line: 1352
 # File: module/Application/view/application/marketing/edit.phtml, line: 87
 # File: module/Application/view/application/marketing/edit.phtml, line: 146
 msgid "Remove"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.phtml, line: 1383
+# File: module/Application/view/application/index/search.phtml, line: 1384
 msgid "Please Wait..."
 msgstr ""
 #
@@ -15985,6 +15954,8 @@ msgstr ""
 # File: module/Application/view/application/packages/notes.phtml, line: 31
 # File: module/Application/view/application/packages/termsandconditions.phtml, line: 31
 # File: module/Application/view/application/portfolio/edit.phtml, line: 63
+# File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 33
+# File: module/Application/view/application/quick-books/editfaq.phtml, line: 37
 msgid "Select Language"
 msgstr ""
 #
@@ -16275,8 +16246,8 @@ msgstr ""
 #
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 25
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 26
-# File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 35
-# File: module/Application/view/application/quick-books/editfaq.phtml, line: 35
+# File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 39
+# File: module/Application/view/application/quick-books/editfaq.phtml, line: 43
 msgid "Sortorder"
 msgstr ""
 #
@@ -16396,8 +16367,8 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 71
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 87
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 117
-# File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 42
-# File: module/Application/view/application/quick-books/editfaq.phtml, line: 42
+# File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 46
+# File: module/Application/view/application/quick-books/editfaq.phtml, line: 51
 msgid "Reset"
 msgstr ""
 #
@@ -16577,19 +16548,19 @@ msgid "FAQS"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 35
-# File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 22
-# File: module/Application/view/application/quick-books/editfaq.phtml, line: 22
+# File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 23
+# File: module/Application/view/application/quick-books/editfaq.phtml, line: 27
 # File: module/Application/view/application/support/view.phtml, line: 101
 msgid "Question"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 36
-# File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 27
-# File: module/Application/view/application/quick-books/editfaq.phtml, line: 27
+# File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 26
+# File: module/Application/view/application/quick-books/editfaq.phtml, line: 31
 msgid "Answer"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/editfaq.phtml, line: 16
+# File: module/Application/view/application/quick-books/editfaq.phtml, line: 19
 msgid "Edit FAQ"
 msgstr ""
 #
