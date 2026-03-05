@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-04 17:08-0500\n"
+"POT-Creation-Date: 2026-03-05 16:32-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -786,9 +786,12 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 39
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 42
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 31
+# File: module/Application/view/application/quick-books/blog.phtml, line: 38
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 38
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 30
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 35
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 30
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 34
 msgid "Title"
 msgstr ""
 #
@@ -1406,12 +1409,15 @@ msgstr ""
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3002
 # File: module/Application/view/application/index/order.phtml, line: 77
 # File: module/Application/view/application/index/order.old.phtml, line: 77
+# File: module/Application/view/application/quick-books/blog.phtml, line: 95
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 53
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 47
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 34
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 38
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 49
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 54
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 125
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 129
 msgid "English"
 msgstr ""
 #
@@ -1421,12 +1427,15 @@ msgstr ""
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3005
 # File: module/Application/view/application/index/order.phtml, line: 78
 # File: module/Application/view/application/index/order.old.phtml, line: 78
+# File: module/Application/view/application/quick-books/blog.phtml, line: 95
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 53
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 47
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 35
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 39
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 50
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 55
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 126
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 130
 msgid "Spanish"
 msgstr ""
 #
@@ -1983,6 +1992,9 @@ msgstr ""
 # File: module/Application/view/application/packages/edit.phtml, line: 127
 # File: module/Application/view/application/packages/edititinerary.phtml, line: 42
 # File: module/Application/view/application/packages/newpackage.phtml, line: 40
+# File: module/Application/view/application/quick-books/blog.phtml, line: 60
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 118
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 122
 msgid "Location"
 msgstr ""
 #
@@ -2721,9 +2733,12 @@ msgid "Item"
 msgstr ""
 #
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 582
+# File: module/Application/view/application/quick-books/blog.phtml, line: 40
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 39
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 34
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 39
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 38
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 42
 # File: module/Application/view/application/support/view.phtml, line: 93
 msgid "Details"
 msgstr ""
@@ -4054,6 +4069,8 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 50
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 57
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 62
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 133
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 137
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 191
 # File: module/Application/view/application/support/edit.phtml, line: 42
 # File: module/Application/view/application/transfers/generalsettings.phtml, line: 78
@@ -4936,6 +4953,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 37
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 42
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 48
+# File: module/Application/view/application/quick-books/blog.phtml, line: 62
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 41
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 38
 # File: module/Application/view/application/reservations/list.phtml, line: 37
@@ -5491,6 +5509,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 57
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 66
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 112
+# File: module/Application/view/application/quick-books/blog.phtml, line: 96
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 54
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 48
 # File: module/Application/view/application/reservations/list.phtml, line: 90
@@ -6545,6 +6564,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 25
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 25
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 39
+# File: module/Application/view/application/quick-books/blog.phtml, line: 35
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 35
 # File: module/Application/view/application/support/list.phtml, line: 27
 # File: module/Application/view/application/support/search.phtml, line: 73
@@ -6794,9 +6814,12 @@ msgstr ""
 # File: module/Application/view/application/index/socialmedia.phtml, line: 42
 # File: module/Application/view/application/index/userinfo.phtml, line: 41
 # File: module/Application/view/application/index/viewsecuritylog.phtml, line: 39
+# File: module/Application/view/application/quick-books/blog.phtml, line: 36
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 36
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 23
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 27
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 23
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 27
 msgid "SEO"
 msgstr ""
 #
@@ -8102,8 +8125,11 @@ msgstr ""
 # File: module/Application/view/application/portfolio/edit.phtml, line: 74
 # File: module/Application/view/application/portfolio/new.phtml, line: 67
 # File: module/Application/view/application/portfolio/new.phtml, line: 68
+# File: module/Application/view/application/quick-books/blog.phtml, line: 37
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 38
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 43
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 26
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 30
 msgid "Image"
 msgstr ""
 #
@@ -10152,12 +10178,15 @@ msgstr ""
 # File: module/Application/view/application/portfolio/edit.phtml, line: 61
 # File: module/Application/view/application/portfolio/new.phtml, line: 57
 # File: module/Application/view/application/portfolio/new.phtml, line: 58
+# File: module/Application/view/application/quick-books/blog.phtml, line: 61
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 40
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 37
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 30
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 35
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 46
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 51
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 122
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 126
 msgid "Language"
 msgstr ""
 #
@@ -13727,6 +13756,9 @@ msgstr ""
 # File: module/Application/view/application/index/seo.phtml, line: 339
 # File: module/Application/view/application/index/seo.phtml, line: 372
 # File: module/Application/view/application/index/seo.phtml, line: 404
+# File: module/Application/view/application/quick-books/blog.phtml, line: 57
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 106
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 110
 msgid "Meta Title"
 msgstr ""
 #
@@ -13741,6 +13773,9 @@ msgstr ""
 # File: module/Application/view/application/index/seo.phtml, line: 343
 # File: module/Application/view/application/index/seo.phtml, line: 376
 # File: module/Application/view/application/index/seo.phtml, line: 408
+# File: module/Application/view/application/quick-books/blog.phtml, line: 58
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 110
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 114
 msgid "Meta Description"
 msgstr ""
 #
@@ -13755,6 +13790,9 @@ msgstr ""
 # File: module/Application/view/application/index/seo.phtml, line: 347
 # File: module/Application/view/application/index/seo.phtml, line: 380
 # File: module/Application/view/application/index/seo.phtml, line: 412
+# File: module/Application/view/application/quick-books/blog.phtml, line: 59
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 114
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 118
 msgid "Meta Keywords"
 msgstr ""
 #
@@ -16082,6 +16120,8 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 37
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 48
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 53
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 124
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 128
 msgid "Select Language"
 msgstr ""
 #
@@ -16493,6 +16533,8 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 51
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 58
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 63
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 134
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 138
 msgid "Reset"
 msgstr ""
 #
@@ -16662,6 +16704,121 @@ msgstr ""
 msgid "Unknown Type"
 msgstr ""
 #
+# File: module/Application/view/application/quick-books/blog.phtml, line: 26
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 16
+msgid "Add New Blog"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 27
+# File: module/Application/view/application/blog/index.phtml, line: 173
+# File: module/Application/view/application/blog/details.phtml, line: 189
+# File: module/Application/view/application/blog/list.phtml, line: 148
+# File: module/Application/view/application/blog/list.phtml, line: 151
+msgid "Blog"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 39
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 34
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 38
+msgid "Sub Title"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 41
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 42
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 46
+msgid "Title 2"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 42
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 46
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 50
+msgid "Details 2"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 43
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 50
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 54
+msgid "Title 3"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 44
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 54
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 58
+msgid "Details 3"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 45
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 58
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 62
+msgid "Title 4"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 46
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 62
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 66
+msgid "Details 4"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 47
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 66
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 70
+msgid "Title 5"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 48
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 70
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 74
+msgid "Details 5"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 49
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 74
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 78
+msgid "Title 6"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 50
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 78
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 82
+msgid "Details 6"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 51
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 82
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 86
+msgid "Title 7"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 52
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 86
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 90
+msgid "Details 7"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 53
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 90
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 94
+msgid "Title 8"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 54
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 94
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 98
+msgid "Details 8"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 55
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 98
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 102
+msgid "Block Quote"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/blog.phtml, line: 56
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 102
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 106
+msgid "Block Quote Sub Title"
+msgstr ""
+#
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 26
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 16
 msgid "Add New Tutorial"
@@ -16705,6 +16862,7 @@ msgid "Video"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 19
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 19
 msgid "Edit Tutorial"
 msgstr ""
 #
@@ -17527,13 +17685,6 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/status.phtml, line: 75
 # File: module/Application/view/application/view-reservation/status.phtml, line: 78
 msgid "Residence"
-msgstr ""
-#
-# File: module/Application/view/application/blog/index.phtml, line: 173
-# File: module/Application/view/application/blog/details.phtml, line: 189
-# File: module/Application/view/application/blog/list.phtml, line: 148
-# File: module/Application/view/application/blog/list.phtml, line: 151
-msgid "Blog"
 msgstr ""
 #
 # File: module/Application/view/application/blog/index.phtml, line: 423
