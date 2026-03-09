@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-09 03:29-0400\n"
+"POT-Creation-Date: 2026-03-09 06:45-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -586,6 +586,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 121
 # File: module/Application/view/application/tutorials/index.phtml, line: 182
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 136
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 121
 # File: module/Application/view/layout/layout.phtml, line: 146
 # File: module/Application/view/layout/layout.phtml, line: 207
 msgid "Support"
@@ -680,6 +681,9 @@ msgstr ""
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 104
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 164
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 229
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 89
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 149
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 189
 msgid "Contact Us"
 msgstr ""
 #
@@ -1179,7 +1183,7 @@ msgstr ""
 # File: module/Application/src/Controller/IndexController.php, line: 11475
 # File: module/Application/src/Controller/IndexController.php, line: 11476
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 293
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 679
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 683
 # File: module/Application/src/Controller/BlogController.php, line: 234
 msgid "Hi"
 msgstr ""
@@ -2034,32 +2038,32 @@ msgid "Our team will get back to you shortly."
 msgstr ""
 #
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 293
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 679
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 683
 # File: module/Application/src/Controller/BlogController.php, line: 234
 msgid "Best regards"
 msgstr ""
 #
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 671
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 675
 msgid "Your Click & Book Account Has Been Created"
 msgstr ""
 #
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 679
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 683
 msgid "Your account has been successfully created in Click & Book."
 msgstr ""
 #
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 679
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 683
 msgid "To activate your account, please select the plan that best fits your needs."
 msgstr ""
 #
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 679
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 683
 msgid "Once the plan is selected, your account will be fully activated and ready to use."
 msgstr ""
 #
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 679
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 683
 msgid "If you haven’t completed your registration yet, simply click the button below to continue the process."
 msgstr ""
 #
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 679
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 683
 msgid "Complete Registration"
 msgstr ""
 #
@@ -2372,6 +2376,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 286
 # File: module/Application/view/application/tutorials/index.phtml, line: 695
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 280
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 240
 msgid "Travel Agent"
 msgstr ""
 #
@@ -4443,6 +4448,10 @@ msgstr ""
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 159
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 188
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 366
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 84
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 144
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 174
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 328
 msgid "Home"
 msgstr ""
 #
@@ -9686,6 +9695,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 454
 # File: module/Application/view/application/tutorials/index.phtml, line: 863
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 448
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 410
 msgid "Terms & Conditions"
 msgstr ""
 #
@@ -10538,6 +10548,8 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 980
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 174
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 564
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 159
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 524
 msgid "Login"
 msgstr ""
 #
@@ -10980,6 +10992,9 @@ msgstr ""
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 100
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 160
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 367
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 85
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 145
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 329
 msgid "Who Are We?"
 msgstr ""
 #
@@ -11047,6 +11062,9 @@ msgstr ""
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 101
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 161
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 368
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 86
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 146
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 330
 msgid "Products"
 msgstr ""
 #
@@ -11115,6 +11133,9 @@ msgstr ""
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 102
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 162
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 369
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 87
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 147
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 331
 msgid "Partners"
 msgstr ""
 #
@@ -11179,6 +11200,9 @@ msgstr ""
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 163
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 189
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 370
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 88
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 148
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 332
 msgid "Tutorials"
 msgstr ""
 #
@@ -11197,6 +11221,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 120
 # File: module/Application/view/application/tutorials/index.phtml, line: 181
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 135
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 120
 msgid "FAQ"
 msgstr ""
 #
@@ -11433,6 +11458,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 236
 # File: module/Application/view/application/tutorials/index.phtml, line: 645
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 230
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 190
 msgid "Contact Information"
 msgstr ""
 #
@@ -11448,6 +11474,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 237
 # File: module/Application/view/application/tutorials/index.phtml, line: 646
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 231
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 191
 msgid "For any inquiries or assistance, feel free to contact us. Our team is ready to support you."
 msgstr ""
 #
@@ -11464,6 +11491,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 244
 # File: module/Application/view/application/tutorials/index.phtml, line: 653
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 238
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 198
 msgid "Call Us For Query"
 msgstr ""
 #
@@ -11480,6 +11508,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 255
 # File: module/Application/view/application/tutorials/index.phtml, line: 664
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 249
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 209
 msgid "Email Us Anytime"
 msgstr ""
 #
@@ -11496,6 +11525,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 266
 # File: module/Application/view/application/tutorials/index.phtml, line: 675
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 260
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 220
 msgid "Visit Our Office"
 msgstr ""
 #
@@ -11513,6 +11543,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 278
 # File: module/Application/view/application/tutorials/index.phtml, line: 687
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 272
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 232
 msgid "Your Name"
 msgstr ""
 #
@@ -11532,6 +11563,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 279
 # File: module/Application/view/application/tutorials/index.phtml, line: 688
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 273
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 233
 msgid "Email Address"
 msgstr ""
 #
@@ -11550,6 +11582,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 280
 # File: module/Application/view/application/tutorials/index.phtml, line: 689
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 274
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 234
 msgid "Phone Number"
 msgstr ""
 #
@@ -11577,6 +11610,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 281
 # File: module/Application/view/application/tutorials/index.phtml, line: 690
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 275
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 235
 msgid "Subject"
 msgstr ""
 #
@@ -11601,6 +11635,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 284
 # File: module/Application/view/application/tutorials/index.phtml, line: 693
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 278
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 238
 msgid "Company Type"
 msgstr ""
 #
@@ -11625,6 +11660,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 285
 # File: module/Application/view/application/tutorials/index.phtml, line: 694
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 279
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 239
 msgid "Travel Agency"
 msgstr ""
 #
@@ -11662,6 +11698,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 896
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 281
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 481
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 241
 msgid "Freelancer"
 msgstr ""
 #
@@ -11686,6 +11723,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 288
 # File: module/Application/view/application/tutorials/index.phtml, line: 697
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 282
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 242
 msgid "Tour Operator"
 msgstr ""
 #
@@ -11710,6 +11748,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 289
 # File: module/Application/view/application/tutorials/index.phtml, line: 698
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 283
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 243
 msgid "Hotel Chain"
 msgstr ""
 #
@@ -11760,6 +11799,8 @@ msgstr ""
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 284
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 305
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 532
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 244
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 265
 msgid "Other"
 msgstr ""
 #
@@ -11777,6 +11818,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 295
 # File: module/Application/view/application/tutorials/index.phtml, line: 704
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 289
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 249
 msgid "Select Country"
 msgstr ""
 #
@@ -11814,6 +11856,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 934
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 290
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 517
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 250
 msgid "United States"
 msgstr ""
 #
@@ -11843,6 +11886,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 935
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 291
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 518
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 251
 msgid "United Kingdom"
 msgstr ""
 #
@@ -11872,6 +11916,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 936
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 292
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 519
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 252
 msgid "Canada"
 msgstr ""
 #
@@ -11901,6 +11946,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 937
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 293
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 520
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 253
 msgid "Australia"
 msgstr ""
 #
@@ -11930,6 +11976,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 938
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 294
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 521
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 254
 msgid "Germany"
 msgstr ""
 #
@@ -11960,6 +12007,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 939
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 295
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 522
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 255
 msgid "France"
 msgstr ""
 #
@@ -11990,6 +12038,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 940
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 296
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 523
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 256
 msgid "Spain"
 msgstr ""
 #
@@ -12020,6 +12069,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 941
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 297
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 524
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 257
 msgid "Italy"
 msgstr ""
 #
@@ -12053,6 +12103,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 942
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 298
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 525
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 258
 msgid "Peru"
 msgstr ""
 #
@@ -12082,6 +12133,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 943
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 299
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 526
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 259
 msgid "Argentina"
 msgstr ""
 #
@@ -12111,6 +12163,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 944
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 300
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 527
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 260
 msgid "Chile"
 msgstr ""
 #
@@ -12143,6 +12196,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 945
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 301
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 528
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 261
 msgid "Colombia"
 msgstr ""
 #
@@ -12172,6 +12226,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 946
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 302
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 529
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 262
 msgid "Brazil"
 msgstr ""
 #
@@ -12203,6 +12258,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 947
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 303
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 530
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 263
 msgid "Dominican Republic"
 msgstr ""
 #
@@ -12232,6 +12288,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 948
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 304
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 531
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 264
 msgid "Portugal"
 msgstr ""
 #
@@ -12249,6 +12306,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 314
 # File: module/Application/view/application/tutorials/index.phtml, line: 723
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 308
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 268
 msgid "Your Message"
 msgstr ""
 #
@@ -12266,6 +12324,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 315
 # File: module/Application/view/application/tutorials/index.phtml, line: 724
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 309
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 269
 msgid "Thank you for reaching out. Your message has been successfully sent, and our team will get back to you shortly."
 msgstr ""
 #
@@ -12284,6 +12343,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 317
 # File: module/Application/view/application/tutorials/index.phtml, line: 726
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 311
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 271
 msgid "Send Message"
 msgstr ""
 #
@@ -12302,6 +12362,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 333
 # File: module/Application/view/application/tutorials/index.phtml, line: 742
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 327
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 289
 msgid "get updated the latest newsletter"
 msgstr ""
 #
@@ -12319,6 +12380,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 335
 # File: module/Application/view/application/tutorials/index.phtml, line: 744
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 329
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 291
 msgid "You’re already subscribed to our newsletter!"
 msgstr ""
 #
@@ -12336,6 +12398,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 336
 # File: module/Application/view/application/tutorials/index.phtml, line: 745
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 330
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 292
 msgid "The email address you entered is invalid. Please check it and try again to subscribe to our newsletter!"
 msgstr ""
 #
@@ -12353,6 +12416,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 337
 # File: module/Application/view/application/tutorials/index.phtml, line: 746
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 331
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 293
 msgid "An unexpected error occurred. Please try again later!"
 msgstr ""
 #
@@ -12370,6 +12434,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 338
 # File: module/Application/view/application/tutorials/index.phtml, line: 747
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 332
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 294
 msgid "We couldn’t confirm your subscription request. Please try again."
 msgstr ""
 #
@@ -12387,6 +12452,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 339
 # File: module/Application/view/application/tutorials/index.phtml, line: 748
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 333
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 295
 msgid "Subscription successful! You’ve been added to our newsletter list!"
 msgstr ""
 #
@@ -12405,6 +12471,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 342
 # File: module/Application/view/application/tutorials/index.phtml, line: 751
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 336
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 298
 msgid "Enter Email"
 msgstr ""
 #
@@ -12423,6 +12490,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 343
 # File: module/Application/view/application/tutorials/index.phtml, line: 752
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 337
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 299
 msgid "Subscribe Now"
 msgstr ""
 #
@@ -12440,6 +12508,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 356
 # File: module/Application/view/application/tutorials/index.phtml, line: 765
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 350
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 312
 msgid "Your trusted platform for seamless online bookings and effortless scheduling!"
 msgstr ""
 #
@@ -12487,6 +12556,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 413
 # File: module/Application/view/application/tutorials/index.phtml, line: 822
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 407
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 369
 msgid "Instagram Post"
 msgstr ""
 #
@@ -12504,6 +12574,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 449
 # File: module/Application/view/application/tutorials/index.phtml, line: 858
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 443
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 405
 msgid "All Rights Reserved."
 msgstr ""
 #
@@ -12522,6 +12593,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 455
 # File: module/Application/view/application/tutorials/index.phtml, line: 864
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 449
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 411
 msgid "Careers"
 msgstr ""
 #
@@ -12548,6 +12620,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 456
 # File: module/Application/view/application/tutorials/index.phtml, line: 865
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 450
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 412
 msgid "Privacy Policy"
 msgstr ""
 #
@@ -12629,6 +12702,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 564
 # File: module/Application/view/application/tutorials/index.phtml, line: 976
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 560
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 520
 msgid "Sign Up"
 msgstr ""
 #
@@ -12651,6 +12725,7 @@ msgstr ""
 # File: module/Application/view/application/faq/index.phtml, line: 567
 # File: module/Application/view/application/tutorials/index.phtml, line: 979
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 563
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 523
 msgid "Already a Member?"
 msgstr ""
 #
@@ -17693,6 +17768,7 @@ msgstr ""
 # File: module/Application/view/application/view/index.phtml, line: 1057
 # File: module/Application/view/application/faq/index.phtml, line: 449
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 443
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 405
 msgid "Copyright"
 msgstr ""
 #
@@ -17773,11 +17849,14 @@ msgid "All Rights Reserved"
 msgstr ""
 #
 # File: module/Application/view/application/faq/index.phtml, line: 6
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 6
 msgid "Click and Book FAQ – Travel Agent Platform, Wholesale Rates, Commissions & Support"
 msgstr ""
 #
 # File: module/Application/view/application/faq/index.phtml, line: 172
 # File: module/Application/view/application/faq/index.phtml, line: 175
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 172
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 175
 msgid "FAQs"
 msgstr ""
 #
