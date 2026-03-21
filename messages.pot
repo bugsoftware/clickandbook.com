@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-20 18:27-0400\n"
+"POT-Creation-Date: 2026-03-21 03:40-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,7 +63,7 @@ msgstr ""
 # File: module/Application/src/Controller/MarketingController.php, line: 519
 # File: module/Application/src/Controller/ReservationsController.php, line: 872
 # File: module/Application/src/Controller/ReservationsController.php, line: 1196
-# File: module/Application/src/Controller/ReservationsController.php, line: 1400
+# File: module/Application/src/Controller/ReservationsController.php, line: 1401
 # File: module/Application/src/Controller/SupportController.php, line: 237
 # File: module/Application/src/Controller/SupportController.php, line: 424
 # File: module/Application/src/Controller/TransfersController.php, line: 780
@@ -78,7 +78,7 @@ msgstr ""
 # File: module/Application/src/Controller/FlightsController.php, line: 4295
 # File: module/Application/src/Controller/HotelsController.php, line: 8324
 # File: module/Application/src/Controller/InsurancesController.php, line: 658
-# File: module/Application/src/Controller/ReservationsController.php, line: 1413
+# File: module/Application/src/Controller/ReservationsController.php, line: 1414
 # File: module/Application/src/Controller/TransfersController.php, line: 1072
 msgid "All Payment Status"
 msgstr ""
@@ -90,7 +90,7 @@ msgstr ""
 # File: module/Application/src/Controller/FlightsController.php, line: 4345
 # File: module/Application/src/Controller/HotelsController.php, line: 8374
 # File: module/Application/src/Controller/InsurancesController.php, line: 708
-# File: module/Application/src/Controller/ReservationsController.php, line: 1463
+# File: module/Application/src/Controller/ReservationsController.php, line: 1464
 # File: module/Application/src/Controller/TransfersController.php, line: 1122
 msgid "All Reservation Status"
 msgstr ""
@@ -1058,7 +1058,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 67
 # File: module/Application/view/application/portfolio/categories.phtml, line: 55
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 31
-# File: module/Application/view/application/reservations/list.phtml, line: 85
+# File: module/Application/view/application/reservations/list.phtml, line: 79
+# File: module/Application/view/application/reservations/list.phtml, line: 87
 # File: module/Application/view/application/view-reservation/index.phtml, line: 111
 # File: module/Application/view/application/view-reservation/index.phtml, line: 283
 # File: module/Application/view/application/view-reservation/index.phtml, line: 317
@@ -2190,7 +2191,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 69
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 68
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 99
-# File: module/Application/view/application/reservations/list.phtml, line: 87
+# File: module/Application/view/application/reservations/list.phtml, line: 89
 # File: module/Application/view/application/view-reservation/index.phtml, line: 113
 # File: module/Application/view/application/view-reservation/index.phtml, line: 285
 # File: module/Application/view/application/view-reservation/index.phtml, line: 532
@@ -2904,7 +2905,6 @@ msgstr ""
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 62
 # File: module/Application/view/application/packages/listreservations.phtml, line: 33
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 62
-# File: module/Application/view/application/reservations/list.phtml, line: 33
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 62
 # File: module/Application/view/application/reservations/searchallbookings.phtml, line: 50
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 33
@@ -3199,7 +3199,6 @@ msgstr ""
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 61
 # File: module/Application/view/application/packages/listreservations.phtml, line: 32
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 61
-# File: module/Application/view/application/reservations/list.phtml, line: 32
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 61
 # File: module/Application/view/application/reservations/searchallbookings.phtml, line: 49
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 32
@@ -4620,7 +4619,7 @@ msgstr ""
 # File: module/Application/view/application/packages/view.phtml, line: 292
 # File: module/Application/view/application/packages/view.phtml, line: 321
 # File: module/Application/view/application/reservations/index.phtml, line: 60
-# File: module/Application/view/application/reservations/list.phtml, line: 53
+# File: module/Application/view/application/reservations/list.phtml, line: 55
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 7
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 21
 # File: module/Application/view/application/transfers/index.phtml, line: 33
@@ -4781,7 +4780,7 @@ msgstr ""
 # File: module/Application/view/application/packages/listreservations.phtml, line: 24
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 34
 # File: module/Application/view/application/reservations/list.phtml, line: 24
-# File: module/Application/view/application/reservations/list.phtml, line: 36
+# File: module/Application/view/application/reservations/list.phtml, line: 37
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 29
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 34
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 24
@@ -5011,7 +5010,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/blog.phtml, line: 70
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 47
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 42
-# File: module/Application/view/application/reservations/list.phtml, line: 37
+# File: module/Application/view/application/reservations/list.phtml, line: 38
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 65
 # File: module/Application/view/application/reservations/searchallbookings.phtml, line: 53
 # File: module/Application/view/application/support/list.phtml, line: 36
@@ -5030,6 +5029,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 53
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 52
 # File: module/Application/view/application/reservations/list.phtml, line: 55
+# File: module/Application/view/application/reservations/list.phtml, line: 57
 # File: module/Application/view/application/view-reservation/index.phtml, line: 81
 # File: module/Application/view/application/view-reservation/index.phtml, line: 253
 # File: module/Application/view/application/view-reservation/index.phtml, line: 500
@@ -5050,7 +5050,7 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 53
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 54
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 53
-# File: module/Application/view/application/reservations/list.phtml, line: 57
+# File: module/Application/view/application/reservations/list.phtml, line: 59
 # File: module/Application/view/application/view-reservation/index.phtml, line: 83
 # File: module/Application/view/application/view-reservation/index.phtml, line: 255
 # File: module/Application/view/application/view-reservation/index.phtml, line: 502
@@ -5071,7 +5071,7 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 54
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 55
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 54
-# File: module/Application/view/application/reservations/list.phtml, line: 59
+# File: module/Application/view/application/reservations/list.phtml, line: 61
 # File: module/Application/view/application/view-reservation/index.phtml, line: 85
 # File: module/Application/view/application/view-reservation/index.phtml, line: 257
 # File: module/Application/view/application/view-reservation/index.phtml, line: 504
@@ -5092,7 +5092,6 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 55
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 56
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 55
-# File: module/Application/view/application/reservations/list.phtml, line: 61
 # File: module/Application/view/application/view-reservation/index.phtml, line: 87
 # File: module/Application/view/application/view-reservation/index.phtml, line: 259
 # File: module/Application/view/application/view-reservation/index.phtml, line: 506
@@ -5113,7 +5112,7 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 56
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 57
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 56
-# File: module/Application/view/application/reservations/list.phtml, line: 63
+# File: module/Application/view/application/reservations/list.phtml, line: 65
 # File: module/Application/view/application/view-reservation/index.phtml, line: 89
 # File: module/Application/view/application/view-reservation/index.phtml, line: 261
 # File: module/Application/view/application/view-reservation/index.phtml, line: 508
@@ -5134,7 +5133,7 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 57
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 58
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 57
-# File: module/Application/view/application/reservations/list.phtml, line: 65
+# File: module/Application/view/application/reservations/list.phtml, line: 67
 # File: module/Application/view/application/view-reservation/index.phtml, line: 91
 # File: module/Application/view/application/view-reservation/index.phtml, line: 263
 # File: module/Application/view/application/view-reservation/index.phtml, line: 510
@@ -5155,7 +5154,7 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 58
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 59
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 58
-# File: module/Application/view/application/reservations/list.phtml, line: 67
+# File: module/Application/view/application/reservations/list.phtml, line: 69
 # File: module/Application/view/application/view-reservation/index.phtml, line: 93
 # File: module/Application/view/application/view-reservation/index.phtml, line: 265
 # File: module/Application/view/application/view-reservation/index.phtml, line: 512
@@ -5176,7 +5175,7 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 59
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 60
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 59
-# File: module/Application/view/application/reservations/list.phtml, line: 69
+# File: module/Application/view/application/reservations/list.phtml, line: 71
 # File: module/Application/view/application/view-reservation/index.phtml, line: 95
 # File: module/Application/view/application/view-reservation/index.phtml, line: 267
 # File: module/Application/view/application/view-reservation/index.phtml, line: 514
@@ -5200,7 +5199,6 @@ msgstr ""
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 61
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 80
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 60
-# File: module/Application/view/application/reservations/list.phtml, line: 71
 # File: module/Application/view/application/view-reservation/index.phtml, line: 97
 # File: module/Application/view/application/view-reservation/index.phtml, line: 269
 # File: module/Application/view/application/view-reservation/index.phtml, line: 309
@@ -5229,7 +5227,7 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 61
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 62
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 61
-# File: module/Application/view/application/reservations/list.phtml, line: 73
+# File: module/Application/view/application/reservations/list.phtml, line: 75
 # File: module/Application/view/application/view-reservation/index.phtml, line: 99
 # File: module/Application/view/application/view-reservation/index.phtml, line: 271
 # File: module/Application/view/application/view-reservation/index.phtml, line: 518
@@ -5250,7 +5248,7 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 62
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 63
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 62
-# File: module/Application/view/application/reservations/list.phtml, line: 75
+# File: module/Application/view/application/reservations/list.phtml, line: 77
 # File: module/Application/view/application/view-reservation/index.phtml, line: 101
 # File: module/Application/view/application/view-reservation/index.phtml, line: 273
 # File: module/Application/view/application/view-reservation/index.phtml, line: 520
@@ -5271,7 +5269,7 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 63
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 64
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 63
-# File: module/Application/view/application/reservations/list.phtml, line: 77
+# File: module/Application/view/application/reservations/list.phtml, line: 79
 # File: module/Application/view/application/view-reservation/index.phtml, line: 103
 # File: module/Application/view/application/view-reservation/index.phtml, line: 275
 # File: module/Application/view/application/view-reservation/index.phtml, line: 522
@@ -5292,7 +5290,7 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 64
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 65
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 64
-# File: module/Application/view/application/reservations/list.phtml, line: 79
+# File: module/Application/view/application/reservations/list.phtml, line: 81
 # File: module/Application/view/application/view-reservation/index.phtml, line: 105
 msgid "Recovered Booking"
 msgstr ""
@@ -5305,7 +5303,7 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 65
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 66
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 65
-# File: module/Application/view/application/reservations/list.phtml, line: 81
+# File: module/Application/view/application/reservations/list.phtml, line: 83
 # File: module/Application/view/application/view-reservation/index.phtml, line: 107
 # File: module/Application/view/application/view-reservation/index.phtml, line: 279
 # File: module/Application/view/application/view-reservation/index.phtml, line: 526
@@ -5325,7 +5323,7 @@ msgstr ""
 # File: module/Application/view/application/flights/listreservations.phtml, line: 66
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 67
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 66
-# File: module/Application/view/application/reservations/list.phtml, line: 83
+# File: module/Application/view/application/reservations/list.phtml, line: 85
 msgid "Dupplicated"
 msgstr ""
 #
@@ -5594,7 +5592,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/blog.phtml, line: 109
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 62
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 52
-# File: module/Application/view/application/reservations/list.phtml, line: 90
+# File: module/Application/view/application/reservations/list.phtml, line: 92
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 79
 # File: module/Application/view/application/reservations/searchallbookings.phtml, line: 67
 # File: module/Application/view/application/support/list.phtml, line: 52
@@ -17105,6 +17103,50 @@ msgstr ""
 #
 # File: module/Application/view/application/reservations/index.phtml, line: 79
 msgid "Search All Bookings"
+msgstr ""
+#
+# File: module/Application/view/application/reservations/list.phtml, line: 32
+msgid "Passenger Names"
+msgstr ""
+#
+# File: module/Application/view/application/reservations/list.phtml, line: 33
+msgid "Passenger Count"
+msgstr ""
+#
+# File: module/Application/view/application/reservations/list.phtml, line: 34
+msgid "Due Date"
+msgstr ""
+#
+# File: module/Application/view/application/reservations/list.phtml, line: 36
+msgid "Additional Fee"
+msgstr ""
+#
+# File: module/Application/view/application/reservations/list.phtml, line: 63
+msgid "Reservation Pending Confirmation"
+msgstr ""
+#
+# File: module/Application/view/application/reservations/list.phtml, line: 71
+msgid "Reservation Failed, Technical Issue"
+msgstr ""
+#
+# File: module/Application/view/application/reservations/list.phtml, line: 73
+msgid "Pending Supervisor Review"
+msgstr ""
+#
+# File: module/Application/view/application/reservations/list.phtml, line: 75
+msgid "Queued for Processing"
+msgstr ""
+#
+# File: module/Application/view/application/reservations/list.phtml, line: 77
+msgid "Queued for Cancellation"
+msgstr ""
+#
+# File: module/Application/view/application/reservations/list.phtml, line: 85
+msgid "Duplicate Booking Detected"
+msgstr ""
+#
+# File: module/Application/view/application/reservations/list.phtml, line: 89
+msgid "Status Unavailable"
 msgstr ""
 #
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 19
