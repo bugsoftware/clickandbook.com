@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-07 10:51-0400\n"
+"POT-Creation-Date: 2026-04-08 09:59-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,7 +57,7 @@ msgstr ""
 # File: module/Application/src/Controller/HotelsController.php, line: 7213
 # File: module/Application/src/Controller/HotelsController.php, line: 8006
 # File: module/Application/src/Controller/HotelsController.php, line: 8311
-# File: module/Application/src/Controller/IndexController.php, line: 13461
+# File: module/Application/src/Controller/IndexController.php, line: 13476
 # File: module/Application/src/Controller/InsurancesController.php, line: 409
 # File: module/Application/src/Controller/InsurancesController.php, line: 731
 # File: module/Application/src/Controller/MarketingController.php, line: 519
@@ -199,9 +199,10 @@ msgstr ""
 # File: module/Application/view/application/index/prices.phtml, line: 799
 # File: module/Application/view/application/index/order.old.phtml, line: 456
 # File: module/Application/view/application/index/order.old.phtml, line: 490
-# File: module/Application/view/application/index/activate.phtml, line: 650
+# File: module/Application/view/application/index/activate.phtml, line: 649
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 126
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 140
+# File: module/Application/view/application/index/trial.phtml, line: 674
 # File: module/Application/view/application/packages/newpackage.phtml, line: 107
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 27
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 45
@@ -289,9 +290,11 @@ msgstr ""
 # File: module/Application/view/application/index/prices.phtml, line: 766
 # File: module/Application/view/application/index/order.old.phtml, line: 425
 # File: module/Application/view/application/index/order.old.phtml, line: 475
-# File: module/Application/view/application/index/activate.phtml, line: 617
+# File: module/Application/view/application/index/activate.phtml, line: 616
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
+# File: module/Application/view/application/index/trial.phtml, line: 255
+# File: module/Application/view/application/index/trial.phtml, line: 641
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 49
 # File: module/Application/view/application/support/edit.phtml, line: 33
 # File: module/Application/view/application/support/list.phtml, line: 33
@@ -368,9 +371,11 @@ msgstr ""
 # File: module/Application/view/application/index/prices.phtml, line: 772
 # File: module/Application/view/application/index/order.old.phtml, line: 432
 # File: module/Application/view/application/index/order.old.phtml, line: 479
-# File: module/Application/view/application/index/activate.phtml, line: 623
+# File: module/Application/view/application/index/activate.phtml, line: 622
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
+# File: module/Application/view/application/index/trial.phtml, line: 263
+# File: module/Application/view/application/index/trial.phtml, line: 647
 # File: module/Application/view/application/marketing/new.phtml, line: 83
 # File: module/Application/view/application/packages/edit.phtml, line: 98
 # File: module/Application/view/application/packages/edit.phtml, line: 100
@@ -575,6 +580,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 139
 # File: module/Application/view/application/index/prices.phtml, line: 120
 # File: module/Application/view/application/index/activate.phtml, line: 119
+# File: module/Application/view/application/index/trial.phtml, line: 119
 # File: module/Application/view/application/support/edit.phtml, line: 12
 # File: module/Application/view/application/support/edit.phtml, line: 20
 # File: module/Application/view/application/support/index.phtml, line: 6
@@ -663,6 +669,8 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 33
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 51
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 126
+# File: module/Application/view/application/index/trial.phtml, line: 87
+# File: module/Application/view/application/index/trial.phtml, line: 147
 # File: module/Application/view/application/blog/index.phtml, line: 88
 # File: module/Application/view/application/blog/index.phtml, line: 148
 # File: module/Application/view/application/blog/index.phtml, line: 211
@@ -1189,14 +1197,14 @@ msgstr ""
 # File: module/Application/src/Controller/IndexController.php, line: 2182
 # File: module/Application/src/Controller/IndexController.php, line: 2219
 # File: module/Application/src/Controller/IndexController.php, line: 2220
-# File: module/Application/src/Controller/IndexController.php, line: 4953
-# File: module/Application/src/Controller/IndexController.php, line: 4955
-# File: module/Application/src/Controller/IndexController.php, line: 4995
-# File: module/Application/src/Controller/IndexController.php, line: 4997
-# File: module/Application/src/Controller/IndexController.php, line: 5102
-# File: module/Application/src/Controller/IndexController.php, line: 5104
-# File: module/Application/src/Controller/IndexController.php, line: 11870
-# File: module/Application/src/Controller/IndexController.php, line: 11871
+# File: module/Application/src/Controller/IndexController.php, line: 4968
+# File: module/Application/src/Controller/IndexController.php, line: 4970
+# File: module/Application/src/Controller/IndexController.php, line: 5010
+# File: module/Application/src/Controller/IndexController.php, line: 5012
+# File: module/Application/src/Controller/IndexController.php, line: 5117
+# File: module/Application/src/Controller/IndexController.php, line: 5119
+# File: module/Application/src/Controller/IndexController.php, line: 11885
+# File: module/Application/src/Controller/IndexController.php, line: 11886
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 293
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 710
 # File: module/Application/src/Controller/BlogController.php, line: 234
@@ -1230,10 +1238,10 @@ msgstr ""
 #
 # File: module/Application/src/Controller/IndexController.php, line: 2183
 # File: module/Application/src/Controller/IndexController.php, line: 2221
-# File: module/Application/src/Controller/IndexController.php, line: 4959
-# File: module/Application/src/Controller/IndexController.php, line: 5001
-# File: module/Application/src/Controller/IndexController.php, line: 5104
-# File: module/Application/src/Controller/IndexController.php, line: 11871
+# File: module/Application/src/Controller/IndexController.php, line: 4974
+# File: module/Application/src/Controller/IndexController.php, line: 5016
+# File: module/Application/src/Controller/IndexController.php, line: 5119
+# File: module/Application/src/Controller/IndexController.php, line: 11886
 # File: module/Application/src/Controller/ViewReservationController.php, line: 2114
 msgid "Thanks"
 msgstr ""
@@ -1272,158 +1280,158 @@ msgstr ""
 msgid "Pending"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4954
-# File: module/Application/src/Controller/IndexController.php, line: 4996
+# File: module/Application/src/Controller/IndexController.php, line: 4969
+# File: module/Application/src/Controller/IndexController.php, line: 5011
 msgid "You will be billed monthly on the"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4954
-# File: module/Application/src/Controller/IndexController.php, line: 4996
+# File: module/Application/src/Controller/IndexController.php, line: 4969
+# File: module/Application/src/Controller/IndexController.php, line: 5011
 msgid "of each month for the amount of"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4954
-# File: module/Application/src/Controller/IndexController.php, line: 4996
+# File: module/Application/src/Controller/IndexController.php, line: 4969
+# File: module/Application/src/Controller/IndexController.php, line: 5011
 msgid "based on your selected plan."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4955
-# File: module/Application/src/Controller/IndexController.php, line: 4997
+# File: module/Application/src/Controller/IndexController.php, line: 4970
+# File: module/Application/src/Controller/IndexController.php, line: 5012
 msgid "Success! You're Now Subscribed to Click & Book"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4955
-# File: module/Application/src/Controller/IndexController.php, line: 4997
+# File: module/Application/src/Controller/IndexController.php, line: 4970
+# File: module/Application/src/Controller/IndexController.php, line: 5012
 msgid "Thank you for subscribing to Click & Book! We're happy to confirm that your subscription is now active. You will receive an email with a link to your dashboard, allowing you to access your account, manage your settings, explore exclusive features, and maximize your plan."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4955
-# File: module/Application/src/Controller/IndexController.php, line: 4997
+# File: module/Application/src/Controller/IndexController.php, line: 4970
+# File: module/Application/src/Controller/IndexController.php, line: 5012
 msgid "If you have any questions or need assistance, our customer support team is always ready to help. Your subscription panel is as follows:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4957
-# File: module/Application/src/Controller/IndexController.php, line: 4999
+# File: module/Application/src/Controller/IndexController.php, line: 4972
+# File: module/Application/src/Controller/IndexController.php, line: 5014
 msgid "Approval Code:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4959
-# File: module/Application/src/Controller/IndexController.php, line: 5001
+# File: module/Application/src/Controller/IndexController.php, line: 4974
+# File: module/Application/src/Controller/IndexController.php, line: 5016
 msgid "Once again, welcome to Click & Book - We are excited to have you on board!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4960
-# File: module/Application/src/Controller/IndexController.php, line: 5002
+# File: module/Application/src/Controller/IndexController.php, line: 4975
+# File: module/Application/src/Controller/IndexController.php, line: 5017
 msgid "Your Click & Book Subscription Is Confirmed!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4975
-# File: module/Application/src/Controller/IndexController.php, line: 5020
+# File: module/Application/src/Controller/IndexController.php, line: 4990
+# File: module/Application/src/Controller/IndexController.php, line: 5035
 msgid "Membership Fee Click & Book Subscription Is Confirmed!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 5104
+# File: module/Application/src/Controller/IndexController.php, line: 5119
 msgid "Click & Book Subscription Failed"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 5104
+# File: module/Application/src/Controller/IndexController.php, line: 5119
 msgid "Unfortunately, we were unable to process your payment for your Click & Book subscription due to a credit card payment failure. As a result, your subscription could not be completed."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 5104
+# File: module/Application/src/Controller/IndexController.php, line: 5119
 msgid "To resolve this issue, please try processing the payment again using a different card or verifying the details of your current payment method. If the issue persists, our customer support team is here to help. Selected subscription panel:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 5104
+# File: module/Application/src/Controller/IndexController.php, line: 5119
 msgid "Thank you for choosing Click & Book. We look forward to assisting you!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 5105
+# File: module/Application/src/Controller/IndexController.php, line: 5120
 msgid "Click & Book Subscription Payment Failed!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11270
+# File: module/Application/src/Controller/IndexController.php, line: 11285
 # File: module/Application/src/Controller/JSONController.php, line: 421
 msgid "Your Click & Book verification code is:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11528
-# File: module/Application/src/Controller/IndexController.php, line: 11726
+# File: module/Application/src/Controller/IndexController.php, line: 11543
+# File: module/Application/src/Controller/IndexController.php, line: 11741
 msgid "Dear Team,"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11530
+# File: module/Application/src/Controller/IndexController.php, line: 11545
 msgid "A member has successfully uploaded their identification document to the system. Please initiate the review process to verify compliance with our requirements."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11532
-# File: module/Application/src/Controller/IndexController.php, line: 11730
+# File: module/Application/src/Controller/IndexController.php, line: 11547
+# File: module/Application/src/Controller/IndexController.php, line: 11745
 msgid "Details:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11534
-# File: module/Application/src/Controller/IndexController.php, line: 11732
+# File: module/Application/src/Controller/IndexController.php, line: 11549
+# File: module/Application/src/Controller/IndexController.php, line: 11747
 msgid "Member Name:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11536
-# File: module/Application/src/Controller/IndexController.php, line: 11734
+# File: module/Application/src/Controller/IndexController.php, line: 11551
+# File: module/Application/src/Controller/IndexController.php, line: 11749
 msgid "Member Id:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11538
-# File: module/Application/src/Controller/IndexController.php, line: 11736
+# File: module/Application/src/Controller/IndexController.php, line: 11553
+# File: module/Application/src/Controller/IndexController.php, line: 11751
 msgid "Submission Date:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11540
+# File: module/Application/src/Controller/IndexController.php, line: 11555
 msgid "Please review all submitted documents and confirm their accuracy. If any issues are found, kindly reach out to the member for clarification or corrections."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11542
-# File: module/Application/src/Controller/IndexController.php, line: 11740
+# File: module/Application/src/Controller/IndexController.php, line: 11557
+# File: module/Application/src/Controller/IndexController.php, line: 11755
 msgid "Best regards,"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11544
-# File: module/Application/src/Controller/IndexController.php, line: 11742
+# File: module/Application/src/Controller/IndexController.php, line: 11559
+# File: module/Application/src/Controller/IndexController.php, line: 11757
 msgid "Click & Book Team"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11557
+# File: module/Application/src/Controller/IndexController.php, line: 11572
 msgid "Action Needed: Driver's License Submitted for Verification"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11728
+# File: module/Application/src/Controller/IndexController.php, line: 11743
 msgid "A member has successfully submitted their bank account information to the system. Please proceed with the review process to ensure compliance with verification requirements."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11738
+# File: module/Application/src/Controller/IndexController.php, line: 11753
 msgid "Please review all submitted bank account information and verify its accuracy. If any discrepancies are found, kindly contact the member for clarification or necessary corrections."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11755
+# File: module/Application/src/Controller/IndexController.php, line: 11770
 msgid "Action Required: Bank Account Information Submitted for Verification"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11871
-# File: module/Application/src/Controller/IndexController.php, line: 11872
+# File: module/Application/src/Controller/IndexController.php, line: 11886
+# File: module/Application/src/Controller/IndexController.php, line: 11887
 msgid "Verify your email"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11871
+# File: module/Application/src/Controller/IndexController.php, line: 11886
 msgid "To activate your account, please verify your email address. Your account will not be activated until your email address is confirmed."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11871
+# File: module/Application/src/Controller/IndexController.php, line: 11886
 msgid "Please enter this code to complete the email verification process."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 11871
+# File: module/Application/src/Controller/IndexController.php, line: 11886
 msgid "This is valid for 30 minutes only"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14418
+# File: module/Application/src/Controller/IndexController.php, line: 14547
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 207
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 482
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3057
@@ -1441,7 +1449,7 @@ msgstr ""
 msgid "English"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14420
+# File: module/Application/src/Controller/IndexController.php, line: 14549
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 198
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 473
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3060
@@ -1459,7 +1467,7 @@ msgstr ""
 msgid "Spanish"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14422
+# File: module/Application/src/Controller/IndexController.php, line: 14551
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 189
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 464
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3066
@@ -1468,44 +1476,44 @@ msgstr ""
 msgid "Portuguese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14424
+# File: module/Application/src/Controller/IndexController.php, line: 14553
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 165
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 440
 msgid "French"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14426
+# File: module/Application/src/Controller/IndexController.php, line: 14555
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 177
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 452
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3063
 msgid "Italian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14428
+# File: module/Application/src/Controller/IndexController.php, line: 14557
 msgid "Deutsch"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14430
+# File: module/Application/src/Controller/IndexController.php, line: 14559
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 156
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 431
 msgid "Armenian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14432
+# File: module/Application/src/Controller/IndexController.php, line: 14561
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 159
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 434
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3081
 msgid "Chinese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14434
+# File: module/Application/src/Controller/IndexController.php, line: 14563
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 180
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 455
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3072
 msgid "Japanese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 14436
+# File: module/Application/src/Controller/IndexController.php, line: 14565
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 153
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 428
 msgid "Arabic"
@@ -2398,9 +2406,10 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 415
 # File: module/Application/view/application/index/products.old.phtml, line: 221
 # File: module/Application/view/application/index/products.phtml, line: 514
-# File: module/Application/view/application/index/activate.phtml, line: 386
+# File: module/Application/view/application/index/activate.phtml, line: 385
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
+# File: module/Application/view/application/index/trial.phtml, line: 410
 # File: module/Application/view/application/blog/index.phtml, line: 262
 # File: module/Application/view/application/blog/details.phtml, line: 461
 # File: module/Application/view/application/blog/list.phtml, line: 397
@@ -2690,7 +2699,8 @@ msgstr ""
 # File: module/Application/view/application/index/order.phtml, line: 416
 # File: module/Application/view/application/index/updatecreditcard.phtml, line: 45
 # File: module/Application/view/application/index/order.old.phtml, line: 408
-# File: module/Application/view/application/index/activate.phtml, line: 315
+# File: module/Application/view/application/index/activate.phtml, line: 314
+# File: module/Application/view/application/index/trial.phtml, line: 339
 # File: module/Application/view/application/view-reservation/creditcardinfo.phtml, line: 23
 msgid "Expiration Date"
 msgstr ""
@@ -4456,13 +4466,16 @@ msgstr ""
 # File: module/Application/view/application/index/activate.phtml, line: 82
 # File: module/Application/view/application/index/activate.phtml, line: 142
 # File: module/Application/view/application/index/activate.phtml, line: 171
-# File: module/Application/view/application/index/activate.phtml, line: 473
+# File: module/Application/view/application/index/activate.phtml, line: 472
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 28
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 41
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 155
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 28
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 41
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 169
+# File: module/Application/view/application/index/trial.phtml, line: 82
+# File: module/Application/view/application/index/trial.phtml, line: 142
+# File: module/Application/view/application/index/trial.phtml, line: 497
 # File: module/Application/view/application/insurances/index.phtml, line: 9
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 9
 # File: module/Application/view/application/knowledge-base/item.phtml, line: 9
@@ -6101,8 +6114,11 @@ msgstr ""
 # File: module/Application/view/application/index/prices.phtml, line: 752
 # File: module/Application/view/application/index/order.old.phtml, line: 420
 # File: module/Application/view/application/index/order.old.phtml, line: 473
-# File: module/Application/view/application/index/activate.phtml, line: 266
-# File: module/Application/view/application/index/activate.phtml, line: 605
+# File: module/Application/view/application/index/activate.phtml, line: 265
+# File: module/Application/view/application/index/activate.phtml, line: 604
+# File: module/Application/view/application/index/trial.phtml, line: 243
+# File: module/Application/view/application/index/trial.phtml, line: 290
+# File: module/Application/view/application/index/trial.phtml, line: 629
 # File: module/Application/view/application/support/edit.phtml, line: 30
 # File: module/Application/view/application/support/search.phtml, line: 32
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 8
@@ -6148,8 +6164,11 @@ msgstr ""
 # File: module/Application/view/application/index/prices.phtml, line: 758
 # File: module/Application/view/application/index/order.old.phtml, line: 421
 # File: module/Application/view/application/index/order.old.phtml, line: 474
-# File: module/Application/view/application/index/activate.phtml, line: 269
-# File: module/Application/view/application/index/activate.phtml, line: 610
+# File: module/Application/view/application/index/activate.phtml, line: 268
+# File: module/Application/view/application/index/activate.phtml, line: 609
+# File: module/Application/view/application/index/trial.phtml, line: 248
+# File: module/Application/view/application/index/trial.phtml, line: 293
+# File: module/Application/view/application/index/trial.phtml, line: 634
 # File: module/Application/view/application/support/edit.phtml, line: 31
 # File: module/Application/view/application/support/search.phtml, line: 36
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 12
@@ -6242,7 +6261,8 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 802
 # File: module/Application/view/application/index/prices.phtml, line: 806
 # File: module/Application/view/application/index/order.old.phtml, line: 491
-# File: module/Application/view/application/index/activate.phtml, line: 657
+# File: module/Application/view/application/index/activate.phtml, line: 656
+# File: module/Application/view/application/index/trial.phtml, line: 681
 # File: module/Application/view/application/tutorials/index.phtml, line: 966
 msgid "Password"
 msgstr ""
@@ -9935,9 +9955,10 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 688
 # File: module/Application/view/application/index/prices.phtml, line: 699
 # File: module/Application/view/application/index/order.old.phtml, line: 503
-# File: module/Application/view/application/index/activate.phtml, line: 555
+# File: module/Application/view/application/index/activate.phtml, line: 554
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 158
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 172
+# File: module/Application/view/application/index/trial.phtml, line: 579
 # File: module/Application/view/application/packages/edittermsandconditions.phtml, line: 15
 # File: module/Application/view/application/packages/edittermsandconditions.phtml, line: 30
 # File: module/Application/view/application/packages/manage.phtml, line: 131
@@ -10263,6 +10284,8 @@ msgstr ""
 # File: module/Application/view/application/index/content.phtml, line: 130
 # File: module/Application/view/application/index/content.phtml, line: 152
 # File: module/Application/view/application/index/content.phtml, line: 175
+# File: module/Application/view/application/index/content.phtml, line: 188
+# File: module/Application/view/application/index/content.phtml, line: 201
 # File: module/Application/view/application/index/preferences.phtml, line: 74
 # File: module/Application/view/application/index/seo.phtml, line: 67
 # File: module/Application/view/application/index/seo.phtml, line: 105
@@ -10501,6 +10524,22 @@ msgstr ""
 #
 # File: module/Application/view/application/index/content.phtml, line: 171
 msgid "Input logo height (e.g. 80px), leave empty for default size"
+msgstr ""
+#
+# File: module/Application/view/application/index/content.phtml, line: 180
+msgid "Public Email"
+msgstr ""
+#
+# File: module/Application/view/application/index/content.phtml, line: 184
+msgid "Input the email address that will be visible to the public on your website"
+msgstr ""
+#
+# File: module/Application/view/application/index/content.phtml, line: 193
+msgid "Public Phone"
+msgstr ""
+#
+# File: module/Application/view/application/index/content.phtml, line: 197
+msgid "Input the phone number that will be visible to the public on your website"
 msgstr ""
 #
 # File: module/Application/view/application/index/forgotpassword.phtml, line: 6
@@ -10800,11 +10839,13 @@ msgstr ""
 # File: module/Application/view/application/index/prices.phtml, line: 158
 # File: module/Application/view/application/index/prices.phtml, line: 819
 # File: module/Application/view/application/index/activate.phtml, line: 157
-# File: module/Application/view/application/index/activate.phtml, line: 208
+# File: module/Application/view/application/index/activate.phtml, line: 207
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 34
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 53
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 34
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 53
+# File: module/Application/view/application/index/trial.phtml, line: 157
+# File: module/Application/view/application/index/trial.phtml, line: 203
 # File: module/Application/view/application/blog/index.phtml, line: 158
 # File: module/Application/view/application/blog/details.phtml, line: 174
 # File: module/Application/view/application/blog/details.phtml, line: 745
@@ -11233,7 +11274,10 @@ msgstr ""
 # File: module/Application/view/application/index/prices.phtml, line: 618
 # File: module/Application/view/application/index/activate.phtml, line: 83
 # File: module/Application/view/application/index/activate.phtml, line: 143
-# File: module/Application/view/application/index/activate.phtml, line: 474
+# File: module/Application/view/application/index/activate.phtml, line: 473
+# File: module/Application/view/application/index/trial.phtml, line: 83
+# File: module/Application/view/application/index/trial.phtml, line: 143
+# File: module/Application/view/application/index/trial.phtml, line: 498
 # File: module/Application/view/application/blog/index.phtml, line: 84
 # File: module/Application/view/application/blog/index.phtml, line: 144
 # File: module/Application/view/application/blog/index.phtml, line: 349
@@ -11297,13 +11341,16 @@ msgstr ""
 # File: module/Application/view/application/index/prices.phtml, line: 619
 # File: module/Application/view/application/index/activate.phtml, line: 84
 # File: module/Application/view/application/index/activate.phtml, line: 144
-# File: module/Application/view/application/index/activate.phtml, line: 475
+# File: module/Application/view/application/index/activate.phtml, line: 474
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 30
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 45
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 156
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 30
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 45
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 170
+# File: module/Application/view/application/index/trial.phtml, line: 84
+# File: module/Application/view/application/index/trial.phtml, line: 144
+# File: module/Application/view/application/index/trial.phtml, line: 499
 # File: module/Application/view/application/blog/index.phtml, line: 85
 # File: module/Application/view/application/blog/index.phtml, line: 145
 # File: module/Application/view/application/blog/index.phtml, line: 350
@@ -11369,13 +11416,16 @@ msgstr ""
 # File: module/Application/view/application/index/prices.phtml, line: 620
 # File: module/Application/view/application/index/activate.phtml, line: 85
 # File: module/Application/view/application/index/activate.phtml, line: 145
-# File: module/Application/view/application/index/activate.phtml, line: 476
+# File: module/Application/view/application/index/activate.phtml, line: 475
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 31
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 47
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 157
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 31
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 47
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 171
+# File: module/Application/view/application/index/trial.phtml, line: 85
+# File: module/Application/view/application/index/trial.phtml, line: 145
+# File: module/Application/view/application/index/trial.phtml, line: 500
 # File: module/Application/view/application/blog/index.phtml, line: 86
 # File: module/Application/view/application/blog/index.phtml, line: 146
 # File: module/Application/view/application/blog/index.phtml, line: 351
@@ -11434,11 +11484,14 @@ msgstr ""
 # File: module/Application/view/application/index/prices.phtml, line: 621
 # File: module/Application/view/application/index/activate.phtml, line: 86
 # File: module/Application/view/application/index/activate.phtml, line: 146
-# File: module/Application/view/application/index/activate.phtml, line: 477
+# File: module/Application/view/application/index/activate.phtml, line: 476
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 32
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 49
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 32
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 49
+# File: module/Application/view/application/index/trial.phtml, line: 86
+# File: module/Application/view/application/index/trial.phtml, line: 146
+# File: module/Application/view/application/index/trial.phtml, line: 501
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 31
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 27
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 27
@@ -11483,6 +11536,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 138
 # File: module/Application/view/application/index/prices.phtml, line: 119
 # File: module/Application/view/application/index/activate.phtml, line: 118
+# File: module/Application/view/application/index/trial.phtml, line: 118
 # File: module/Application/view/application/blog/index.phtml, line: 119
 # File: module/Application/view/application/blog/details.phtml, line: 135
 # File: module/Application/view/application/blog/list.phtml, line: 97
@@ -11806,7 +11860,8 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 373
 # File: module/Application/view/application/index/partners.phtml, line: 407
 # File: module/Application/view/application/index/products.phtml, line: 506
-# File: module/Application/view/application/index/activate.phtml, line: 378
+# File: module/Application/view/application/index/activate.phtml, line: 377
+# File: module/Application/view/application/index/trial.phtml, line: 402
 # File: module/Application/view/application/blog/index.phtml, line: 254
 # File: module/Application/view/application/blog/details.phtml, line: 453
 # File: module/Application/view/application/blog/list.phtml, line: 389
@@ -11825,8 +11880,10 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 374
 # File: module/Application/view/application/index/partners.phtml, line: 408
 # File: module/Application/view/application/index/products.phtml, line: 507
-# File: module/Application/view/application/index/activate.phtml, line: 304
-# File: module/Application/view/application/index/activate.phtml, line: 379
+# File: module/Application/view/application/index/activate.phtml, line: 303
+# File: module/Application/view/application/index/activate.phtml, line: 378
+# File: module/Application/view/application/index/trial.phtml, line: 328
+# File: module/Application/view/application/index/trial.phtml, line: 403
 # File: module/Application/view/application/blog/index.phtml, line: 255
 # File: module/Application/view/application/blog/details.phtml, line: 454
 # File: module/Application/view/application/blog/list.phtml, line: 390
@@ -11844,7 +11901,8 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 375
 # File: module/Application/view/application/index/partners.phtml, line: 409
 # File: module/Application/view/application/index/products.phtml, line: 508
-# File: module/Application/view/application/index/activate.phtml, line: 380
+# File: module/Application/view/application/index/activate.phtml, line: 379
+# File: module/Application/view/application/index/trial.phtml, line: 404
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 42
 # File: module/Application/view/application/blog/index.phtml, line: 256
 # File: module/Application/view/application/blog/details.phtml, line: 455
@@ -11868,9 +11926,10 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 410
 # File: module/Application/view/application/index/products.old.phtml, line: 223
 # File: module/Application/view/application/index/products.phtml, line: 509
-# File: module/Application/view/application/index/activate.phtml, line: 381
+# File: module/Application/view/application/index/activate.phtml, line: 380
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 126
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 140
+# File: module/Application/view/application/index/trial.phtml, line: 405
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 31
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 38
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 40
@@ -11896,9 +11955,10 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 413
 # File: module/Application/view/application/index/products.old.phtml, line: 221
 # File: module/Application/view/application/index/products.phtml, line: 512
-# File: module/Application/view/application/index/activate.phtml, line: 384
+# File: module/Application/view/application/index/activate.phtml, line: 383
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
+# File: module/Application/view/application/index/trial.phtml, line: 408
 # File: module/Application/view/application/blog/index.phtml, line: 260
 # File: module/Application/view/application/blog/details.phtml, line: 459
 # File: module/Application/view/application/blog/list.phtml, line: 395
@@ -11921,9 +11981,10 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 414
 # File: module/Application/view/application/index/products.old.phtml, line: 221
 # File: module/Application/view/application/index/products.phtml, line: 513
-# File: module/Application/view/application/index/activate.phtml, line: 385
+# File: module/Application/view/application/index/activate.phtml, line: 384
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
+# File: module/Application/view/application/index/trial.phtml, line: 409
 # File: module/Application/view/application/blog/index.phtml, line: 261
 # File: module/Application/view/application/blog/details.phtml, line: 460
 # File: module/Application/view/application/blog/list.phtml, line: 396
@@ -11953,10 +12014,12 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 515
 # File: module/Application/view/application/index/products.phtml, line: 728
 # File: module/Application/view/application/index/prices.phtml, line: 734
-# File: module/Application/view/application/index/activate.phtml, line: 387
-# File: module/Application/view/application/index/activate.phtml, line: 589
+# File: module/Application/view/application/index/activate.phtml, line: 386
+# File: module/Application/view/application/index/activate.phtml, line: 588
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
+# File: module/Application/view/application/index/trial.phtml, line: 411
+# File: module/Application/view/application/index/trial.phtml, line: 613
 # File: module/Application/view/application/blog/index.phtml, line: 263
 # File: module/Application/view/application/blog/index.phtml, line: 461
 # File: module/Application/view/application/blog/details.phtml, line: 462
@@ -11984,9 +12047,10 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 417
 # File: module/Application/view/application/index/products.old.phtml, line: 221
 # File: module/Application/view/application/index/products.phtml, line: 516
-# File: module/Application/view/application/index/activate.phtml, line: 388
+# File: module/Application/view/application/index/activate.phtml, line: 387
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
+# File: module/Application/view/application/index/trial.phtml, line: 412
 # File: module/Application/view/application/blog/index.phtml, line: 264
 # File: module/Application/view/application/blog/details.phtml, line: 463
 # File: module/Application/view/application/blog/list.phtml, line: 399
@@ -12009,9 +12073,10 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 418
 # File: module/Application/view/application/index/products.old.phtml, line: 221
 # File: module/Application/view/application/index/products.phtml, line: 517
-# File: module/Application/view/application/index/activate.phtml, line: 389
+# File: module/Application/view/application/index/activate.phtml, line: 388
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
+# File: module/Application/view/application/index/trial.phtml, line: 413
 # File: module/Application/view/application/blog/index.phtml, line: 265
 # File: module/Application/view/application/blog/details.phtml, line: 464
 # File: module/Application/view/application/blog/list.phtml, line: 400
@@ -12047,12 +12112,17 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 539
 # File: module/Application/view/application/index/products.phtml, line: 783
 # File: module/Application/view/application/index/prices.phtml, line: 788
-# File: module/Application/view/application/index/activate.phtml, line: 297
-# File: module/Application/view/application/index/activate.phtml, line: 390
-# File: module/Application/view/application/index/activate.phtml, line: 411
-# File: module/Application/view/application/index/activate.phtml, line: 639
+# File: module/Application/view/application/index/activate.phtml, line: 296
+# File: module/Application/view/application/index/activate.phtml, line: 389
+# File: module/Application/view/application/index/activate.phtml, line: 410
+# File: module/Application/view/application/index/activate.phtml, line: 638
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
+# File: module/Application/view/application/index/trial.phtml, line: 279
+# File: module/Application/view/application/index/trial.phtml, line: 321
+# File: module/Application/view/application/index/trial.phtml, line: 414
+# File: module/Application/view/application/index/trial.phtml, line: 435
+# File: module/Application/view/application/index/trial.phtml, line: 663
 # File: module/Application/view/application/blog/index.phtml, line: 266
 # File: module/Application/view/application/blog/index.phtml, line: 287
 # File: module/Application/view/application/blog/details.phtml, line: 465
@@ -12081,7 +12151,8 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 390
 # File: module/Application/view/application/index/partners.phtml, line: 424
 # File: module/Application/view/application/index/products.phtml, line: 523
-# File: module/Application/view/application/index/activate.phtml, line: 395
+# File: module/Application/view/application/index/activate.phtml, line: 394
+# File: module/Application/view/application/index/trial.phtml, line: 419
 # File: module/Application/view/application/blog/index.phtml, line: 271
 # File: module/Application/view/application/blog/details.phtml, line: 470
 # File: module/Application/view/application/blog/list.phtml, line: 406
@@ -12113,10 +12184,14 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 524
 # File: module/Application/view/application/index/products.phtml, line: 768
 # File: module/Application/view/application/index/prices.phtml, line: 773
-# File: module/Application/view/application/index/activate.phtml, line: 282
-# File: module/Application/view/application/index/activate.phtml, line: 396
-# File: module/Application/view/application/index/activate.phtml, line: 624
+# File: module/Application/view/application/index/activate.phtml, line: 281
+# File: module/Application/view/application/index/activate.phtml, line: 395
+# File: module/Application/view/application/index/activate.phtml, line: 623
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 161
+# File: module/Application/view/application/index/trial.phtml, line: 264
+# File: module/Application/view/application/index/trial.phtml, line: 306
+# File: module/Application/view/application/index/trial.phtml, line: 420
+# File: module/Application/view/application/index/trial.phtml, line: 648
 # File: module/Application/view/application/blog/index.phtml, line: 272
 # File: module/Application/view/application/blog/details.phtml, line: 471
 # File: module/Application/view/application/blog/details.phtml, line: 698
@@ -12144,9 +12219,13 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 525
 # File: module/Application/view/application/index/products.phtml, line: 769
 # File: module/Application/view/application/index/prices.phtml, line: 774
-# File: module/Application/view/application/index/activate.phtml, line: 283
-# File: module/Application/view/application/index/activate.phtml, line: 397
-# File: module/Application/view/application/index/activate.phtml, line: 625
+# File: module/Application/view/application/index/activate.phtml, line: 282
+# File: module/Application/view/application/index/activate.phtml, line: 396
+# File: module/Application/view/application/index/activate.phtml, line: 624
+# File: module/Application/view/application/index/trial.phtml, line: 265
+# File: module/Application/view/application/index/trial.phtml, line: 307
+# File: module/Application/view/application/index/trial.phtml, line: 421
+# File: module/Application/view/application/index/trial.phtml, line: 649
 # File: module/Application/view/application/blog/index.phtml, line: 273
 # File: module/Application/view/application/blog/details.phtml, line: 472
 # File: module/Application/view/application/blog/details.phtml, line: 699
@@ -12174,9 +12253,13 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 526
 # File: module/Application/view/application/index/products.phtml, line: 770
 # File: module/Application/view/application/index/prices.phtml, line: 775
-# File: module/Application/view/application/index/activate.phtml, line: 284
-# File: module/Application/view/application/index/activate.phtml, line: 398
-# File: module/Application/view/application/index/activate.phtml, line: 626
+# File: module/Application/view/application/index/activate.phtml, line: 283
+# File: module/Application/view/application/index/activate.phtml, line: 397
+# File: module/Application/view/application/index/activate.phtml, line: 625
+# File: module/Application/view/application/index/trial.phtml, line: 266
+# File: module/Application/view/application/index/trial.phtml, line: 308
+# File: module/Application/view/application/index/trial.phtml, line: 422
+# File: module/Application/view/application/index/trial.phtml, line: 650
 # File: module/Application/view/application/blog/index.phtml, line: 274
 # File: module/Application/view/application/blog/details.phtml, line: 473
 # File: module/Application/view/application/blog/details.phtml, line: 700
@@ -12204,9 +12287,13 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 527
 # File: module/Application/view/application/index/products.phtml, line: 771
 # File: module/Application/view/application/index/prices.phtml, line: 776
-# File: module/Application/view/application/index/activate.phtml, line: 285
-# File: module/Application/view/application/index/activate.phtml, line: 399
-# File: module/Application/view/application/index/activate.phtml, line: 627
+# File: module/Application/view/application/index/activate.phtml, line: 284
+# File: module/Application/view/application/index/activate.phtml, line: 398
+# File: module/Application/view/application/index/activate.phtml, line: 626
+# File: module/Application/view/application/index/trial.phtml, line: 267
+# File: module/Application/view/application/index/trial.phtml, line: 309
+# File: module/Application/view/application/index/trial.phtml, line: 423
+# File: module/Application/view/application/index/trial.phtml, line: 651
 # File: module/Application/view/application/blog/index.phtml, line: 275
 # File: module/Application/view/application/blog/details.phtml, line: 474
 # File: module/Application/view/application/blog/details.phtml, line: 701
@@ -12234,9 +12321,13 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 528
 # File: module/Application/view/application/index/products.phtml, line: 772
 # File: module/Application/view/application/index/prices.phtml, line: 777
-# File: module/Application/view/application/index/activate.phtml, line: 286
-# File: module/Application/view/application/index/activate.phtml, line: 400
-# File: module/Application/view/application/index/activate.phtml, line: 628
+# File: module/Application/view/application/index/activate.phtml, line: 285
+# File: module/Application/view/application/index/activate.phtml, line: 399
+# File: module/Application/view/application/index/activate.phtml, line: 627
+# File: module/Application/view/application/index/trial.phtml, line: 268
+# File: module/Application/view/application/index/trial.phtml, line: 310
+# File: module/Application/view/application/index/trial.phtml, line: 424
+# File: module/Application/view/application/index/trial.phtml, line: 652
 # File: module/Application/view/application/blog/index.phtml, line: 276
 # File: module/Application/view/application/blog/details.phtml, line: 475
 # File: module/Application/view/application/blog/details.phtml, line: 702
@@ -12265,9 +12356,13 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 529
 # File: module/Application/view/application/index/products.phtml, line: 773
 # File: module/Application/view/application/index/prices.phtml, line: 778
-# File: module/Application/view/application/index/activate.phtml, line: 287
-# File: module/Application/view/application/index/activate.phtml, line: 401
-# File: module/Application/view/application/index/activate.phtml, line: 629
+# File: module/Application/view/application/index/activate.phtml, line: 286
+# File: module/Application/view/application/index/activate.phtml, line: 400
+# File: module/Application/view/application/index/activate.phtml, line: 628
+# File: module/Application/view/application/index/trial.phtml, line: 269
+# File: module/Application/view/application/index/trial.phtml, line: 311
+# File: module/Application/view/application/index/trial.phtml, line: 425
+# File: module/Application/view/application/index/trial.phtml, line: 653
 # File: module/Application/view/application/blog/index.phtml, line: 277
 # File: module/Application/view/application/blog/details.phtml, line: 476
 # File: module/Application/view/application/blog/details.phtml, line: 703
@@ -12296,9 +12391,13 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 530
 # File: module/Application/view/application/index/products.phtml, line: 774
 # File: module/Application/view/application/index/prices.phtml, line: 779
-# File: module/Application/view/application/index/activate.phtml, line: 288
-# File: module/Application/view/application/index/activate.phtml, line: 402
-# File: module/Application/view/application/index/activate.phtml, line: 630
+# File: module/Application/view/application/index/activate.phtml, line: 287
+# File: module/Application/view/application/index/activate.phtml, line: 401
+# File: module/Application/view/application/index/activate.phtml, line: 629
+# File: module/Application/view/application/index/trial.phtml, line: 270
+# File: module/Application/view/application/index/trial.phtml, line: 312
+# File: module/Application/view/application/index/trial.phtml, line: 426
+# File: module/Application/view/application/index/trial.phtml, line: 654
 # File: module/Application/view/application/blog/index.phtml, line: 278
 # File: module/Application/view/application/blog/details.phtml, line: 477
 # File: module/Application/view/application/blog/details.phtml, line: 704
@@ -12327,9 +12426,13 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 531
 # File: module/Application/view/application/index/products.phtml, line: 775
 # File: module/Application/view/application/index/prices.phtml, line: 780
-# File: module/Application/view/application/index/activate.phtml, line: 289
-# File: module/Application/view/application/index/activate.phtml, line: 403
-# File: module/Application/view/application/index/activate.phtml, line: 631
+# File: module/Application/view/application/index/activate.phtml, line: 288
+# File: module/Application/view/application/index/activate.phtml, line: 402
+# File: module/Application/view/application/index/activate.phtml, line: 630
+# File: module/Application/view/application/index/trial.phtml, line: 271
+# File: module/Application/view/application/index/trial.phtml, line: 313
+# File: module/Application/view/application/index/trial.phtml, line: 427
+# File: module/Application/view/application/index/trial.phtml, line: 655
 # File: module/Application/view/application/blog/index.phtml, line: 279
 # File: module/Application/view/application/blog/details.phtml, line: 478
 # File: module/Application/view/application/blog/details.phtml, line: 705
@@ -12361,9 +12464,13 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 532
 # File: module/Application/view/application/index/products.phtml, line: 776
 # File: module/Application/view/application/index/prices.phtml, line: 781
-# File: module/Application/view/application/index/activate.phtml, line: 290
-# File: module/Application/view/application/index/activate.phtml, line: 404
-# File: module/Application/view/application/index/activate.phtml, line: 632
+# File: module/Application/view/application/index/activate.phtml, line: 289
+# File: module/Application/view/application/index/activate.phtml, line: 403
+# File: module/Application/view/application/index/activate.phtml, line: 631
+# File: module/Application/view/application/index/trial.phtml, line: 272
+# File: module/Application/view/application/index/trial.phtml, line: 314
+# File: module/Application/view/application/index/trial.phtml, line: 428
+# File: module/Application/view/application/index/trial.phtml, line: 656
 # File: module/Application/view/application/blog/index.phtml, line: 280
 # File: module/Application/view/application/blog/details.phtml, line: 479
 # File: module/Application/view/application/blog/details.phtml, line: 706
@@ -12391,9 +12498,13 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 533
 # File: module/Application/view/application/index/products.phtml, line: 777
 # File: module/Application/view/application/index/prices.phtml, line: 782
-# File: module/Application/view/application/index/activate.phtml, line: 291
-# File: module/Application/view/application/index/activate.phtml, line: 405
-# File: module/Application/view/application/index/activate.phtml, line: 633
+# File: module/Application/view/application/index/activate.phtml, line: 290
+# File: module/Application/view/application/index/activate.phtml, line: 404
+# File: module/Application/view/application/index/activate.phtml, line: 632
+# File: module/Application/view/application/index/trial.phtml, line: 273
+# File: module/Application/view/application/index/trial.phtml, line: 315
+# File: module/Application/view/application/index/trial.phtml, line: 429
+# File: module/Application/view/application/index/trial.phtml, line: 657
 # File: module/Application/view/application/blog/index.phtml, line: 281
 # File: module/Application/view/application/blog/details.phtml, line: 480
 # File: module/Application/view/application/blog/details.phtml, line: 707
@@ -12421,9 +12532,13 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 534
 # File: module/Application/view/application/index/products.phtml, line: 778
 # File: module/Application/view/application/index/prices.phtml, line: 783
-# File: module/Application/view/application/index/activate.phtml, line: 292
-# File: module/Application/view/application/index/activate.phtml, line: 406
-# File: module/Application/view/application/index/activate.phtml, line: 634
+# File: module/Application/view/application/index/activate.phtml, line: 291
+# File: module/Application/view/application/index/activate.phtml, line: 405
+# File: module/Application/view/application/index/activate.phtml, line: 633
+# File: module/Application/view/application/index/trial.phtml, line: 274
+# File: module/Application/view/application/index/trial.phtml, line: 316
+# File: module/Application/view/application/index/trial.phtml, line: 430
+# File: module/Application/view/application/index/trial.phtml, line: 658
 # File: module/Application/view/application/blog/index.phtml, line: 282
 # File: module/Application/view/application/blog/details.phtml, line: 481
 # File: module/Application/view/application/blog/details.phtml, line: 708
@@ -12453,10 +12568,14 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 535
 # File: module/Application/view/application/index/products.phtml, line: 779
 # File: module/Application/view/application/index/prices.phtml, line: 784
-# File: module/Application/view/application/index/activate.phtml, line: 293
-# File: module/Application/view/application/index/activate.phtml, line: 407
-# File: module/Application/view/application/index/activate.phtml, line: 635
+# File: module/Application/view/application/index/activate.phtml, line: 292
+# File: module/Application/view/application/index/activate.phtml, line: 406
+# File: module/Application/view/application/index/activate.phtml, line: 634
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 159
+# File: module/Application/view/application/index/trial.phtml, line: 275
+# File: module/Application/view/application/index/trial.phtml, line: 317
+# File: module/Application/view/application/index/trial.phtml, line: 431
+# File: module/Application/view/application/index/trial.phtml, line: 659
 # File: module/Application/view/application/blog/index.phtml, line: 283
 # File: module/Application/view/application/blog/details.phtml, line: 482
 # File: module/Application/view/application/blog/details.phtml, line: 709
@@ -12484,9 +12603,13 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 536
 # File: module/Application/view/application/index/products.phtml, line: 780
 # File: module/Application/view/application/index/prices.phtml, line: 785
-# File: module/Application/view/application/index/activate.phtml, line: 294
-# File: module/Application/view/application/index/activate.phtml, line: 408
-# File: module/Application/view/application/index/activate.phtml, line: 636
+# File: module/Application/view/application/index/activate.phtml, line: 293
+# File: module/Application/view/application/index/activate.phtml, line: 407
+# File: module/Application/view/application/index/activate.phtml, line: 635
+# File: module/Application/view/application/index/trial.phtml, line: 276
+# File: module/Application/view/application/index/trial.phtml, line: 318
+# File: module/Application/view/application/index/trial.phtml, line: 432
+# File: module/Application/view/application/index/trial.phtml, line: 660
 # File: module/Application/view/application/blog/index.phtml, line: 284
 # File: module/Application/view/application/blog/details.phtml, line: 483
 # File: module/Application/view/application/blog/details.phtml, line: 710
@@ -12515,10 +12638,14 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 537
 # File: module/Application/view/application/index/products.phtml, line: 781
 # File: module/Application/view/application/index/prices.phtml, line: 786
-# File: module/Application/view/application/index/activate.phtml, line: 295
-# File: module/Application/view/application/index/activate.phtml, line: 409
-# File: module/Application/view/application/index/activate.phtml, line: 637
+# File: module/Application/view/application/index/activate.phtml, line: 294
+# File: module/Application/view/application/index/activate.phtml, line: 408
+# File: module/Application/view/application/index/activate.phtml, line: 636
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 164
+# File: module/Application/view/application/index/trial.phtml, line: 277
+# File: module/Application/view/application/index/trial.phtml, line: 319
+# File: module/Application/view/application/index/trial.phtml, line: 433
+# File: module/Application/view/application/index/trial.phtml, line: 661
 # File: module/Application/view/application/blog/index.phtml, line: 285
 # File: module/Application/view/application/blog/details.phtml, line: 484
 # File: module/Application/view/application/blog/details.phtml, line: 711
@@ -12546,9 +12673,13 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 538
 # File: module/Application/view/application/index/products.phtml, line: 782
 # File: module/Application/view/application/index/prices.phtml, line: 787
-# File: module/Application/view/application/index/activate.phtml, line: 296
-# File: module/Application/view/application/index/activate.phtml, line: 410
-# File: module/Application/view/application/index/activate.phtml, line: 638
+# File: module/Application/view/application/index/activate.phtml, line: 295
+# File: module/Application/view/application/index/activate.phtml, line: 409
+# File: module/Application/view/application/index/activate.phtml, line: 637
+# File: module/Application/view/application/index/trial.phtml, line: 278
+# File: module/Application/view/application/index/trial.phtml, line: 320
+# File: module/Application/view/application/index/trial.phtml, line: 434
+# File: module/Application/view/application/index/trial.phtml, line: 662
 # File: module/Application/view/application/blog/index.phtml, line: 286
 # File: module/Application/view/application/blog/details.phtml, line: 485
 # File: module/Application/view/application/blog/details.phtml, line: 712
@@ -12569,7 +12700,8 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 409
 # File: module/Application/view/application/index/partners.phtml, line: 443
 # File: module/Application/view/application/index/products.phtml, line: 542
-# File: module/Application/view/application/index/activate.phtml, line: 414
+# File: module/Application/view/application/index/activate.phtml, line: 413
+# File: module/Application/view/application/index/trial.phtml, line: 438
 # File: module/Application/view/application/blog/index.phtml, line: 290
 # File: module/Application/view/application/blog/details.phtml, line: 489
 # File: module/Application/view/application/blog/list.phtml, line: 425
@@ -12587,7 +12719,8 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 410
 # File: module/Application/view/application/index/partners.phtml, line: 444
 # File: module/Application/view/application/index/products.phtml, line: 543
-# File: module/Application/view/application/index/activate.phtml, line: 415
+# File: module/Application/view/application/index/activate.phtml, line: 414
+# File: module/Application/view/application/index/trial.phtml, line: 439
 # File: module/Application/view/application/blog/index.phtml, line: 291
 # File: module/Application/view/application/blog/details.phtml, line: 490
 # File: module/Application/view/application/blog/list.phtml, line: 426
@@ -12605,7 +12738,8 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 412
 # File: module/Application/view/application/index/partners.phtml, line: 446
 # File: module/Application/view/application/index/products.phtml, line: 545
-# File: module/Application/view/application/index/activate.phtml, line: 417
+# File: module/Application/view/application/index/activate.phtml, line: 416
+# File: module/Application/view/application/index/trial.phtml, line: 441
 # File: module/Application/view/application/blog/index.phtml, line: 293
 # File: module/Application/view/application/blog/details.phtml, line: 339
 # File: module/Application/view/application/blog/details.phtml, line: 492
@@ -12625,7 +12759,8 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 463
 # File: module/Application/view/application/index/products.phtml, line: 561
 # File: module/Application/view/application/index/prices.phtml, line: 581
-# File: module/Application/view/application/index/activate.phtml, line: 434
+# File: module/Application/view/application/index/activate.phtml, line: 433
+# File: module/Application/view/application/index/trial.phtml, line: 458
 # File: module/Application/view/application/blog/index.phtml, line: 309
 # File: module/Application/view/application/blog/details.phtml, line: 508
 # File: module/Application/view/application/blog/list.phtml, line: 444
@@ -12643,7 +12778,8 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 430
 # File: module/Application/view/application/index/partners.phtml, line: 465
 # File: module/Application/view/application/index/products.phtml, line: 563
-# File: module/Application/view/application/index/activate.phtml, line: 436
+# File: module/Application/view/application/index/activate.phtml, line: 435
+# File: module/Application/view/application/index/trial.phtml, line: 460
 # File: module/Application/view/application/blog/index.phtml, line: 311
 # File: module/Application/view/application/blog/details.phtml, line: 510
 # File: module/Application/view/application/blog/list.phtml, line: 446
@@ -12661,7 +12797,8 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 431
 # File: module/Application/view/application/index/partners.phtml, line: 466
 # File: module/Application/view/application/index/products.phtml, line: 564
-# File: module/Application/view/application/index/activate.phtml, line: 437
+# File: module/Application/view/application/index/activate.phtml, line: 436
+# File: module/Application/view/application/index/trial.phtml, line: 461
 # File: module/Application/view/application/blog/index.phtml, line: 312
 # File: module/Application/view/application/blog/details.phtml, line: 511
 # File: module/Application/view/application/blog/list.phtml, line: 447
@@ -12679,7 +12816,8 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 432
 # File: module/Application/view/application/index/partners.phtml, line: 467
 # File: module/Application/view/application/index/products.phtml, line: 565
-# File: module/Application/view/application/index/activate.phtml, line: 438
+# File: module/Application/view/application/index/activate.phtml, line: 437
+# File: module/Application/view/application/index/trial.phtml, line: 462
 # File: module/Application/view/application/blog/index.phtml, line: 313
 # File: module/Application/view/application/blog/details.phtml, line: 512
 # File: module/Application/view/application/blog/list.phtml, line: 448
@@ -12697,7 +12835,8 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 433
 # File: module/Application/view/application/index/partners.phtml, line: 468
 # File: module/Application/view/application/index/products.phtml, line: 566
-# File: module/Application/view/application/index/activate.phtml, line: 439
+# File: module/Application/view/application/index/activate.phtml, line: 438
+# File: module/Application/view/application/index/trial.phtml, line: 463
 # File: module/Application/view/application/blog/index.phtml, line: 314
 # File: module/Application/view/application/blog/details.phtml, line: 513
 # File: module/Application/view/application/blog/list.phtml, line: 449
@@ -12715,7 +12854,8 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 434
 # File: module/Application/view/application/index/partners.phtml, line: 469
 # File: module/Application/view/application/index/products.phtml, line: 567
-# File: module/Application/view/application/index/activate.phtml, line: 440
+# File: module/Application/view/application/index/activate.phtml, line: 439
+# File: module/Application/view/application/index/trial.phtml, line: 464
 # File: module/Application/view/application/blog/index.phtml, line: 315
 # File: module/Application/view/application/blog/details.phtml, line: 514
 # File: module/Application/view/application/blog/list.phtml, line: 450
@@ -12734,7 +12874,8 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 472
 # File: module/Application/view/application/index/products.phtml, line: 570
 # File: module/Application/view/application/index/prices.phtml, line: 587
-# File: module/Application/view/application/index/activate.phtml, line: 443
+# File: module/Application/view/application/index/activate.phtml, line: 442
+# File: module/Application/view/application/index/trial.phtml, line: 467
 # File: module/Application/view/application/blog/index.phtml, line: 318
 # File: module/Application/view/application/blog/details.phtml, line: 517
 # File: module/Application/view/application/blog/list.phtml, line: 453
@@ -12753,7 +12894,8 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 473
 # File: module/Application/view/application/index/products.phtml, line: 571
 # File: module/Application/view/application/index/prices.phtml, line: 588
-# File: module/Application/view/application/index/activate.phtml, line: 444
+# File: module/Application/view/application/index/activate.phtml, line: 443
+# File: module/Application/view/application/index/trial.phtml, line: 468
 # File: module/Application/view/application/blog/index.phtml, line: 319
 # File: module/Application/view/application/blog/details.phtml, line: 518
 # File: module/Application/view/application/blog/list.phtml, line: 454
@@ -12772,7 +12914,8 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 486
 # File: module/Application/view/application/index/products.phtml, line: 584
 # File: module/Application/view/application/index/prices.phtml, line: 601
-# File: module/Application/view/application/index/activate.phtml, line: 457
+# File: module/Application/view/application/index/activate.phtml, line: 456
+# File: module/Application/view/application/index/trial.phtml, line: 481
 # File: module/Application/view/application/blog/index.phtml, line: 332
 # File: module/Application/view/application/blog/details.phtml, line: 531
 # File: module/Application/view/application/blog/list.phtml, line: 467
@@ -12789,7 +12932,8 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 464
 # File: module/Application/view/application/index/partners.phtml, line: 499
 # File: module/Application/view/application/index/products.phtml, line: 597
-# File: module/Application/view/application/index/activate.phtml, line: 470
+# File: module/Application/view/application/index/activate.phtml, line: 469
+# File: module/Application/view/application/index/trial.phtml, line: 494
 # File: module/Application/view/application/blog/index.phtml, line: 345
 # File: module/Application/view/application/blog/details.phtml, line: 544
 # File: module/Application/view/application/blog/list.phtml, line: 480
@@ -12805,7 +12949,8 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 513
 # File: module/Application/view/application/index/products.phtml, line: 611
 # File: module/Application/view/application/index/prices.phtml, line: 628
-# File: module/Application/view/application/index/activate.phtml, line: 484
+# File: module/Application/view/application/index/activate.phtml, line: 483
+# File: module/Application/view/application/index/trial.phtml, line: 508
 # File: module/Application/view/application/blog/index.phtml, line: 359
 # File: module/Application/view/application/blog/details.phtml, line: 558
 # File: module/Application/view/application/blog/list.phtml, line: 494
@@ -12838,7 +12983,8 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 579
 # File: module/Application/view/application/index/products.phtml, line: 683
 # File: module/Application/view/application/index/prices.phtml, line: 694
-# File: module/Application/view/application/index/activate.phtml, line: 550
+# File: module/Application/view/application/index/activate.phtml, line: 549
+# File: module/Application/view/application/index/trial.phtml, line: 574
 # File: module/Application/view/application/blog/index.phtml, line: 423
 # File: module/Application/view/application/blog/details.phtml, line: 624
 # File: module/Application/view/application/blog/list.phtml, line: 558
@@ -12856,7 +13002,8 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 585
 # File: module/Application/view/application/index/products.phtml, line: 689
 # File: module/Application/view/application/index/prices.phtml, line: 700
-# File: module/Application/view/application/index/activate.phtml, line: 556
+# File: module/Application/view/application/index/activate.phtml, line: 555
+# File: module/Application/view/application/index/trial.phtml, line: 580
 # File: module/Application/view/application/blog/index.phtml, line: 429
 # File: module/Application/view/application/blog/details.phtml, line: 630
 # File: module/Application/view/application/blog/list.phtml, line: 564
@@ -12881,9 +13028,10 @@ msgstr ""
 # File: module/Application/view/application/index/products.old.phtml, line: 254
 # File: module/Application/view/application/index/products.phtml, line: 690
 # File: module/Application/view/application/index/prices.phtml, line: 701
-# File: module/Application/view/application/index/activate.phtml, line: 557
+# File: module/Application/view/application/index/activate.phtml, line: 556
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 159
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 173
+# File: module/Application/view/application/index/trial.phtml, line: 581
 # File: module/Application/view/application/blog/index.phtml, line: 430
 # File: module/Application/view/application/blog/details.phtml, line: 631
 # File: module/Application/view/application/blog/list.phtml, line: 565
@@ -12902,7 +13050,9 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 615
 # File: module/Application/view/application/index/products.phtml, line: 717
 # File: module/Application/view/application/index/prices.phtml, line: 726
-# File: module/Application/view/application/index/activate.phtml, line: 581
+# File: module/Application/view/application/index/activate.phtml, line: 580
+# File: module/Application/view/application/index/trial.phtml, line: 240
+# File: module/Application/view/application/index/trial.phtml, line: 605
 # File: module/Application/view/application/blog/index.phtml, line: 453
 # File: module/Application/view/application/blog/details.phtml, line: 654
 # File: module/Application/view/application/blog/list.phtml, line: 588
@@ -12918,7 +13068,8 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 617
 # File: module/Application/view/application/index/products.phtml, line: 719
 # File: module/Application/view/application/index/prices.phtml, line: 728
-# File: module/Application/view/application/index/activate.phtml, line: 583
+# File: module/Application/view/application/index/activate.phtml, line: 582
+# File: module/Application/view/application/index/trial.phtml, line: 607
 # File: module/Application/view/application/blog/index.phtml, line: 455
 # File: module/Application/view/application/blog/details.phtml, line: 656
 # File: module/Application/view/application/blog/list.phtml, line: 590
@@ -12934,7 +13085,8 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 636
 # File: module/Application/view/application/index/products.phtml, line: 737
 # File: module/Application/view/application/index/prices.phtml, line: 743
-# File: module/Application/view/application/index/activate.phtml, line: 596
+# File: module/Application/view/application/index/activate.phtml, line: 595
+# File: module/Application/view/application/index/trial.phtml, line: 620
 # File: module/Application/view/application/blog/index.phtml, line: 469
 # File: module/Application/view/application/blog/details.phtml, line: 669
 # File: module/Application/view/application/blog/list.phtml, line: 603
@@ -12953,7 +13105,8 @@ msgstr ""
 # File: module/Application/view/application/index/products.old.phtml, line: 306
 # File: module/Application/view/application/index/products.phtml, line: 789
 # File: module/Application/view/application/index/prices.phtml, line: 794
-# File: module/Application/view/application/index/activate.phtml, line: 645
+# File: module/Application/view/application/index/activate.phtml, line: 644
+# File: module/Application/view/application/index/trial.phtml, line: 669
 # File: module/Application/view/application/tutorials/index.phtml, line: 954
 msgid "Agency Name"
 msgstr ""
@@ -12965,7 +13118,8 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 712
 # File: module/Application/view/application/index/products.phtml, line: 811
 # File: module/Application/view/application/index/prices.phtml, line: 815
-# File: module/Application/view/application/index/activate.phtml, line: 666
+# File: module/Application/view/application/index/activate.phtml, line: 665
+# File: module/Application/view/application/index/trial.phtml, line: 690
 # File: module/Application/view/application/blog/index.phtml, line: 537
 # File: module/Application/view/application/blog/details.phtml, line: 741
 # File: module/Application/view/application/blog/list.phtml, line: 669
@@ -12988,7 +13142,8 @@ msgstr ""
 # File: module/Application/view/application/index/products.old.phtml, line: 287
 # File: module/Application/view/application/index/products.phtml, line: 814
 # File: module/Application/view/application/index/prices.phtml, line: 818
-# File: module/Application/view/application/index/activate.phtml, line: 669
+# File: module/Application/view/application/index/activate.phtml, line: 668
+# File: module/Application/view/application/index/trial.phtml, line: 693
 # File: module/Application/view/application/blog/index.phtml, line: 540
 # File: module/Application/view/application/blog/details.phtml, line: 744
 # File: module/Application/view/application/blog/list.phtml, line: 672
@@ -14807,7 +14962,8 @@ msgid "Approval Code"
 msgstr ""
 #
 # File: module/Application/view/application/index/updatecreditcard.phtml, line: 23
-# File: module/Application/view/application/index/activate.phtml, line: 310
+# File: module/Application/view/application/index/activate.phtml, line: 309
+# File: module/Application/view/application/index/trial.phtml, line: 334
 msgid "Credit Card Details"
 msgstr ""
 #
@@ -14820,7 +14976,8 @@ msgid "Your credit card details have been successfully updated. Thank you! You'r
 msgstr ""
 #
 # File: module/Application/view/application/index/updatecreditcard.phtml, line: 35
-# File: module/Application/view/application/index/activate.phtml, line: 314
+# File: module/Application/view/application/index/activate.phtml, line: 313
+# File: module/Application/view/application/index/trial.phtml, line: 338
 msgid "Card Number"
 msgstr ""
 #
@@ -14829,7 +14986,8 @@ msgid "Street"
 msgstr ""
 #
 # File: module/Application/view/application/index/updatecreditcard.phtml, line: 97
-# File: module/Application/view/application/index/activate.phtml, line: 278
+# File: module/Application/view/application/index/activate.phtml, line: 277
+# File: module/Application/view/application/index/trial.phtml, line: 302
 # File: module/Application/view/application/quick-books/charge.phtml, line: 57
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 128
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 55
@@ -15746,26 +15904,32 @@ msgid "Checkout"
 msgstr ""
 #
 # File: module/Application/view/application/index/activate.phtml, line: 186
+# File: module/Application/view/application/index/trial.phtml, line: 185
 msgid "You have successfully subscribed to the"
 msgstr ""
 #
 # File: module/Application/view/application/index/activate.phtml, line: 186
+# File: module/Application/view/application/index/trial.phtml, line: 185
 msgid "plan"
 msgstr ""
 #
 # File: module/Application/view/application/index/activate.phtml, line: 186
+# File: module/Application/view/application/index/trial.phtml, line: 185
 msgid "A charge of"
 msgstr ""
 #
 # File: module/Application/view/application/index/activate.phtml, line: 186
+# File: module/Application/view/application/index/trial.phtml, line: 185
 msgid "has been applied to your credit card, and"
 msgstr ""
 #
 # File: module/Application/view/application/index/activate.phtml, line: 186
+# File: module/Application/view/application/index/trial.phtml, line: 185
 msgid "your statement will show it as"
 msgstr ""
 #
 # File: module/Application/view/application/index/activate.phtml, line: 186
+# File: module/Application/view/application/index/trial.phtml, line: 185
 msgid "Your subscription is now active, and you can log in to your account at any time. Thank you, and happy bookings!"
 msgstr ""
 #
@@ -15820,35 +15984,38 @@ msgstr ""
 msgid "as a recurring montlhy payment"
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 196
+# File: module/Application/view/application/index/activate.phtml, line: 195
+# File: module/Application/view/application/index/trial.phtml, line: 191
 msgid "We were unable to process your payment. This may happen if the card was declined, expired, or if the bank blocked the transaction. Please verify your payment details or try another payment method."
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 243
+# File: module/Application/view/application/index/activate.phtml, line: 242
 msgid "Have a coupon?"
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 243
+# File: module/Application/view/application/index/activate.phtml, line: 242
 msgid "Click here to enter your code"
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 250
+# File: module/Application/view/application/index/activate.phtml, line: 249
 msgid "Coupon code"
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 251
+# File: module/Application/view/application/index/activate.phtml, line: 250
 msgid "Write your coupon code"
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 254
+# File: module/Application/view/application/index/activate.phtml, line: 253
 msgid "Apply coupon"
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 263
+# File: module/Application/view/application/index/activate.phtml, line: 262
+# File: module/Application/view/application/index/trial.phtml, line: 287
 msgid "Billing Details"
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 272
+# File: module/Application/view/application/index/activate.phtml, line: 271
+# File: module/Application/view/application/index/trial.phtml, line: 296
 # File: module/Application/view/application/quick-books/charge.phtml, line: 49
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 120
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 47
@@ -15857,35 +16024,43 @@ msgstr ""
 msgid "Street Address"
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 275
+# File: module/Application/view/application/index/activate.phtml, line: 274
+# File: module/Application/view/application/index/trial.phtml, line: 299
 msgid "Town / City"
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 301
+# File: module/Application/view/application/index/activate.phtml, line: 300
+# File: module/Application/view/application/index/trial.phtml, line: 325
 msgid "Postcode / Zip"
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 305
+# File: module/Application/view/application/index/activate.phtml, line: 304
+# File: module/Application/view/application/index/trial.phtml, line: 329
 msgid "Phone number"
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 313
+# File: module/Application/view/application/index/activate.phtml, line: 312
+# File: module/Application/view/application/index/trial.phtml, line: 337
 msgid "Name on Card"
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 315
+# File: module/Application/view/application/index/activate.phtml, line: 314
+# File: module/Application/view/application/index/trial.phtml, line: 339
 msgid "(MM/YY)"
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 316
+# File: module/Application/view/application/index/activate.phtml, line: 315
+# File: module/Application/view/application/index/trial.phtml, line: 340
 msgid "Security Code"
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 319
+# File: module/Application/view/application/index/activate.phtml, line: 318
+# File: module/Application/view/application/index/trial.phtml, line: 343
 msgid "Notes (Optional)"
 msgstr ""
 #
-# File: module/Application/view/application/index/activate.phtml, line: 322
+# File: module/Application/view/application/index/activate.phtml, line: 321
+# File: module/Application/view/application/index/trial.phtml, line: 346
 msgid "Confirm"
 msgstr ""
 #
@@ -15935,6 +16110,23 @@ msgstr ""
 #
 # File: module/Application/view/application/index/otpgenerate.phtml, line: 109
 msgid "Please scan the QR Code using Google Authenticator and input the code bellow. Once you have installed and inputted the correct code click the Sign in button."
+msgstr ""
+#
+# File: module/Application/view/application/index/trial.phtml, line: 6
+msgid "Click And Book | Easy, Fast, and Reliable Travel Booking - Trial"
+msgstr ""
+#
+# File: module/Application/view/application/index/trial.phtml, line: 169
+# File: module/Application/view/application/index/trial.phtml, line: 180
+msgid "C& Trial"
+msgstr ""
+#
+# File: module/Application/view/application/index/trial.phtml, line: 171
+msgid "Unlock 7 days of Click and Book and watch your influence convert into consistent income."
+msgstr ""
+#
+# File: module/Application/view/application/index/trial.phtml, line: 187
+msgid "Start your 7‑day free trial of Click and Book and turn every follower into real, paid bookings.."
 msgstr ""
 #
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 23
