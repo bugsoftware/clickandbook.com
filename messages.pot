@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-10 02:22-0400\n"
+"POT-Creation-Date: 2026-04-13 08:20-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1674,6 +1674,9 @@ msgstr ""
 # File: module/Application/view/application/packages/newhotel.phtml, line: 14
 # File: module/Application/view/application/packages/newpackage.phtml, line: 49
 # File: module/Application/view/application/packages/newpackage.phtml, line: 50
+# File: module/Application/view/application/reports/index.phtml, line: 90
+# File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 7
+# File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 21
 # File: module/Application/view/application/view-reservation/index.phtml, line: 622
 # File: module/Application/view/layout/layout.phtml, line: 133
 # File: module/Application/view/layout/layout.phtml, line: 169
@@ -1958,6 +1961,9 @@ msgstr ""
 # File: module/Application/view/application/reports/globalware.phtml, line: 11
 # File: module/Application/view/application/reports/index.phtml, line: 32
 # File: module/Application/view/application/reports/search.phtml, line: 12
+# File: module/Application/view/application/reports/dailyticketingreport.phtml, line: 12
+# File: module/Application/view/application/reports/searchactivityreport.phtml, line: 12
+# File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 12
 # File: module/Application/view/layout/layout.phtml, line: 145
 # File: module/Application/view/layout/layout.phtml, line: 181
 msgid "Reports"
@@ -2041,6 +2047,10 @@ msgstr ""
 # File: module/Application/view/application/index/banners.phtml, line: 148
 # File: module/Application/view/application/index/bannersedit.phtml, line: 89
 # File: module/Application/view/application/packages/edititinerary.phtml, line: 43
+# File: module/Application/view/application/reports/index.phtml, line: 72
+# File: module/Application/view/application/reports/index.phtml, line: 81
+# File: module/Application/view/application/reports/searchactivityreport.phtml, line: 7
+# File: module/Application/view/application/reports/searchactivityreport.phtml, line: 21
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 130
 # File: module/Application/view/application/view-reservation/index.phtml, line: 235
 msgid "Air"
@@ -3873,6 +3883,9 @@ msgstr ""
 # File: module/Application/view/application/reports/globalware.phtml, line: 10
 # File: module/Application/view/application/reports/index.phtml, line: 12
 # File: module/Application/view/application/reports/search.phtml, line: 10
+# File: module/Application/view/application/reports/dailyticketingreport.phtml, line: 11
+# File: module/Application/view/application/reports/searchactivityreport.phtml, line: 11
+# File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 11
 # File: module/Application/view/application/reservations/index.phtml, line: 11
 # File: module/Application/view/application/reservations/list.phtml, line: 11
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 11
@@ -4517,6 +4530,9 @@ msgstr ""
 # File: module/Application/view/application/reports/globalware.phtml, line: 9
 # File: module/Application/view/application/reports/index.phtml, line: 11
 # File: module/Application/view/application/reports/search.phtml, line: 9
+# File: module/Application/view/application/reports/dailyticketingreport.phtml, line: 10
+# File: module/Application/view/application/reports/searchactivityreport.phtml, line: 10
+# File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 10
 # File: module/Application/view/application/reservations/index.phtml, line: 10
 # File: module/Application/view/application/support/index.phtml, line: 9
 # File: module/Application/view/application/transfers/index.phtml, line: 9
@@ -10744,6 +10760,8 @@ msgid "Sunday"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 975
+# File: module/Application/view/application/reports/searchactivityreport.phtml, line: 110
+# File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 110
 msgid "Searches"
 msgstr ""
 #
@@ -17654,6 +17672,15 @@ msgstr ""
 msgid "Costamar"
 msgstr ""
 #
+# File: module/Application/view/application/reports/index.phtml, line: 71
+msgid "Daily Ticketing"
+msgstr ""
+#
+# File: module/Application/view/application/reports/index.phtml, line: 80
+# File: module/Application/view/application/reports/index.phtml, line: 89
+msgid "Search Activity"
+msgstr ""
+#
 # File: module/Application/view/application/reports/search.phtml, line: 32
 msgid "Search for Commissions"
 msgstr ""
@@ -17668,6 +17695,23 @@ msgstr ""
 #
 # File: module/Application/view/application/reports/search.phtml, line: 66
 msgid "Search Report"
+msgstr ""
+#
+# File: module/Application/view/application/reports/dailyticketingreport.phtml, line: 7
+# File: module/Application/view/application/reports/dailyticketingreport.phtml, line: 21
+msgid "Daily Ticketing Report"
+msgstr ""
+#
+# File: module/Application/view/application/reports/dailyticketingreport.phtml, line: 110
+# File: module/Application/view/application/view-reservation/index.phtml, line: 414
+msgid "Tickets"
+msgstr ""
+#
+# File: module/Application/view/application/reports/searchactivityreport.phtml, line: 7
+# File: module/Application/view/application/reports/searchactivityreport.phtml, line: 21
+# File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 7
+# File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 21
+msgid "Search Activity Report"
 msgstr ""
 #
 # File: module/Application/view/application/reservations/index.phtml, line: 69
@@ -18127,10 +18171,6 @@ msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index.phtml, line: 404
 msgid "Ticketed"
-msgstr ""
-#
-# File: module/Application/view/application/view-reservation/index.phtml, line: 414
-msgid "Tickets"
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index.phtml, line: 445
