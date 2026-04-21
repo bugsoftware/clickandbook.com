@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-21 11:32-0400\n"
+"POT-Creation-Date: 2026-04-21 12:09-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -131,7 +131,7 @@ msgstr ""
 # File: module/Application/view/application/index/securitylog.phtml, line: 68
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 25
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 26
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 41
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 40
 # File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 10
 # File: module/Application/view/application/view-reservation/status.phtml, line: 39
 # File: module/Application/view/application/view-reservation/status.phtml, line: 42
@@ -204,7 +204,7 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 140
 # File: module/Application/view/application/index/trial.phtml, line: 293
 # File: module/Application/view/application/packages/newpackage.phtml, line: 107
-# File: module/Application/view/application/quick-books/hotmart.phtml, line: 27
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 26
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 45
 # File: module/Application/view/application/support/edit.phtml, line: 32
 # File: module/Application/view/application/support/list.phtml, line: 32
@@ -381,7 +381,7 @@ msgstr ""
 # File: module/Application/view/application/packages/edit.phtml, line: 100
 # File: module/Application/view/application/packages/newpackage.phtml, line: 34
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 75
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 28
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 27
 # File: module/Application/view/application/support/list.phtml, line: 31
 # File: module/Application/view/application/support/search.phtml, line: 77
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 32
@@ -423,7 +423,7 @@ msgstr ""
 # File: module/Application/view/application/portfolio/categories.phtml, line: 51
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 29
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 52
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 91
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 90
 msgid "Active"
 msgstr ""
 #
@@ -456,7 +456,7 @@ msgstr ""
 # File: module/Application/view/application/portfolio/categories.phtml, line: 53
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 30
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 53
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 93
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 92
 msgid "Inactive"
 msgstr ""
 #
@@ -805,9 +805,9 @@ msgstr ""
 # File: module/Application/view/application/customers/support.phtml, line: 36
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 39
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 42
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 31
-# File: module/Application/view/application/quick-books/blog.phtml, line: 45
-# File: module/Application/view/application/quick-books/tutorials.phtml, line: 44
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 30
+# File: module/Application/view/application/quick-books/blog.phtml, line: 44
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 43
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 41
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 40
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 35
@@ -841,7 +841,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 49
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 42
 # File: module/Application/view/application/portfolio/index.phtml, line: 54
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 84
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 83
 # File: module/Application/view/layout/layout.phtml, line: 168
 msgid "All"
 msgstr ""
@@ -1186,7 +1186,7 @@ msgstr ""
 # File: module/Application/view/application/index/billing.phtml, line: 231
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 29
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 27
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 42
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 41
 msgid "Month"
 msgstr ""
 #
@@ -1539,9 +1539,9 @@ msgstr ""
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3057
 # File: module/Application/view/application/index/order.phtml, line: 81
 # File: module/Application/view/application/index/order.old.phtml, line: 77
-# File: module/Application/view/application/quick-books/blog.phtml, line: 108
-# File: module/Application/view/application/quick-books/tutorials.phtml, line: 61
-# File: module/Application/view/application/quick-books/faqs.phtml, line: 51
+# File: module/Application/view/application/quick-books/blog.phtml, line: 107
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 60
+# File: module/Application/view/application/quick-books/faqs.phtml, line: 50
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 42
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 43
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 60
@@ -1557,9 +1557,9 @@ msgstr ""
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3060
 # File: module/Application/view/application/index/order.phtml, line: 82
 # File: module/Application/view/application/index/order.old.phtml, line: 78
-# File: module/Application/view/application/quick-books/blog.phtml, line: 108
-# File: module/Application/view/application/quick-books/tutorials.phtml, line: 61
-# File: module/Application/view/application/quick-books/faqs.phtml, line: 51
+# File: module/Application/view/application/quick-books/blog.phtml, line: 107
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 60
+# File: module/Application/view/application/quick-books/faqs.phtml, line: 50
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 43
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 44
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 61
@@ -2149,7 +2149,7 @@ msgstr ""
 # File: module/Application/view/application/packages/edit.phtml, line: 127
 # File: module/Application/view/application/packages/edititinerary.phtml, line: 42
 # File: module/Application/view/application/packages/newpackage.phtml, line: 40
-# File: module/Application/view/application/quick-books/blog.phtml, line: 68
+# File: module/Application/view/application/quick-books/blog.phtml, line: 67
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 127
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 127
 msgid "Location"
@@ -2323,7 +2323,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/searchreservations.phtml, line: 38
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 38
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 38
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 97
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 96
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 38
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 38
 msgid "Cancelled"
@@ -2340,7 +2340,7 @@ msgstr ""
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 87
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 116
 # File: module/Application/view/application/packages/listreservations.phtml, line: 87
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 99
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 98
 # File: module/Application/view/application/reservations/list.phtml, line: 89
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 88
 # File: module/Application/view/application/view-reservation/index.phtml, line: 113
@@ -2842,8 +2842,8 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 1132
 # File: module/Application/view/application/index/transactions.phtml, line: 25
 # File: module/Application/view/application/marketing/list.phtml, line: 27
-# File: module/Application/view/application/quick-books/blog.phtml, line: 40
-# File: module/Application/view/application/quick-books/tutorials.phtml, line: 39
+# File: module/Application/view/application/quick-books/blog.phtml, line: 39
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 38
 # File: module/Application/view/application/reports/globalware.phtml, line: 36
 # File: module/Application/view/application/reports/search.phtml, line: 72
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2255
@@ -2905,8 +2905,8 @@ msgid "Item"
 msgstr ""
 #
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 636
-# File: module/Application/view/application/quick-books/blog.phtml, line: 48
-# File: module/Application/view/application/quick-books/tutorials.phtml, line: 45
+# File: module/Application/view/application/quick-books/blog.phtml, line: 47
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 44
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 45
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 44
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 43
@@ -3015,7 +3015,7 @@ msgstr ""
 # File: module/Application/view/application/packages/view.phtml, line: 107
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 21
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 24
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 26
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 25
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 16
 msgid "Address"
 msgstr ""
@@ -3269,7 +3269,7 @@ msgstr ""
 # File: module/Application/view/application/packages/newitinerary.phtml, line: 32
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 47
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 45
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 43
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 42
 msgid "Day"
 msgstr ""
 #
@@ -4639,9 +4639,9 @@ msgstr ""
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 10
 # File: module/Application/view/application/packages/termsandconditions.phtml, line: 9
 # File: module/Application/view/application/portfolio/index.phtml, line: 28
-# File: module/Application/view/application/quick-books/blog.phtml, line: 29
-# File: module/Application/view/application/quick-books/tutorials.phtml, line: 29
-# File: module/Application/view/application/quick-books/faqs.phtml, line: 29
+# File: module/Application/view/application/quick-books/blog.phtml, line: 28
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 28
+# File: module/Application/view/application/quick-books/faqs.phtml, line: 28
 # File: module/Application/view/application/reports/globalware.phtml, line: 9
 # File: module/Application/view/application/reports/index.phtml, line: 11
 # File: module/Application/view/application/reports/search.phtml, line: 9
@@ -5105,8 +5105,8 @@ msgstr ""
 # File: module/Application/view/application/quick-books/charge.phtml, line: 22
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 21
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 22
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 26
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 40
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 25
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 39
 # File: module/Application/view/application/reservations/list.phtml, line: 31
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 60
 # File: module/Application/view/application/reservations/searchallbookings.phtml, line: 48
@@ -5204,13 +5204,13 @@ msgstr ""
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 65
 # File: module/Application/view/application/packages/termsandconditions.phtml, line: 42
 # File: module/Application/view/application/portfolio/categories.phtml, line: 40
-# File: module/Application/view/application/quick-books/hotmart.phtml, line: 34
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 37
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 42
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 48
-# File: module/Application/view/application/quick-books/blog.phtml, line: 70
-# File: module/Application/view/application/quick-books/tutorials.phtml, line: 47
-# File: module/Application/view/application/quick-books/faqs.phtml, line: 42
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 33
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 36
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 41
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 47
+# File: module/Application/view/application/quick-books/blog.phtml, line: 69
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 46
+# File: module/Application/view/application/quick-books/faqs.phtml, line: 41
 # File: module/Application/view/application/reservations/list.phtml, line: 38
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 65
 # File: module/Application/view/application/reservations/searchallbookings.phtml, line: 53
@@ -5896,13 +5896,13 @@ msgstr ""
 # File: module/Application/view/application/packages/listreservations.phtml, line: 92
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 88
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 79
-# File: module/Application/view/application/quick-books/hotmart.phtml, line: 50
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 57
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 66
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 112
-# File: module/Application/view/application/quick-books/blog.phtml, line: 109
-# File: module/Application/view/application/quick-books/tutorials.phtml, line: 62
-# File: module/Application/view/application/quick-books/faqs.phtml, line: 52
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 49
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 56
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 65
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 111
+# File: module/Application/view/application/quick-books/blog.phtml, line: 108
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 61
+# File: module/Application/view/application/quick-books/faqs.phtml, line: 51
 # File: module/Application/view/application/reservations/list.phtml, line: 92
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 79
 # File: module/Application/view/application/reservations/searchallbookings.phtml, line: 67
@@ -6467,8 +6467,8 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 51
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 27
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 92
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 33
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 27
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 32
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 26
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 20
 # File: module/Application/view/application/tutorials/index.phtml, line: 312
 msgid "City"
@@ -6543,8 +6543,8 @@ msgstr ""
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 27
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 81
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 49
-# File: module/Application/view/application/quick-books/hotmart.phtml, line: 29
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 45
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 28
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 44
 # File: module/Application/view/application/support/edit.phtml, line: 34
 # File: module/Application/view/application/support/list.phtml, line: 34
 # File: module/Application/view/application/support/search.phtml, line: 80
@@ -6929,7 +6929,7 @@ msgstr ""
 # File: module/Application/view/application/index/order.old.phtml, line: 438
 # File: module/Application/view/application/index/order.old.phtml, line: 483
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 74
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 29
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 28
 msgid "State"
 msgstr ""
 #
@@ -6961,10 +6961,10 @@ msgstr ""
 # File: module/Application/view/application/customers/search.phtml, line: 77
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 87
 # File: module/Application/view/application/index/invoices.phtml, line: 83
-# File: module/Application/view/application/quick-books/hotmart.phtml, line: 33
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 25
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 25
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 39
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 32
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 24
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 24
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 38
 # File: module/Application/view/application/support/list.phtml, line: 27
 # File: module/Application/view/application/support/search.phtml, line: 73
 msgid "Date time Created"
@@ -7150,6 +7150,7 @@ msgstr ""
 # File: module/Application/view/application/cms/featureddestinations.phtml, line: 11
 # File: module/Application/view/application/cms/featuredhotels.phtml, line: 11
 # File: module/Application/view/application/index/index.phtml, line: 237
+# File: module/Application/view/application/quick-books/cms.phtml, line: 17
 msgid "CMS"
 msgstr ""
 #
@@ -7187,7 +7188,7 @@ msgstr ""
 # File: module/Application/view/application/packages/newitinerary.phtml, line: 45
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 140
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 109
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 47
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 46
 msgid "Description"
 msgstr ""
 #
@@ -7213,8 +7214,8 @@ msgstr ""
 # File: module/Application/view/application/index/socialmedia.phtml, line: 42
 # File: module/Application/view/application/index/userinfo.phtml, line: 41
 # File: module/Application/view/application/index/viewsecuritylog.phtml, line: 39
-# File: module/Application/view/application/quick-books/blog.phtml, line: 42
-# File: module/Application/view/application/quick-books/tutorials.phtml, line: 41
+# File: module/Application/view/application/quick-books/blog.phtml, line: 41
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 40
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 33
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 32
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 32
@@ -7723,7 +7724,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/newroom.phtml, line: 40
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 90
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 58
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 46
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 45
 # File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 15
 msgid "Type"
 msgstr ""
@@ -7830,8 +7831,8 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 98
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 24
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 66
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 27
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 44
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 26
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 43
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2264
 # File: module/Application/view/application/view-reservation/rewards.phtml, line: 10
 msgid "Amount"
@@ -7936,7 +7937,7 @@ msgid "Date/Time"
 msgstr ""
 #
 # File: module/Application/view/application/customers/quotes.phtml, line: 58
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 58
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 57
 msgid "View Customer"
 msgstr ""
 #
@@ -8025,7 +8026,7 @@ msgstr ""
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 24
 # File: module/Application/view/application/portfolio/new.phtml, line: 25
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 25
-# File: module/Application/view/application/quick-books/hotmart.phtml, line: 26
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 25
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 41
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2312
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2354
@@ -8539,7 +8540,7 @@ msgstr ""
 # File: module/Application/view/application/portfolio/edit.phtml, line: 74
 # File: module/Application/view/application/portfolio/new.phtml, line: 67
 # File: module/Application/view/application/portfolio/new.phtml, line: 68
-# File: module/Application/view/application/quick-books/blog.phtml, line: 43
+# File: module/Application/view/application/quick-books/blog.phtml, line: 42
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 49
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 48
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 47
@@ -10636,9 +10637,9 @@ msgstr ""
 # File: module/Application/view/application/portfolio/edit.phtml, line: 61
 # File: module/Application/view/application/portfolio/new.phtml, line: 57
 # File: module/Application/view/application/portfolio/new.phtml, line: 58
-# File: module/Application/view/application/quick-books/blog.phtml, line: 69
-# File: module/Application/view/application/quick-books/tutorials.phtml, line: 46
-# File: module/Application/view/application/quick-books/faqs.phtml, line: 41
+# File: module/Application/view/application/quick-books/blog.phtml, line: 68
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 45
+# File: module/Application/view/application/quick-books/faqs.phtml, line: 40
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 39
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 40
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 57
@@ -11007,7 +11008,7 @@ msgstr ""
 # File: module/Application/view/application/index/prices.phtml, line: 199
 # File: module/Application/view/application/index/order.old.phtml, line: 123
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 61
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 104
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 103
 msgid "Monthly"
 msgstr ""
 #
@@ -11110,7 +11111,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 107
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 34
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 75
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 29
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 28
 # File: module/Application/view/application/view-reservation/creditcardinfo.phtml, line: 13
 # File: module/Application/view/application/view-reservation/creditcardinfo.phtml, line: 18
 msgid "Credit Card Number"
@@ -11148,7 +11149,7 @@ msgstr ""
 # File: module/Application/view/application/index/order.old.phtml, line: 427
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 34
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 37
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 30
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 29
 msgid "Postal Code"
 msgstr ""
 #
@@ -11611,7 +11612,7 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 86
 # File: module/Application/view/application/index/trial.phtml, line: 146
 # File: module/Application/view/application/index/trial.phtml, line: 520
-# File: module/Application/view/application/quick-books/tutorials.phtml, line: 31
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 30
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 27
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 27
 # File: module/Application/view/application/blog/index.phtml, line: 87
@@ -14243,62 +14244,62 @@ msgid "Sa"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 1324
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 60
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 59
 msgid "January"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 1325
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 62
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 61
 msgid "February"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 1326
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 64
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 63
 msgid "March"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 1327
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 66
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 65
 msgid "April"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 1328
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 68
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 67
 msgid "May"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 1329
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 70
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 69
 msgid "June"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 1330
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 72
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 71
 msgid "July"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 1331
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 74
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 73
 msgid "August"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 1332
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 76
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 75
 msgid "September"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 1333
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 78
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 77
 msgid "October"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 1334
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 80
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 79
 msgid "November"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 1335
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 82
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 81
 msgid "December"
 msgstr ""
 #
@@ -14351,7 +14352,7 @@ msgstr ""
 # File: module/Application/view/application/index/seo.phtml, line: 339
 # File: module/Application/view/application/index/seo.phtml, line: 372
 # File: module/Application/view/application/index/seo.phtml, line: 404
-# File: module/Application/view/application/quick-books/blog.phtml, line: 65
+# File: module/Application/view/application/quick-books/blog.phtml, line: 64
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 115
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 115
 msgid "Meta Title"
@@ -14368,7 +14369,7 @@ msgstr ""
 # File: module/Application/view/application/index/seo.phtml, line: 343
 # File: module/Application/view/application/index/seo.phtml, line: 376
 # File: module/Application/view/application/index/seo.phtml, line: 408
-# File: module/Application/view/application/quick-books/blog.phtml, line: 66
+# File: module/Application/view/application/quick-books/blog.phtml, line: 65
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 119
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 119
 msgid "Meta Description"
@@ -14385,7 +14386,7 @@ msgstr ""
 # File: module/Application/view/application/index/seo.phtml, line: 347
 # File: module/Application/view/application/index/seo.phtml, line: 380
 # File: module/Application/view/application/index/seo.phtml, line: 412
-# File: module/Application/view/application/quick-books/blog.phtml, line: 67
+# File: module/Application/view/application/quick-books/blog.phtml, line: 66
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 123
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 123
 msgid "Meta Keywords"
@@ -15086,7 +15087,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 128
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 55
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 96
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 34
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 33
 msgid "State Code"
 msgstr ""
 #
@@ -16110,7 +16111,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 120
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 47
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 88
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 32
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 31
 msgid "Street Address"
 msgstr ""
 #
@@ -17235,7 +17236,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 103
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 30
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 71
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 28
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 27
 # File: module/Application/view/application/view-reservation/creditcardinfo.phtml, line: 8
 msgid "Credit Card Holder Name"
 msgstr ""
@@ -17244,7 +17245,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 112
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 39
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 80
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 30
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 29
 msgid "Expiration Month/Year"
 msgstr ""
 #
@@ -17252,7 +17253,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 116
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 43
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 84
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 31
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 30
 # File: module/Application/view/application/view-reservation/creditcardinfo.phtml, line: 28
 # File: module/Application/view/application/view-reservation/creditcardinfo.phtml, line: 33
 msgid "CVV"
@@ -17262,7 +17263,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 132
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 59
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 100
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 35
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 34
 msgid "Country Code"
 msgstr ""
 #
@@ -17270,7 +17271,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 136
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 63
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 104
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 36
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 35
 msgid "Zip Code/Postal Code"
 msgstr ""
 #
@@ -17306,25 +17307,25 @@ msgstr ""
 #
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 42
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 45
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 32
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 31
 msgid "Given Name"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 45
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 48
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 33
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 32
 msgid "Middle Name"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 48
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 51
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 34
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 33
 msgid "Family Name"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 51
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 54
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 35
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 34
 msgid "Suffix"
 msgstr ""
 #
@@ -17335,31 +17336,31 @@ msgstr ""
 #
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 59
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 60
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 37
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 36
 msgid "Company Name"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 62
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 63
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 38
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 37
 msgid "Display Name"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 67
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 68
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 39
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 38
 msgid "Primary Phone"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 70
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 71
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 40
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 39
 msgid "Free Form Number"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 73
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 74
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 41
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 40
 msgid "Primary Email Address"
 msgstr ""
 #
@@ -17402,66 +17403,66 @@ msgid "Agent Id"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 54
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 95
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 94
 msgid "Suspended"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 62
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 106
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 105
 msgid "Yearly"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/hotmart.phtml, line: 17
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 16
 msgid "Hotmart"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/hotmart.phtml, line: 25
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 24
 msgid "Agent ID"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/hotmart.phtml, line: 28
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 27
 msgid "Payment Mode"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/hotmart.phtml, line: 30
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 29
 msgid "Transaction"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/hotmart.phtml, line: 31
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 30
 msgid "Approved Date"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/hotmart.phtml, line: 32
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 31
 msgid "Order Date"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 17
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 16
 msgid "List Charges"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 17
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 16
 # File: module/Application/view/layout/layout.phtml, line: 161
 msgid "List Customers"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 36
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 35
 msgid "Qualified Name"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 31
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 30
 msgid "List Recurring Bills"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 108
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 107
 msgid "Unknown Type"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 30
+# File: module/Application/view/application/quick-books/blog.phtml, line: 29
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 24
 msgid "Add New Blog"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 31
+# File: module/Application/view/application/quick-books/blog.phtml, line: 30
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 27
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 27
 # File: module/Application/view/application/blog/index.phtml, line: 173
@@ -17471,136 +17472,136 @@ msgstr ""
 msgid "Blog"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 46
+# File: module/Application/view/application/quick-books/blog.phtml, line: 45
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 39
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 39
 msgid "Sub Title"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 49
+# File: module/Application/view/application/quick-books/blog.phtml, line: 48
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 51
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 51
 msgid "Title 2"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 50
+# File: module/Application/view/application/quick-books/blog.phtml, line: 49
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 55
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 55
 msgid "Details 2"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 51
+# File: module/Application/view/application/quick-books/blog.phtml, line: 50
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 59
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 59
 msgid "Title 3"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 52
+# File: module/Application/view/application/quick-books/blog.phtml, line: 51
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 63
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 63
 msgid "Details 3"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 53
+# File: module/Application/view/application/quick-books/blog.phtml, line: 52
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 67
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 67
 msgid "Title 4"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 54
+# File: module/Application/view/application/quick-books/blog.phtml, line: 53
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 71
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 71
 msgid "Details 4"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 55
+# File: module/Application/view/application/quick-books/blog.phtml, line: 54
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 75
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 75
 msgid "Title 5"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 56
+# File: module/Application/view/application/quick-books/blog.phtml, line: 55
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 79
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 79
 msgid "Details 5"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 57
+# File: module/Application/view/application/quick-books/blog.phtml, line: 56
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 83
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 83
 msgid "Title 6"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 58
+# File: module/Application/view/application/quick-books/blog.phtml, line: 57
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 87
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 87
 msgid "Details 6"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 59
+# File: module/Application/view/application/quick-books/blog.phtml, line: 58
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 91
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 91
 msgid "Title 7"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 60
+# File: module/Application/view/application/quick-books/blog.phtml, line: 59
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 95
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 95
 msgid "Details 7"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 61
+# File: module/Application/view/application/quick-books/blog.phtml, line: 60
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 99
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 99
 msgid "Title 8"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 62
+# File: module/Application/view/application/quick-books/blog.phtml, line: 61
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 103
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 103
 msgid "Details 8"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 63
+# File: module/Application/view/application/quick-books/blog.phtml, line: 62
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 107
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 107
 msgid "Block Quote"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/blog.phtml, line: 64
+# File: module/Application/view/application/quick-books/blog.phtml, line: 63
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 111
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 111
 msgid "Block Quote Sub Title"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/tutorials.phtml, line: 30
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 29
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 24
 msgid "Add New Tutorial"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/tutorials.phtml, line: 43
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 42
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 37
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 36
 msgid "Author"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/faqs.phtml, line: 30
+# File: module/Application/view/application/quick-books/faqs.phtml, line: 29
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 24
 msgid "Add New FAQ"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/faqs.phtml, line: 31
+# File: module/Application/view/application/quick-books/faqs.phtml, line: 30
 msgid "FAQS"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/faqs.phtml, line: 39
+# File: module/Application/view/application/quick-books/faqs.phtml, line: 38
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 32
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 32
 # File: module/Application/view/application/support/view.phtml, line: 101
 msgid "Question"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/faqs.phtml, line: 40
+# File: module/Application/view/application/quick-books/faqs.phtml, line: 39
 # File: module/Application/view/application/quick-books/addnewfaq.phtml, line: 35
 # File: module/Application/view/application/quick-books/editfaq.phtml, line: 36
 msgid "Answer"
@@ -17718,8 +17719,11 @@ msgid "Video"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 24
-# File: module/Application/view/application/quick-books/editblog.phtml, line: 24
 msgid "Edit Tutorial"
+msgstr ""
+#
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 24
+msgid "Edit Blog"
 msgstr ""
 #
 # File: module/Application/view/application/reports/globalware.phtml, line: 25
