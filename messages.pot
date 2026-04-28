@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-28 16:12-0400\n"
+"POT-Creation-Date: 2026-04-28 17:03-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,7 +57,7 @@ msgstr ""
 # File: module/Application/src/Controller/HotelsController.php, line: 7213
 # File: module/Application/src/Controller/HotelsController.php, line: 8006
 # File: module/Application/src/Controller/HotelsController.php, line: 8311
-# File: module/Application/src/Controller/IndexController.php, line: 14744
+# File: module/Application/src/Controller/IndexController.php, line: 15250
 # File: module/Application/src/Controller/InsurancesController.php, line: 409
 # File: module/Application/src/Controller/InsurancesController.php, line: 731
 # File: module/Application/src/Controller/MarketingController.php, line: 519
@@ -204,6 +204,7 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 140
 # File: module/Application/view/application/index/trial.phtml, line: 293
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 836
+# File: module/Application/view/application/index/insideraccess.phtml, line: 353
 # File: module/Application/view/application/packages/newpackage.phtml, line: 107
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 26
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 58
@@ -297,6 +298,7 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
 # File: module/Application/view/application/index/trial.phtml, line: 261
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 803
+# File: module/Application/view/application/index/insideraccess.phtml, line: 339
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 62
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 65
 # File: module/Application/view/application/support/edit.phtml, line: 33
@@ -380,6 +382,7 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
 # File: module/Application/view/application/index/trial.phtml, line: 269
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 809
+# File: module/Application/view/application/index/insideraccess.phtml, line: 294
 # File: module/Application/view/application/marketing/new.phtml, line: 83
 # File: module/Application/view/application/packages/edit.phtml, line: 98
 # File: module/Application/view/application/packages/edit.phtml, line: 100
@@ -586,6 +589,7 @@ msgstr ""
 # File: module/Application/view/application/index/activate.phtml, line: 120
 # File: module/Application/view/application/index/trial.phtml, line: 119
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 121
+# File: module/Application/view/application/index/insideraccess.phtml, line: 145
 # File: module/Application/view/application/support/edit.phtml, line: 12
 # File: module/Application/view/application/support/edit.phtml, line: 20
 # File: module/Application/view/application/support/index.phtml, line: 6
@@ -678,6 +682,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 147
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 89
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 150
+# File: module/Application/view/application/index/insideraccess.phtml, line: 108
+# File: module/Application/view/application/index/insideraccess.phtml, line: 179
 # File: module/Application/view/application/blog/index.phtml, line: 88
 # File: module/Application/view/application/blog/index.phtml, line: 148
 # File: module/Application/view/application/blog/index.phtml, line: 211
@@ -1205,20 +1211,23 @@ msgstr ""
 # File: module/Application/src/Controller/IndexController.php, line: 2182
 # File: module/Application/src/Controller/IndexController.php, line: 2219
 # File: module/Application/src/Controller/IndexController.php, line: 2220
-# File: module/Application/src/Controller/IndexController.php, line: 4141
-# File: module/Application/src/Controller/IndexController.php, line: 4143
-# File: module/Application/src/Controller/IndexController.php, line: 4181
-# File: module/Application/src/Controller/IndexController.php, line: 4598
-# File: module/Application/src/Controller/IndexController.php, line: 4600
-# File: module/Application/src/Controller/IndexController.php, line: 4639
-# File: module/Application/src/Controller/IndexController.php, line: 6174
-# File: module/Application/src/Controller/IndexController.php, line: 6176
-# File: module/Application/src/Controller/IndexController.php, line: 6216
-# File: module/Application/src/Controller/IndexController.php, line: 6218
-# File: module/Application/src/Controller/IndexController.php, line: 6323
-# File: module/Application/src/Controller/IndexController.php, line: 6325
-# File: module/Application/src/Controller/IndexController.php, line: 13091
-# File: module/Application/src/Controller/IndexController.php, line: 13092
+# File: module/Application/src/Controller/IndexController.php, line: 3909
+# File: module/Application/src/Controller/IndexController.php, line: 3911
+# File: module/Application/src/Controller/IndexController.php, line: 3949
+# File: module/Application/src/Controller/IndexController.php, line: 4647
+# File: module/Application/src/Controller/IndexController.php, line: 4649
+# File: module/Application/src/Controller/IndexController.php, line: 4687
+# File: module/Application/src/Controller/IndexController.php, line: 5104
+# File: module/Application/src/Controller/IndexController.php, line: 5106
+# File: module/Application/src/Controller/IndexController.php, line: 5145
+# File: module/Application/src/Controller/IndexController.php, line: 6680
+# File: module/Application/src/Controller/IndexController.php, line: 6682
+# File: module/Application/src/Controller/IndexController.php, line: 6722
+# File: module/Application/src/Controller/IndexController.php, line: 6724
+# File: module/Application/src/Controller/IndexController.php, line: 6829
+# File: module/Application/src/Controller/IndexController.php, line: 6831
+# File: module/Application/src/Controller/IndexController.php, line: 13597
+# File: module/Application/src/Controller/IndexController.php, line: 13598
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 293
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 710
 # File: module/Application/src/Controller/BlogController.php, line: 234
@@ -1252,12 +1261,13 @@ msgstr ""
 #
 # File: module/Application/src/Controller/IndexController.php, line: 2183
 # File: module/Application/src/Controller/IndexController.php, line: 2221
-# File: module/Application/src/Controller/IndexController.php, line: 4143
-# File: module/Application/src/Controller/IndexController.php, line: 4601
-# File: module/Application/src/Controller/IndexController.php, line: 6180
-# File: module/Application/src/Controller/IndexController.php, line: 6222
-# File: module/Application/src/Controller/IndexController.php, line: 6325
-# File: module/Application/src/Controller/IndexController.php, line: 13092
+# File: module/Application/src/Controller/IndexController.php, line: 3911
+# File: module/Application/src/Controller/IndexController.php, line: 4649
+# File: module/Application/src/Controller/IndexController.php, line: 5107
+# File: module/Application/src/Controller/IndexController.php, line: 6686
+# File: module/Application/src/Controller/IndexController.php, line: 6728
+# File: module/Application/src/Controller/IndexController.php, line: 6831
+# File: module/Application/src/Controller/IndexController.php, line: 13598
 # File: module/Application/src/Controller/ViewReservationController.php, line: 2150
 msgid "Thanks"
 msgstr ""
@@ -1296,66 +1306,77 @@ msgstr ""
 msgid "Pending"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4142
-# File: module/Application/src/Controller/IndexController.php, line: 4599
+# File: module/Application/src/Controller/IndexController.php, line: 3910
+# File: module/Application/src/Controller/IndexController.php, line: 4648
+# File: module/Application/src/Controller/IndexController.php, line: 5105
 msgid "Your Click & Book trial is now active."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4142
-# File: module/Application/src/Controller/IndexController.php, line: 4599
+# File: module/Application/src/Controller/IndexController.php, line: 3910
+# File: module/Application/src/Controller/IndexController.php, line: 4648
+# File: module/Application/src/Controller/IndexController.php, line: 5105
 msgid "No charges will be made during your trial period."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4143
-# File: module/Application/src/Controller/IndexController.php, line: 4600
-# File: module/Application/src/Controller/IndexController.php, line: 6176
-# File: module/Application/src/Controller/IndexController.php, line: 6218
+# File: module/Application/src/Controller/IndexController.php, line: 3911
+# File: module/Application/src/Controller/IndexController.php, line: 4649
+# File: module/Application/src/Controller/IndexController.php, line: 5106
+# File: module/Application/src/Controller/IndexController.php, line: 6682
+# File: module/Application/src/Controller/IndexController.php, line: 6724
 msgid "Success! You're Now Subscribed to Click & Book"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4143
-# File: module/Application/src/Controller/IndexController.php, line: 4600
-# File: module/Application/src/Controller/IndexController.php, line: 6176
-# File: module/Application/src/Controller/IndexController.php, line: 6218
+# File: module/Application/src/Controller/IndexController.php, line: 3911
+# File: module/Application/src/Controller/IndexController.php, line: 4649
+# File: module/Application/src/Controller/IndexController.php, line: 5106
+# File: module/Application/src/Controller/IndexController.php, line: 6682
+# File: module/Application/src/Controller/IndexController.php, line: 6724
 msgid "Thank you for subscribing to Click & Book! We're happy to confirm that your subscription is now active. You will receive an email with a link to your dashboard, allowing you to access your account, manage your settings, explore exclusive features, and maximize your plan."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4143
-# File: module/Application/src/Controller/IndexController.php, line: 4600
-# File: module/Application/src/Controller/IndexController.php, line: 6176
-# File: module/Application/src/Controller/IndexController.php, line: 6218
+# File: module/Application/src/Controller/IndexController.php, line: 3911
+# File: module/Application/src/Controller/IndexController.php, line: 4649
+# File: module/Application/src/Controller/IndexController.php, line: 5106
+# File: module/Application/src/Controller/IndexController.php, line: 6682
+# File: module/Application/src/Controller/IndexController.php, line: 6724
 msgid "If you have any questions or need assistance, our customer support team is always ready to help. Your subscription panel is as follows:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4143
-# File: module/Application/src/Controller/IndexController.php, line: 4601
-# File: module/Application/src/Controller/IndexController.php, line: 6180
-# File: module/Application/src/Controller/IndexController.php, line: 6222
+# File: module/Application/src/Controller/IndexController.php, line: 3911
+# File: module/Application/src/Controller/IndexController.php, line: 4649
+# File: module/Application/src/Controller/IndexController.php, line: 5107
+# File: module/Application/src/Controller/IndexController.php, line: 6686
+# File: module/Application/src/Controller/IndexController.php, line: 6728
 msgid "Once again, welcome to Click & Book - We are excited to have you on board!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4144
-# File: module/Application/src/Controller/IndexController.php, line: 4602
+# File: module/Application/src/Controller/IndexController.php, line: 3912
+# File: module/Application/src/Controller/IndexController.php, line: 4650
+# File: module/Application/src/Controller/IndexController.php, line: 5108
 msgid "Success! Your Click & Book Trial Is Now Active"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4164
-# File: module/Application/src/Controller/IndexController.php, line: 4622
+# File: module/Application/src/Controller/IndexController.php, line: 3932
+# File: module/Application/src/Controller/IndexController.php, line: 4670
+# File: module/Application/src/Controller/IndexController.php, line: 5128
 msgid "Trial Click & Book Subscription Is Confirmed!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4181
-# File: module/Application/src/Controller/IndexController.php, line: 4639
+# File: module/Application/src/Controller/IndexController.php, line: 3949
+# File: module/Application/src/Controller/IndexController.php, line: 4687
+# File: module/Application/src/Controller/IndexController.php, line: 5145
 msgid "Your Click & Book trial account has been successfully activated."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4181
-# File: module/Application/src/Controller/IndexController.php, line: 4639
+# File: module/Application/src/Controller/IndexController.php, line: 3949
+# File: module/Application/src/Controller/IndexController.php, line: 4687
+# File: module/Application/src/Controller/IndexController.php, line: 5145
 msgid "Use the link below to access the Administration Panel and start exploring the system."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4181
-# File: module/Application/src/Controller/IndexController.php, line: 4639
+# File: module/Application/src/Controller/IndexController.php, line: 3949
+# File: module/Application/src/Controller/IndexController.php, line: 4687
+# File: module/Application/src/Controller/IndexController.php, line: 5145
 # File: module/Application/view/application/index/login.phtml, line: 127
 # File: module/Application/view/application/index/presentation.phtml, line: 217
 # File: module/Application/view/application/index/presentation.phtml, line: 2078
@@ -1390,6 +1411,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 233
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 160
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 856
+# File: module/Application/view/application/index/insideraccess.phtml, line: 194
+# File: module/Application/view/application/index/insideraccess.phtml, line: 262
 # File: module/Application/view/application/blog/index.phtml, line: 158
 # File: module/Application/view/application/blog/details.phtml, line: 174
 # File: module/Application/view/application/blog/details.phtml, line: 745
@@ -1406,143 +1429,144 @@ msgstr ""
 msgid "Login"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 4182
-# File: module/Application/src/Controller/IndexController.php, line: 4640
+# File: module/Application/src/Controller/IndexController.php, line: 3950
+# File: module/Application/src/Controller/IndexController.php, line: 4688
+# File: module/Application/src/Controller/IndexController.php, line: 5146
 msgid "Welcome! Your Click & Book Trial Is Ready"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 6175
-# File: module/Application/src/Controller/IndexController.php, line: 6217
+# File: module/Application/src/Controller/IndexController.php, line: 6681
+# File: module/Application/src/Controller/IndexController.php, line: 6723
 msgid "You will be billed monthly on the"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 6175
-# File: module/Application/src/Controller/IndexController.php, line: 6217
+# File: module/Application/src/Controller/IndexController.php, line: 6681
+# File: module/Application/src/Controller/IndexController.php, line: 6723
 msgid "of each month for the amount of"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 6175
-# File: module/Application/src/Controller/IndexController.php, line: 6217
+# File: module/Application/src/Controller/IndexController.php, line: 6681
+# File: module/Application/src/Controller/IndexController.php, line: 6723
 msgid "based on your selected plan."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 6178
-# File: module/Application/src/Controller/IndexController.php, line: 6220
+# File: module/Application/src/Controller/IndexController.php, line: 6684
+# File: module/Application/src/Controller/IndexController.php, line: 6726
 msgid "Approval Code:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 6181
-# File: module/Application/src/Controller/IndexController.php, line: 6223
+# File: module/Application/src/Controller/IndexController.php, line: 6687
+# File: module/Application/src/Controller/IndexController.php, line: 6729
 msgid "Your Click & Book Subscription Is Confirmed!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 6196
-# File: module/Application/src/Controller/IndexController.php, line: 6241
+# File: module/Application/src/Controller/IndexController.php, line: 6702
+# File: module/Application/src/Controller/IndexController.php, line: 6747
 msgid "Membership Fee Click & Book Subscription Is Confirmed!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 6325
+# File: module/Application/src/Controller/IndexController.php, line: 6831
 msgid "Click & Book Subscription Failed"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 6325
+# File: module/Application/src/Controller/IndexController.php, line: 6831
 msgid "Unfortunately, we were unable to process your payment for your Click & Book subscription due to a credit card payment failure. As a result, your subscription could not be completed."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 6325
+# File: module/Application/src/Controller/IndexController.php, line: 6831
 msgid "To resolve this issue, please try processing the payment again using a different card or verifying the details of your current payment method. If the issue persists, our customer support team is here to help. Selected subscription panel:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 6325
+# File: module/Application/src/Controller/IndexController.php, line: 6831
 msgid "Thank you for choosing Click & Book. We look forward to assisting you!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 6326
+# File: module/Application/src/Controller/IndexController.php, line: 6832
 msgid "Click & Book Subscription Payment Failed!"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 12491
+# File: module/Application/src/Controller/IndexController.php, line: 12997
 # File: module/Application/src/Controller/JSONController.php, line: 448
 msgid "Your Click & Book verification code is:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 12749
-# File: module/Application/src/Controller/IndexController.php, line: 12947
+# File: module/Application/src/Controller/IndexController.php, line: 13255
+# File: module/Application/src/Controller/IndexController.php, line: 13453
 msgid "Dear Team,"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 12751
+# File: module/Application/src/Controller/IndexController.php, line: 13257
 msgid "A member has successfully uploaded their identification document to the system. Please initiate the review process to verify compliance with our requirements."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 12753
-# File: module/Application/src/Controller/IndexController.php, line: 12951
+# File: module/Application/src/Controller/IndexController.php, line: 13259
+# File: module/Application/src/Controller/IndexController.php, line: 13457
 msgid "Details:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 12755
-# File: module/Application/src/Controller/IndexController.php, line: 12953
+# File: module/Application/src/Controller/IndexController.php, line: 13261
+# File: module/Application/src/Controller/IndexController.php, line: 13459
 msgid "Member Name:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 12757
-# File: module/Application/src/Controller/IndexController.php, line: 12955
+# File: module/Application/src/Controller/IndexController.php, line: 13263
+# File: module/Application/src/Controller/IndexController.php, line: 13461
 msgid "Member Id:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 12759
-# File: module/Application/src/Controller/IndexController.php, line: 12957
+# File: module/Application/src/Controller/IndexController.php, line: 13265
+# File: module/Application/src/Controller/IndexController.php, line: 13463
 msgid "Submission Date:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 12761
+# File: module/Application/src/Controller/IndexController.php, line: 13267
 msgid "Please review all submitted documents and confirm their accuracy. If any issues are found, kindly reach out to the member for clarification or corrections."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 12763
-# File: module/Application/src/Controller/IndexController.php, line: 12961
+# File: module/Application/src/Controller/IndexController.php, line: 13269
+# File: module/Application/src/Controller/IndexController.php, line: 13467
 msgid "Best regards,"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 12765
-# File: module/Application/src/Controller/IndexController.php, line: 12963
+# File: module/Application/src/Controller/IndexController.php, line: 13271
+# File: module/Application/src/Controller/IndexController.php, line: 13469
 msgid "Click & Book Team"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 12778
+# File: module/Application/src/Controller/IndexController.php, line: 13284
 msgid "Action Needed: Driver's License Submitted for Verification"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 12949
+# File: module/Application/src/Controller/IndexController.php, line: 13455
 msgid "A member has successfully submitted their bank account information to the system. Please proceed with the review process to ensure compliance with verification requirements."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 12959
+# File: module/Application/src/Controller/IndexController.php, line: 13465
 msgid "Please review all submitted bank account information and verify its accuracy. If any discrepancies are found, kindly contact the member for clarification or necessary corrections."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 12976
+# File: module/Application/src/Controller/IndexController.php, line: 13482
 msgid "Action Required: Bank Account Information Submitted for Verification"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 13092
-# File: module/Application/src/Controller/IndexController.php, line: 13093
+# File: module/Application/src/Controller/IndexController.php, line: 13598
+# File: module/Application/src/Controller/IndexController.php, line: 13599
 msgid "Verify your email"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 13092
+# File: module/Application/src/Controller/IndexController.php, line: 13598
 msgid "To activate your account, please verify your email address. Your account will not be activated until your email address is confirmed."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 13092
+# File: module/Application/src/Controller/IndexController.php, line: 13598
 msgid "Please enter this code to complete the email verification process."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 13092
+# File: module/Application/src/Controller/IndexController.php, line: 13598
 msgid "This is valid for 30 minutes only"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 15916
+# File: module/Application/src/Controller/IndexController.php, line: 16422
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 207
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 482
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3057
@@ -1560,7 +1584,7 @@ msgstr ""
 msgid "English"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 15918
+# File: module/Application/src/Controller/IndexController.php, line: 16424
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 198
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 473
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3060
@@ -1578,7 +1602,7 @@ msgstr ""
 msgid "Spanish"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 15920
+# File: module/Application/src/Controller/IndexController.php, line: 16426
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 189
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 464
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3066
@@ -1587,44 +1611,44 @@ msgstr ""
 msgid "Portuguese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 15922
+# File: module/Application/src/Controller/IndexController.php, line: 16428
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 165
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 440
 msgid "French"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 15924
+# File: module/Application/src/Controller/IndexController.php, line: 16430
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 177
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 452
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3063
 msgid "Italian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 15926
+# File: module/Application/src/Controller/IndexController.php, line: 16432
 msgid "Deutsch"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 15928
+# File: module/Application/src/Controller/IndexController.php, line: 16434
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 156
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 431
 msgid "Armenian"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 15930
+# File: module/Application/src/Controller/IndexController.php, line: 16436
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 159
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 434
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3081
 msgid "Chinese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 15932
+# File: module/Application/src/Controller/IndexController.php, line: 16438
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 180
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 455
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3072
 msgid "Japanese"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 15934
+# File: module/Application/src/Controller/IndexController.php, line: 16440
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 153
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 428
 msgid "Arabic"
@@ -2541,6 +2565,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
 # File: module/Application/view/application/index/trial.phtml, line: 429
+# File: module/Application/view/application/index/insideraccess.phtml, line: 435
 # File: module/Application/view/application/blog/index.phtml, line: 262
 # File: module/Application/view/application/blog/details.phtml, line: 461
 # File: module/Application/view/application/blog/list.phtml, line: 397
@@ -4424,6 +4449,7 @@ msgstr ""
 # File: module/Application/view/application/index/otp.phtml, line: 159
 # File: module/Application/view/application/index/otpgenerate.phtml, line: 161
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 898
+# File: module/Application/view/application/index/insideraccess.phtml, line: 779
 # File: module/Application/view/application/insurances/settings.phtml, line: 102
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 426
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 111
@@ -4616,6 +4642,9 @@ msgstr ""
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 144
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 174
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 654
+# File: module/Application/view/application/index/insideraccess.phtml, line: 99
+# File: module/Application/view/application/index/insideraccess.phtml, line: 170
+# File: module/Application/view/application/index/insideraccess.phtml, line: 544
 # File: module/Application/view/application/insurances/index.phtml, line: 9
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 9
 # File: module/Application/view/application/knowledge-base/item.phtml, line: 9
@@ -6263,6 +6292,7 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 249
 # File: module/Application/view/application/index/trial.phtml, line: 310
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 789
+# File: module/Application/view/application/index/insideraccess.phtml, line: 279
 # File: module/Application/view/application/support/edit.phtml, line: 30
 # File: module/Application/view/application/support/search.phtml, line: 32
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 8
@@ -6313,6 +6343,7 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 254
 # File: module/Application/view/application/index/trial.phtml, line: 313
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 795
+# File: module/Application/view/application/index/insideraccess.phtml, line: 285
 # File: module/Application/view/application/support/edit.phtml, line: 31
 # File: module/Application/view/application/support/search.phtml, line: 36
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 12
@@ -6408,6 +6439,7 @@ msgstr ""
 # File: module/Application/view/application/index/activate.phtml, line: 658
 # File: module/Application/view/application/index/trial.phtml, line: 299
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 843
+# File: module/Application/view/application/index/insideraccess.phtml, line: 362
 # File: module/Application/view/application/tutorials/index.phtml, line: 966
 msgid "Password"
 msgstr ""
@@ -10109,6 +10141,7 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 172
 # File: module/Application/view/application/index/trial.phtml, line: 598
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 736
+# File: module/Application/view/application/index/insideraccess.phtml, line: 666
 # File: module/Application/view/application/packages/edittermsandconditions.phtml, line: 15
 # File: module/Application/view/application/packages/edittermsandconditions.phtml, line: 30
 # File: module/Application/view/application/packages/manage.phtml, line: 131
@@ -11248,6 +11281,7 @@ msgstr ""
 # File: module/Application/view/application/index/order.old.phtml, line: 726
 # File: module/Application/view/application/index/order.old.phtml, line: 798
 # File: module/Application/view/application/index/trial.phtml, line: 660
+# File: module/Application/view/application/index/insideraccess.phtml, line: 753
 msgid "Phone is required."
 msgstr ""
 #
@@ -11268,12 +11302,14 @@ msgstr ""
 # File: module/Application/view/application/index/order.phtml, line: 790
 # File: module/Application/view/application/index/order.old.phtml, line: 782
 # File: module/Application/view/application/index/trial.phtml, line: 645
+# File: module/Application/view/application/index/insideraccess.phtml, line: 714
 msgid "First name is required."
 msgstr ""
 #
 # File: module/Application/view/application/index/order.phtml, line: 798
 # File: module/Application/view/application/index/order.old.phtml, line: 790
 # File: module/Application/view/application/index/trial.phtml, line: 652
+# File: module/Application/view/application/index/insideraccess.phtml, line: 721
 msgid "Last name is required."
 msgstr ""
 #
@@ -11422,6 +11458,9 @@ msgstr ""
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 84
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 145
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 655
+# File: module/Application/view/application/index/insideraccess.phtml, line: 101
+# File: module/Application/view/application/index/insideraccess.phtml, line: 172
+# File: module/Application/view/application/index/insideraccess.phtml, line: 545
 # File: module/Application/view/application/blog/index.phtml, line: 84
 # File: module/Application/view/application/blog/index.phtml, line: 144
 # File: module/Application/view/application/blog/index.phtml, line: 349
@@ -11518,6 +11557,9 @@ msgstr ""
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 86
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 147
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 656
+# File: module/Application/view/application/index/insideraccess.phtml, line: 103
+# File: module/Application/view/application/index/insideraccess.phtml, line: 174
+# File: module/Application/view/application/index/insideraccess.phtml, line: 546
 # File: module/Application/view/application/blog/index.phtml, line: 85
 # File: module/Application/view/application/blog/index.phtml, line: 145
 # File: module/Application/view/application/blog/index.phtml, line: 350
@@ -11596,6 +11638,9 @@ msgstr ""
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 87
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 148
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 657
+# File: module/Application/view/application/index/insideraccess.phtml, line: 105
+# File: module/Application/view/application/index/insideraccess.phtml, line: 176
+# File: module/Application/view/application/index/insideraccess.phtml, line: 547
 # File: module/Application/view/application/blog/index.phtml, line: 86
 # File: module/Application/view/application/blog/index.phtml, line: 146
 # File: module/Application/view/application/blog/index.phtml, line: 351
@@ -11665,6 +11710,9 @@ msgstr ""
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 88
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 149
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 658
+# File: module/Application/view/application/index/insideraccess.phtml, line: 107
+# File: module/Application/view/application/index/insideraccess.phtml, line: 178
+# File: module/Application/view/application/index/insideraccess.phtml, line: 548
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 30
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 27
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 27
@@ -11711,6 +11759,7 @@ msgstr ""
 # File: module/Application/view/application/index/activate.phtml, line: 119
 # File: module/Application/view/application/index/trial.phtml, line: 118
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 120
+# File: module/Application/view/application/index/insideraccess.phtml, line: 143
 # File: module/Application/view/application/blog/index.phtml, line: 119
 # File: module/Application/view/application/blog/details.phtml, line: 135
 # File: module/Application/view/application/blog/list.phtml, line: 97
@@ -12036,6 +12085,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 484
 # File: module/Application/view/application/index/activate.phtml, line: 379
 # File: module/Application/view/application/index/trial.phtml, line: 421
+# File: module/Application/view/application/index/insideraccess.phtml, line: 427
 # File: module/Application/view/application/blog/index.phtml, line: 254
 # File: module/Application/view/application/blog/details.phtml, line: 453
 # File: module/Application/view/application/blog/list.phtml, line: 389
@@ -12057,6 +12107,7 @@ msgstr ""
 # File: module/Application/view/application/index/activate.phtml, line: 305
 # File: module/Application/view/application/index/activate.phtml, line: 380
 # File: module/Application/view/application/index/trial.phtml, line: 422
+# File: module/Application/view/application/index/insideraccess.phtml, line: 428
 # File: module/Application/view/application/blog/index.phtml, line: 255
 # File: module/Application/view/application/blog/details.phtml, line: 454
 # File: module/Application/view/application/blog/list.phtml, line: 390
@@ -12076,6 +12127,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 486
 # File: module/Application/view/application/index/activate.phtml, line: 381
 # File: module/Application/view/application/index/trial.phtml, line: 423
+# File: module/Application/view/application/index/insideraccess.phtml, line: 429
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 42
 # File: module/Application/view/application/blog/index.phtml, line: 256
 # File: module/Application/view/application/blog/details.phtml, line: 455
@@ -12103,6 +12155,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 126
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 140
 # File: module/Application/view/application/index/trial.phtml, line: 424
+# File: module/Application/view/application/index/insideraccess.phtml, line: 430
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 31
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 38
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 40
@@ -12132,6 +12185,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
 # File: module/Application/view/application/index/trial.phtml, line: 427
+# File: module/Application/view/application/index/insideraccess.phtml, line: 433
 # File: module/Application/view/application/blog/index.phtml, line: 260
 # File: module/Application/view/application/blog/details.phtml, line: 459
 # File: module/Application/view/application/blog/list.phtml, line: 395
@@ -12158,6 +12212,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
 # File: module/Application/view/application/index/trial.phtml, line: 428
+# File: module/Application/view/application/index/insideraccess.phtml, line: 434
 # File: module/Application/view/application/blog/index.phtml, line: 261
 # File: module/Application/view/application/blog/details.phtml, line: 460
 # File: module/Application/view/application/blog/list.phtml, line: 396
@@ -12193,6 +12248,7 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
 # File: module/Application/view/application/index/trial.phtml, line: 430
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 771
+# File: module/Application/view/application/index/insideraccess.phtml, line: 436
 # File: module/Application/view/application/blog/index.phtml, line: 263
 # File: module/Application/view/application/blog/index.phtml, line: 461
 # File: module/Application/view/application/blog/details.phtml, line: 462
@@ -12224,6 +12280,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
 # File: module/Application/view/application/index/trial.phtml, line: 431
+# File: module/Application/view/application/index/insideraccess.phtml, line: 437
 # File: module/Application/view/application/blog/index.phtml, line: 264
 # File: module/Application/view/application/blog/details.phtml, line: 463
 # File: module/Application/view/application/blog/list.phtml, line: 399
@@ -12250,6 +12307,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
 # File: module/Application/view/application/index/trial.phtml, line: 432
+# File: module/Application/view/application/index/insideraccess.phtml, line: 438
 # File: module/Application/view/application/blog/index.phtml, line: 265
 # File: module/Application/view/application/blog/details.phtml, line: 464
 # File: module/Application/view/application/blog/list.phtml, line: 400
@@ -12296,6 +12354,9 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 433
 # File: module/Application/view/application/index/trial.phtml, line: 454
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 825
+# File: module/Application/view/application/index/insideraccess.phtml, line: 326
+# File: module/Application/view/application/index/insideraccess.phtml, line: 439
+# File: module/Application/view/application/index/insideraccess.phtml, line: 460
 # File: module/Application/view/application/blog/index.phtml, line: 266
 # File: module/Application/view/application/blog/index.phtml, line: 287
 # File: module/Application/view/application/blog/details.phtml, line: 465
@@ -12326,6 +12387,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 501
 # File: module/Application/view/application/index/activate.phtml, line: 396
 # File: module/Application/view/application/index/trial.phtml, line: 438
+# File: module/Application/view/application/index/insideraccess.phtml, line: 444
 # File: module/Application/view/application/blog/index.phtml, line: 271
 # File: module/Application/view/application/blog/details.phtml, line: 470
 # File: module/Application/view/application/blog/list.phtml, line: 406
@@ -12365,6 +12427,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 326
 # File: module/Application/view/application/index/trial.phtml, line: 439
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 810
+# File: module/Application/view/application/index/insideraccess.phtml, line: 296
+# File: module/Application/view/application/index/insideraccess.phtml, line: 445
 # File: module/Application/view/application/blog/index.phtml, line: 272
 # File: module/Application/view/application/blog/details.phtml, line: 471
 # File: module/Application/view/application/blog/details.phtml, line: 698
@@ -12399,6 +12463,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 327
 # File: module/Application/view/application/index/trial.phtml, line: 440
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 811
+# File: module/Application/view/application/index/insideraccess.phtml, line: 298
+# File: module/Application/view/application/index/insideraccess.phtml, line: 446
 # File: module/Application/view/application/blog/index.phtml, line: 273
 # File: module/Application/view/application/blog/details.phtml, line: 472
 # File: module/Application/view/application/blog/details.phtml, line: 699
@@ -12433,6 +12499,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 328
 # File: module/Application/view/application/index/trial.phtml, line: 441
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 812
+# File: module/Application/view/application/index/insideraccess.phtml, line: 300
+# File: module/Application/view/application/index/insideraccess.phtml, line: 447
 # File: module/Application/view/application/blog/index.phtml, line: 274
 # File: module/Application/view/application/blog/details.phtml, line: 473
 # File: module/Application/view/application/blog/details.phtml, line: 700
@@ -12467,6 +12535,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 329
 # File: module/Application/view/application/index/trial.phtml, line: 442
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 813
+# File: module/Application/view/application/index/insideraccess.phtml, line: 302
+# File: module/Application/view/application/index/insideraccess.phtml, line: 448
 # File: module/Application/view/application/blog/index.phtml, line: 275
 # File: module/Application/view/application/blog/details.phtml, line: 474
 # File: module/Application/view/application/blog/details.phtml, line: 701
@@ -12501,6 +12571,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 330
 # File: module/Application/view/application/index/trial.phtml, line: 443
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 814
+# File: module/Application/view/application/index/insideraccess.phtml, line: 304
+# File: module/Application/view/application/index/insideraccess.phtml, line: 449
 # File: module/Application/view/application/blog/index.phtml, line: 276
 # File: module/Application/view/application/blog/details.phtml, line: 475
 # File: module/Application/view/application/blog/details.phtml, line: 702
@@ -12536,6 +12608,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 331
 # File: module/Application/view/application/index/trial.phtml, line: 444
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 815
+# File: module/Application/view/application/index/insideraccess.phtml, line: 306
+# File: module/Application/view/application/index/insideraccess.phtml, line: 450
 # File: module/Application/view/application/blog/index.phtml, line: 277
 # File: module/Application/view/application/blog/details.phtml, line: 476
 # File: module/Application/view/application/blog/details.phtml, line: 703
@@ -12571,6 +12645,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 332
 # File: module/Application/view/application/index/trial.phtml, line: 445
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 816
+# File: module/Application/view/application/index/insideraccess.phtml, line: 308
+# File: module/Application/view/application/index/insideraccess.phtml, line: 451
 # File: module/Application/view/application/blog/index.phtml, line: 278
 # File: module/Application/view/application/blog/details.phtml, line: 477
 # File: module/Application/view/application/blog/details.phtml, line: 704
@@ -12606,6 +12682,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 333
 # File: module/Application/view/application/index/trial.phtml, line: 446
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 817
+# File: module/Application/view/application/index/insideraccess.phtml, line: 310
+# File: module/Application/view/application/index/insideraccess.phtml, line: 452
 # File: module/Application/view/application/blog/index.phtml, line: 279
 # File: module/Application/view/application/blog/details.phtml, line: 478
 # File: module/Application/view/application/blog/details.phtml, line: 705
@@ -12644,6 +12722,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 334
 # File: module/Application/view/application/index/trial.phtml, line: 447
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 818
+# File: module/Application/view/application/index/insideraccess.phtml, line: 312
+# File: module/Application/view/application/index/insideraccess.phtml, line: 453
 # File: module/Application/view/application/blog/index.phtml, line: 280
 # File: module/Application/view/application/blog/details.phtml, line: 479
 # File: module/Application/view/application/blog/details.phtml, line: 706
@@ -12678,6 +12758,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 335
 # File: module/Application/view/application/index/trial.phtml, line: 448
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 819
+# File: module/Application/view/application/index/insideraccess.phtml, line: 314
+# File: module/Application/view/application/index/insideraccess.phtml, line: 454
 # File: module/Application/view/application/blog/index.phtml, line: 281
 # File: module/Application/view/application/blog/details.phtml, line: 480
 # File: module/Application/view/application/blog/details.phtml, line: 707
@@ -12712,6 +12794,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 336
 # File: module/Application/view/application/index/trial.phtml, line: 449
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 820
+# File: module/Application/view/application/index/insideraccess.phtml, line: 316
+# File: module/Application/view/application/index/insideraccess.phtml, line: 455
 # File: module/Application/view/application/blog/index.phtml, line: 282
 # File: module/Application/view/application/blog/details.phtml, line: 481
 # File: module/Application/view/application/blog/details.phtml, line: 708
@@ -12749,6 +12833,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 337
 # File: module/Application/view/application/index/trial.phtml, line: 450
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 821
+# File: module/Application/view/application/index/insideraccess.phtml, line: 318
+# File: module/Application/view/application/index/insideraccess.phtml, line: 456
 # File: module/Application/view/application/blog/index.phtml, line: 283
 # File: module/Application/view/application/blog/details.phtml, line: 482
 # File: module/Application/view/application/blog/details.phtml, line: 709
@@ -12783,6 +12869,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 338
 # File: module/Application/view/application/index/trial.phtml, line: 451
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 822
+# File: module/Application/view/application/index/insideraccess.phtml, line: 320
+# File: module/Application/view/application/index/insideraccess.phtml, line: 457
 # File: module/Application/view/application/blog/index.phtml, line: 284
 # File: module/Application/view/application/blog/details.phtml, line: 483
 # File: module/Application/view/application/blog/details.phtml, line: 710
@@ -12819,6 +12907,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 339
 # File: module/Application/view/application/index/trial.phtml, line: 452
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 823
+# File: module/Application/view/application/index/insideraccess.phtml, line: 322
+# File: module/Application/view/application/index/insideraccess.phtml, line: 458
 # File: module/Application/view/application/blog/index.phtml, line: 285
 # File: module/Application/view/application/blog/details.phtml, line: 484
 # File: module/Application/view/application/blog/details.phtml, line: 711
@@ -12853,6 +12943,8 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 340
 # File: module/Application/view/application/index/trial.phtml, line: 453
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 824
+# File: module/Application/view/application/index/insideraccess.phtml, line: 324
+# File: module/Application/view/application/index/insideraccess.phtml, line: 459
 # File: module/Application/view/application/blog/index.phtml, line: 286
 # File: module/Application/view/application/blog/details.phtml, line: 485
 # File: module/Application/view/application/blog/details.phtml, line: 712
@@ -12875,6 +12967,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 520
 # File: module/Application/view/application/index/activate.phtml, line: 415
 # File: module/Application/view/application/index/trial.phtml, line: 457
+# File: module/Application/view/application/index/insideraccess.phtml, line: 463
 # File: module/Application/view/application/blog/index.phtml, line: 290
 # File: module/Application/view/application/blog/details.phtml, line: 489
 # File: module/Application/view/application/blog/list.phtml, line: 425
@@ -12894,6 +12987,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 521
 # File: module/Application/view/application/index/activate.phtml, line: 416
 # File: module/Application/view/application/index/trial.phtml, line: 458
+# File: module/Application/view/application/index/insideraccess.phtml, line: 464
 # File: module/Application/view/application/blog/index.phtml, line: 291
 # File: module/Application/view/application/blog/details.phtml, line: 490
 # File: module/Application/view/application/blog/list.phtml, line: 426
@@ -12913,6 +13007,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 523
 # File: module/Application/view/application/index/activate.phtml, line: 418
 # File: module/Application/view/application/index/trial.phtml, line: 460
+# File: module/Application/view/application/index/insideraccess.phtml, line: 466
 # File: module/Application/view/application/blog/index.phtml, line: 293
 # File: module/Application/view/application/blog/details.phtml, line: 339
 # File: module/Application/view/application/blog/details.phtml, line: 492
@@ -12935,6 +13030,7 @@ msgstr ""
 # File: module/Application/view/application/index/activate.phtml, line: 435
 # File: module/Application/view/application/index/trial.phtml, line: 477
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 618
+# File: module/Application/view/application/index/insideraccess.phtml, line: 484
 # File: module/Application/view/application/blog/index.phtml, line: 309
 # File: module/Application/view/application/blog/details.phtml, line: 508
 # File: module/Application/view/application/blog/list.phtml, line: 444
@@ -12954,6 +13050,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 541
 # File: module/Application/view/application/index/activate.phtml, line: 437
 # File: module/Application/view/application/index/trial.phtml, line: 479
+# File: module/Application/view/application/index/insideraccess.phtml, line: 488
 # File: module/Application/view/application/blog/index.phtml, line: 311
 # File: module/Application/view/application/blog/details.phtml, line: 510
 # File: module/Application/view/application/blog/list.phtml, line: 446
@@ -12973,6 +13070,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 542
 # File: module/Application/view/application/index/activate.phtml, line: 438
 # File: module/Application/view/application/index/trial.phtml, line: 480
+# File: module/Application/view/application/index/insideraccess.phtml, line: 490
 # File: module/Application/view/application/blog/index.phtml, line: 312
 # File: module/Application/view/application/blog/details.phtml, line: 511
 # File: module/Application/view/application/blog/list.phtml, line: 447
@@ -12992,6 +13090,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 543
 # File: module/Application/view/application/index/activate.phtml, line: 439
 # File: module/Application/view/application/index/trial.phtml, line: 481
+# File: module/Application/view/application/index/insideraccess.phtml, line: 492
 # File: module/Application/view/application/blog/index.phtml, line: 313
 # File: module/Application/view/application/blog/details.phtml, line: 512
 # File: module/Application/view/application/blog/list.phtml, line: 448
@@ -13011,6 +13110,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 544
 # File: module/Application/view/application/index/activate.phtml, line: 440
 # File: module/Application/view/application/index/trial.phtml, line: 482
+# File: module/Application/view/application/index/insideraccess.phtml, line: 494
 # File: module/Application/view/application/blog/index.phtml, line: 314
 # File: module/Application/view/application/blog/details.phtml, line: 513
 # File: module/Application/view/application/blog/list.phtml, line: 449
@@ -13030,6 +13130,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 545
 # File: module/Application/view/application/index/activate.phtml, line: 441
 # File: module/Application/view/application/index/trial.phtml, line: 483
+# File: module/Application/view/application/index/insideraccess.phtml, line: 496
 # File: module/Application/view/application/blog/index.phtml, line: 315
 # File: module/Application/view/application/blog/details.phtml, line: 514
 # File: module/Application/view/application/blog/list.phtml, line: 450
@@ -13051,6 +13152,7 @@ msgstr ""
 # File: module/Application/view/application/index/activate.phtml, line: 444
 # File: module/Application/view/application/index/trial.phtml, line: 486
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 624
+# File: module/Application/view/application/index/insideraccess.phtml, line: 505
 # File: module/Application/view/application/blog/index.phtml, line: 318
 # File: module/Application/view/application/blog/details.phtml, line: 517
 # File: module/Application/view/application/blog/list.phtml, line: 453
@@ -13072,6 +13174,7 @@ msgstr ""
 # File: module/Application/view/application/index/activate.phtml, line: 445
 # File: module/Application/view/application/index/trial.phtml, line: 487
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 625
+# File: module/Application/view/application/index/insideraccess.phtml, line: 507
 # File: module/Application/view/application/blog/index.phtml, line: 319
 # File: module/Application/view/application/blog/details.phtml, line: 518
 # File: module/Application/view/application/blog/list.phtml, line: 454
@@ -13093,6 +13196,7 @@ msgstr ""
 # File: module/Application/view/application/index/activate.phtml, line: 458
 # File: module/Application/view/application/index/trial.phtml, line: 500
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 638
+# File: module/Application/view/application/index/insideraccess.phtml, line: 525
 # File: module/Application/view/application/blog/index.phtml, line: 332
 # File: module/Application/view/application/blog/details.phtml, line: 531
 # File: module/Application/view/application/blog/list.phtml, line: 467
@@ -13111,6 +13215,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 575
 # File: module/Application/view/application/index/activate.phtml, line: 471
 # File: module/Application/view/application/index/trial.phtml, line: 513
+# File: module/Application/view/application/index/insideraccess.phtml, line: 541
 # File: module/Application/view/application/blog/index.phtml, line: 345
 # File: module/Application/view/application/blog/details.phtml, line: 544
 # File: module/Application/view/application/blog/list.phtml, line: 480
@@ -13129,6 +13234,7 @@ msgstr ""
 # File: module/Application/view/application/index/activate.phtml, line: 485
 # File: module/Application/view/application/index/trial.phtml, line: 527
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 665
+# File: module/Application/view/application/index/insideraccess.phtml, line: 555
 # File: module/Application/view/application/blog/index.phtml, line: 359
 # File: module/Application/view/application/blog/details.phtml, line: 558
 # File: module/Application/view/application/blog/list.phtml, line: 494
@@ -13165,6 +13271,7 @@ msgstr ""
 # File: module/Application/view/application/index/activate.phtml, line: 551
 # File: module/Application/view/application/index/trial.phtml, line: 593
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 731
+# File: module/Application/view/application/index/insideraccess.phtml, line: 661
 # File: module/Application/view/application/blog/index.phtml, line: 423
 # File: module/Application/view/application/blog/details.phtml, line: 624
 # File: module/Application/view/application/blog/list.phtml, line: 558
@@ -13185,6 +13292,7 @@ msgstr ""
 # File: module/Application/view/application/index/activate.phtml, line: 557
 # File: module/Application/view/application/index/trial.phtml, line: 599
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 737
+# File: module/Application/view/application/index/insideraccess.phtml, line: 667
 # File: module/Application/view/application/blog/index.phtml, line: 429
 # File: module/Application/view/application/blog/details.phtml, line: 630
 # File: module/Application/view/application/blog/list.phtml, line: 564
@@ -13214,6 +13322,7 @@ msgstr ""
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 173
 # File: module/Application/view/application/index/trial.phtml, line: 600
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 738
+# File: module/Application/view/application/index/insideraccess.phtml, line: 668
 # File: module/Application/view/application/blog/index.phtml, line: 430
 # File: module/Application/view/application/blog/details.phtml, line: 631
 # File: module/Application/view/application/blog/list.phtml, line: 565
@@ -16088,11 +16197,13 @@ msgstr ""
 #
 # File: module/Application/view/application/index/activate.phtml, line: 188
 # File: module/Application/view/application/index/trial.phtml, line: 183
+# File: module/Application/view/application/index/insideraccess.phtml, line: 225
 msgid "You have successfully subscribed to the"
 msgstr ""
 #
 # File: module/Application/view/application/index/activate.phtml, line: 188
 # File: module/Application/view/application/index/trial.phtml, line: 183
+# File: module/Application/view/application/index/insideraccess.phtml, line: 225
 msgid "plan"
 msgstr ""
 #
@@ -16110,6 +16221,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/activate.phtml, line: 188
 # File: module/Application/view/application/index/trial.phtml, line: 183
+# File: module/Application/view/application/index/insideraccess.phtml, line: 225
 msgid "Your subscription is now active, and you can log in to your account at any time. Thank you, and happy bookings!"
 msgstr ""
 #
@@ -16195,6 +16307,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/activate.phtml, line: 273
 # File: module/Application/view/application/index/trial.phtml, line: 316
+# File: module/Application/view/application/index/insideraccess.phtml, line: 331
 # File: module/Application/view/application/quick-books/charge.phtml, line: 49
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 120
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 47
@@ -16210,6 +16323,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/activate.phtml, line: 302
 # File: module/Application/view/application/index/trial.phtml, line: 345
+# File: module/Application/view/application/index/insideraccess.phtml, line: 334
 msgid "Postcode / Zip"
 msgstr ""
 #
@@ -16240,6 +16354,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/activate.phtml, line: 323
 # File: module/Application/view/application/index/trial.phtml, line: 365
+# File: module/Application/view/application/index/insideraccess.phtml, line: 370
 msgid "Confirm"
 msgstr ""
 #
@@ -16297,6 +16412,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/trial.phtml, line: 169
 # File: module/Application/view/application/index/trial.phtml, line: 178
+# File: module/Application/view/application/index/insideraccess.phtml, line: 209
 msgid "C&B Trial"
 msgstr ""
 #
@@ -16309,18 +16425,22 @@ msgid "Start your 7‑day free trial of Click and Book and turn every follower i
 msgstr ""
 #
 # File: module/Application/view/application/index/trial.phtml, line: 194
+# File: module/Application/view/application/index/insideraccess.phtml, line: 236
 msgid "This email address is already registered. Please use a different email or contact technical support if you need assistance."
 msgstr ""
 #
 # File: module/Application/view/application/index/trial.phtml, line: 198
+# File: module/Application/view/application/index/insideraccess.phtml, line: 240
 msgid "The phone number you entered is invalid. Please check the format and try again."
 msgstr ""
 #
 # File: module/Application/view/application/index/trial.phtml, line: 202
+# File: module/Application/view/application/index/insideraccess.phtml, line: 244
 msgid "This phone number is already registered. Please use a different number or contact technical support."
 msgstr ""
 #
 # File: module/Application/view/application/index/trial.phtml, line: 206
+# File: module/Application/view/application/index/insideraccess.phtml, line: 248
 msgid "We couldn’t complete your card validation. This can happen if the card details don’t match the bank’s records or if the bank blocked the verification. Please double‑check your information or try another card."
 msgstr ""
 #
@@ -16337,6 +16457,7 @@ msgid "Your bank couldn’t validate the street address provided. Please verify 
 msgstr ""
 #
 # File: module/Application/view/application/index/trial.phtml, line: 240
+# File: module/Application/view/application/index/insideraccess.phtml, line: 270
 msgid "Begin Your 7‑Day C&B Trial Experience by Registering Below"
 msgstr ""
 #
@@ -16345,14 +16466,17 @@ msgid "A credit card is required solely for security and verification. You will 
 msgstr ""
 #
 # File: module/Application/view/application/index/trial.phtml, line: 668
+# File: module/Application/view/application/index/insideraccess.phtml, line: 729
 msgid "Country is required."
 msgstr ""
 #
 # File: module/Application/view/application/index/trial.phtml, line: 676
+# File: module/Application/view/application/index/insideraccess.phtml, line: 761
 msgid "Email is required."
 msgstr ""
 #
 # File: module/Application/view/application/index/trial.phtml, line: 684
+# File: module/Application/view/application/index/insideraccess.phtml, line: 769
 msgid "Password is required."
 msgstr ""
 #
@@ -16378,6 +16502,30 @@ msgstr ""
 #
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 226
 msgid "Designed for established travel businesses and agency networks — offering multi‑user access, advanced management tools, and full operational scalability."
+msgstr ""
+#
+# File: module/Application/view/application/index/insideraccess.phtml, line: 6
+msgid "Click And Book | Easy, Fast, and Reliable Travel Booking - Click & Book Insider Access"
+msgstr ""
+#
+# File: module/Application/view/application/index/insideraccess.phtml, line: 211
+msgid "A private, invitation‑only trial environment designed for selected users to explore Click & Book without any credit card requirements."
+msgstr ""
+#
+# File: module/Application/view/application/index/insideraccess.phtml, line: 220
+msgid "Click & Book Special Group Access"
+msgstr ""
+#
+# File: module/Application/view/application/index/insideraccess.phtml, line: 227
+msgid "Begin Your 7‑Day Insider Access Experience by Registering Below"
+msgstr ""
+#
+# File: module/Application/view/application/index/insideraccess.phtml, line: 737
+msgid "Street Address is required."
+msgstr ""
+#
+# File: module/Application/view/application/index/insideraccess.phtml, line: 745
+msgid "Postcode/Zip is required."
 msgstr ""
 #
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 23
