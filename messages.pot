@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-06 10:19-0400\n"
+"POT-Creation-Date: 2026-05-06 16:26-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1279,6 +1279,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 29
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 27
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 41
+# File: module/Application/view/application/reports/productivity.phtml, line: 128
 msgid "Month"
 msgstr ""
 #
@@ -2136,6 +2137,7 @@ msgstr ""
 # File: module/Application/view/application/reports/dailyticketingreport.phtml, line: 12
 # File: module/Application/view/application/reports/searchactivityreport.phtml, line: 12
 # File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 12
+# File: module/Application/view/application/reports/productivity.phtml, line: 10
 # File: module/Application/view/layout/layout.phtml, line: 146
 # File: module/Application/view/layout/layout.phtml, line: 182
 msgid "Reports"
@@ -2714,6 +2716,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/edit.phtml, line: 156
 # File: module/Application/view/application/marketing/new.phtml, line: 40
 # File: module/Application/view/application/packages/newpackage.phtml, line: 46
+# File: module/Application/view/application/reports/productivity.phtml, line: 228
 msgid "Airline"
 msgstr ""
 #
@@ -2906,6 +2909,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 38
 # File: module/Application/view/application/reports/globalware.phtml, line: 36
 # File: module/Application/view/application/reports/search.phtml, line: 72
+# File: module/Application/view/application/reports/productivity.phtml, line: 163
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2255
 # File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 9
 msgid "Date"
@@ -4062,6 +4066,7 @@ msgstr ""
 # File: module/Application/view/application/reports/dailyticketingreport.phtml, line: 11
 # File: module/Application/view/application/reports/searchactivityreport.phtml, line: 11
 # File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 11
+# File: module/Application/view/application/reports/productivity.phtml, line: 9
 # File: module/Application/view/application/reservations/index.phtml, line: 18
 # File: module/Application/view/application/reservations/list.phtml, line: 11
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 24
@@ -4523,6 +4528,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/addnewblog.phtml, line: 171
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 174
 # File: module/Application/view/application/reports/search.phtml, line: 116
+# File: module/Application/view/application/reports/productivity.phtml, line: 262
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 439
 # File: module/Application/view/application/support/edit.phtml, line: 83
 # File: module/Application/view/application/transfers/generalsettings.phtml, line: 102
@@ -4725,6 +4731,7 @@ msgstr ""
 # File: module/Application/view/application/reports/dailyticketingreport.phtml, line: 10
 # File: module/Application/view/application/reports/searchactivityreport.phtml, line: 10
 # File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 10
+# File: module/Application/view/application/reports/productivity.phtml, line: 8
 # File: module/Application/view/application/reservations/index.phtml, line: 17
 # File: module/Application/view/application/support/index.phtml, line: 9
 # File: module/Application/view/application/transfers/index.phtml, line: 9
@@ -10882,6 +10889,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 27
 # File: module/Application/view/application/index/index.phtml, line: 118
 # File: module/Application/view/application/index/index.phtml, line: 209
+# File: module/Application/view/application/reports/productivity.phtml, line: 200
 msgid "Items"
 msgstr ""
 #
@@ -14469,6 +14477,7 @@ msgid "Clear"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 1314
+# File: module/Application/view/application/reports/productivity.phtml, line: 49
 msgid "Apply"
 msgstr ""
 #
@@ -18141,10 +18150,12 @@ msgid "Search for Commissions"
 msgstr ""
 #
 # File: module/Application/view/application/reports/search.phtml, line: 46
+# File: module/Application/view/application/reports/productivity.phtml, line: 41
 msgid "Search From Date"
 msgstr ""
 #
 # File: module/Application/view/application/reports/search.phtml, line: 50
+# File: module/Application/view/application/reports/productivity.phtml, line: 45
 msgid "Search To Date"
 msgstr ""
 #
@@ -18158,6 +18169,11 @@ msgid "Daily Ticketing Report"
 msgstr ""
 #
 # File: module/Application/view/application/reports/dailyticketingreport.phtml, line: 133
+# File: module/Application/view/application/reports/productivity.phtml, line: 62
+# File: module/Application/view/application/reports/productivity.phtml, line: 129
+# File: module/Application/view/application/reports/productivity.phtml, line: 164
+# File: module/Application/view/application/reports/productivity.phtml, line: 229
+# File: module/Application/view/application/reports/productivity.phtml, line: 270
 # File: module/Application/view/application/view-reservation/index.phtml, line: 414
 msgid "Tickets"
 msgstr ""
@@ -18167,6 +18183,108 @@ msgstr ""
 # File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 7
 # File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 21
 msgid "Search Activity Report"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 11
+# File: module/Application/view/application/reports/productivity.phtml, line: 272
+msgid "Productivity"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 17
+msgid "Export CSV"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 20
+msgid "Export PDF"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 27
+msgid "Productivity Report for"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 63
+msgid "Air bookings"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 72
+# File: module/Application/view/application/reports/productivity.phtml, line: 130
+# File: module/Application/view/application/reports/productivity.phtml, line: 165
+# File: module/Application/view/application/reports/productivity.phtml, line: 230
+# File: module/Application/view/application/reports/productivity.phtml, line: 270
+msgid "Segments"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 73
+msgid "Flight legs"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 82
+# File: module/Application/view/application/reports/productivity.phtml, line: 131
+# File: module/Application/view/application/reports/productivity.phtml, line: 166
+# File: module/Application/view/application/reports/productivity.phtml, line: 270
+msgid "PNRs"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 83
+msgid "Unique"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 92
+# File: module/Application/view/application/reports/productivity.phtml, line: 132
+# File: module/Application/view/application/reports/productivity.phtml, line: 167
+# File: module/Application/view/application/reports/productivity.phtml, line: 270
+msgid "Services"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 93
+msgid "Hotels, cars, tours, etc."
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 102
+# File: module/Application/view/application/reports/productivity.phtml, line: 133
+# File: module/Application/view/application/reports/productivity.phtml, line: 168
+# File: module/Application/view/application/reports/productivity.phtml, line: 201
+# File: module/Application/view/application/reports/productivity.phtml, line: 231
+msgid "Sales"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 103
+msgid "Total billed"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 112
+msgid "Productivity at a glance"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 122
+msgid "Monthly Breakdown"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 138
+# File: module/Application/view/application/reports/productivity.phtml, line: 173
+# File: module/Application/view/application/reports/productivity.phtml, line: 206
+# File: module/Application/view/application/reports/productivity.phtml, line: 236
+msgid "No activity in this period."
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 157
+msgid "Daily Breakdown"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 193
+msgid "By Service"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 199
+msgid "Service"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 222
+msgid "By Airline"
+msgstr ""
+#
+# File: module/Application/view/application/reports/productivity.phtml, line: 270
+msgid "Sales (USD)"
 msgstr ""
 #
 # File: module/Application/view/application/reservations/index.phtml, line: 72
