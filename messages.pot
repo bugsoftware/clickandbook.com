@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-16 02:05-0400\n"
+"POT-Creation-Date: 2026-06-16 17:33-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1303,9 +1303,9 @@ msgstr ""
 # File: module/Application/src/Controller/IndexController.php, line: 16890
 # File: module/Application/src/Controller/IndexController.php, line: 16896
 # File: module/Application/src/Controller/IndexController.php, line: 16923
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 319
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 736
 # File: module/Application/src/Controller/BlogController.php, line: 234
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 542
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 959
 msgid "Hi"
 msgstr ""
 #
@@ -2349,52 +2349,6 @@ msgstr ""
 msgid "All Categories"
 msgstr ""
 #
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 311
-msgid "We Received Your Contact Request"
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 319
-msgid "Thank you for reaching out to us."
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 319
-msgid "We confirm that your request has been received and registered under the ID"
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 319
-msgid "Our team will get back to you shortly."
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 319
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 736
-# File: module/Application/src/Controller/BlogController.php, line: 234
-msgid "Best regards"
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 728
-msgid "Your Click & Book Account Has Been Created"
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 736
-msgid "Your account has been successfully created in Click & Book."
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 736
-msgid "To activate your account, please select the plan that best fits your needs."
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 736
-msgid "Once the plan is selected, your account will be fully activated and ready to use."
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 736
-msgid "If you haven’t completed your registration yet, simply click the button below to continue the process."
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 736
-msgid "Complete Registration"
-msgstr ""
-#
 # File: module/Application/src/Controller/ReservationsController.php, line: 849
 msgid "Please Select"
 msgstr ""
@@ -2604,6 +2558,52 @@ msgstr ""
 #
 # File: module/Application/src/Controller/BlogController.php, line: 234
 msgid "Our team will review your message and get back to you if needed."
+msgstr ""
+#
+# File: module/Application/src/Controller/BlogController.php, line: 234
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 542
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 959
+msgid "Best regards"
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 534
+msgid "We Received Your Contact Request"
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 542
+msgid "Thank you for reaching out to us."
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 542
+msgid "We confirm that your request has been received and registered under the ID"
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 542
+msgid "Our team will get back to you shortly."
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 951
+msgid "Your Click & Book Account Has Been Created"
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 959
+msgid "Your account has been successfully created in Click & Book."
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 959
+msgid "To activate your account, please select the plan that best fits your needs."
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 959
+msgid "Once the plan is selected, your account will be fully activated and ready to use."
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 959
+msgid "If you haven’t completed your registration yet, simply click the button below to continue the process."
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 959
+msgid "Complete Registration"
 msgstr ""
 #
 # File: module/Application/src/Shared/Sendemailv2.php, line: 505
@@ -4782,6 +4782,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2123
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2144
 # File: module/Application/view/application/tutorials/kb.phtml, line: 146
+# File: module/Application/view/application/register-agency/reactivate.phtml, line: 119
 msgid "Please wait..."
 msgstr ""
 #
@@ -10534,6 +10535,7 @@ msgid "We are sorry, but you do not have the permission to access this resource.
 msgstr ""
 #
 # File: module/Application/view/application/index/accessdenied.phtml, line: 15
+# File: module/Application/view/application/register-agency/unsubscribe.phtml, line: 60
 msgid "Back to Home"
 msgstr ""
 #
@@ -11506,6 +11508,7 @@ msgstr ""
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 239
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 61
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 103
+# File: module/Application/view/application/register-agency/reactivate.phtml, line: 68
 msgid "Monthly"
 msgstr ""
 #
@@ -13729,6 +13732,8 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 812
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 443
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 404
+# File: module/Application/view/application/register-agency/reactivate.phtml, line: 107
+# File: module/Application/view/application/register-agency/unsubscribe.phtml, line: 71
 msgid "All Rights Reserved."
 msgstr ""
 #
@@ -16654,10 +16659,12 @@ msgstr ""
 # File: module/Application/view/application/index/prices.phtml, line: 202
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 202
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 240
+# File: module/Application/view/application/register-agency/reactivate.phtml, line: 69
 msgid "Billed yearly"
 msgstr ""
 #
 # File: module/Application/view/application/index/prices.phtml, line: 214
+# File: module/Application/view/application/register-agency/reactivate.phtml, line: 81
 msgid "Choose Package"
 msgstr ""
 #
@@ -19883,6 +19890,47 @@ msgstr ""
 #
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 6
 msgid "Contact Us – Travel Agent Support, Assistance & Platform Help"
+msgstr ""
+#
+# File: module/Application/view/application/register-agency/reactivate.phtml, line: 7
+# File: module/Application/view/application/register-agency/reactivate.phtml, line: 52
+msgid "Reactivate Your Account"
+msgstr ""
+#
+# File: module/Application/view/application/register-agency/reactivate.phtml, line: 47
+msgid "Welcome back"
+msgstr ""
+#
+# File: module/Application/view/application/register-agency/reactivate.phtml, line: 49
+msgid "Welcome back!"
+msgstr ""
+#
+# File: module/Application/view/application/register-agency/reactivate.phtml, line: 53
+msgid "Choose a plan below to reactivate your account and pick up right where you left off."
+msgstr ""
+#
+# File: module/Application/view/application/register-agency/reactivate.phtml, line: 96
+msgid "There are no plans available right now. Please contact our support team and we will be happy to help you reactivate your account."
+msgstr ""
+#
+# File: module/Application/view/application/register-agency/unsubscribe.phtml, line: 7
+msgid "Unsubscribe from Newsletter"
+msgstr ""
+#
+# File: module/Application/view/application/register-agency/unsubscribe.phtml, line: 45
+msgid "You have been unsubscribed"
+msgstr ""
+#
+# File: module/Application/view/application/register-agency/unsubscribe.phtml, line: 47
+msgid "You have been unsubscribed from our newsletter. You will no longer receive any emails from us with the latest news, offers, and tips. We are sorry to lose you as a subscriber, but we respect your decision. If you ever want to re-subscribe, you can do so at any time by visiting our website. Thank you for your time and interest in our products and services. We hope to see you again soon."
+msgstr ""
+#
+# File: module/Application/view/application/register-agency/unsubscribe.phtml, line: 54
+msgid "We could not process your request"
+msgstr ""
+#
+# File: module/Application/view/application/register-agency/unsubscribe.phtml, line: 56
+msgid "We were unable to unsubscribe you from our newsletter. The link may be invalid or expired. Please contact our support team if the problem persists."
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 63
