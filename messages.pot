@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-20 01:48-0400\n"
+"POT-Creation-Date: 2026-07-20 09:09-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -314,6 +314,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2622
 # File: module/Application/view/application/view-reservation/termsandconditions.phtml, line: 42
 # File: module/Application/view/application/blog/details.phtml, line: 691
+# File: module/Application/view/application/blog/mobile.phtml, line: 489
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 510
 # File: module/Application/view/application/tutorials/index.phtml, line: 885
 msgid "Phone"
@@ -397,6 +398,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2186
 # File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 13
 # File: module/Application/view/application/blog/details.phtml, line: 697
+# File: module/Application/view/application/blog/mobile.phtml, line: 495
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 516
 # File: module/Application/view/application/tutorials/index.phtml, line: 274
 # File: module/Application/view/application/tutorials/index.phtml, line: 892
@@ -602,6 +604,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 120
 # File: module/Application/view/application/blog/details.phtml, line: 136
 # File: module/Application/view/application/blog/list.phtml, line: 98
+# File: module/Application/view/application/blog/mobile.phtml, line: 133
 # File: module/Application/view/application/view/index.phtml, line: 118
 # File: module/Application/view/application/faq/index.phtml, line: 148
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 136
@@ -696,6 +699,9 @@ msgstr ""
 # File: module/Application/view/application/blog/list.phtml, line: 66
 # File: module/Application/view/application/blog/list.phtml, line: 126
 # File: module/Application/view/application/blog/list.phtml, line: 346
+# File: module/Application/view/application/blog/mobile.phtml, line: 101
+# File: module/Application/view/application/blog/mobile.phtml, line: 161
+# File: module/Application/view/application/blog/mobile.phtml, line: 208
 # File: module/Application/view/application/view/index.phtml, line: 86
 # File: module/Application/view/application/view/index.phtml, line: 842
 # File: module/Application/view/application/faq/index.phtml, line: 116
@@ -968,7 +974,7 @@ msgstr ""
 # File: module/Application/src/Controller/IndexController.php, line: 16899
 # File: module/Application/src/Controller/IndexController.php, line: 16905
 # File: module/Application/src/Controller/IndexController.php, line: 16932
-# File: module/Application/src/Controller/BlogController.php, line: 234
+# File: module/Application/src/Controller/BlogController.php, line: 241
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 561
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 978
 msgid "Hi"
@@ -1229,6 +1235,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 745
 # File: module/Application/view/application/blog/list.phtml, line: 136
 # File: module/Application/view/application/blog/list.phtml, line: 673
+# File: module/Application/view/application/blog/mobile.phtml, line: 171
+# File: module/Application/view/application/blog/mobile.phtml, line: 543
 # File: module/Application/view/application/faq/index.phtml, line: 187
 # File: module/Application/view/application/faq/index.phtml, line: 596
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 174
@@ -2294,23 +2302,23 @@ msgstr ""
 msgid "3rd Payment"
 msgstr ""
 #
-# File: module/Application/src/Controller/BlogController.php, line: 226
+# File: module/Application/src/Controller/BlogController.php, line: 233
 msgid "We Received Your Blog Comment"
 msgstr ""
 #
-# File: module/Application/src/Controller/BlogController.php, line: 234
+# File: module/Application/src/Controller/BlogController.php, line: 241
 msgid "Thank you for posting a comment on our blog."
 msgstr ""
 #
-# File: module/Application/src/Controller/BlogController.php, line: 234
+# File: module/Application/src/Controller/BlogController.php, line: 241
 msgid "We confirm that your comment has been received and registered under"
 msgstr ""
 #
-# File: module/Application/src/Controller/BlogController.php, line: 234
+# File: module/Application/src/Controller/BlogController.php, line: 241
 msgid "Our team will review your message and get back to you if needed."
 msgstr ""
 #
-# File: module/Application/src/Controller/BlogController.php, line: 234
+# File: module/Application/src/Controller/BlogController.php, line: 241
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 561
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 978
 msgid "Best regards"
@@ -2719,6 +2727,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 262
 # File: module/Application/view/application/blog/details.phtml, line: 461
 # File: module/Application/view/application/blog/list.phtml, line: 397
+# File: module/Application/view/application/blog/mobile.phtml, line: 259
 # File: module/Application/view/application/view/index.phtml, line: 893
 # File: module/Application/view/application/faq/index.phtml, line: 314
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 280
@@ -5011,6 +5020,10 @@ msgstr ""
 # File: module/Application/view/application/blog/list.phtml, line: 121
 # File: module/Application/view/application/blog/list.phtml, line: 150
 # File: module/Application/view/application/blog/list.phtml, line: 483
+# File: module/Application/view/application/blog/mobile.phtml, line: 96
+# File: module/Application/view/application/blog/mobile.phtml, line: 156
+# File: module/Application/view/application/blog/mobile.phtml, line: 185
+# File: module/Application/view/application/blog/mobile.phtml, line: 345
 # File: module/Application/view/application/view/index.phtml, line: 81
 # File: module/Application/view/application/view/index.phtml, line: 182
 # File: module/Application/view/application/view/index.phtml, line: 980
@@ -6689,6 +6702,7 @@ msgstr ""
 # File: module/Application/view/application/support/search.phtml, line: 32
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 8
 # File: module/Application/view/application/blog/details.phtml, line: 679
+# File: module/Application/view/application/blog/mobile.phtml, line: 477
 # File: module/Application/view/application/faq/index.phtml, line: 225
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 498
 # File: module/Application/view/application/tutorials/index.phtml, line: 871
@@ -6740,6 +6754,7 @@ msgstr ""
 # File: module/Application/view/application/support/search.phtml, line: 36
 # File: module/Application/view/application/view-reservation/billinginfo.phtml, line: 12
 # File: module/Application/view/application/blog/details.phtml, line: 684
+# File: module/Application/view/application/blog/mobile.phtml, line: 482
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 503
 # File: module/Application/view/application/tutorials/index.phtml, line: 877
 msgid "Last Name"
@@ -10719,6 +10734,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 428
 # File: module/Application/view/application/blog/details.phtml, line: 629
 # File: module/Application/view/application/blog/list.phtml, line: 563
+# File: module/Application/view/application/blog/mobile.phtml, line: 427
 # File: module/Application/view/application/view/index.phtml, line: 1062
 # File: module/Application/view/application/faq/index.phtml, line: 482
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 448
@@ -12085,6 +12101,7 @@ msgstr ""
 # File: module/Application/view/application/index/presentation.phtml, line: 104
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 162
 # File: module/Application/view/application/blog/details.phtml, line: 86
+# File: module/Application/view/application/blog/mobile.phtml, line: 83
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 86
 # File: module/Application/view/application/tutorials/index.phtml, line: 124
 msgid "What are you looking for?"
@@ -12132,6 +12149,9 @@ msgstr ""
 # File: module/Application/view/application/blog/list.phtml, line: 62
 # File: module/Application/view/application/blog/list.phtml, line: 122
 # File: module/Application/view/application/blog/list.phtml, line: 484
+# File: module/Application/view/application/blog/mobile.phtml, line: 97
+# File: module/Application/view/application/blog/mobile.phtml, line: 157
+# File: module/Application/view/application/blog/mobile.phtml, line: 346
 # File: module/Application/view/application/view/index.phtml, line: 82
 # File: module/Application/view/application/view/index.phtml, line: 981
 # File: module/Application/view/application/faq/index.phtml, line: 111
@@ -12211,6 +12231,9 @@ msgstr ""
 # File: module/Application/view/application/blog/list.phtml, line: 63
 # File: module/Application/view/application/blog/list.phtml, line: 123
 # File: module/Application/view/application/blog/list.phtml, line: 485
+# File: module/Application/view/application/blog/mobile.phtml, line: 98
+# File: module/Application/view/application/blog/mobile.phtml, line: 158
+# File: module/Application/view/application/blog/mobile.phtml, line: 347
 # File: module/Application/view/application/view/index.phtml, line: 83
 # File: module/Application/view/application/view/index.phtml, line: 982
 # File: module/Application/view/application/faq/index.phtml, line: 113
@@ -12292,6 +12315,9 @@ msgstr ""
 # File: module/Application/view/application/blog/list.phtml, line: 64
 # File: module/Application/view/application/blog/list.phtml, line: 124
 # File: module/Application/view/application/blog/list.phtml, line: 486
+# File: module/Application/view/application/blog/mobile.phtml, line: 99
+# File: module/Application/view/application/blog/mobile.phtml, line: 159
+# File: module/Application/view/application/blog/mobile.phtml, line: 348
 # File: module/Application/view/application/view/index.phtml, line: 84
 # File: module/Application/view/application/view/index.phtml, line: 983
 # File: module/Application/view/application/faq/index.phtml, line: 114
@@ -12367,6 +12393,9 @@ msgstr ""
 # File: module/Application/view/application/blog/list.phtml, line: 65
 # File: module/Application/view/application/blog/list.phtml, line: 125
 # File: module/Application/view/application/blog/list.phtml, line: 487
+# File: module/Application/view/application/blog/mobile.phtml, line: 100
+# File: module/Application/view/application/blog/mobile.phtml, line: 160
+# File: module/Application/view/application/blog/mobile.phtml, line: 349
 # File: module/Application/view/application/view/index.phtml, line: 85
 # File: module/Application/view/application/view/index.phtml, line: 984
 # File: module/Application/view/application/faq/index.phtml, line: 115
@@ -12405,6 +12434,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 119
 # File: module/Application/view/application/blog/details.phtml, line: 135
 # File: module/Application/view/application/blog/list.phtml, line: 97
+# File: module/Application/view/application/blog/mobile.phtml, line: 132
 # File: module/Application/view/application/view/index.phtml, line: 117
 # File: module/Application/view/application/faq/index.phtml, line: 147
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 135
@@ -12435,6 +12465,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 430
 # File: module/Application/view/application/blog/details.phtml, line: 631
 # File: module/Application/view/application/blog/list.phtml, line: 565
+# File: module/Application/view/application/blog/mobile.phtml, line: 429
 # File: module/Application/view/application/view/index.phtml, line: 1064
 # File: module/Application/view/application/faq/index.phtml, line: 484
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 450
@@ -12594,6 +12625,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 212
 # File: module/Application/view/application/blog/details.phtml, line: 411
 # File: module/Application/view/application/blog/list.phtml, line: 347
+# File: module/Application/view/application/blog/mobile.phtml, line: 209
 # File: module/Application/view/application/view/index.phtml, line: 843
 # File: module/Application/view/application/faq/index.phtml, line: 264
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 230
@@ -12611,6 +12643,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 213
 # File: module/Application/view/application/blog/details.phtml, line: 412
 # File: module/Application/view/application/blog/list.phtml, line: 348
+# File: module/Application/view/application/blog/mobile.phtml, line: 210
 # File: module/Application/view/application/faq/index.phtml, line: 265
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 231
 # File: module/Application/view/application/tutorials/index.phtml, line: 606
@@ -12627,6 +12660,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 220
 # File: module/Application/view/application/blog/details.phtml, line: 419
 # File: module/Application/view/application/blog/list.phtml, line: 355
+# File: module/Application/view/application/blog/mobile.phtml, line: 217
 # File: module/Application/view/application/view/index.phtml, line: 851
 # File: module/Application/view/application/faq/index.phtml, line: 272
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 238
@@ -12644,6 +12678,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 231
 # File: module/Application/view/application/blog/details.phtml, line: 430
 # File: module/Application/view/application/blog/list.phtml, line: 366
+# File: module/Application/view/application/blog/mobile.phtml, line: 228
 # File: module/Application/view/application/view/index.phtml, line: 862
 # File: module/Application/view/application/faq/index.phtml, line: 283
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 249
@@ -12661,6 +12696,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 242
 # File: module/Application/view/application/blog/details.phtml, line: 441
 # File: module/Application/view/application/blog/list.phtml, line: 377
+# File: module/Application/view/application/blog/mobile.phtml, line: 239
 # File: module/Application/view/application/view/index.phtml, line: 873
 # File: module/Application/view/application/faq/index.phtml, line: 294
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 260
@@ -12681,6 +12717,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 254
 # File: module/Application/view/application/blog/details.phtml, line: 453
 # File: module/Application/view/application/blog/list.phtml, line: 389
+# File: module/Application/view/application/blog/mobile.phtml, line: 251
 # File: module/Application/view/application/view/index.phtml, line: 885
 # File: module/Application/view/application/faq/index.phtml, line: 306
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 272
@@ -12703,6 +12740,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 255
 # File: module/Application/view/application/blog/details.phtml, line: 454
 # File: module/Application/view/application/blog/list.phtml, line: 390
+# File: module/Application/view/application/blog/mobile.phtml, line: 252
 # File: module/Application/view/application/view/index.phtml, line: 886
 # File: module/Application/view/application/faq/index.phtml, line: 307
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 273
@@ -12724,6 +12762,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 256
 # File: module/Application/view/application/blog/details.phtml, line: 455
 # File: module/Application/view/application/blog/list.phtml, line: 391
+# File: module/Application/view/application/blog/mobile.phtml, line: 253
 # File: module/Application/view/application/view/index.phtml, line: 887
 # File: module/Application/view/application/faq/index.phtml, line: 308
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 274
@@ -12754,6 +12793,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 257
 # File: module/Application/view/application/blog/details.phtml, line: 456
 # File: module/Application/view/application/blog/list.phtml, line: 392
+# File: module/Application/view/application/blog/mobile.phtml, line: 254
 # File: module/Application/view/application/view/index.phtml, line: 888
 # File: module/Application/view/application/faq/index.phtml, line: 309
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 275
@@ -12781,6 +12821,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 260
 # File: module/Application/view/application/blog/details.phtml, line: 459
 # File: module/Application/view/application/blog/list.phtml, line: 395
+# File: module/Application/view/application/blog/mobile.phtml, line: 257
 # File: module/Application/view/application/view/index.phtml, line: 891
 # File: module/Application/view/application/faq/index.phtml, line: 312
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 278
@@ -12808,6 +12849,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 261
 # File: module/Application/view/application/blog/details.phtml, line: 460
 # File: module/Application/view/application/blog/list.phtml, line: 396
+# File: module/Application/view/application/blog/mobile.phtml, line: 258
 # File: module/Application/view/application/view/index.phtml, line: 892
 # File: module/Application/view/application/faq/index.phtml, line: 313
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 279
@@ -12847,6 +12889,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 662
 # File: module/Application/view/application/blog/list.phtml, line: 398
 # File: module/Application/view/application/blog/list.phtml, line: 596
+# File: module/Application/view/application/blog/mobile.phtml, line: 260
+# File: module/Application/view/application/blog/mobile.phtml, line: 460
 # File: module/Application/view/application/view/index.phtml, line: 894
 # File: module/Application/view/application/faq/index.phtml, line: 315
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 281
@@ -12876,6 +12920,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 264
 # File: module/Application/view/application/blog/details.phtml, line: 463
 # File: module/Application/view/application/blog/list.phtml, line: 399
+# File: module/Application/view/application/blog/mobile.phtml, line: 261
 # File: module/Application/view/application/view/index.phtml, line: 895
 # File: module/Application/view/application/faq/index.phtml, line: 316
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 282
@@ -12903,6 +12948,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 265
 # File: module/Application/view/application/blog/details.phtml, line: 464
 # File: module/Application/view/application/blog/list.phtml, line: 400
+# File: module/Application/view/application/blog/mobile.phtml, line: 262
 # File: module/Application/view/application/view/index.phtml, line: 896
 # File: module/Application/view/application/faq/index.phtml, line: 317
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 283
@@ -12956,6 +13002,9 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 713
 # File: module/Application/view/application/blog/list.phtml, line: 401
 # File: module/Application/view/application/blog/list.phtml, line: 422
+# File: module/Application/view/application/blog/mobile.phtml, line: 263
+# File: module/Application/view/application/blog/mobile.phtml, line: 284
+# File: module/Application/view/application/blog/mobile.phtml, line: 511
 # File: module/Application/view/application/view/index.phtml, line: 897
 # File: module/Application/view/application/view/index.phtml, line: 918
 # File: module/Application/view/application/faq/index.phtml, line: 318
@@ -12983,6 +13032,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 271
 # File: module/Application/view/application/blog/details.phtml, line: 470
 # File: module/Application/view/application/blog/list.phtml, line: 406
+# File: module/Application/view/application/blog/mobile.phtml, line: 268
 # File: module/Application/view/application/view/index.phtml, line: 902
 # File: module/Application/view/application/faq/index.phtml, line: 323
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 289
@@ -13025,6 +13075,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 471
 # File: module/Application/view/application/blog/details.phtml, line: 698
 # File: module/Application/view/application/blog/list.phtml, line: 407
+# File: module/Application/view/application/blog/mobile.phtml, line: 269
+# File: module/Application/view/application/blog/mobile.phtml, line: 496
 # File: module/Application/view/application/view/index.phtml, line: 903
 # File: module/Application/view/application/faq/index.phtml, line: 324
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 290
@@ -13061,6 +13113,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 472
 # File: module/Application/view/application/blog/details.phtml, line: 699
 # File: module/Application/view/application/blog/list.phtml, line: 408
+# File: module/Application/view/application/blog/mobile.phtml, line: 270
+# File: module/Application/view/application/blog/mobile.phtml, line: 497
 # File: module/Application/view/application/view/index.phtml, line: 904
 # File: module/Application/view/application/faq/index.phtml, line: 325
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 291
@@ -13097,6 +13151,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 473
 # File: module/Application/view/application/blog/details.phtml, line: 700
 # File: module/Application/view/application/blog/list.phtml, line: 409
+# File: module/Application/view/application/blog/mobile.phtml, line: 271
+# File: module/Application/view/application/blog/mobile.phtml, line: 498
 # File: module/Application/view/application/view/index.phtml, line: 905
 # File: module/Application/view/application/faq/index.phtml, line: 326
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 292
@@ -13133,6 +13189,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 474
 # File: module/Application/view/application/blog/details.phtml, line: 701
 # File: module/Application/view/application/blog/list.phtml, line: 410
+# File: module/Application/view/application/blog/mobile.phtml, line: 272
+# File: module/Application/view/application/blog/mobile.phtml, line: 499
 # File: module/Application/view/application/view/index.phtml, line: 906
 # File: module/Application/view/application/faq/index.phtml, line: 327
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 293
@@ -13169,6 +13227,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 475
 # File: module/Application/view/application/blog/details.phtml, line: 702
 # File: module/Application/view/application/blog/list.phtml, line: 411
+# File: module/Application/view/application/blog/mobile.phtml, line: 273
+# File: module/Application/view/application/blog/mobile.phtml, line: 500
 # File: module/Application/view/application/view/index.phtml, line: 907
 # File: module/Application/view/application/faq/index.phtml, line: 328
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 294
@@ -13206,6 +13266,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 476
 # File: module/Application/view/application/blog/details.phtml, line: 703
 # File: module/Application/view/application/blog/list.phtml, line: 412
+# File: module/Application/view/application/blog/mobile.phtml, line: 274
+# File: module/Application/view/application/blog/mobile.phtml, line: 501
 # File: module/Application/view/application/view/index.phtml, line: 908
 # File: module/Application/view/application/faq/index.phtml, line: 329
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 295
@@ -13243,6 +13305,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 477
 # File: module/Application/view/application/blog/details.phtml, line: 704
 # File: module/Application/view/application/blog/list.phtml, line: 413
+# File: module/Application/view/application/blog/mobile.phtml, line: 275
+# File: module/Application/view/application/blog/mobile.phtml, line: 502
 # File: module/Application/view/application/view/index.phtml, line: 909
 # File: module/Application/view/application/faq/index.phtml, line: 330
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 296
@@ -13280,6 +13344,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 478
 # File: module/Application/view/application/blog/details.phtml, line: 705
 # File: module/Application/view/application/blog/list.phtml, line: 414
+# File: module/Application/view/application/blog/mobile.phtml, line: 276
+# File: module/Application/view/application/blog/mobile.phtml, line: 503
 # File: module/Application/view/application/view/index.phtml, line: 910
 # File: module/Application/view/application/faq/index.phtml, line: 331
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 297
@@ -13320,6 +13386,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 479
 # File: module/Application/view/application/blog/details.phtml, line: 706
 # File: module/Application/view/application/blog/list.phtml, line: 415
+# File: module/Application/view/application/blog/mobile.phtml, line: 277
+# File: module/Application/view/application/blog/mobile.phtml, line: 504
 # File: module/Application/view/application/view/index.phtml, line: 911
 # File: module/Application/view/application/faq/index.phtml, line: 332
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 298
@@ -13356,6 +13424,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 480
 # File: module/Application/view/application/blog/details.phtml, line: 707
 # File: module/Application/view/application/blog/list.phtml, line: 416
+# File: module/Application/view/application/blog/mobile.phtml, line: 278
+# File: module/Application/view/application/blog/mobile.phtml, line: 505
 # File: module/Application/view/application/view/index.phtml, line: 912
 # File: module/Application/view/application/faq/index.phtml, line: 333
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 299
@@ -13392,6 +13462,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 481
 # File: module/Application/view/application/blog/details.phtml, line: 708
 # File: module/Application/view/application/blog/list.phtml, line: 417
+# File: module/Application/view/application/blog/mobile.phtml, line: 279
+# File: module/Application/view/application/blog/mobile.phtml, line: 506
 # File: module/Application/view/application/view/index.phtml, line: 913
 # File: module/Application/view/application/faq/index.phtml, line: 334
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 300
@@ -13431,6 +13503,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 482
 # File: module/Application/view/application/blog/details.phtml, line: 709
 # File: module/Application/view/application/blog/list.phtml, line: 418
+# File: module/Application/view/application/blog/mobile.phtml, line: 280
+# File: module/Application/view/application/blog/mobile.phtml, line: 507
 # File: module/Application/view/application/view/index.phtml, line: 914
 # File: module/Application/view/application/faq/index.phtml, line: 335
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 301
@@ -13467,6 +13541,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 483
 # File: module/Application/view/application/blog/details.phtml, line: 710
 # File: module/Application/view/application/blog/list.phtml, line: 419
+# File: module/Application/view/application/blog/mobile.phtml, line: 281
+# File: module/Application/view/application/blog/mobile.phtml, line: 508
 # File: module/Application/view/application/view/index.phtml, line: 915
 # File: module/Application/view/application/faq/index.phtml, line: 336
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 302
@@ -13505,6 +13581,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 484
 # File: module/Application/view/application/blog/details.phtml, line: 711
 # File: module/Application/view/application/blog/list.phtml, line: 420
+# File: module/Application/view/application/blog/mobile.phtml, line: 282
+# File: module/Application/view/application/blog/mobile.phtml, line: 509
 # File: module/Application/view/application/view/index.phtml, line: 916
 # File: module/Application/view/application/faq/index.phtml, line: 337
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 303
@@ -13541,6 +13619,8 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 485
 # File: module/Application/view/application/blog/details.phtml, line: 712
 # File: module/Application/view/application/blog/list.phtml, line: 421
+# File: module/Application/view/application/blog/mobile.phtml, line: 283
+# File: module/Application/view/application/blog/mobile.phtml, line: 510
 # File: module/Application/view/application/view/index.phtml, line: 917
 # File: module/Application/view/application/faq/index.phtml, line: 338
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 304
@@ -13563,6 +13643,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 290
 # File: module/Application/view/application/blog/details.phtml, line: 489
 # File: module/Application/view/application/blog/list.phtml, line: 425
+# File: module/Application/view/application/blog/mobile.phtml, line: 287
 # File: module/Application/view/application/view/index.phtml, line: 921
 # File: module/Application/view/application/faq/index.phtml, line: 342
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 308
@@ -13583,6 +13664,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 291
 # File: module/Application/view/application/blog/details.phtml, line: 490
 # File: module/Application/view/application/blog/list.phtml, line: 426
+# File: module/Application/view/application/blog/mobile.phtml, line: 288
 # File: module/Application/view/application/view/index.phtml, line: 922
 # File: module/Application/view/application/faq/index.phtml, line: 343
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 309
@@ -13604,6 +13686,7 @@ msgstr ""
 # File: module/Application/view/application/blog/details.phtml, line: 339
 # File: module/Application/view/application/blog/details.phtml, line: 492
 # File: module/Application/view/application/blog/list.phtml, line: 428
+# File: module/Application/view/application/blog/mobile.phtml, line: 290
 # File: module/Application/view/application/view/index.phtml, line: 924
 # File: module/Application/view/application/faq/index.phtml, line: 345
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 311
@@ -13626,6 +13709,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 309
 # File: module/Application/view/application/blog/details.phtml, line: 508
 # File: module/Application/view/application/blog/list.phtml, line: 444
+# File: module/Application/view/application/blog/mobile.phtml, line: 306
 # File: module/Application/view/application/view/index.phtml, line: 940
 # File: module/Application/view/application/faq/index.phtml, line: 361
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 327
@@ -13646,6 +13730,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 311
 # File: module/Application/view/application/blog/details.phtml, line: 510
 # File: module/Application/view/application/blog/list.phtml, line: 446
+# File: module/Application/view/application/blog/mobile.phtml, line: 308
 # File: module/Application/view/application/view/index.phtml, line: 942
 # File: module/Application/view/application/faq/index.phtml, line: 363
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 329
@@ -13666,6 +13751,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 312
 # File: module/Application/view/application/blog/details.phtml, line: 511
 # File: module/Application/view/application/blog/list.phtml, line: 447
+# File: module/Application/view/application/blog/mobile.phtml, line: 309
 # File: module/Application/view/application/view/index.phtml, line: 943
 # File: module/Application/view/application/faq/index.phtml, line: 364
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 330
@@ -13686,6 +13772,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 313
 # File: module/Application/view/application/blog/details.phtml, line: 512
 # File: module/Application/view/application/blog/list.phtml, line: 448
+# File: module/Application/view/application/blog/mobile.phtml, line: 310
 # File: module/Application/view/application/view/index.phtml, line: 944
 # File: module/Application/view/application/faq/index.phtml, line: 365
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 331
@@ -13706,6 +13793,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 314
 # File: module/Application/view/application/blog/details.phtml, line: 513
 # File: module/Application/view/application/blog/list.phtml, line: 449
+# File: module/Application/view/application/blog/mobile.phtml, line: 311
 # File: module/Application/view/application/view/index.phtml, line: 945
 # File: module/Application/view/application/faq/index.phtml, line: 366
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 332
@@ -13726,6 +13814,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 315
 # File: module/Application/view/application/blog/details.phtml, line: 514
 # File: module/Application/view/application/blog/list.phtml, line: 450
+# File: module/Application/view/application/blog/mobile.phtml, line: 312
 # File: module/Application/view/application/view/index.phtml, line: 946
 # File: module/Application/view/application/faq/index.phtml, line: 367
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 333
@@ -13748,6 +13837,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 318
 # File: module/Application/view/application/blog/details.phtml, line: 517
 # File: module/Application/view/application/blog/list.phtml, line: 453
+# File: module/Application/view/application/blog/mobile.phtml, line: 315
 # File: module/Application/view/application/view/index.phtml, line: 949
 # File: module/Application/view/application/faq/index.phtml, line: 370
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 336
@@ -13770,6 +13860,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 319
 # File: module/Application/view/application/blog/details.phtml, line: 518
 # File: module/Application/view/application/blog/list.phtml, line: 454
+# File: module/Application/view/application/blog/mobile.phtml, line: 316
 # File: module/Application/view/application/view/index.phtml, line: 950
 # File: module/Application/view/application/faq/index.phtml, line: 371
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 337
@@ -13792,6 +13883,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 332
 # File: module/Application/view/application/blog/details.phtml, line: 531
 # File: module/Application/view/application/blog/list.phtml, line: 467
+# File: module/Application/view/application/blog/mobile.phtml, line: 329
 # File: module/Application/view/application/faq/index.phtml, line: 384
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 350
 # File: module/Application/view/application/tutorials/index.phtml, line: 724
@@ -13811,6 +13903,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 345
 # File: module/Application/view/application/blog/details.phtml, line: 544
 # File: module/Application/view/application/blog/list.phtml, line: 480
+# File: module/Application/view/application/blog/mobile.phtml, line: 342
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 363
 # File: module/Application/view/application/tutorials/index.phtml, line: 737
 msgid "Useful Link"
@@ -13830,6 +13923,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 359
 # File: module/Application/view/application/blog/details.phtml, line: 558
 # File: module/Application/view/application/blog/list.phtml, line: 494
+# File: module/Application/view/application/blog/mobile.phtml, line: 356
 # File: module/Application/view/application/view/index.phtml, line: 991
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 377
 # File: module/Application/view/application/tutorials/index.phtml, line: 751
@@ -13850,6 +13944,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 423
 # File: module/Application/view/application/blog/details.phtml, line: 624
 # File: module/Application/view/application/blog/list.phtml, line: 558
+# File: module/Application/view/application/blog/mobile.phtml, line: 422
 # File: module/Application/view/application/faq/index.phtml, line: 477
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 443
 # File: module/Application/view/application/tutorials/index.phtml, line: 817
@@ -13873,6 +13968,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 429
 # File: module/Application/view/application/blog/details.phtml, line: 630
 # File: module/Application/view/application/blog/list.phtml, line: 564
+# File: module/Application/view/application/blog/mobile.phtml, line: 428
 # File: module/Application/view/application/view/index.phtml, line: 1063
 # File: module/Application/view/application/faq/index.phtml, line: 483
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 449
@@ -13893,6 +13989,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 453
 # File: module/Application/view/application/blog/details.phtml, line: 654
 # File: module/Application/view/application/blog/list.phtml, line: 588
+# File: module/Application/view/application/blog/mobile.phtml, line: 452
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 473
 # File: module/Application/view/application/tutorials/index.phtml, line: 847
 msgid "Register"
@@ -13910,6 +14007,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 455
 # File: module/Application/view/application/blog/details.phtml, line: 656
 # File: module/Application/view/application/blog/list.phtml, line: 590
+# File: module/Application/view/application/blog/mobile.phtml, line: 454
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 475
 # File: module/Application/view/application/tutorials/index.phtml, line: 849
 msgid "I want to join as"
@@ -13927,6 +14025,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 469
 # File: module/Application/view/application/blog/details.phtml, line: 669
 # File: module/Application/view/application/blog/list.phtml, line: 603
+# File: module/Application/view/application/blog/mobile.phtml, line: 467
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 488
 # File: module/Application/view/application/tutorials/index.phtml, line: 862
 msgid "Travel Agent or Agency"
@@ -13944,6 +14043,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 537
 # File: module/Application/view/application/blog/details.phtml, line: 741
 # File: module/Application/view/application/blog/list.phtml, line: 669
+# File: module/Application/view/application/blog/mobile.phtml, line: 539
 # File: module/Application/view/application/view/index.phtml, line: 1172
 # File: module/Application/view/application/faq/index.phtml, line: 592
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 560
@@ -13968,6 +14068,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 540
 # File: module/Application/view/application/blog/details.phtml, line: 744
 # File: module/Application/view/application/blog/list.phtml, line: 672
+# File: module/Application/view/application/blog/mobile.phtml, line: 542
 # File: module/Application/view/application/view/index.phtml, line: 1175
 # File: module/Application/view/application/faq/index.phtml, line: 595
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 563
@@ -16468,6 +16569,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 387
 # File: module/Application/view/application/blog/details.phtml, line: 588
 # File: module/Application/view/application/blog/list.phtml, line: 522
+# File: module/Application/view/application/blog/mobile.phtml, line: 386
 # File: module/Application/view/application/view/index.phtml, line: 1021
 # File: module/Application/view/application/faq/index.phtml, line: 441
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 407
@@ -20076,6 +20178,7 @@ msgstr ""
 # File: module/Application/view/application/blog/index.phtml, line: 423
 # File: module/Application/view/application/blog/details.phtml, line: 624
 # File: module/Application/view/application/blog/list.phtml, line: 558
+# File: module/Application/view/application/blog/mobile.phtml, line: 422
 # File: module/Application/view/application/view/index.phtml, line: 1057
 # File: module/Application/view/application/faq/index.phtml, line: 477
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 443
@@ -20149,6 +20252,12 @@ msgstr ""
 #
 # File: module/Application/view/application/blog/details.phtml, line: 392
 msgid "Need Help? Call Here"
+msgstr ""
+#
+# File: module/Application/view/application/blog/mobile.phtml, line: 6
+# File: module/Application/view/application/blog/mobile.phtml, line: 186
+# File: module/Application/view/application/blog/mobile.phtml, line: 187
+msgid "Mobile App"
 msgstr ""
 #
 # File: module/Application/view/application/view/index.phtml, line: 251
