@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-03 08:21-0400\n"
+"POT-Creation-Date: 2026-08-03 09:45-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -106,6 +106,7 @@ msgstr ""
 # File: module/Application/view/application/agents/searchagents.phtml, line: 11
 # File: module/Application/view/application/agents/view.phtml, line: 9
 # File: module/Application/view/application/index/index.phtml, line: 197
+# File: module/Application/view/application/messaging/index.phtml, line: 115
 # File: module/Application/view/layout/layout.phtml, line: 145
 # File: module/Application/view/layout/layout.phtml, line: 202
 msgid "Agents"
@@ -140,9 +141,9 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 10
 # File: module/Application/view/application/view-reservation/status.phtml, line: 39
 # File: module/Application/view/application/view-reservation/status.phtml, line: 42
-# File: module/Application/view/application/messaging/index.phtml, line: 111
-# File: module/Application/view/application/messaging/index.phtml, line: 136
-# File: module/Application/view/application/messaging/index.phtml, line: 169
+# File: module/Application/view/application/messaging/index.phtml, line: 131
+# File: module/Application/view/application/messaging/index.phtml, line: 156
+# File: module/Application/view/application/messaging/index.phtml, line: 189
 msgid "Agent"
 msgstr ""
 #
@@ -1542,6 +1543,7 @@ msgstr ""
 # File: module/Application/view/application/customers/newsupport.phtml, line: 11
 # File: module/Application/view/application/index/index.phtml, line: 186
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 312
+# File: module/Application/view/application/messaging/index.phtml, line: 116
 # File: module/Application/view/layout/layout.phtml, line: 144
 # File: module/Application/view/layout/layout.phtml, line: 160
 # File: module/Application/view/layout/layout.phtml, line: 201
@@ -2305,6 +2307,7 @@ msgstr ""
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 42
 # File: module/Application/view/application/portfolio/index.phtml, line: 54
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 83
+# File: module/Application/view/application/messaging/index.phtml, line: 114
 # File: module/Application/view/layout/layout.phtml, line: 190
 msgid "All"
 msgstr ""
@@ -5054,7 +5057,7 @@ msgstr ""
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 144
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 173
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 327
-# File: module/Application/view/application/messaging/index.phtml, line: 77
+# File: module/Application/view/application/messaging/index.phtml, line: 92
 msgid "Home"
 msgstr ""
 #
@@ -5494,9 +5497,9 @@ msgstr ""
 # File: module/Application/view/application/support/search.phtml, line: 74
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 31
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 60
-# File: module/Application/view/application/messaging/index.phtml, line: 111
-# File: module/Application/view/application/messaging/index.phtml, line: 136
-# File: module/Application/view/application/messaging/index.phtml, line: 169
+# File: module/Application/view/application/messaging/index.phtml, line: 131
+# File: module/Application/view/application/messaging/index.phtml, line: 156
+# File: module/Application/view/application/messaging/index.phtml, line: 189
 msgid "Customer"
 msgstr ""
 #
@@ -8785,7 +8788,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2339
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2381
 # File: module/Application/view/application/view-reservation/termsandconditions.phtml, line: 43
-# File: module/Application/view/application/messaging/index.phtml, line: 207
+# File: module/Application/view/application/messaging/index.phtml, line: 227
 msgid "Message"
 msgstr ""
 #
@@ -20474,40 +20477,40 @@ msgstr ""
 msgid "We were unable to unsubscribe you from our newsletter. The link may be invalid or expired. Please contact our support team if the problem persists."
 msgstr ""
 #
-# File: module/Application/view/application/messaging/index.phtml, line: 74
+# File: module/Application/view/application/messaging/index.phtml, line: 89
 msgid "Chat"
 msgstr ""
 #
-# File: module/Application/view/application/messaging/index.phtml, line: 78
+# File: module/Application/view/application/messaging/index.phtml, line: 93
 msgid "Messaging"
 msgstr ""
 #
-# File: module/Application/view/application/messaging/index.phtml, line: 93
+# File: module/Application/view/application/messaging/index.phtml, line: 108
 msgid "Messages"
 msgstr ""
 #
-# File: module/Application/view/application/messaging/index.phtml, line: 94
+# File: module/Application/view/application/messaging/index.phtml, line: 109
 msgid "Contacts"
 msgstr ""
 #
-# File: module/Application/view/application/messaging/index.phtml, line: 120
+# File: module/Application/view/application/messaging/index.phtml, line: 140
 msgid "No conversations yet."
 msgstr ""
 #
-# File: module/Application/view/application/messaging/index.phtml, line: 144
+# File: module/Application/view/application/messaging/index.phtml, line: 164
 msgid "No contacts yet."
 msgstr ""
 #
-# File: module/Application/view/application/messaging/index.phtml, line: 192
-# File: module/Application/view/application/messaging/index.phtml, line: 280
+# File: module/Application/view/application/messaging/index.phtml, line: 212
+# File: module/Application/view/application/messaging/index.phtml, line: 300
 msgid "Show earlier messages"
 msgstr ""
 #
-# File: module/Application/view/application/messaging/index.phtml, line: 203
+# File: module/Application/view/application/messaging/index.phtml, line: 223
 msgid "Session closed (24h window) — your reply will be sent as a template."
 msgstr ""
 #
-# File: module/Application/view/application/messaging/index.phtml, line: 323
+# File: module/Application/view/application/messaging/index.phtml, line: 343
 msgid "Could not send the message."
 msgstr ""
 #
