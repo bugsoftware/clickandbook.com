@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-07 08:48-0400\n"
+"POT-Creation-Date: 2026-08-08 02:13-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,8 +33,6 @@ msgstr ""
 # File: module/Application/src/Controller/CMSController.php, line: 1212
 # File: module/Application/src/Controller/CarsController.php, line: 779
 # File: module/Application/src/Controller/CarsController.php, line: 1039
-# File: module/Application/src/Controller/CruisesController.php, line: 859
-# File: module/Application/src/Controller/CruisesController.php, line: 1246
 # File: module/Application/src/Controller/EscortedtoursController.php, line: 2804
 # File: module/Application/src/Controller/EscortedtoursController.php, line: 3082
 # File: module/Application/src/Controller/InsurancesController.php, line: 409
@@ -68,30 +66,32 @@ msgstr ""
 # File: module/Application/src/Controller/CustomersController.php, line: 3377
 # File: module/Application/src/Controller/CustomersController.php, line: 3398
 # File: module/Application/src/Controller/CustomersController.php, line: 3664
+# File: module/Application/src/Controller/CruisesController.php, line: 859
+# File: module/Application/src/Controller/CruisesController.php, line: 1246
 msgid "Not Available"
 msgstr ""
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1077
 # File: module/Application/src/Controller/CarsController.php, line: 1052
-# File: module/Application/src/Controller/CruisesController.php, line: 1259
 # File: module/Application/src/Controller/EscortedtoursController.php, line: 3095
 # File: module/Application/src/Controller/InsurancesController.php, line: 745
 # File: module/Application/src/Controller/ReservationsController.php, line: 1808
 # File: module/Application/src/Controller/TransfersController.php, line: 1074
 # File: module/Application/src/Controller/FlightsController.php, line: 4298
 # File: module/Application/src/Controller/HotelsController.php, line: 8324
+# File: module/Application/src/Controller/CruisesController.php, line: 1259
 msgid "All Payment Status"
 msgstr ""
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1127
 # File: module/Application/src/Controller/CarsController.php, line: 1102
-# File: module/Application/src/Controller/CruisesController.php, line: 1309
 # File: module/Application/src/Controller/EscortedtoursController.php, line: 3145
 # File: module/Application/src/Controller/InsurancesController.php, line: 795
 # File: module/Application/src/Controller/ReservationsController.php, line: 1858
 # File: module/Application/src/Controller/TransfersController.php, line: 1124
 # File: module/Application/src/Controller/FlightsController.php, line: 4348
 # File: module/Application/src/Controller/HotelsController.php, line: 8374
+# File: module/Application/src/Controller/CruisesController.php, line: 1309
 msgid "All Reservation Status"
 msgstr ""
 #
@@ -489,7 +489,6 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopularcruises.phtml, line: 11
 # File: module/Application/view/application/cruises/addpopulardestinations.phtml, line: 11
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 11
-# File: module/Application/view/application/cruises/index.phtml, line: 22
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 12
 # File: module/Application/view/application/cruises/popularcruises.phtml, line: 11
 # File: module/Application/view/application/cruises/populardestinations.phtml, line: 11
@@ -497,6 +496,12 @@ msgstr ""
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 12
 # File: module/Application/view/application/cruises/settings.phtml, line: 11
 # File: module/Application/view/application/cruises/commissiontable.phtml, line: 10
+# File: module/Application/view/application/cruises/confirmedcruises.phtml, line: 9
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 11
+# File: module/Application/view/application/cruises/index.phtml, line: 22
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 20
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 22
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 11
 # File: module/Application/view/application/index/banners.phtml, line: 107
 # File: module/Application/view/application/index/bannersedit.phtml, line: 94
 # File: module/Application/view/application/index/billing.phtml, line: 83
@@ -1207,6 +1212,7 @@ msgstr ""
 # File: module/Application/src/Controller/PortfolioController.php, line: 370
 # File: module/Application/src/Controller/FlightsController.php, line: 1571
 # File: module/Application/src/Controller/FlightsController.php, line: 2278
+# File: module/Application/src/Controller/CruisesController.php, line: 1942
 msgid "All Companys"
 msgstr ""
 #
@@ -1633,7 +1639,10 @@ msgstr ""
 # File: module/Application/src/Controller/FlightsController.php, line: 1917
 # File: module/Application/src/Controller/FlightsController.php, line: 2343
 # File: module/Application/src/Controller/HotelsController.php, line: 1992
+# File: module/Application/src/Controller/CruisesController.php, line: 1934
 # File: module/Application/view/application/agents/edit.phtml, line: 163
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 48
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 54
 # File: module/Application/view/application/customers/edit.phtml, line: 51
 # File: module/Application/view/application/flights/airblock.phtml, line: 48
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 80
@@ -1645,7 +1654,10 @@ msgstr ""
 # File: module/Application/src/Controller/FlightsController.php, line: 1921
 # File: module/Application/src/Controller/FlightsController.php, line: 2347
 # File: module/Application/src/Controller/HotelsController.php, line: 1994
+# File: module/Application/src/Controller/CruisesController.php, line: 1935
 # File: module/Application/view/application/agents/list.phtml, line: 66
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 48
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 54
 # File: module/Application/view/application/customers/edit.phtml, line: 52
 # File: module/Application/view/application/flights/airblock.phtml, line: 49
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 80
@@ -3549,6 +3561,7 @@ msgstr ""
 #
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1356
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1586
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 61
 # File: module/Application/view/application/packages/editimage.phtml, line: 34
 # File: module/Application/view/application/packages/edititinerary.phtml, line: 36
 # File: module/Application/view/application/packages/itinerary.phtml, line: 40
@@ -3905,6 +3918,8 @@ msgid "Policy Number"
 msgstr ""
 #
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 2570
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 35
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 34
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1281
 msgid "Cruise"
 msgstr ""
@@ -3918,6 +3933,8 @@ msgid "Cruise Only"
 msgstr ""
 #
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 2583
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 36
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 37
 msgid "Ship"
 msgstr ""
 #
@@ -3942,6 +3959,8 @@ msgid "Cruise Duration"
 msgstr ""
 #
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 2612
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 40
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 37
 msgid "Nights"
 msgstr ""
 #
@@ -4048,10 +4067,12 @@ msgid "Local Times"
 msgstr ""
 #
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 2826
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 63
 msgid "Arrive"
 msgstr ""
 #
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 2827
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 64
 msgid "Depart"
 msgstr ""
 #
@@ -4136,9 +4157,9 @@ msgstr ""
 # File: module/Application/view/application/cars/paymentsettings.phtml, line: 12
 # File: module/Application/view/application/cars/settings.phtml, line: 7
 # File: module/Application/view/application/cars/settings.phtml, line: 12
-# File: module/Application/view/application/cruises/index.phtml, line: 71
 # File: module/Application/view/application/cruises/settings.phtml, line: 7
 # File: module/Application/view/application/cruises/settings.phtml, line: 12
+# File: module/Application/view/application/cruises/index.phtml, line: 71
 # File: module/Application/view/application/escortedtours/index.phtml, line: 62
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 7
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 12
@@ -4229,7 +4250,6 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopularcruises.phtml, line: 10
 # File: module/Application/view/application/cruises/addpopulardestinations.phtml, line: 10
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 10
-# File: module/Application/view/application/cruises/index.phtml, line: 9
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 11
 # File: module/Application/view/application/cruises/popularcruises.phtml, line: 10
 # File: module/Application/view/application/cruises/populardestinations.phtml, line: 10
@@ -4237,6 +4257,11 @@ msgstr ""
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 11
 # File: module/Application/view/application/cruises/settings.phtml, line: 10
 # File: module/Application/view/application/cruises/commissiontable.phtml, line: 9
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 10
+# File: module/Application/view/application/cruises/index.phtml, line: 9
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 19
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 21
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 10
 # File: module/Application/view/application/customers/addpoints.phtml, line: 11
 # File: module/Application/view/application/customers/bounces.phtml, line: 11
 # File: module/Application/view/application/customers/edit.phtml, line: 12
@@ -4491,11 +4516,11 @@ msgstr ""
 # File: module/Application/view/application/cms/index.phtml, line: 60
 # File: module/Application/view/application/cms/populardestinations.phtml, line: 12
 # File: module/Application/view/application/cms/populardestinations.phtml, line: 25
-# File: module/Application/view/application/cruises/index.phtml, line: 93
 # File: module/Application/view/application/cruises/populardestinations.phtml, line: 7
 # File: module/Application/view/application/cruises/populardestinations.phtml, line: 12
 # File: module/Application/view/application/cruises/populardestinations.phtml, line: 18
 # File: module/Application/view/application/cruises/settings.phtml, line: 34
+# File: module/Application/view/application/cruises/index.phtml, line: 93
 # File: module/Application/view/application/escortedtours/index.phtml, line: 126
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 34
 # File: module/Application/view/application/flights/generalsettings.phtml, line: 34
@@ -4619,6 +4644,8 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopulardestinations.phtml, line: 38
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 38
 # File: module/Application/view/application/cruises/settings.phtml, line: 85
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 45
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 85
 # File: module/Application/view/application/customers/addpoints.phtml, line: 29
 # File: module/Application/view/application/customers/edit.phtml, line: 64
 # File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 82
@@ -4749,6 +4776,8 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopulardestinations.phtml, line: 189
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 185
 # File: module/Application/view/application/cruises/settings.phtml, line: 109
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 99
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 146
 # File: module/Application/view/application/customers/addpoints.phtml, line: 69
 # File: module/Application/view/application/customers/edit.phtml, line: 107
 # File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 137
@@ -4928,8 +4957,9 @@ msgstr ""
 # File: module/Application/view/application/cms/winterdestinations.phtml, line: 9
 # File: module/Application/view/application/cms/featureddestinations.phtml, line: 9
 # File: module/Application/view/application/cms/featuredhotels.phtml, line: 9
-# File: module/Application/view/application/cruises/index.phtml, line: 8
 # File: module/Application/view/application/cruises/commissiontable.phtml, line: 8
+# File: module/Application/view/application/cruises/confirmedcruises.phtml, line: 8
+# File: module/Application/view/application/cruises/index.phtml, line: 8
 # File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 12
 # File: module/Application/view/application/customers/index.phtml, line: 10
 # File: module/Application/view/application/customers/travelcompanions.phtml, line: 10
@@ -5166,8 +5196,8 @@ msgstr ""
 # File: module/Application/view/application/cms/winterdestinations.phtml, line: 18
 # File: module/Application/view/application/cms/featureddestinations.phtml, line: 18
 # File: module/Application/view/application/cms/featuredhotels.phtml, line: 18
-# File: module/Application/view/application/cruises/index.phtml, line: 15
 # File: module/Application/view/application/cruises/commissiontable.phtml, line: 17
+# File: module/Application/view/application/cruises/index.phtml, line: 15
 # File: module/Application/view/application/escortedtours/index.phtml, line: 16
 # File: module/Application/view/application/flights/airblocks.phtml, line: 18
 # File: module/Application/view/application/flights/index.phtml, line: 16
@@ -5228,6 +5258,7 @@ msgstr ""
 # File: module/Application/view/application/agents/index.phtml, line: 33
 # File: module/Application/view/application/cars/index.phtml, line: 23
 # File: module/Application/view/application/cms/index.phtml, line: 23
+# File: module/Application/view/application/cruises/confirmedcruises.phtml, line: 18
 # File: module/Application/view/application/cruises/index.phtml, line: 22
 # File: module/Application/view/application/customers/index.phtml, line: 31
 # File: module/Application/view/application/escortedtours/index.phtml, line: 23
@@ -5266,8 +5297,8 @@ msgstr ""
 # File: module/Application/view/application/agents/view.phtml, line: 393
 # File: module/Application/view/application/cars/index.phtml, line: 33
 # File: module/Application/view/application/cars/listreservations.phtml, line: 54
-# File: module/Application/view/application/cruises/index.phtml, line: 35
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 54
+# File: module/Application/view/application/cruises/index.phtml, line: 35
 # File: module/Application/view/application/customers/view.phtml, line: 293
 # File: module/Application/view/application/escortedtours/index.phtml, line: 33
 # File: module/Application/view/application/escortedtours/listreservations.phtml, line: 54
@@ -5310,10 +5341,10 @@ msgstr ""
 # File: module/Application/view/application/cars/listreservations.phtml, line: 7
 # File: module/Application/view/application/cars/listreservations.phtml, line: 13
 # File: module/Application/view/application/cars/listreservations.phtml, line: 20
-# File: module/Application/view/application/cruises/index.phtml, line: 47
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 7
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 13
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 20
+# File: module/Application/view/application/cruises/index.phtml, line: 47
 # File: module/Application/view/application/customers/reservations.phtml, line: 12
 # File: module/Application/view/application/escortedtours/index.phtml, line: 42
 # File: module/Application/view/application/escortedtours/listreservations.phtml, line: 7
@@ -5352,10 +5383,10 @@ msgstr ""
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 7
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 13
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 51
-# File: module/Application/view/application/cruises/index.phtml, line: 59
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 7
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 13
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 51
+# File: module/Application/view/application/cruises/index.phtml, line: 59
 # File: module/Application/view/application/escortedtours/index.phtml, line: 51
 # File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 7
 # File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 13
@@ -5392,7 +5423,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/index.phtml, line: 82
 # File: module/Application/view/application/cars/index.phtml, line: 82
-# File: module/Application/view/application/cruises/index.phtml, line: 141
+# File: module/Application/view/application/cruises/index.phtml, line: 152
 # File: module/Application/view/application/escortedtours/index.phtml, line: 115
 # File: module/Application/view/application/flights/index.phtml, line: 115
 # File: module/Application/view/application/hotels/index.phtml, line: 135
@@ -5625,6 +5656,8 @@ msgstr ""
 # File: module/Application/view/application/cms/pages.phtml, line: 33
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 39
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 66
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 38
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 41
 # File: module/Application/view/application/customers/bounces.phtml, line: 30
 # File: module/Application/view/application/customers/expectedrewards.phtml, line: 39
 # File: module/Application/view/application/customers/list.phtml, line: 37
@@ -6385,13 +6418,6 @@ msgstr ""
 # File: module/Application/view/application/cars/listreservations.phtml, line: 109
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 79
 # File: module/Application/view/application/cms/pages.phtml, line: 47
-# File: module/Application/view/application/cruises/index.phtml, line: 226
-# File: module/Application/view/application/cruises/index.phtml, line: 273
-# File: module/Application/view/application/cruises/index.phtml, line: 318
-# File: module/Application/view/application/cruises/index.phtml, line: 363
-# File: module/Application/view/application/cruises/index.phtml, line: 409
-# File: module/Application/view/application/cruises/index.phtml, line: 455
-# File: module/Application/view/application/cruises/index.phtml, line: 487
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 109
 # File: module/Application/view/application/cruises/popularcruises.phtml, line: 35
 # File: module/Application/view/application/cruises/populardestinations.phtml, line: 35
@@ -6404,6 +6430,13 @@ msgstr ""
 # File: module/Application/view/application/cruises/commissiontable.phtml, line: 278
 # File: module/Application/view/application/cruises/commissiontable.phtml, line: 324
 # File: module/Application/view/application/cruises/commissiontable.phtml, line: 356
+# File: module/Application/view/application/cruises/index.phtml, line: 237
+# File: module/Application/view/application/cruises/index.phtml, line: 284
+# File: module/Application/view/application/cruises/index.phtml, line: 329
+# File: module/Application/view/application/cruises/index.phtml, line: 374
+# File: module/Application/view/application/cruises/index.phtml, line: 420
+# File: module/Application/view/application/cruises/index.phtml, line: 466
+# File: module/Application/view/application/cruises/index.phtml, line: 498
 # File: module/Application/view/application/customers/expectedrewards.phtml, line: 58
 # File: module/Application/view/application/customers/list.phtml, line: 54
 # File: module/Application/view/application/customers/reservations.phtml, line: 47
@@ -6684,6 +6717,7 @@ msgstr ""
 # File: module/Application/view/application/cms/pages.phtml, line: 7
 # File: module/Application/view/application/cms/pages.phtml, line: 13
 # File: module/Application/view/application/cms/pages.phtml, line: 20
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 22
 # File: module/Application/view/application/customers/addpoints.phtml, line: 13
 # File: module/Application/view/application/customers/edit.phtml, line: 14
 # File: module/Application/view/application/customers/expectedrewards.phtml, line: 7
@@ -6879,6 +6913,7 @@ msgstr ""
 # File: module/Application/view/application/agents/search.phtml, line: 79
 # File: module/Application/view/application/agents/searchagents.phtml, line: 44
 # File: module/Application/view/application/agents/searchagents.phtml, line: 91
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 38
 # File: module/Application/view/application/customers/edit.phtml, line: 35
 # File: module/Application/view/application/customers/expectedrewards.phtml, line: 29
 # File: module/Application/view/application/customers/list.phtml, line: 29
@@ -7070,6 +7105,10 @@ msgstr ""
 # File: module/Application/view/application/cms/editpage.phtml, line: 53
 # File: module/Application/view/application/cms/new.phtml, line: 54
 # File: module/Application/view/application/cms/pages.phtml, line: 32
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 37
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 39
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 49
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 40
 # File: module/Application/view/application/customers/quotes.phtml, line: 37
 # File: module/Application/view/application/customers/view.phtml, line: 290
 # File: module/Application/view/application/customers/view.phtml, line: 408
@@ -7547,6 +7586,8 @@ msgstr ""
 #
 # File: module/Application/view/application/agents/view.phtml, line: 29
 # File: module/Application/view/application/agents/view.phtml, line: 58
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 50
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 56
 # File: module/Application/view/application/customers/view.phtml, line: 22
 # File: module/Application/view/application/customers/view.phtml, line: 52
 # File: module/Application/view/application/index/banners.phtml, line: 137
@@ -7740,6 +7781,7 @@ msgstr ""
 # File: module/Application/view/application/cms/editpage.phtml, line: 30
 # File: module/Application/view/application/cms/new.phtml, line: 31
 # File: module/Application/view/application/cms/pages.phtml, line: 28
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 42
 # File: module/Application/view/application/customers/view.phtml, line: 437
 # File: module/Application/view/application/flights/addcampaign.phtml, line: 25
 # File: module/Application/view/application/flights/airblock.phtml, line: 78
@@ -7951,11 +7993,11 @@ msgstr ""
 # File: module/Application/view/application/cruises/addpopularcruises.phtml, line: 12
 # File: module/Application/view/application/cruises/addpopulardestinations.phtml, line: 12
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 12
-# File: module/Application/view/application/cruises/index.phtml, line: 105
 # File: module/Application/view/application/cruises/popularcruises.phtml, line: 7
 # File: module/Application/view/application/cruises/popularcruises.phtml, line: 12
 # File: module/Application/view/application/cruises/popularcruises.phtml, line: 18
 # File: module/Application/view/application/cruises/settings.phtml, line: 69
+# File: module/Application/view/application/cruises/index.phtml, line: 105
 msgid "Popular Cruises"
 msgstr ""
 #
@@ -7979,6 +8021,8 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/addpopularcruises.phtml, line: 25
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 25
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 35
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 35
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 277
 msgid "Cruise Line"
 msgstr ""
@@ -8032,26 +8076,6 @@ msgstr ""
 msgid "Add Popular River Cruise"
 msgstr ""
 #
-# File: module/Application/view/application/cruises/index.phtml, line: 117
-# File: module/Application/view/application/cruises/popularrivercruises.phtml, line: 7
-# File: module/Application/view/application/cruises/popularrivercruises.phtml, line: 12
-# File: module/Application/view/application/cruises/popularrivercruises.phtml, line: 18
-# File: module/Application/view/application/cruises/settings.phtml, line: 76
-msgid "Popular River Cruises"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/index.phtml, line: 128
-# File: module/Application/view/application/cruises/index.phtml, line: 156
-# File: module/Application/view/application/cruises/commissiontable.phtml, line: 11
-# File: module/Application/view/application/cruises/commissiontable.phtml, line: 25
-msgid "Cruise Line Commission Table"
-msgstr ""
-#
-# File: module/Application/view/application/cruises/index.phtml, line: 158
-# File: module/Application/view/application/cruises/commissiontable.phtml, line: 27
-msgid "Note: All commissions are calculated based on the commissionable fare basis."
-msgstr ""
-#
 # File: module/Application/view/application/cruises/popularcruises.phtml, line: 19
 # File: module/Application/view/application/cruises/populardestinations.phtml, line: 19
 # File: module/Application/view/application/cruises/popularrivercruises.phtml, line: 19
@@ -8072,6 +8096,8 @@ msgstr ""
 # File: module/Application/view/application/cruises/popularcruises.phtml, line: 34
 # File: module/Application/view/application/cruises/populardestinations.phtml, line: 34
 # File: module/Application/view/application/cruises/popularrivercruises.phtml, line: 34
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 51
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 57
 # File: module/Application/view/application/customers/travelcompanions.phtml, line: 55
 # File: module/Application/view/application/customers/travelcompanions.phtml, line: 80
 # File: module/Application/view/application/escortedtours/africadestinations.phtml, line: 51
@@ -8141,6 +8167,14 @@ msgstr ""
 msgid "There are no records available. Please click Add New to add records."
 msgstr ""
 #
+# File: module/Application/view/application/cruises/popularrivercruises.phtml, line: 7
+# File: module/Application/view/application/cruises/popularrivercruises.phtml, line: 12
+# File: module/Application/view/application/cruises/popularrivercruises.phtml, line: 18
+# File: module/Application/view/application/cruises/settings.phtml, line: 76
+# File: module/Application/view/application/cruises/index.phtml, line: 117
+msgid "Popular River Cruises"
+msgstr ""
+#
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 23
 msgid "Search Cruises Reservation"
 msgstr ""
@@ -8175,6 +8209,276 @@ msgstr ""
 #
 # File: module/Application/view/application/cruises/settings.phtml, line: 74
 msgid "Enable Popular River Cruises"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/commissiontable.phtml, line: 11
+# File: module/Application/view/application/cruises/commissiontable.phtml, line: 25
+# File: module/Application/view/application/cruises/index.phtml, line: 128
+# File: module/Application/view/application/cruises/index.phtml, line: 167
+msgid "Cruise Line Commission Table"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/commissiontable.phtml, line: 27
+# File: module/Application/view/application/cruises/index.phtml, line: 169
+msgid "Note: All commissions are calculated based on the commissionable fare basis."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/confirmedcruises.phtml, line: 10
+# File: module/Application/view/application/cruises/confirmedcruises.phtml, line: 18
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 7
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 12
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 27
+# File: module/Application/view/application/cruises/index.phtml, line: 139
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 21
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 23
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 12
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 20
+msgid "Confirmed Cruises"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/confirmedcruises.phtml, line: 28
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 23
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 7
+msgid "New Confirmed Cruise"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/confirmedcruises.phtml, line: 37
+msgid "List Confirmed Cruises"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/confirmedcruises.phtml, line: 46
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 7
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 23
+msgid "Add Cruise Departure"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/confirmedcruises.phtml, line: 55
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 20
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 24
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 7
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 27
+msgid "Cruise Departures"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 34
+# File: module/Application/view/application/customers/travelcompanions.phtml, line: 34
+# File: module/Application/view/application/flights/airblock.phtml, line: 26
+# File: module/Application/view/application/flights/listairblocks.phtml, line: 38
+# File: module/Application/view/application/flights/newairblock.phtml, line: 25
+# File: module/Application/view/application/help/index.phtml, line: 40
+# File: module/Application/view/application/hotels/edit.phtml, line: 28
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 31
+# File: module/Application/view/application/hotels/listcontracts.phtml, line: 34
+# File: module/Application/view/application/hotels/mappedhotels.phtml, line: 28
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 30
+# File: module/Application/view/application/hotels/newhotel.phtml, line: 28
+# File: module/Application/view/application/hotels/searchhotels.phtml, line: 31
+# File: module/Application/view/application/index/presentation.old.phtml, line: 232
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
+# File: module/Application/view/application/index/tutorials.old.phtml, line: 329
+# File: module/Application/view/application/index/partners.old.phtml, line: 210
+# File: module/Application/view/application/index/products.old.phtml, line: 221
+# File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
+# File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
+# File: module/Application/view/application/marketing/list.phtml, line: 28
+# File: module/Application/view/application/packages/edit.phtml, line: 29
+# File: module/Application/view/application/packages/editexclusion.phtml, line: 30
+# File: module/Application/view/application/packages/edithotel.phtml, line: 30
+# File: module/Application/view/application/packages/editinclusion.phtml, line: 30
+# File: module/Application/view/application/packages/edititinerary.phtml, line: 30
+# File: module/Application/view/application/packages/exclusions.phtml, line: 42
+# File: module/Application/view/application/packages/hotels.phtml, line: 32
+# File: module/Application/view/application/packages/inclusions.phtml, line: 40
+# File: module/Application/view/application/packages/itinerary.phtml, line: 41
+# File: module/Application/view/application/packages/listpackages.phtml, line: 28
+# File: module/Application/view/application/packages/newexclusion.phtml, line: 27
+# File: module/Application/view/application/packages/newhotel.phtml, line: 29
+# File: module/Application/view/application/packages/newinclusion.phtml, line: 26
+# File: module/Application/view/application/packages/newitinerary.phtml, line: 27
+# File: module/Application/view/application/packages/newpackage.phtml, line: 25
+# File: module/Application/view/application/packages/searchpackages.phtml, line: 33
+# File: module/Application/view/application/packages/searchpackages.phtml, line: 72
+# File: module/Application/view/application/portfolio/categories.phtml, line: 37
+# File: module/Application/view/application/portfolio/edit.phtml, line: 25
+# File: module/Application/view/application/portfolio/editcategory.phtml, line: 24
+# File: module/Application/view/application/portfolio/new.phtml, line: 25
+# File: module/Application/view/application/portfolio/newcategory.phtml, line: 25
+# File: module/Application/view/application/quick-books/hotmart.phtml, line: 25
+# File: module/Application/view/application/reservations/newreservation.phtml, line: 54
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2325
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2367
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2411
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2610
+# File: module/Application/view/application/view-reservation/termsandconditions.phtml, line: 40
+msgid "Name"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 101
+msgid "Delete this confirmed cruise and all its departures?"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 7
+msgid "Edit Confirmed Cruise"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 33
+msgid "Name / Campaign title"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 35
+msgid "Select Cruise Line"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 37
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 83
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 88
+msgid "Select Ship"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 40
+# File: module/Application/view/application/hotels/editroom.phtml, line: 37
+# File: module/Application/view/application/hotels/mappedhotels.phtml, line: 27
+# File: module/Application/view/application/hotels/newimage.phtml, line: 31
+# File: module/Application/view/application/hotels/newroom.phtml, line: 37
+# File: module/Application/view/application/packages/edit.phtml, line: 73
+# File: module/Application/view/application/packages/editimage.phtml, line: 38
+# File: module/Application/view/application/packages/newimage.phtml, line: 29
+# File: module/Application/view/application/packages/newpackage.phtml, line: 32
+# File: module/Application/view/application/portfolio/categories.phtml, line: 38
+msgid "Sort Order"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 41
+msgid "Overview"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 48
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 88
+# File: module/Application/view/application/customers/travelcompanions.phtml, line: 79
+# File: module/Application/view/application/customers/newsupport.phtml, line: 64
+# File: module/Application/view/application/hotels/editroom.phtml, line: 444
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 220
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 262
+# File: module/Application/view/application/hotels/newroom.phtml, line: 439
+# File: module/Application/view/application/index/billing.phtml, line: 280
+# File: module/Application/view/application/packages/availability.phtml, line: 139
+# File: module/Application/view/application/packages/exclusions.phtml, line: 126
+# File: module/Application/view/application/packages/hotels.phtml, line: 115
+# File: module/Application/view/application/packages/images.phtml, line: 88
+# File: module/Application/view/application/packages/inclusions.phtml, line: 123
+# File: module/Application/view/application/packages/itinerary.phtml, line: 127
+# File: module/Application/view/application/packages/listpackages.phtml, line: 131
+# File: module/Application/view/application/packages/notes.phtml, line: 123
+# File: module/Application/view/application/packages/termsandconditions.phtml, line: 123
+# File: module/Application/view/application/portfolio/index.phtml, line: 367
+# File: module/Application/view/application/communications/manage.phtml, line: 265
+msgid "Cancel"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 86
+msgid "Loading..."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 7
+msgid "Edit Cruise Departure"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 35
+msgid "Select Cruise"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 36
+msgid "Embark Date"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 37
+msgid "Embark Time"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 38
+msgid "Disembark Date"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 39
+msgid "Disembark Time"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 41
+msgid "Embark Port Code"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 42
+msgid "Embark Port Name"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 43
+msgid "Disembark Port Code"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 44
+msgid "Disembark Port Name"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 45
+msgid "Cabin Type"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 46
+msgid "Price (per person)"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 47
+# File: module/Application/view/application/quick-books/charge.phtml, line: 29
+# File: module/Application/view/application/quick-books/editcharge.phtml, line: 27
+# File: module/Application/view/application/reservations/newreservation.phtml, line: 401
+msgid "Currency"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 48
+msgid "Spaces (allotment)"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 54
+msgid "Itinerary (ports of call)"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 55
+msgid "+ Add stop"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 62
+msgid "Port"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 72
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 133
+msgid "e.g. Nassau, Bahamas"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 81
+msgid "Leave Arrive/Depart blank for a day at sea. Rows are shown in the order listed here."
+msgstr ""
+#
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 35
+msgid "Embark"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 36
+msgid "Disembark"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 38
+# File: module/Application/view/application/index/search.old.phtml, line: 1309
+# File: module/Application/view/application/index/search.phtml, line: 808
+msgid "From"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 39
+msgid "Spaces"
+msgstr ""
+#
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 107
+msgid "Delete this cruise departure?"
 msgstr ""
 #
 # File: module/Application/view/application/customers/addpoints.phtml, line: 7
@@ -8511,58 +8815,6 @@ msgstr ""
 msgid "Customers Status"
 msgstr ""
 #
-# File: module/Application/view/application/customers/travelcompanions.phtml, line: 34
-# File: module/Application/view/application/flights/airblock.phtml, line: 26
-# File: module/Application/view/application/flights/listairblocks.phtml, line: 38
-# File: module/Application/view/application/flights/newairblock.phtml, line: 25
-# File: module/Application/view/application/help/index.phtml, line: 40
-# File: module/Application/view/application/hotels/edit.phtml, line: 28
-# File: module/Application/view/application/hotels/editcontract.phtml, line: 31
-# File: module/Application/view/application/hotels/listcontracts.phtml, line: 34
-# File: module/Application/view/application/hotels/mappedhotels.phtml, line: 28
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 30
-# File: module/Application/view/application/hotels/newhotel.phtml, line: 28
-# File: module/Application/view/application/hotels/searchhotels.phtml, line: 31
-# File: module/Application/view/application/index/presentation.old.phtml, line: 232
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
-# File: module/Application/view/application/index/tutorials.old.phtml, line: 329
-# File: module/Application/view/application/index/partners.old.phtml, line: 210
-# File: module/Application/view/application/index/products.old.phtml, line: 221
-# File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
-# File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
-# File: module/Application/view/application/marketing/list.phtml, line: 28
-# File: module/Application/view/application/packages/edit.phtml, line: 29
-# File: module/Application/view/application/packages/editexclusion.phtml, line: 30
-# File: module/Application/view/application/packages/edithotel.phtml, line: 30
-# File: module/Application/view/application/packages/editinclusion.phtml, line: 30
-# File: module/Application/view/application/packages/edititinerary.phtml, line: 30
-# File: module/Application/view/application/packages/exclusions.phtml, line: 42
-# File: module/Application/view/application/packages/hotels.phtml, line: 32
-# File: module/Application/view/application/packages/inclusions.phtml, line: 40
-# File: module/Application/view/application/packages/itinerary.phtml, line: 41
-# File: module/Application/view/application/packages/listpackages.phtml, line: 28
-# File: module/Application/view/application/packages/newexclusion.phtml, line: 27
-# File: module/Application/view/application/packages/newhotel.phtml, line: 29
-# File: module/Application/view/application/packages/newinclusion.phtml, line: 26
-# File: module/Application/view/application/packages/newitinerary.phtml, line: 27
-# File: module/Application/view/application/packages/newpackage.phtml, line: 25
-# File: module/Application/view/application/packages/searchpackages.phtml, line: 33
-# File: module/Application/view/application/packages/searchpackages.phtml, line: 72
-# File: module/Application/view/application/portfolio/categories.phtml, line: 37
-# File: module/Application/view/application/portfolio/edit.phtml, line: 25
-# File: module/Application/view/application/portfolio/editcategory.phtml, line: 24
-# File: module/Application/view/application/portfolio/new.phtml, line: 25
-# File: module/Application/view/application/portfolio/newcategory.phtml, line: 25
-# File: module/Application/view/application/quick-books/hotmart.phtml, line: 25
-# File: module/Application/view/application/reservations/newreservation.phtml, line: 54
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2325
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2367
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2411
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2610
-# File: module/Application/view/application/view-reservation/termsandconditions.phtml, line: 40
-msgid "Name"
-msgstr ""
-#
 # File: module/Application/view/application/customers/travelcompanions.phtml, line: 74
 # File: module/Application/view/application/packages/availability.phtml, line: 134
 # File: module/Application/view/application/packages/exclusions.phtml, line: 121
@@ -8619,27 +8871,6 @@ msgstr ""
 #
 # File: module/Application/view/application/customers/travelcompanions.phtml, line: 77
 msgid "Are you sure you want to delete this travel companion?"
-msgstr ""
-#
-# File: module/Application/view/application/customers/travelcompanions.phtml, line: 79
-# File: module/Application/view/application/customers/newsupport.phtml, line: 64
-# File: module/Application/view/application/hotels/editroom.phtml, line: 444
-# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 220
-# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 262
-# File: module/Application/view/application/hotels/newroom.phtml, line: 439
-# File: module/Application/view/application/index/billing.phtml, line: 280
-# File: module/Application/view/application/packages/availability.phtml, line: 139
-# File: module/Application/view/application/packages/exclusions.phtml, line: 126
-# File: module/Application/view/application/packages/hotels.phtml, line: 115
-# File: module/Application/view/application/packages/images.phtml, line: 88
-# File: module/Application/view/application/packages/inclusions.phtml, line: 123
-# File: module/Application/view/application/packages/itinerary.phtml, line: 127
-# File: module/Application/view/application/packages/listpackages.phtml, line: 131
-# File: module/Application/view/application/packages/notes.phtml, line: 123
-# File: module/Application/view/application/packages/termsandconditions.phtml, line: 123
-# File: module/Application/view/application/portfolio/index.phtml, line: 367
-# File: module/Application/view/application/communications/manage.phtml, line: 265
-msgid "Cancel"
 msgstr ""
 #
 # File: module/Application/view/application/customers/view.phtml, line: 12
@@ -10535,18 +10766,6 @@ msgstr ""
 # File: module/Application/view/application/hotels/editroom.phtml, line: 31
 # File: module/Application/view/application/hotels/newroom.phtml, line: 31
 msgid "Room Name"
-msgstr ""
-#
-# File: module/Application/view/application/hotels/editroom.phtml, line: 37
-# File: module/Application/view/application/hotels/mappedhotels.phtml, line: 27
-# File: module/Application/view/application/hotels/newimage.phtml, line: 31
-# File: module/Application/view/application/hotels/newroom.phtml, line: 37
-# File: module/Application/view/application/packages/edit.phtml, line: 73
-# File: module/Application/view/application/packages/editimage.phtml, line: 38
-# File: module/Application/view/application/packages/newimage.phtml, line: 29
-# File: module/Application/view/application/packages/newpackage.phtml, line: 32
-# File: module/Application/view/application/portfolio/categories.phtml, line: 38
-msgid "Sort Order"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/editroom.phtml, line: 46
@@ -17679,11 +17898,6 @@ msgstr ""
 msgid "Apply"
 msgstr ""
 #
-# File: module/Application/view/application/index/search.old.phtml, line: 1309
-# File: module/Application/view/application/index/search.phtml, line: 808
-msgid "From"
-msgstr ""
-#
 # File: module/Application/view/application/index/search.old.phtml, line: 1310
 # File: module/Application/view/application/index/search.phtml, line: 809
 msgid "To"
@@ -18803,12 +19017,6 @@ msgstr ""
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 14
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 21
 msgid "New Category"
-msgstr ""
-#
-# File: module/Application/view/application/quick-books/charge.phtml, line: 29
-# File: module/Application/view/application/quick-books/editcharge.phtml, line: 27
-# File: module/Application/view/application/reservations/newreservation.phtml, line: 401
-msgid "Currency"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/charge.phtml, line: 33
