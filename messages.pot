@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-15 02:30-0400\n"
+"POT-Creation-Date: 2026-08-15 11:30-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,8 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 #
-# File: module/Application/src/Controller/ActivitiesController.php, line: 782
-# File: module/Application/src/Controller/ActivitiesController.php, line: 1064
 # File: module/Application/src/Controller/AgentsController.php, line: 2794
 # File: module/Application/src/Controller/AgentsController.php, line: 2815
 # File: module/Application/src/Controller/AgentsController.php, line: 2836
@@ -45,6 +43,8 @@ msgstr ""
 # File: module/Application/src/Controller/SupportController.php, line: 424
 # File: module/Application/src/Controller/TransfersController.php, line: 780
 # File: module/Application/src/Controller/TransfersController.php, line: 1061
+# File: module/Application/src/Controller/ActivitiesController.php, line: 887
+# File: module/Application/src/Controller/ActivitiesController.php, line: 1169
 # File: module/Application/src/Controller/IndexController.php, line: 16396
 # File: module/Application/src/Controller/HotelsController.php, line: 7191
 # File: module/Application/src/Controller/HotelsController.php, line: 7213
@@ -66,30 +66,6 @@ msgstr ""
 # File: module/Application/src/Controller/CruisesController.php, line: 859
 # File: module/Application/src/Controller/CruisesController.php, line: 1246
 msgid "Not Available"
-msgstr ""
-#
-# File: module/Application/src/Controller/ActivitiesController.php, line: 1077
-# File: module/Application/src/Controller/CarsController.php, line: 1052
-# File: module/Application/src/Controller/EscortedtoursController.php, line: 3095
-# File: module/Application/src/Controller/InsurancesController.php, line: 745
-# File: module/Application/src/Controller/ReservationsController.php, line: 1864
-# File: module/Application/src/Controller/TransfersController.php, line: 1074
-# File: module/Application/src/Controller/HotelsController.php, line: 8324
-# File: module/Application/src/Controller/FlightsController.php, line: 4370
-# File: module/Application/src/Controller/CruisesController.php, line: 1259
-msgid "All Payment Status"
-msgstr ""
-#
-# File: module/Application/src/Controller/ActivitiesController.php, line: 1127
-# File: module/Application/src/Controller/CarsController.php, line: 1102
-# File: module/Application/src/Controller/EscortedtoursController.php, line: 3145
-# File: module/Application/src/Controller/InsurancesController.php, line: 795
-# File: module/Application/src/Controller/ReservationsController.php, line: 1914
-# File: module/Application/src/Controller/TransfersController.php, line: 1124
-# File: module/Application/src/Controller/HotelsController.php, line: 8374
-# File: module/Application/src/Controller/FlightsController.php, line: 4420
-# File: module/Application/src/Controller/CruisesController.php, line: 1309
-msgid "All Reservation Status"
 msgstr ""
 #
 # File: module/Application/src/Controller/AgentsController.php, line: 3397
@@ -477,6 +453,30 @@ msgstr ""
 msgid "Inactive"
 msgstr ""
 #
+# File: module/Application/src/Controller/CarsController.php, line: 1052
+# File: module/Application/src/Controller/EscortedtoursController.php, line: 3095
+# File: module/Application/src/Controller/InsurancesController.php, line: 745
+# File: module/Application/src/Controller/ReservationsController.php, line: 1864
+# File: module/Application/src/Controller/TransfersController.php, line: 1074
+# File: module/Application/src/Controller/ActivitiesController.php, line: 1182
+# File: module/Application/src/Controller/HotelsController.php, line: 8324
+# File: module/Application/src/Controller/FlightsController.php, line: 4370
+# File: module/Application/src/Controller/CruisesController.php, line: 1259
+msgid "All Payment Status"
+msgstr ""
+#
+# File: module/Application/src/Controller/CarsController.php, line: 1102
+# File: module/Application/src/Controller/EscortedtoursController.php, line: 3145
+# File: module/Application/src/Controller/InsurancesController.php, line: 795
+# File: module/Application/src/Controller/ReservationsController.php, line: 1914
+# File: module/Application/src/Controller/TransfersController.php, line: 1124
+# File: module/Application/src/Controller/ActivitiesController.php, line: 1232
+# File: module/Application/src/Controller/HotelsController.php, line: 8374
+# File: module/Application/src/Controller/FlightsController.php, line: 4420
+# File: module/Application/src/Controller/CruisesController.php, line: 1309
+msgid "All Reservation Status"
+msgstr ""
+#
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 94
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 231
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 369
@@ -679,11 +679,12 @@ msgstr ""
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 247
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 385
 # File: module/Application/view/application/activities/generalsettings.phtml, line: 11
-# File: module/Application/view/application/activities/index.phtml, line: 23
 # File: module/Application/view/application/activities/listreservations.phtml, line: 12
 # File: module/Application/view/application/activities/paymentsettings.phtml, line: 11
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 12
 # File: module/Application/view/application/activities/settings.phtml, line: 11
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 11
+# File: module/Application/view/application/activities/index.phtml, line: 23
 # File: module/Application/view/application/index/banners.phtml, line: 101
 # File: module/Application/view/application/index/bannersedit.phtml, line: 91
 # File: module/Application/view/application/index/billing.phtml, line: 107
@@ -4165,11 +4166,11 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/generalsettings.phtml, line: 7
 # File: module/Application/view/application/activities/generalsettings.phtml, line: 12
-# File: module/Application/view/application/activities/index.phtml, line: 62
 # File: module/Application/view/application/activities/paymentsettings.phtml, line: 7
 # File: module/Application/view/application/activities/paymentsettings.phtml, line: 12
 # File: module/Application/view/application/activities/settings.phtml, line: 7
 # File: module/Application/view/application/activities/settings.phtml, line: 12
+# File: module/Application/view/application/activities/index.phtml, line: 62
 # File: module/Application/view/application/cars/generalsettings.phtml, line: 7
 # File: module/Application/view/application/cars/generalsettings.phtml, line: 12
 # File: module/Application/view/application/cars/index.phtml, line: 62
@@ -4241,11 +4242,12 @@ msgid "Settings"
 msgstr ""
 #
 # File: module/Application/view/application/activities/generalsettings.phtml, line: 10
-# File: module/Application/view/application/activities/index.phtml, line: 10
 # File: module/Application/view/application/activities/listreservations.phtml, line: 11
 # File: module/Application/view/application/activities/paymentsettings.phtml, line: 10
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 11
 # File: module/Application/view/application/activities/settings.phtml, line: 10
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 10
+# File: module/Application/view/application/activities/index.phtml, line: 10
 # File: module/Application/view/application/agents/edit.phtml, line: 12
 # File: module/Application/view/application/agents/index.phtml, line: 12
 # File: module/Application/view/application/agents/list.phtml, line: 11
@@ -4970,363 +4972,10 @@ msgstr ""
 msgid "Please wait..."
 msgstr ""
 #
-# File: module/Application/view/application/activities/index.phtml, line: 9
-# File: module/Application/view/application/agents/index.phtml, line: 11
-# File: module/Application/view/application/cars/index.phtml, line: 9
-# File: module/Application/view/application/cms/editpage.phtml, line: 9
-# File: module/Application/view/application/cms/index.phtml, line: 9
-# File: module/Application/view/application/cms/new.phtml, line: 9
-# File: module/Application/view/application/cms/populardestinations.phtml, line: 9
-# File: module/Application/view/application/cms/popularpackages.phtml, line: 9
-# File: module/Application/view/application/cms/winterdestinations.phtml, line: 9
-# File: module/Application/view/application/cms/featureddestinations.phtml, line: 9
-# File: module/Application/view/application/cms/featuredhotels.phtml, line: 9
-# File: module/Application/view/application/cruises/commissiontable.phtml, line: 8
-# File: module/Application/view/application/cruises/confirmedcruises.phtml, line: 8
-# File: module/Application/view/application/cruises/index.phtml, line: 8
-# File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 12
-# File: module/Application/view/application/customers/index.phtml, line: 10
-# File: module/Application/view/application/customers/travelcompanions.phtml, line: 10
-# File: module/Application/view/application/escortedtours/index.phtml, line: 9
-# File: module/Application/view/application/flights/index.phtml, line: 9
-# File: module/Application/view/application/flights/routemap.phtml, line: 9
-# File: module/Application/view/application/help/index.phtml, line: 11
-# File: module/Application/view/application/hotels/cancellationpolicies.phtml, line: 9
-# File: module/Application/view/application/hotels/childpolicies.phtml, line: 9
-# File: module/Application/view/application/hotels/contractrates.phtml, line: 9
-# File: module/Application/view/application/hotels/contracts.phtml, line: 9
-# File: module/Application/view/application/hotels/editcancellationpolicy.phtml, line: 10
-# File: module/Application/view/application/hotels/editchildpolicy.phtml, line: 9
-# File: module/Application/view/application/hotels/editcontract.phtml, line: 10
-# File: module/Application/view/application/hotels/editcontractrate.phtml, line: 9
-# File: module/Application/view/application/hotels/editmealsupplement.phtml, line: 9
-# File: module/Application/view/application/hotels/editpolicy.phtml, line: 9
-# File: module/Application/view/application/hotels/editroom.phtml, line: 10
-# File: module/Application/view/application/hotels/editstopsale.phtml, line: 10
-# File: module/Application/view/application/hotels/hotels.phtml, line: 9
-# File: module/Application/view/application/hotels/images.phtml, line: 9
-# File: module/Application/view/application/hotels/listcancellationpolicies.phtml, line: 8
-# File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 8
-# File: module/Application/view/application/hotels/listcontractrates.phtml, line: 9
-# File: module/Application/view/application/hotels/listcontracts.phtml, line: 9
-# File: module/Application/view/application/hotels/listimages.phtml, line: 9
-# File: module/Application/view/application/hotels/listmealsupplements.phtml, line: 8
-# File: module/Application/view/application/hotels/listpolicies.phtml, line: 9
-# File: module/Application/view/application/hotels/listrooms.phtml, line: 9
-# File: module/Application/view/application/hotels/liststopsale.phtml, line: 9
-# File: module/Application/view/application/hotels/manage.phtml, line: 9
-# File: module/Application/view/application/hotels/mealsupplements.phtml, line: 9
-# File: module/Application/view/application/hotels/newcancellationpolicy.phtml, line: 11
-# File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 9
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 10
-# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 10
-# File: module/Application/view/application/hotels/newimage.phtml, line: 9
-# File: module/Application/view/application/hotels/newmealsupplement.phtml, line: 9
-# File: module/Application/view/application/hotels/newpolicy.phtml, line: 9
-# File: module/Application/view/application/hotels/newroom.phtml, line: 10
-# File: module/Application/view/application/hotels/newstopsale.phtml, line: 10
-# File: module/Application/view/application/hotels/policies.phtml, line: 9
-# File: module/Application/view/application/hotels/rooms.phtml, line: 9
-# File: module/Application/view/application/hotels/specialoffers.phtml, line: 9
-# File: module/Application/view/application/hotels/stopsale.phtml, line: 9
-# File: module/Application/view/application/hotels/index.phtml, line: 53
-# File: module/Application/view/application/hotels/promotions.phtml, line: 8
-# File: module/Application/view/application/index/accepttermsandconditions.phtml, line: 11
-# File: module/Application/view/application/index/banners.phtml, line: 16
-# File: module/Application/view/application/index/bannersedit.phtml, line: 17
-# File: module/Application/view/application/index/billing.phtml, line: 9
-# File: module/Application/view/application/index/content.phtml, line: 16
-# File: module/Application/view/application/index/devices.phtml, line: 17
-# File: module/Application/view/application/index/invoices.phtml, line: 17
-# File: module/Application/view/application/index/order.phtml, line: 390
-# File: module/Application/view/application/index/password.phtml, line: 17
-# File: module/Application/view/application/index/preferences.phtml, line: 11
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 99
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 159
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 188
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 389
-# File: module/Application/view/application/index/securitylog.phtml, line: 17
-# File: module/Application/view/application/index/seo.phtml, line: 17
-# File: module/Application/view/application/index/settings.phtml, line: 17
-# File: module/Application/view/application/index/setup.phtml, line: 11
-# File: module/Application/view/application/index/socialmedia.phtml, line: 17
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 99
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 159
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 188
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 374
-# File: module/Application/view/application/index/transactions.phtml, line: 10
-# File: module/Application/view/application/index/updatecreditcard.phtml, line: 8
-# File: module/Application/view/application/index/userinfo.phtml, line: 17
-# File: module/Application/view/application/index/viewsecuritylog.phtml, line: 17
-# File: module/Application/view/application/index/whatsapp.phtml, line: 11
-# File: module/Application/view/application/index/presentation.old.phtml, line: 27
-# File: module/Application/view/application/index/presentation.old.phtml, line: 42
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 28
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 41
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 137
-# File: module/Application/view/application/index/tutorials.old.phtml, line: 28
-# File: module/Application/view/application/index/tutorials.old.phtml, line: 358
-# File: module/Application/view/application/index/partners.old.phtml, line: 27
-# File: module/Application/view/application/index/partners.old.phtml, line: 40
-# File: module/Application/view/application/index/partners.old.phtml, line: 239
-# File: module/Application/view/application/index/products.old.phtml, line: 28
-# File: module/Application/view/application/index/products.old.phtml, line: 41
-# File: module/Application/view/application/index/products.old.phtml, line: 250
-# File: module/Application/view/application/index/prices.phtml, line: 83
-# File: module/Application/view/application/index/prices.phtml, line: 144
-# File: module/Application/view/application/index/prices.phtml, line: 174
-# File: module/Application/view/application/index/prices.phtml, line: 619
-# File: module/Application/view/application/index/order.old.phtml, line: 382
-# File: module/Application/view/application/index/activate.phtml, line: 82
-# File: module/Application/view/application/index/activate.phtml, line: 143
-# File: module/Application/view/application/index/activate.phtml, line: 173
-# File: module/Application/view/application/index/activate.phtml, line: 474
-# File: module/Application/view/application/index/termsandconditions.old.phtml, line: 28
-# File: module/Application/view/application/index/termsandconditions.old.phtml, line: 41
-# File: module/Application/view/application/index/termsandconditions.old.phtml, line: 155
-# File: module/Application/view/application/index/privacypolicy.old.phtml, line: 28
-# File: module/Application/view/application/index/privacypolicy.old.phtml, line: 41
-# File: module/Application/view/application/index/privacypolicy.old.phtml, line: 169
-# File: module/Application/view/application/index/trial.phtml, line: 82
-# File: module/Application/view/application/index/trial.phtml, line: 143
-# File: module/Application/view/application/index/trial.phtml, line: 518
-# File: module/Application/view/application/index/insideraccess.phtml, line: 91
-# File: module/Application/view/application/index/insideraccess.phtml, line: 147
-# File: module/Application/view/application/index/insideraccess.phtml, line: 459
-# File: module/Application/view/application/index/youridentity.phtml, line: 11
-# File: module/Application/view/application/index/bankstatement.phtml, line: 11
-# File: module/Application/view/application/index/index.phtml, line: 34
-# File: module/Application/view/application/index/products.phtml, line: 96
-# File: module/Application/view/application/index/products.phtml, line: 157
-# File: module/Application/view/application/index/products.phtml, line: 187
-# File: module/Application/view/application/index/products.phtml, line: 584
-# File: module/Application/view/application/index/whoarewe.phtml, line: 95
-# File: module/Application/view/application/index/whoarewe.phtml, line: 156
-# File: module/Application/view/application/index/whoarewe.phtml, line: 186
-# File: module/Application/view/application/index/whoarewe.phtml, line: 455
-# File: module/Application/view/application/index/partners.phtml, line: 120
-# File: module/Application/view/application/index/partners.phtml, line: 181
-# File: module/Application/view/application/index/partners.phtml, line: 211
-# File: module/Application/view/application/index/partners.phtml, line: 486
-# File: module/Application/view/application/index/presentation.phtml, line: 115
-# File: module/Application/view/application/index/presentation.phtml, line: 176
-# File: module/Application/view/application/index/presentation.phtml, line: 1892
-# File: module/Application/view/application/index/plansandpricing.phtml, line: 175
-# File: module/Application/view/application/index/plansandpricing.phtml, line: 236
-# File: module/Application/view/application/index/plansandpricing.phtml, line: 266
-# File: module/Application/view/application/index/plansandpricing.phtml, line: 746
-# File: module/Application/view/application/insurances/index.phtml, line: 9
-# File: module/Application/view/application/knowledge-base/index.phtml, line: 9
-# File: module/Application/view/application/knowledge-base/item.phtml, line: 9
-# File: module/Application/view/application/knowledge-base/list.phtml, line: 9
-# File: module/Application/view/application/marketing/index.phtml, line: 17
-# File: module/Application/view/application/packages/index.phtml, line: 8
-# File: module/Application/view/application/packages/searchpackages.phtml, line: 10
-# File: module/Application/view/application/portfolio/index.phtml, line: 28
-# File: module/Application/view/application/quick-books/blog.phtml, line: 28
-# File: module/Application/view/application/quick-books/tutorials.phtml, line: 28
-# File: module/Application/view/application/quick-books/faqs.phtml, line: 28
-# File: module/Application/view/application/reports/globalware.phtml, line: 9
-# File: module/Application/view/application/reports/search.phtml, line: 9
-# File: module/Application/view/application/reports/dailyticketingreport.phtml, line: 10
-# File: module/Application/view/application/reports/searchactivityreport.phtml, line: 10
-# File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 10
-# File: module/Application/view/application/reports/productivity.phtml, line: 8
-# File: module/Application/view/application/reports/index.phtml, line: 11
-# File: module/Application/view/application/reports/incentives.phtml, line: 32
-# File: module/Application/view/application/reservations/index.phtml, line: 17
-# File: module/Application/view/application/support/index.phtml, line: 9
-# File: module/Application/view/application/transfers/index.phtml, line: 9
-# File: module/Application/view/application/blog/index.phtml, line: 83
-# File: module/Application/view/application/blog/index.phtml, line: 143
-# File: module/Application/view/application/blog/index.phtml, line: 172
-# File: module/Application/view/application/blog/index.phtml, line: 348
-# File: module/Application/view/application/blog/details.phtml, line: 99
-# File: module/Application/view/application/blog/details.phtml, line: 159
-# File: module/Application/view/application/blog/details.phtml, line: 188
-# File: module/Application/view/application/blog/details.phtml, line: 547
-# File: module/Application/view/application/blog/list.phtml, line: 61
-# File: module/Application/view/application/blog/list.phtml, line: 121
-# File: module/Application/view/application/blog/list.phtml, line: 150
-# File: module/Application/view/application/blog/list.phtml, line: 483
-# File: module/Application/view/application/blog/mobile.phtml, line: 96
-# File: module/Application/view/application/blog/mobile.phtml, line: 156
-# File: module/Application/view/application/blog/mobile.phtml, line: 185
-# File: module/Application/view/application/blog/mobile.phtml, line: 345
-# File: module/Application/view/application/view/index.phtml, line: 81
-# File: module/Application/view/application/view/index.phtml, line: 182
-# File: module/Application/view/application/view/index.phtml, line: 980
-# File: module/Application/view/application/faq/index.phtml, line: 110
-# File: module/Application/view/application/faq/index.phtml, line: 171
-# File: module/Application/view/application/faq/index.phtml, line: 202
-# File: module/Application/view/application/faq/index.phtml, line: 400
-# File: module/Application/view/application/tutorials/tutorial.phtml, line: 99
-# File: module/Application/view/application/tutorials/tutorial.phtml, line: 159
-# File: module/Application/view/application/tutorials/tutorial.phtml, line: 188
-# File: module/Application/view/application/tutorials/tutorial.phtml, line: 366
-# File: module/Application/view/application/tutorials/kb.phtml, line: 9
-# File: module/Application/view/application/tutorials/index.phtml, line: 138
-# File: module/Application/view/application/tutorials/index.phtml, line: 200
-# File: module/Application/view/application/tutorials/index.phtml, line: 230
-# File: module/Application/view/application/tutorials/index.phtml, line: 740
-# File: module/Application/view/application/register-agency/contactus.phtml, line: 84
-# File: module/Application/view/application/register-agency/contactus.phtml, line: 144
-# File: module/Application/view/application/register-agency/contactus.phtml, line: 173
-# File: module/Application/view/application/register-agency/contactus.phtml, line: 327
-# File: module/Application/view/application/messaging/index.phtml, line: 92
-# File: module/Application/view/application/communications/index.phtml, line: 16
-# File: module/Application/view/application/communications/manage.phtml, line: 102
-msgid "Home"
-msgstr ""
-#
-# File: module/Application/view/application/activities/index.phtml, line: 16
-# File: module/Application/view/application/agents/index.phtml, line: 22
-# File: module/Application/view/application/cars/index.phtml, line: 16
-# File: module/Application/view/application/cms/editpage.phtml, line: 18
-# File: module/Application/view/application/cms/index.phtml, line: 16
-# File: module/Application/view/application/cms/new.phtml, line: 19
-# File: module/Application/view/application/cms/populardestinations.phtml, line: 18
-# File: module/Application/view/application/cms/popularpackages.phtml, line: 18
-# File: module/Application/view/application/cms/winterdestinations.phtml, line: 18
-# File: module/Application/view/application/cms/featureddestinations.phtml, line: 18
-# File: module/Application/view/application/cms/featuredhotels.phtml, line: 18
-# File: module/Application/view/application/cruises/commissiontable.phtml, line: 17
-# File: module/Application/view/application/cruises/index.phtml, line: 15
-# File: module/Application/view/application/escortedtours/index.phtml, line: 16
-# File: module/Application/view/application/flights/index.phtml, line: 16
-# File: module/Application/view/application/hotels/cancellationpolicies.phtml, line: 18
-# File: module/Application/view/application/hotels/childpolicies.phtml, line: 18
-# File: module/Application/view/application/hotels/contractrates.phtml, line: 18
-# File: module/Application/view/application/hotels/contracts.phtml, line: 18
-# File: module/Application/view/application/hotels/editcancellationpolicy.phtml, line: 21
-# File: module/Application/view/application/hotels/editchildpolicy.phtml, line: 20
-# File: module/Application/view/application/hotels/editcontract.phtml, line: 20
-# File: module/Application/view/application/hotels/editcontractrate.phtml, line: 18
-# File: module/Application/view/application/hotels/editmealsupplement.phtml, line: 20
-# File: module/Application/view/application/hotels/editpolicy.phtml, line: 19
-# File: module/Application/view/application/hotels/editroom.phtml, line: 20
-# File: module/Application/view/application/hotels/editstopsale.phtml, line: 20
-# File: module/Application/view/application/hotels/hotels.phtml, line: 17
-# File: module/Application/view/application/hotels/images.phtml, line: 18
-# File: module/Application/view/application/hotels/listcancellationpolicies.phtml, line: 18
-# File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 18
-# File: module/Application/view/application/hotels/listcontractrates.phtml, line: 20
-# File: module/Application/view/application/hotels/listcontracts.phtml, line: 20
-# File: module/Application/view/application/hotels/listimages.phtml, line: 19
-# File: module/Application/view/application/hotels/listmealsupplements.phtml, line: 18
-# File: module/Application/view/application/hotels/listpolicies.phtml, line: 19
-# File: module/Application/view/application/hotels/listrooms.phtml, line: 19
-# File: module/Application/view/application/hotels/liststopsale.phtml, line: 18
-# File: module/Application/view/application/hotels/manage.phtml, line: 18
-# File: module/Application/view/application/hotels/mealsupplements.phtml, line: 18
-# File: module/Application/view/application/hotels/newcancellationpolicy.phtml, line: 21
-# File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 19
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 19
-# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 19
-# File: module/Application/view/application/hotels/newimage.phtml, line: 19
-# File: module/Application/view/application/hotels/newmealsupplement.phtml, line: 19
-# File: module/Application/view/application/hotels/newpolicy.phtml, line: 19
-# File: module/Application/view/application/hotels/newroom.phtml, line: 20
-# File: module/Application/view/application/hotels/newstopsale.phtml, line: 19
-# File: module/Application/view/application/hotels/policies.phtml, line: 18
-# File: module/Application/view/application/hotels/rooms.phtml, line: 18
-# File: module/Application/view/application/hotels/specialoffers.phtml, line: 18
-# File: module/Application/view/application/hotels/stopsale.phtml, line: 18
-# File: module/Application/view/application/hotels/index.phtml, line: 60
-# File: module/Application/view/application/index/updatecreditcard.phtml, line: 15
-# File: module/Application/view/application/index/index.phtml, line: 34
-# File: module/Application/view/application/insurances/index.phtml, line: 19
-# File: module/Application/view/application/packages/index.phtml, line: 15
-# File: module/Application/view/application/reports/globalware.phtml, line: 17
-# File: module/Application/view/application/reports/search.phtml, line: 18
-# File: module/Application/view/application/reports/index.phtml, line: 21
-# File: module/Application/view/application/reservations/index.phtml, line: 27
-# File: module/Application/view/application/transfers/index.phtml, line: 16
-msgid "Take a Tour"
-msgstr ""
-#
-# File: module/Application/view/application/activities/index.phtml, line: 23
-# File: module/Application/view/application/agents/index.phtml, line: 33
-# File: module/Application/view/application/cars/index.phtml, line: 23
-# File: module/Application/view/application/cms/index.phtml, line: 23
-# File: module/Application/view/application/cruises/confirmedcruises.phtml, line: 18
-# File: module/Application/view/application/cruises/index.phtml, line: 22
-# File: module/Application/view/application/customers/index.phtml, line: 31
-# File: module/Application/view/application/escortedtours/index.phtml, line: 23
-# File: module/Application/view/application/flights/index.phtml, line: 23
-# File: module/Application/view/application/flights/airblocks.phtml, line: 158
-# File: module/Application/view/application/hotels/cancellationpolicies.phtml, line: 25
-# File: module/Application/view/application/hotels/childpolicies.phtml, line: 25
-# File: module/Application/view/application/hotels/contractrates.phtml, line: 25
-# File: module/Application/view/application/hotels/contracts.phtml, line: 25
-# File: module/Application/view/application/hotels/hotels.phtml, line: 24
-# File: module/Application/view/application/hotels/images.phtml, line: 25
-# File: module/Application/view/application/hotels/manage.phtml, line: 26
-# File: module/Application/view/application/hotels/mealsupplements.phtml, line: 25
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 26
-# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 26
-# File: module/Application/view/application/hotels/newstopsale.phtml, line: 26
-# File: module/Application/view/application/hotels/policies.phtml, line: 25
-# File: module/Application/view/application/hotels/rooms.phtml, line: 25
-# File: module/Application/view/application/hotels/specialoffers.phtml, line: 25
-# File: module/Application/view/application/hotels/stopsale.phtml, line: 25
-# File: module/Application/view/application/hotels/index.phtml, line: 67
-# File: module/Application/view/application/index/index.phtml, line: 39
-# File: module/Application/view/application/insurances/index.phtml, line: 27
-# File: module/Application/view/application/marketing/index.phtml, line: 39
-# File: module/Application/view/application/packages/index.phtml, line: 22
-# File: module/Application/view/application/reservations/index.phtml, line: 35
-# File: module/Application/view/application/support/index.phtml, line: 19
-# File: module/Application/view/application/transfers/index.phtml, line: 23
-msgid "Swipe to the left on the screen to view more items."
-msgstr ""
-#
-# File: module/Application/view/application/activities/index.phtml, line: 33
-# File: module/Application/view/application/activities/listreservations.phtml, line: 56
-# File: module/Application/view/application/agents/view.phtml, line: 393
-# File: module/Application/view/application/cars/index.phtml, line: 33
-# File: module/Application/view/application/cars/listreservations.phtml, line: 54
-# File: module/Application/view/application/cruises/listreservations.phtml, line: 54
-# File: module/Application/view/application/cruises/index.phtml, line: 35
-# File: module/Application/view/application/customers/view.phtml, line: 293
-# File: module/Application/view/application/escortedtours/index.phtml, line: 33
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 54
-# File: module/Application/view/application/flights/index.phtml, line: 33
-# File: module/Application/view/application/flights/listreservations.phtml, line: 54
-# File: module/Application/view/application/hotels/listreservations.phtml, line: 55
-# File: module/Application/view/application/hotels/index.phtml, line: 77
-# File: module/Application/view/application/insurances/index.phtml, line: 42
-# File: module/Application/view/application/insurances/listreservations.phtml, line: 54
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 82
-# File: module/Application/view/application/marketing/view.phtml, line: 322
-# File: module/Application/view/application/marketing/view.phtml, line: 351
-# File: module/Application/view/application/packages/index.phtml, line: 37
-# File: module/Application/view/application/packages/listreservations.phtml, line: 53
-# File: module/Application/view/application/packages/view.phtml, line: 292
-# File: module/Application/view/application/packages/view.phtml, line: 321
-# File: module/Application/view/application/reservations/index.phtml, line: 63
-# File: module/Application/view/application/reservations/list.phtml, line: 55
-# File: module/Application/view/application/reservations/newreservation.phtml, line: 31
-# File: module/Application/view/application/reservations/newreservation.phtml, line: 45
-# File: module/Application/view/application/transfers/index.phtml, line: 33
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 55
-# File: module/Application/view/application/view-reservation/index.phtml, line: 79
-# File: module/Application/view/application/view-reservation/index.phtml, line: 258
-# File: module/Application/view/application/view-reservation/index.phtml, line: 508
-# File: module/Application/view/application/view-reservation/index.phtml, line: 650
-# File: module/Application/view/application/view-reservation/index.phtml, line: 782
-# File: module/Application/view/application/view-reservation/index.phtml, line: 913
-# File: module/Application/view/application/view-reservation/index.phtml, line: 1046
-# File: module/Application/view/application/view-reservation/index.phtml, line: 1184
-# File: module/Application/view/application/view-reservation/index.phtml, line: 1305
-# File: module/Application/view/application/view-reservation/index.phtml, line: 1425
-msgid "New Reservation"
-msgstr ""
-#
-# File: module/Application/view/application/activities/index.phtml, line: 42
 # File: module/Application/view/application/activities/listreservations.phtml, line: 7
 # File: module/Application/view/application/activities/listreservations.phtml, line: 13
 # File: module/Application/view/application/activities/listreservations.phtml, line: 20
+# File: module/Application/view/application/activities/index.phtml, line: 42
 # File: module/Application/view/application/cars/index.phtml, line: 42
 # File: module/Application/view/application/cars/listreservations.phtml, line: 7
 # File: module/Application/view/application/cars/listreservations.phtml, line: 13
@@ -5363,64 +5012,6 @@ msgstr ""
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 20
 # File: module/Application/view/layout/layout.phtml, line: 154
 msgid "List Reservations"
-msgstr ""
-#
-# File: module/Application/view/application/activities/index.phtml, line: 51
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 7
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 13
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 51
-# File: module/Application/view/application/cars/index.phtml, line: 51
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 7
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 13
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 51
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 7
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 13
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 51
-# File: module/Application/view/application/cruises/index.phtml, line: 71
-# File: module/Application/view/application/escortedtours/index.phtml, line: 51
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 7
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 13
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 54
-# File: module/Application/view/application/flights/index.phtml, line: 51
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 7
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 13
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 51
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 7
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 13
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 51
-# File: module/Application/view/application/hotels/index.phtml, line: 95
-# File: module/Application/view/application/insurances/index.phtml, line: 66
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 7
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 13
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 51
-# File: module/Application/view/application/packages/index.phtml, line: 63
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 7
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 13
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 51
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 7
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 13
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 51
-# File: module/Application/view/application/reservations/searchallbookings.phtml, line: 7
-# File: module/Application/view/application/reservations/searchallbookings.phtml, line: 13
-# File: module/Application/view/application/reservations/searchallbookings.phtml, line: 39
-# File: module/Application/view/application/transfers/index.phtml, line: 51
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 7
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 13
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 51
-# File: module/Application/view/layout/layout.phtml, line: 155
-msgid "Search Reservations"
-msgstr ""
-#
-# File: module/Application/view/application/activities/index.phtml, line: 82
-# File: module/Application/view/application/cars/index.phtml, line: 82
-# File: module/Application/view/application/cruises/index.phtml, line: 117
-# File: module/Application/view/application/escortedtours/index.phtml, line: 115
-# File: module/Application/view/application/flights/index.phtml, line: 115
-# File: module/Application/view/application/hotels/index.phtml, line: 135
-# File: module/Application/view/application/insurances/index.phtml, line: 101
-# File: module/Application/view/application/packages/index.phtml, line: 113
-# File: module/Application/view/application/transfers/index.phtml, line: 82
-msgid "New Personal Reservation"
 msgstr ""
 #
 # File: module/Application/view/application/activities/listreservations.phtml, line: 23
@@ -5640,6 +5231,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/listreservations.phtml, line: 40
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 65
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 60
 # File: module/Application/view/application/agents/list.phtml, line: 40
 # File: module/Application/view/application/agents/search.phtml, line: 87
 # File: module/Application/view/application/agents/searchagents.phtml, line: 99
@@ -5719,6 +5311,48 @@ msgstr ""
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 39
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 65
 msgid "Action"
+msgstr ""
+#
+# File: module/Application/view/application/activities/listreservations.phtml, line: 56
+# File: module/Application/view/application/activities/index.phtml, line: 33
+# File: module/Application/view/application/agents/view.phtml, line: 393
+# File: module/Application/view/application/cars/index.phtml, line: 33
+# File: module/Application/view/application/cars/listreservations.phtml, line: 54
+# File: module/Application/view/application/cruises/listreservations.phtml, line: 54
+# File: module/Application/view/application/cruises/index.phtml, line: 35
+# File: module/Application/view/application/customers/view.phtml, line: 293
+# File: module/Application/view/application/escortedtours/index.phtml, line: 33
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 54
+# File: module/Application/view/application/flights/index.phtml, line: 33
+# File: module/Application/view/application/flights/listreservations.phtml, line: 54
+# File: module/Application/view/application/hotels/listreservations.phtml, line: 55
+# File: module/Application/view/application/hotels/index.phtml, line: 77
+# File: module/Application/view/application/insurances/index.phtml, line: 42
+# File: module/Application/view/application/insurances/listreservations.phtml, line: 54
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 82
+# File: module/Application/view/application/marketing/view.phtml, line: 322
+# File: module/Application/view/application/marketing/view.phtml, line: 351
+# File: module/Application/view/application/packages/index.phtml, line: 37
+# File: module/Application/view/application/packages/listreservations.phtml, line: 53
+# File: module/Application/view/application/packages/view.phtml, line: 292
+# File: module/Application/view/application/packages/view.phtml, line: 321
+# File: module/Application/view/application/reservations/index.phtml, line: 63
+# File: module/Application/view/application/reservations/list.phtml, line: 55
+# File: module/Application/view/application/reservations/newreservation.phtml, line: 31
+# File: module/Application/view/application/reservations/newreservation.phtml, line: 45
+# File: module/Application/view/application/transfers/index.phtml, line: 33
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 55
+# File: module/Application/view/application/view-reservation/index.phtml, line: 79
+# File: module/Application/view/application/view-reservation/index.phtml, line: 258
+# File: module/Application/view/application/view-reservation/index.phtml, line: 508
+# File: module/Application/view/application/view-reservation/index.phtml, line: 650
+# File: module/Application/view/application/view-reservation/index.phtml, line: 782
+# File: module/Application/view/application/view-reservation/index.phtml, line: 913
+# File: module/Application/view/application/view-reservation/index.phtml, line: 1046
+# File: module/Application/view/application/view-reservation/index.phtml, line: 1184
+# File: module/Application/view/application/view-reservation/index.phtml, line: 1305
+# File: module/Application/view/application/view-reservation/index.phtml, line: 1425
+msgid "New Reservation"
 msgstr ""
 #
 # File: module/Application/view/application/activities/listreservations.phtml, line: 58
@@ -6587,6 +6221,52 @@ msgstr ""
 msgid "Please select the option that suits your preference and business strategy. You can change this option at any time."
 msgstr ""
 #
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 7
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 13
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 51
+# File: module/Application/view/application/activities/index.phtml, line: 51
+# File: module/Application/view/application/cars/index.phtml, line: 51
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 7
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 13
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 51
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 7
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 13
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 51
+# File: module/Application/view/application/cruises/index.phtml, line: 71
+# File: module/Application/view/application/escortedtours/index.phtml, line: 51
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 7
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 13
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 54
+# File: module/Application/view/application/flights/index.phtml, line: 51
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 7
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 13
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 51
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 7
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 13
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 51
+# File: module/Application/view/application/hotels/index.phtml, line: 95
+# File: module/Application/view/application/insurances/index.phtml, line: 66
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 7
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 13
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 51
+# File: module/Application/view/application/packages/index.phtml, line: 63
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 7
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 13
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 51
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 7
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 13
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 51
+# File: module/Application/view/application/reservations/searchallbookings.phtml, line: 7
+# File: module/Application/view/application/reservations/searchallbookings.phtml, line: 13
+# File: module/Application/view/application/reservations/searchallbookings.phtml, line: 39
+# File: module/Application/view/application/transfers/index.phtml, line: 51
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 7
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 13
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 51
+# File: module/Application/view/layout/layout.phtml, line: 155
+msgid "Search Reservations"
+msgstr ""
+#
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 20
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 20
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 20
@@ -6713,6 +6393,423 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/settings.phtml, line: 51
 msgid "This section allows you to define the reservation fees for your service. Reservation fees are the amount of money that you charge your customers for booking your service in advance. You can set different reservation fees for different types of activities. This is a way to optimize your revenue."
+msgstr ""
+#
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 7
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 12
+# File: module/Application/view/application/activities/index.phtml, line: 71
+msgid "Blocked Activities"
+msgstr ""
+#
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 26
+msgid "Block an activity"
+msgstr ""
+#
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 27
+msgid "Blocked activities are hidden from the Disney Tickets search results. Use \"contains\" to hide anything whose name includes your text (e.g. Processing Fee Special Tickets), or match an exact supplier code."
+msgstr ""
+#
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 31
+msgid "Match type"
+msgstr ""
+#
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 33
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 71
+msgid "Name contains"
+msgstr ""
+#
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 34
+msgid "Supplier code (exact)"
+msgstr ""
+#
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 38
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 58
+msgid "Value"
+msgstr ""
+#
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 39
+msgid "e.g. Processing Fee Special Tickets"
+msgstr ""
+#
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 41
+msgid "Block activity"
+msgstr ""
+#
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 50
+msgid "Currently blocked"
+msgstr ""
+#
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 52
+msgid "No activities are blocked yet."
+msgstr ""
+#
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 59
+# File: module/Application/view/application/customers/editsupport.phtml, line: 40
+# File: module/Application/view/application/customers/editsupport.phtml, line: 41
+# File: module/Application/view/application/customers/support.phtml, line: 46
+# File: module/Application/view/application/hotels/editroom.phtml, line: 38
+# File: module/Application/view/application/hotels/editroom.phtml, line: 40
+# File: module/Application/view/application/hotels/listrooms.phtml, line: 34
+# File: module/Application/view/application/hotels/liststopsale.phtml, line: 32
+# File: module/Application/view/application/hotels/newroom.phtml, line: 38
+# File: module/Application/view/application/hotels/newroom.phtml, line: 40
+# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 90
+# File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 58
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 45
+# File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 15
+msgid "Type"
+msgstr ""
+#
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 69
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 32
+# File: module/Application/view/application/hotels/listcontracts.phtml, line: 35
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 41
+# File: module/Application/view/application/index/setup.phtml, line: 43
+# File: module/Application/view/application/index/setup.phtml, line: 72
+# File: module/Application/view/application/portfolio/edit.phtml, line: 29
+# File: module/Application/view/application/portfolio/new.phtml, line: 29
+msgid "Code"
+msgstr ""
+#
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 75
+msgid "Remove this block?"
+msgstr ""
+#
+# File: module/Application/view/application/activities/blockedactivities.phtml, line: 78
+# File: module/Application/view/application/index/search.old.phtml, line: 1346
+# File: module/Application/view/application/index/search.phtml, line: 872
+# File: module/Application/view/application/marketing/edit.phtml, line: 87
+# File: module/Application/view/application/marketing/edit.phtml, line: 146
+# File: module/Application/view/application/packages/editoptional.phtml, line: 125
+# File: module/Application/view/application/packages/editoptional.phtml, line: 135
+# File: module/Application/view/application/packages/editoptional.phtml, line: 165
+# File: module/Application/view/application/packages/newoptional.phtml, line: 122
+# File: module/Application/view/application/packages/newoptional.phtml, line: 151
+# File: module/Application/view/application/packages/newpackageai.phtml, line: 155
+msgid "Remove"
+msgstr ""
+#
+# File: module/Application/view/application/activities/index.phtml, line: 9
+# File: module/Application/view/application/agents/index.phtml, line: 11
+# File: module/Application/view/application/cars/index.phtml, line: 9
+# File: module/Application/view/application/cms/editpage.phtml, line: 9
+# File: module/Application/view/application/cms/index.phtml, line: 9
+# File: module/Application/view/application/cms/new.phtml, line: 9
+# File: module/Application/view/application/cms/populardestinations.phtml, line: 9
+# File: module/Application/view/application/cms/popularpackages.phtml, line: 9
+# File: module/Application/view/application/cms/winterdestinations.phtml, line: 9
+# File: module/Application/view/application/cms/featureddestinations.phtml, line: 9
+# File: module/Application/view/application/cms/featuredhotels.phtml, line: 9
+# File: module/Application/view/application/cruises/commissiontable.phtml, line: 8
+# File: module/Application/view/application/cruises/confirmedcruises.phtml, line: 8
+# File: module/Application/view/application/cruises/index.phtml, line: 8
+# File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 12
+# File: module/Application/view/application/customers/index.phtml, line: 10
+# File: module/Application/view/application/customers/travelcompanions.phtml, line: 10
+# File: module/Application/view/application/escortedtours/index.phtml, line: 9
+# File: module/Application/view/application/flights/index.phtml, line: 9
+# File: module/Application/view/application/flights/routemap.phtml, line: 9
+# File: module/Application/view/application/help/index.phtml, line: 11
+# File: module/Application/view/application/hotels/cancellationpolicies.phtml, line: 9
+# File: module/Application/view/application/hotels/childpolicies.phtml, line: 9
+# File: module/Application/view/application/hotels/contractrates.phtml, line: 9
+# File: module/Application/view/application/hotels/contracts.phtml, line: 9
+# File: module/Application/view/application/hotels/editcancellationpolicy.phtml, line: 10
+# File: module/Application/view/application/hotels/editchildpolicy.phtml, line: 9
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 10
+# File: module/Application/view/application/hotels/editcontractrate.phtml, line: 9
+# File: module/Application/view/application/hotels/editmealsupplement.phtml, line: 9
+# File: module/Application/view/application/hotels/editpolicy.phtml, line: 9
+# File: module/Application/view/application/hotels/editroom.phtml, line: 10
+# File: module/Application/view/application/hotels/editstopsale.phtml, line: 10
+# File: module/Application/view/application/hotels/hotels.phtml, line: 9
+# File: module/Application/view/application/hotels/images.phtml, line: 9
+# File: module/Application/view/application/hotels/listcancellationpolicies.phtml, line: 8
+# File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 8
+# File: module/Application/view/application/hotels/listcontractrates.phtml, line: 9
+# File: module/Application/view/application/hotels/listcontracts.phtml, line: 9
+# File: module/Application/view/application/hotels/listimages.phtml, line: 9
+# File: module/Application/view/application/hotels/listmealsupplements.phtml, line: 8
+# File: module/Application/view/application/hotels/listpolicies.phtml, line: 9
+# File: module/Application/view/application/hotels/listrooms.phtml, line: 9
+# File: module/Application/view/application/hotels/liststopsale.phtml, line: 9
+# File: module/Application/view/application/hotels/manage.phtml, line: 9
+# File: module/Application/view/application/hotels/mealsupplements.phtml, line: 9
+# File: module/Application/view/application/hotels/newcancellationpolicy.phtml, line: 11
+# File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 9
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 10
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 10
+# File: module/Application/view/application/hotels/newimage.phtml, line: 9
+# File: module/Application/view/application/hotels/newmealsupplement.phtml, line: 9
+# File: module/Application/view/application/hotels/newpolicy.phtml, line: 9
+# File: module/Application/view/application/hotels/newroom.phtml, line: 10
+# File: module/Application/view/application/hotels/newstopsale.phtml, line: 10
+# File: module/Application/view/application/hotels/policies.phtml, line: 9
+# File: module/Application/view/application/hotels/rooms.phtml, line: 9
+# File: module/Application/view/application/hotels/specialoffers.phtml, line: 9
+# File: module/Application/view/application/hotels/stopsale.phtml, line: 9
+# File: module/Application/view/application/hotels/index.phtml, line: 53
+# File: module/Application/view/application/hotels/promotions.phtml, line: 8
+# File: module/Application/view/application/index/accepttermsandconditions.phtml, line: 11
+# File: module/Application/view/application/index/banners.phtml, line: 16
+# File: module/Application/view/application/index/bannersedit.phtml, line: 17
+# File: module/Application/view/application/index/billing.phtml, line: 9
+# File: module/Application/view/application/index/content.phtml, line: 16
+# File: module/Application/view/application/index/devices.phtml, line: 17
+# File: module/Application/view/application/index/invoices.phtml, line: 17
+# File: module/Application/view/application/index/order.phtml, line: 390
+# File: module/Application/view/application/index/password.phtml, line: 17
+# File: module/Application/view/application/index/preferences.phtml, line: 11
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 99
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 159
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 188
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 389
+# File: module/Application/view/application/index/securitylog.phtml, line: 17
+# File: module/Application/view/application/index/seo.phtml, line: 17
+# File: module/Application/view/application/index/settings.phtml, line: 17
+# File: module/Application/view/application/index/setup.phtml, line: 11
+# File: module/Application/view/application/index/socialmedia.phtml, line: 17
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 99
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 159
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 188
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 374
+# File: module/Application/view/application/index/transactions.phtml, line: 10
+# File: module/Application/view/application/index/updatecreditcard.phtml, line: 8
+# File: module/Application/view/application/index/userinfo.phtml, line: 17
+# File: module/Application/view/application/index/viewsecuritylog.phtml, line: 17
+# File: module/Application/view/application/index/whatsapp.phtml, line: 11
+# File: module/Application/view/application/index/presentation.old.phtml, line: 27
+# File: module/Application/view/application/index/presentation.old.phtml, line: 42
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 28
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 41
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 137
+# File: module/Application/view/application/index/tutorials.old.phtml, line: 28
+# File: module/Application/view/application/index/tutorials.old.phtml, line: 358
+# File: module/Application/view/application/index/partners.old.phtml, line: 27
+# File: module/Application/view/application/index/partners.old.phtml, line: 40
+# File: module/Application/view/application/index/partners.old.phtml, line: 239
+# File: module/Application/view/application/index/products.old.phtml, line: 28
+# File: module/Application/view/application/index/products.old.phtml, line: 41
+# File: module/Application/view/application/index/products.old.phtml, line: 250
+# File: module/Application/view/application/index/prices.phtml, line: 83
+# File: module/Application/view/application/index/prices.phtml, line: 144
+# File: module/Application/view/application/index/prices.phtml, line: 174
+# File: module/Application/view/application/index/prices.phtml, line: 619
+# File: module/Application/view/application/index/order.old.phtml, line: 382
+# File: module/Application/view/application/index/activate.phtml, line: 82
+# File: module/Application/view/application/index/activate.phtml, line: 143
+# File: module/Application/view/application/index/activate.phtml, line: 173
+# File: module/Application/view/application/index/activate.phtml, line: 474
+# File: module/Application/view/application/index/termsandconditions.old.phtml, line: 28
+# File: module/Application/view/application/index/termsandconditions.old.phtml, line: 41
+# File: module/Application/view/application/index/termsandconditions.old.phtml, line: 155
+# File: module/Application/view/application/index/privacypolicy.old.phtml, line: 28
+# File: module/Application/view/application/index/privacypolicy.old.phtml, line: 41
+# File: module/Application/view/application/index/privacypolicy.old.phtml, line: 169
+# File: module/Application/view/application/index/trial.phtml, line: 82
+# File: module/Application/view/application/index/trial.phtml, line: 143
+# File: module/Application/view/application/index/trial.phtml, line: 518
+# File: module/Application/view/application/index/insideraccess.phtml, line: 91
+# File: module/Application/view/application/index/insideraccess.phtml, line: 147
+# File: module/Application/view/application/index/insideraccess.phtml, line: 459
+# File: module/Application/view/application/index/youridentity.phtml, line: 11
+# File: module/Application/view/application/index/bankstatement.phtml, line: 11
+# File: module/Application/view/application/index/index.phtml, line: 34
+# File: module/Application/view/application/index/products.phtml, line: 96
+# File: module/Application/view/application/index/products.phtml, line: 157
+# File: module/Application/view/application/index/products.phtml, line: 187
+# File: module/Application/view/application/index/products.phtml, line: 584
+# File: module/Application/view/application/index/whoarewe.phtml, line: 95
+# File: module/Application/view/application/index/whoarewe.phtml, line: 156
+# File: module/Application/view/application/index/whoarewe.phtml, line: 186
+# File: module/Application/view/application/index/whoarewe.phtml, line: 455
+# File: module/Application/view/application/index/partners.phtml, line: 120
+# File: module/Application/view/application/index/partners.phtml, line: 181
+# File: module/Application/view/application/index/partners.phtml, line: 211
+# File: module/Application/view/application/index/partners.phtml, line: 486
+# File: module/Application/view/application/index/presentation.phtml, line: 115
+# File: module/Application/view/application/index/presentation.phtml, line: 176
+# File: module/Application/view/application/index/presentation.phtml, line: 1892
+# File: module/Application/view/application/index/plansandpricing.phtml, line: 175
+# File: module/Application/view/application/index/plansandpricing.phtml, line: 236
+# File: module/Application/view/application/index/plansandpricing.phtml, line: 266
+# File: module/Application/view/application/index/plansandpricing.phtml, line: 746
+# File: module/Application/view/application/insurances/index.phtml, line: 9
+# File: module/Application/view/application/knowledge-base/index.phtml, line: 9
+# File: module/Application/view/application/knowledge-base/item.phtml, line: 9
+# File: module/Application/view/application/knowledge-base/list.phtml, line: 9
+# File: module/Application/view/application/marketing/index.phtml, line: 17
+# File: module/Application/view/application/packages/index.phtml, line: 8
+# File: module/Application/view/application/packages/searchpackages.phtml, line: 10
+# File: module/Application/view/application/portfolio/index.phtml, line: 28
+# File: module/Application/view/application/quick-books/blog.phtml, line: 28
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 28
+# File: module/Application/view/application/quick-books/faqs.phtml, line: 28
+# File: module/Application/view/application/reports/globalware.phtml, line: 9
+# File: module/Application/view/application/reports/search.phtml, line: 9
+# File: module/Application/view/application/reports/dailyticketingreport.phtml, line: 10
+# File: module/Application/view/application/reports/searchactivityreport.phtml, line: 10
+# File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 10
+# File: module/Application/view/application/reports/productivity.phtml, line: 8
+# File: module/Application/view/application/reports/index.phtml, line: 11
+# File: module/Application/view/application/reports/incentives.phtml, line: 32
+# File: module/Application/view/application/reservations/index.phtml, line: 17
+# File: module/Application/view/application/support/index.phtml, line: 9
+# File: module/Application/view/application/transfers/index.phtml, line: 9
+# File: module/Application/view/application/blog/index.phtml, line: 83
+# File: module/Application/view/application/blog/index.phtml, line: 143
+# File: module/Application/view/application/blog/index.phtml, line: 172
+# File: module/Application/view/application/blog/index.phtml, line: 348
+# File: module/Application/view/application/blog/details.phtml, line: 99
+# File: module/Application/view/application/blog/details.phtml, line: 159
+# File: module/Application/view/application/blog/details.phtml, line: 188
+# File: module/Application/view/application/blog/details.phtml, line: 547
+# File: module/Application/view/application/blog/list.phtml, line: 61
+# File: module/Application/view/application/blog/list.phtml, line: 121
+# File: module/Application/view/application/blog/list.phtml, line: 150
+# File: module/Application/view/application/blog/list.phtml, line: 483
+# File: module/Application/view/application/blog/mobile.phtml, line: 96
+# File: module/Application/view/application/blog/mobile.phtml, line: 156
+# File: module/Application/view/application/blog/mobile.phtml, line: 185
+# File: module/Application/view/application/blog/mobile.phtml, line: 345
+# File: module/Application/view/application/view/index.phtml, line: 81
+# File: module/Application/view/application/view/index.phtml, line: 182
+# File: module/Application/view/application/view/index.phtml, line: 980
+# File: module/Application/view/application/faq/index.phtml, line: 110
+# File: module/Application/view/application/faq/index.phtml, line: 171
+# File: module/Application/view/application/faq/index.phtml, line: 202
+# File: module/Application/view/application/faq/index.phtml, line: 400
+# File: module/Application/view/application/tutorials/tutorial.phtml, line: 99
+# File: module/Application/view/application/tutorials/tutorial.phtml, line: 159
+# File: module/Application/view/application/tutorials/tutorial.phtml, line: 188
+# File: module/Application/view/application/tutorials/tutorial.phtml, line: 366
+# File: module/Application/view/application/tutorials/kb.phtml, line: 9
+# File: module/Application/view/application/tutorials/index.phtml, line: 138
+# File: module/Application/view/application/tutorials/index.phtml, line: 200
+# File: module/Application/view/application/tutorials/index.phtml, line: 230
+# File: module/Application/view/application/tutorials/index.phtml, line: 740
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 84
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 144
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 173
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 327
+# File: module/Application/view/application/messaging/index.phtml, line: 92
+# File: module/Application/view/application/communications/index.phtml, line: 16
+# File: module/Application/view/application/communications/manage.phtml, line: 102
+msgid "Home"
+msgstr ""
+#
+# File: module/Application/view/application/activities/index.phtml, line: 16
+# File: module/Application/view/application/agents/index.phtml, line: 22
+# File: module/Application/view/application/cars/index.phtml, line: 16
+# File: module/Application/view/application/cms/editpage.phtml, line: 18
+# File: module/Application/view/application/cms/index.phtml, line: 16
+# File: module/Application/view/application/cms/new.phtml, line: 19
+# File: module/Application/view/application/cms/populardestinations.phtml, line: 18
+# File: module/Application/view/application/cms/popularpackages.phtml, line: 18
+# File: module/Application/view/application/cms/winterdestinations.phtml, line: 18
+# File: module/Application/view/application/cms/featureddestinations.phtml, line: 18
+# File: module/Application/view/application/cms/featuredhotels.phtml, line: 18
+# File: module/Application/view/application/cruises/commissiontable.phtml, line: 17
+# File: module/Application/view/application/cruises/index.phtml, line: 15
+# File: module/Application/view/application/escortedtours/index.phtml, line: 16
+# File: module/Application/view/application/flights/index.phtml, line: 16
+# File: module/Application/view/application/hotels/cancellationpolicies.phtml, line: 18
+# File: module/Application/view/application/hotels/childpolicies.phtml, line: 18
+# File: module/Application/view/application/hotels/contractrates.phtml, line: 18
+# File: module/Application/view/application/hotels/contracts.phtml, line: 18
+# File: module/Application/view/application/hotels/editcancellationpolicy.phtml, line: 21
+# File: module/Application/view/application/hotels/editchildpolicy.phtml, line: 20
+# File: module/Application/view/application/hotels/editcontract.phtml, line: 20
+# File: module/Application/view/application/hotels/editcontractrate.phtml, line: 18
+# File: module/Application/view/application/hotels/editmealsupplement.phtml, line: 20
+# File: module/Application/view/application/hotels/editpolicy.phtml, line: 19
+# File: module/Application/view/application/hotels/editroom.phtml, line: 20
+# File: module/Application/view/application/hotels/editstopsale.phtml, line: 20
+# File: module/Application/view/application/hotels/hotels.phtml, line: 17
+# File: module/Application/view/application/hotels/images.phtml, line: 18
+# File: module/Application/view/application/hotels/listcancellationpolicies.phtml, line: 18
+# File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 18
+# File: module/Application/view/application/hotels/listcontractrates.phtml, line: 20
+# File: module/Application/view/application/hotels/listcontracts.phtml, line: 20
+# File: module/Application/view/application/hotels/listimages.phtml, line: 19
+# File: module/Application/view/application/hotels/listmealsupplements.phtml, line: 18
+# File: module/Application/view/application/hotels/listpolicies.phtml, line: 19
+# File: module/Application/view/application/hotels/listrooms.phtml, line: 19
+# File: module/Application/view/application/hotels/liststopsale.phtml, line: 18
+# File: module/Application/view/application/hotels/manage.phtml, line: 18
+# File: module/Application/view/application/hotels/mealsupplements.phtml, line: 18
+# File: module/Application/view/application/hotels/newcancellationpolicy.phtml, line: 21
+# File: module/Application/view/application/hotels/newchildpolicy.phtml, line: 19
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 19
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 19
+# File: module/Application/view/application/hotels/newimage.phtml, line: 19
+# File: module/Application/view/application/hotels/newmealsupplement.phtml, line: 19
+# File: module/Application/view/application/hotels/newpolicy.phtml, line: 19
+# File: module/Application/view/application/hotels/newroom.phtml, line: 20
+# File: module/Application/view/application/hotels/newstopsale.phtml, line: 19
+# File: module/Application/view/application/hotels/policies.phtml, line: 18
+# File: module/Application/view/application/hotels/rooms.phtml, line: 18
+# File: module/Application/view/application/hotels/specialoffers.phtml, line: 18
+# File: module/Application/view/application/hotels/stopsale.phtml, line: 18
+# File: module/Application/view/application/hotels/index.phtml, line: 60
+# File: module/Application/view/application/index/updatecreditcard.phtml, line: 15
+# File: module/Application/view/application/index/index.phtml, line: 34
+# File: module/Application/view/application/insurances/index.phtml, line: 19
+# File: module/Application/view/application/packages/index.phtml, line: 15
+# File: module/Application/view/application/reports/globalware.phtml, line: 17
+# File: module/Application/view/application/reports/search.phtml, line: 18
+# File: module/Application/view/application/reports/index.phtml, line: 21
+# File: module/Application/view/application/reservations/index.phtml, line: 27
+# File: module/Application/view/application/transfers/index.phtml, line: 16
+msgid "Take a Tour"
+msgstr ""
+#
+# File: module/Application/view/application/activities/index.phtml, line: 23
+# File: module/Application/view/application/agents/index.phtml, line: 33
+# File: module/Application/view/application/cars/index.phtml, line: 23
+# File: module/Application/view/application/cms/index.phtml, line: 23
+# File: module/Application/view/application/cruises/confirmedcruises.phtml, line: 18
+# File: module/Application/view/application/cruises/index.phtml, line: 22
+# File: module/Application/view/application/customers/index.phtml, line: 31
+# File: module/Application/view/application/escortedtours/index.phtml, line: 23
+# File: module/Application/view/application/flights/index.phtml, line: 23
+# File: module/Application/view/application/flights/airblocks.phtml, line: 158
+# File: module/Application/view/application/hotels/cancellationpolicies.phtml, line: 25
+# File: module/Application/view/application/hotels/childpolicies.phtml, line: 25
+# File: module/Application/view/application/hotels/contractrates.phtml, line: 25
+# File: module/Application/view/application/hotels/contracts.phtml, line: 25
+# File: module/Application/view/application/hotels/hotels.phtml, line: 24
+# File: module/Application/view/application/hotels/images.phtml, line: 25
+# File: module/Application/view/application/hotels/manage.phtml, line: 26
+# File: module/Application/view/application/hotels/mealsupplements.phtml, line: 25
+# File: module/Application/view/application/hotels/newcontract.phtml, line: 26
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 26
+# File: module/Application/view/application/hotels/newstopsale.phtml, line: 26
+# File: module/Application/view/application/hotels/policies.phtml, line: 25
+# File: module/Application/view/application/hotels/rooms.phtml, line: 25
+# File: module/Application/view/application/hotels/specialoffers.phtml, line: 25
+# File: module/Application/view/application/hotels/stopsale.phtml, line: 25
+# File: module/Application/view/application/hotels/index.phtml, line: 67
+# File: module/Application/view/application/index/index.phtml, line: 39
+# File: module/Application/view/application/insurances/index.phtml, line: 27
+# File: module/Application/view/application/marketing/index.phtml, line: 39
+# File: module/Application/view/application/packages/index.phtml, line: 22
+# File: module/Application/view/application/reservations/index.phtml, line: 35
+# File: module/Application/view/application/support/index.phtml, line: 19
+# File: module/Application/view/application/transfers/index.phtml, line: 23
+msgid "Swipe to the left on the screen to view more items."
+msgstr ""
+#
+# File: module/Application/view/application/activities/index.phtml, line: 91
+# File: module/Application/view/application/cars/index.phtml, line: 82
+# File: module/Application/view/application/cruises/index.phtml, line: 117
+# File: module/Application/view/application/escortedtours/index.phtml, line: 115
+# File: module/Application/view/application/flights/index.phtml, line: 115
+# File: module/Application/view/application/hotels/index.phtml, line: 135
+# File: module/Application/view/application/insurances/index.phtml, line: 101
+# File: module/Application/view/application/packages/index.phtml, line: 113
+# File: module/Application/view/application/transfers/index.phtml, line: 82
+msgid "New Personal Reservation"
 msgstr ""
 #
 # File: module/Application/view/application/agents/edit.phtml, line: 7
@@ -9013,22 +9110,6 @@ msgstr ""
 msgid "Date/Time Created"
 msgstr ""
 #
-# File: module/Application/view/application/customers/editsupport.phtml, line: 40
-# File: module/Application/view/application/customers/editsupport.phtml, line: 41
-# File: module/Application/view/application/customers/support.phtml, line: 46
-# File: module/Application/view/application/hotels/editroom.phtml, line: 38
-# File: module/Application/view/application/hotels/editroom.phtml, line: 40
-# File: module/Application/view/application/hotels/listrooms.phtml, line: 34
-# File: module/Application/view/application/hotels/liststopsale.phtml, line: 32
-# File: module/Application/view/application/hotels/newroom.phtml, line: 38
-# File: module/Application/view/application/hotels/newroom.phtml, line: 40
-# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 90
-# File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 58
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 45
-# File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 15
-msgid "Type"
-msgstr ""
-#
 # File: module/Application/view/application/customers/editsupport.phtml, line: 53
 # File: module/Application/view/application/customers/support.phtml, line: 51
 # File: module/Application/view/application/support/list.phtml, line: 35
@@ -10779,16 +10860,6 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/editcontract.phtml, line: 27
 msgid "Edit Contract"
-msgstr ""
-#
-# File: module/Application/view/application/hotels/editcontract.phtml, line: 32
-# File: module/Application/view/application/hotels/listcontracts.phtml, line: 35
-# File: module/Application/view/application/hotels/newcontract.phtml, line: 41
-# File: module/Application/view/application/index/setup.phtml, line: 43
-# File: module/Application/view/application/index/setup.phtml, line: 72
-# File: module/Application/view/application/portfolio/edit.phtml, line: 29
-# File: module/Application/view/application/portfolio/new.phtml, line: 29
-msgid "Code"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/editcontractrate.phtml, line: 25
@@ -18221,19 +18292,6 @@ msgstr ""
 # File: module/Application/view/application/index/search.old.phtml, line: 1339
 # File: module/Application/view/application/index/search.phtml, line: 870
 msgid "Infant"
-msgstr ""
-#
-# File: module/Application/view/application/index/search.old.phtml, line: 1346
-# File: module/Application/view/application/index/search.phtml, line: 872
-# File: module/Application/view/application/marketing/edit.phtml, line: 87
-# File: module/Application/view/application/marketing/edit.phtml, line: 146
-# File: module/Application/view/application/packages/editoptional.phtml, line: 125
-# File: module/Application/view/application/packages/editoptional.phtml, line: 135
-# File: module/Application/view/application/packages/editoptional.phtml, line: 165
-# File: module/Application/view/application/packages/newoptional.phtml, line: 122
-# File: module/Application/view/application/packages/newoptional.phtml, line: 151
-# File: module/Application/view/application/packages/newpackageai.phtml, line: 155
-msgid "Remove"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.old.phtml, line: 1378
