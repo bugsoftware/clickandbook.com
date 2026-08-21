@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-20 08:41-0400\n"
+"POT-Creation-Date: 2026-08-21 02:02-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,7 +35,6 @@ msgstr ""
 # File: module/Application/src/Controller/EscortedtoursController.php, line: 3082
 # File: module/Application/src/Controller/InsurancesController.php, line: 409
 # File: module/Application/src/Controller/InsurancesController.php, line: 732
-# File: module/Application/src/Controller/MarketingController.php, line: 555
 # File: module/Application/src/Controller/ReservationsController.php, line: 1321
 # File: module/Application/src/Controller/ReservationsController.php, line: 1645
 # File: module/Application/src/Controller/ReservationsController.php, line: 1850
@@ -56,6 +55,7 @@ msgstr ""
 # File: module/Application/src/Controller/FlightsController.php, line: 3615
 # File: module/Application/src/Controller/FlightsController.php, line: 4056
 # File: module/Application/src/Controller/FlightsController.php, line: 4357
+# File: module/Application/src/Controller/MarketingController.php, line: 555
 # File: module/Application/src/Controller/CustomersController.php, line: 3162
 # File: module/Application/src/Controller/CustomersController.php, line: 3183
 # File: module/Application/src/Controller/CustomersController.php, line: 3204
@@ -88,6 +88,7 @@ msgstr ""
 # File: module/Application/src/Controller/AgentsController.php, line: 3417
 # File: module/Application/src/Controller/CustomersController.php, line: 3990
 # File: module/Application/view/application/agents/list.phtml, line: 30
+# File: module/Application/view/application/marketing/flyers.phtml, line: 43
 msgid "Created"
 msgstr ""
 #
@@ -2334,6 +2335,14 @@ msgstr ""
 msgid "3rd Payment"
 msgstr ""
 #
+# File: module/Application/src/Controller/MarketingController.php, line: 6205
+msgid "Please give the flyer a name."
+msgstr ""
+#
+# File: module/Application/src/Controller/MarketingController.php, line: 6258
+msgid "Add at least one destination."
+msgstr ""
+#
 # File: module/Application/src/Controller/JSONController.php, line: 1269
 # File: module/Application/view/application/index/search.old.phtml, line: 33
 # File: module/Application/view/application/index/search.old.phtml, line: 924
@@ -3923,6 +3932,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/edit.phtml, line: 50
 # File: module/Application/view/application/marketing/edit.phtml, line: 111
 # File: module/Application/view/application/marketing/edit.phtml, line: 158
+# File: module/Application/view/application/marketing/flyer.phtml, line: 289
 msgid "Destination"
 msgstr ""
 #
@@ -4428,12 +4438,15 @@ msgstr ""
 # File: module/Application/view/application/insurances/settings.phtml, line: 10
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 12
 # File: module/Application/view/application/marketing/edit.phtml, line: 12
-# File: module/Application/view/application/marketing/index.phtml, line: 18
 # File: module/Application/view/application/marketing/list.phtml, line: 11
 # File: module/Application/view/application/marketing/new.phtml, line: 11
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 12
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 10
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 12
+# File: module/Application/view/application/marketing/flyers.phtml, line: 12
+# File: module/Application/view/application/marketing/index.phtml, line: 18
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 18
+# File: module/Application/view/application/marketing/flyer.phtml, line: 59
 # File: module/Application/view/application/packages/editimage.phtml, line: 19
 # File: module/Application/view/application/packages/edititinerary.phtml, line: 19
 # File: module/Application/view/application/packages/index.phtml, line: 9
@@ -5289,6 +5302,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/list.phtml, line: 29
 # File: module/Application/view/application/marketing/new.phtml, line: 71
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 48
+# File: module/Application/view/application/marketing/flyers.phtml, line: 44
 # File: module/Application/view/application/packages/listreservations.phtml, line: 38
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 76
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 65
@@ -6124,8 +6138,8 @@ msgstr ""
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 109
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 121
 # File: module/Application/view/application/knowledge-base/list.phtml, line: 51
-# File: module/Application/view/application/marketing/index.phtml, line: 152
 # File: module/Application/view/application/marketing/list.phtml, line: 42
+# File: module/Application/view/application/marketing/index.phtml, line: 161
 # File: module/Application/view/application/packages/listreservations.phtml, line: 92
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 88
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 79
@@ -6480,6 +6494,7 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 875
 # File: module/Application/view/application/marketing/edit.phtml, line: 87
 # File: module/Application/view/application/marketing/edit.phtml, line: 146
+# File: module/Application/view/application/marketing/flyer.phtml, line: 286
 # File: module/Application/view/application/packages/editoptional.phtml, line: 125
 # File: module/Application/view/application/packages/editoptional.phtml, line: 135
 # File: module/Application/view/application/packages/editoptional.phtml, line: 165
@@ -6846,13 +6861,13 @@ msgstr ""
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 20
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 14
 # File: module/Application/view/application/marketing/edit.phtml, line: 14
-# File: module/Application/view/application/marketing/index.phtml, line: 58
 # File: module/Application/view/application/marketing/list.phtml, line: 7
 # File: module/Application/view/application/marketing/list.phtml, line: 13
 # File: module/Application/view/application/marketing/list.phtml, line: 20
 # File: module/Application/view/application/marketing/new.phtml, line: 13
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 14
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 14
+# File: module/Application/view/application/marketing/index.phtml, line: 58
 # File: module/Application/view/application/portfolio/categories.phtml, line: 8
 # File: module/Application/view/application/portfolio/categories.phtml, line: 30
 # File: module/Application/view/application/reservations/index.phtml, line: 45
@@ -7712,6 +7727,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/list.phtml, line: 54
 # File: module/Application/view/application/marketing/view.phtml, line: 28
 # File: module/Application/view/application/marketing/view.phtml, line: 55
+# File: module/Application/view/application/marketing/flyers.phtml, line: 64
 # File: module/Application/view/application/packages/view.phtml, line: 29
 # File: module/Application/view/application/packages/view.phtml, line: 58
 # File: module/Application/view/application/packages/manage.phtml, line: 244
@@ -8255,6 +8271,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 86
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 139
 # File: module/Application/view/application/hotels/newroom.phtml, line: 129
+# File: module/Application/view/application/marketing/flyers.phtml, line: 70
 # File: module/Application/view/application/packages/manage.phtml, line: 245
 # File: module/Application/view/application/packages/manage.phtml, line: 268
 # File: module/Application/view/application/packages/manage.phtml, line: 286
@@ -8422,6 +8439,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.old.phtml, line: 124
 # File: module/Application/view/application/index/privacypolicy.old.phtml, line: 138
 # File: module/Application/view/application/marketing/list.phtml, line: 28
+# File: module/Application/view/application/marketing/flyers.phtml, line: 39
 # File: module/Application/view/application/packages/edititinerary.phtml, line: 37
 # File: module/Application/view/application/packages/newitinerary.phtml, line: 36
 # File: module/Application/view/application/packages/editoptional.phtml, line: 53
@@ -8508,6 +8526,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 262
 # File: module/Application/view/application/hotels/newroom.phtml, line: 439
 # File: module/Application/view/application/index/billing.phtml, line: 280
+# File: module/Application/view/application/marketing/flyer.phtml, line: 506
 # File: module/Application/view/application/portfolio/index.phtml, line: 367
 # File: module/Application/view/application/communications/manage.phtml, line: 265
 msgid "Cancel"
@@ -8566,6 +8585,7 @@ msgid "Price (per person)"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 47
+# File: module/Application/view/application/marketing/flyer.phtml, line: 310
 # File: module/Application/view/application/quick-books/charge.phtml, line: 29
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 27
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 416
@@ -9218,6 +9238,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 31
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 38
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 40
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 54
 # File: module/Application/view/application/blog/index.phtml, line: 257
 # File: module/Application/view/application/blog/details.phtml, line: 456
 # File: module/Application/view/application/blog/list.phtml, line: 392
@@ -9428,14 +9449,17 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 234
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 13
 # File: module/Application/view/application/marketing/edit.phtml, line: 13
-# File: module/Application/view/application/marketing/index.phtml, line: 39
-# File: module/Application/view/application/marketing/index.phtml, line: 142
 # File: module/Application/view/application/marketing/list.phtml, line: 12
 # File: module/Application/view/application/marketing/new.phtml, line: 12
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 13
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 11
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 13
 # File: module/Application/view/application/marketing/view.phtml, line: 10
+# File: module/Application/view/application/marketing/flyers.phtml, line: 13
+# File: module/Application/view/application/marketing/index.phtml, line: 39
+# File: module/Application/view/application/marketing/index.phtml, line: 151
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 19
+# File: module/Application/view/application/marketing/flyer.phtml, line: 60
 # File: module/Application/view/layout/layout.phtml, line: 146
 # File: module/Application/view/layout/layout.phtml, line: 203
 msgid "Marketing"
@@ -9582,6 +9606,8 @@ msgstr ""
 # File: module/Application/view/application/hotels/newroom.phtml, line: 109
 # File: module/Application/view/application/index/banners.phtml, line: 73
 # File: module/Application/view/application/index/bannersedit.phtml, line: 67
+# File: module/Application/view/application/marketing/flyer.phtml, line: 211
+# File: module/Application/view/application/marketing/flyer.phtml, line: 319
 # File: module/Application/view/application/packages/editimage.phtml, line: 53
 # File: module/Application/view/application/packages/editimage.phtml, line: 56
 # File: module/Application/view/application/packages/editimage.phtml, line: 58
@@ -9635,9 +9661,9 @@ msgid "Campaigns"
 msgstr ""
 #
 # File: module/Application/view/application/flights/campaings.phtml, line: 23
-# File: module/Application/view/application/marketing/index.phtml, line: 49
 # File: module/Application/view/application/marketing/new.phtml, line: 8
 # File: module/Application/view/application/marketing/new.phtml, line: 24
+# File: module/Application/view/application/marketing/index.phtml, line: 49
 msgid "New Campaign"
 msgstr ""
 #
@@ -10215,6 +10241,8 @@ msgstr ""
 # File: module/Application/view/application/flights/newairblock.phtml, line: 60
 # File: module/Application/view/application/flights/airblock.phtml, line: 64
 # File: module/Application/view/application/flights/airblock.phtml, line: 66
+# File: module/Application/view/application/marketing/flyers.phtml, line: 40
+# File: module/Application/view/application/marketing/flyer.phtml, line: 279
 msgid "Destinations"
 msgstr ""
 #
@@ -10471,6 +10499,8 @@ msgid "We would love to hear from you!"
 msgstr ""
 #
 # File: module/Application/view/application/help/index.phtml, line: 59
+# File: module/Application/view/application/marketing/flyers.phtml, line: 67
+# File: module/Application/view/application/marketing/flyer.phtml, line: 71
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2477
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2519
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2565
@@ -11731,21 +11761,29 @@ msgstr ""
 #
 # File: module/Application/view/application/index/banners.phtml, line: 118
 # File: module/Application/view/application/index/bannersedit.phtml, line: 155
+# File: module/Application/view/application/marketing/flyer.phtml, line: 131
+# File: module/Application/view/application/marketing/flyer.phtml, line: 162
 msgid "Top"
 msgstr ""
 #
 # File: module/Application/view/application/index/banners.phtml, line: 120
 # File: module/Application/view/application/index/bannersedit.phtml, line: 156
+# File: module/Application/view/application/marketing/flyer.phtml, line: 134
+# File: module/Application/view/application/marketing/flyer.phtml, line: 165
 msgid "Left"
 msgstr ""
 #
 # File: module/Application/view/application/index/banners.phtml, line: 122
 # File: module/Application/view/application/index/bannersedit.phtml, line: 157
+# File: module/Application/view/application/marketing/flyer.phtml, line: 132
+# File: module/Application/view/application/marketing/flyer.phtml, line: 163
 msgid "Right"
 msgstr ""
 #
 # File: module/Application/view/application/index/banners.phtml, line: 124
 # File: module/Application/view/application/index/bannersedit.phtml, line: 158
+# File: module/Application/view/application/marketing/flyer.phtml, line: 133
+# File: module/Application/view/application/marketing/flyer.phtml, line: 164
 msgid "Bottom"
 msgstr ""
 #
@@ -12025,6 +12063,9 @@ msgstr ""
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 33
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 34
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 43
+# File: module/Application/view/application/marketing/flyers.phtml, line: 41
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 66
+# File: module/Application/view/application/marketing/flyer.phtml, line: 460
 # File: module/Application/view/application/packages/edititinerary.phtml, line: 40
 # File: module/Application/view/application/packages/edititinerary.phtml, line: 41
 # File: module/Application/view/application/packages/newitinerary.phtml, line: 38
@@ -16635,6 +16676,9 @@ msgid "Portfolio"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 282
+# File: module/Application/view/application/marketing/flyers.phtml, line: 14
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 20
+# File: module/Application/view/application/marketing/flyer.phtml, line: 61
 msgid "Flyers"
 msgstr ""
 #
@@ -18566,45 +18610,9 @@ msgstr ""
 msgid "Offer Total"
 msgstr ""
 #
-# File: module/Application/view/application/marketing/index.phtml, line: 67
-msgid "Broadcast Campaign"
-msgstr ""
-#
-# File: module/Application/view/application/marketing/index.phtml, line: 76
-# File: module/Application/view/application/marketing/list.phtml, line: 60
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 8
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 34
-msgid "Send Email Campaign"
-msgstr ""
-#
-# File: module/Application/view/application/marketing/index.phtml, line: 85
-msgid "Send SMS Campaign"
-msgstr ""
-#
-# File: module/Application/view/application/marketing/index.phtml, line: 94
-msgid "Send Whatsapp Campaign"
-msgstr ""
-#
-# File: module/Application/view/application/marketing/index.phtml, line: 113
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 7
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 12
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 21
-msgid "Sending Report"
-msgstr ""
-#
-# File: module/Application/view/application/marketing/index.phtml, line: 127
-msgid "Featured Products"
-msgstr ""
-#
-# File: module/Application/view/application/marketing/index.phtml, line: 127
-msgid "In this section, you can find featured products. These products are selected based on their popularity, quality, and value. You can use this for marketing purposes."
-msgstr ""
-#
-# File: module/Application/view/application/marketing/index.phtml, line: 136
-msgid "TREND"
-msgstr ""
-#
 # File: module/Application/view/application/marketing/list.phtml, line: 48
+# File: module/Application/view/application/marketing/flyers.phtml, line: 61
+# File: module/Application/view/application/marketing/flyer.phtml, line: 511
 # File: module/Application/view/application/packages/manage.phtml, line: 130
 # File: module/Application/view/application/packages/listpackages.phtml, line: 137
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 211
@@ -18612,11 +18620,19 @@ msgstr ""
 msgid "Preview"
 msgstr ""
 #
+# File: module/Application/view/application/marketing/list.phtml, line: 60
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 8
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 34
+# File: module/Application/view/application/marketing/index.phtml, line: 76
+msgid "Send Email Campaign"
+msgstr ""
+#
 # File: module/Application/view/application/marketing/new.phtml, line: 19
 msgid "No airline solution offers available for your search. Please try a different query."
 msgstr ""
 #
 # File: module/Application/view/application/marketing/new.phtml, line: 47
+# File: module/Application/view/application/marketing/flyer.phtml, line: 293
 # File: module/Application/view/application/packages/manage.phtml, line: 161
 # File: module/Application/view/application/packages/newpackage.phtml, line: 63
 # File: module/Application/view/application/packages/newpackage.phtml, line: 64
@@ -18638,6 +18654,7 @@ msgid "Upload"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/new.phtml, line: 148
+# File: module/Application/view/application/marketing/flyer.phtml, line: 378
 msgid "Link"
 msgstr ""
 #
@@ -18690,6 +18707,13 @@ msgstr ""
 #
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 80
 msgid "Select/Unselect All"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 7
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 12
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 21
+# File: module/Application/view/application/marketing/index.phtml, line: 113
+msgid "Sending Report"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 30
@@ -18754,6 +18778,445 @@ msgstr ""
 #
 # File: module/Application/view/application/marketing/view.phtml, line: 12
 msgid "Campaign Detail"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyers.phtml, line: 9
+# File: module/Application/view/application/marketing/index.phtml, line: 122
+msgid "Flyer Builder"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyers.phtml, line: 20
+# File: module/Application/view/application/marketing/flyer.phtml, line: 56
+# File: module/Application/view/application/portfolio/new.phtml, line: 7
+# File: module/Application/view/application/portfolio/new.phtml, line: 19
+msgid "New Flyer"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyers.phtml, line: 31
+msgid "No flyers yet."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyers.phtml, line: 32
+msgid "Build your first flyer"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyers.phtml, line: 42
+msgid "Queued"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyers.phtml, line: 88
+msgid "Delete this flyer?"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/index.phtml, line: 67
+msgid "Broadcast Campaign"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/index.phtml, line: 85
+msgid "Send SMS Campaign"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/index.phtml, line: 94
+msgid "Send Whatsapp Campaign"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/index.phtml, line: 136
+msgid "Featured Products"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/index.phtml, line: 136
+msgid "In this section, you can find featured products. These products are selected based on their popularity, quality, and value. You can use this for marketing purposes."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/index.phtml, line: 145
+msgid "TREND"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 15
+msgid "Send Flyer"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 28
+#, php-format
+msgid "%d e-mail(s) queued. The newsletter sender will pick them up on its next run."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 30
+msgid "Nothing was queued - please check the recipients."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 33
+#, php-format
+msgid "%d image(s) embedded in the message."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 36
+msgid "Skipped:"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 40
+msgid "Image embedding is unavailable: cb_flyers is missing the embed_images / embeds columns. Run cb_flyers.sql, then tick the box in the builder."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 42
+msgid "No image could be read, so they were sent as links instead of being embedded."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 44
+msgid "The images will travel with the message (embedded), not as links."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 49
+msgid "Delivery"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 58
+msgid "From name"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 62
+msgid "From address"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 74
+msgid "Recipients"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 76
+msgid "One per line, or separated by commas."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 81
+msgid "Your customers"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 82
+msgid "Add all"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 95
+msgid "Queue for sending"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 96
+msgid "Back to the builder"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 100
+msgid "What will be sent"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 56
+# File: module/Application/view/application/portfolio/edit.phtml, line: 7
+# File: module/Application/view/application/portfolio/edit.phtml, line: 12
+# File: module/Application/view/application/portfolio/edit.phtml, line: 19
+# File: module/Application/view/application/portfolio/index.phtml, line: 80
+# File: module/Application/view/application/portfolio/index.phtml, line: 109
+# File: module/Application/view/application/portfolio/index.phtml, line: 140
+msgid "Edit Flyer"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 68
+msgid "Open preview"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 79
+msgid "Flyer saved. The preview on the right is up to date."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 90
+msgid "Header"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 96
+msgid "Flyer name"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 98
+msgid "Internal name, not shown to the customer."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 101
+# File: module/Application/view/application/marketing/flyer.phtml, line: 106
+msgid "Page title"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 103
+msgid "Falls back to the e-mail subject."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 110
+# File: module/Application/view/application/marketing/flyer.phtml, line: 114
+msgid "E-mail subject"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 118
+# File: module/Application/view/application/marketing/flyer.phtml, line: 123
+msgid "Headline"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 120
+msgid "Shown in the coloured bar under the logo."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 127
+msgid "Headline padding"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 147
+msgid "Space inside the coloured band, around the words."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 150
+msgid "Headline width"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 155
+msgid "90 leaves the colour short of the edges, centred."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 158
+msgid "Headline margin"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 158
+msgid "space outside the colour"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 178
+msgid "Blank space around the coloured band, in the flyer background."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 181
+# File: module/Application/view/application/marketing/flyer.phtml, line: 185
+msgid "Inbox preview text"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 189
+# File: module/Application/view/application/marketing/flyer.phtml, line: 193
+msgid "Intro text"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 199
+msgid "Include number"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 201
+msgid "Puts 1., 2., 3. in front of each destination."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 206
+msgid "Top image"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 215
+msgid "Replaces the agency logo at the top of the flyer."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 218
+# File: module/Application/view/application/marketing/flyer.phtml, line: 325
+msgid "Max height"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 225
+# File: module/Application/view/application/marketing/flyer.phtml, line: 332
+msgid "Pad left"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 232
+# File: module/Application/view/application/marketing/flyer.phtml, line: 339
+msgid "Pad right"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 239
+# File: module/Application/view/application/marketing/flyer.phtml, line: 346
+msgid "Pad top"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 246
+# File: module/Application/view/application/marketing/flyer.phtml, line: 353
+msgid "Pad bottom"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 253
+# File: module/Application/view/application/marketing/flyer.phtml, line: 360
+msgid "Corners"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 256
+# File: module/Application/view/application/marketing/flyer.phtml, line: 366
+msgid "Rounded"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 260
+# File: module/Application/view/application/marketing/flyer.phtml, line: 370
+msgid "Current image"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 263
+msgid "Use the logo instead"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 265
+msgid "Using the agency logo"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 269
+msgid "Top image link"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 274
+msgid "Type just the path and your own site is prepended. A full https:// address is used as it is."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 297
+msgid "From price"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 301
+msgid "Discount"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 303
+#, php-format
+msgid "35% discount, 50 off, $500 off - or free text such as 2x1."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 306
+msgid "Label"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 312
+msgid "Default"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 322
+msgid "650px wide or larger works best."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 374
+# File: module/Application/view/application/marketing/flyer.phtml, line: 558
+msgid "No image"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 385
+msgid "Button text"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 392
+msgid "Show the button"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 396
+msgid "Small print"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 406
+msgid "Add destination"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 408
+msgid "Style and footer"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 413
+msgid "Page background"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 421
+msgid "Inner background"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 426
+msgid "The 650px block. Leave empty to match the page. Text switches to dark on light colours."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 429
+msgid "Accent"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 436
+msgid "Inner width"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 441
+msgid "Width of the flyer block. Images follow it."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 444
+msgid "Inner padding"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 449
+msgid "Space around the flyer content. Leave empty to keep the built-in spacing."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 452
+msgid "Default currency"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 466
+msgid "Espa&ntilde;ol uses the (ES) fields when they are filled in."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 469
+msgid "Default button text"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 473
+msgid "Show buttons"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 475
+msgid "Untick to drop every button. Each destination can also hide its own."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 478
+msgid "Default max image height"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 483
+msgid "Used when an image has no height of its own. Images fill the full width; taller photos are cropped from the middle."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 488
+msgid "Embed the images in the e-mail"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 490
+msgid "Sends the pictures with the message instead of linking to them. Heavier e-mails, but nothing to load and no broken images if the image host is unreachable."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 493
+msgid "Headline gradient (CSS, optional)"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 497
+msgid "Footer small print"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 505
+msgid "Save and preview"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 517
+msgid "Refresh"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 518
+msgid "Open in a new tab"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 521
+msgid "Save the flyer to see the preview."
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 538
+msgid "Removed on save"
+msgstr ""
+#
+# File: module/Application/view/application/marketing/flyer.phtml, line: 592
+msgid "Will use the logo on save"
 msgstr ""
 #
 # File: module/Application/view/application/packages/editimage.phtml, line: 16
@@ -19715,15 +20178,6 @@ msgstr ""
 msgid "Location & Airports"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/edit.phtml, line: 7
-# File: module/Application/view/application/portfolio/edit.phtml, line: 12
-# File: module/Application/view/application/portfolio/edit.phtml, line: 19
-# File: module/Application/view/application/portfolio/index.phtml, line: 80
-# File: module/Application/view/application/portfolio/index.phtml, line: 109
-# File: module/Application/view/application/portfolio/index.phtml, line: 140
-msgid "Edit Flyer"
-msgstr ""
-#
 # File: module/Application/view/application/portfolio/edit.phtml, line: 35
 msgid "Select Category"
 msgstr ""
@@ -19799,11 +20253,6 @@ msgstr ""
 #
 # File: module/Application/view/application/portfolio/index.phtml, line: 365
 msgid "Are you sure you want to delete this flyer? This action cannot be undone."
-msgstr ""
-#
-# File: module/Application/view/application/portfolio/new.phtml, line: 7
-# File: module/Application/view/application/portfolio/new.phtml, line: 19
-msgid "New Flyer"
 msgstr ""
 #
 # File: module/Application/view/application/portfolio/new.phtml, line: 117
