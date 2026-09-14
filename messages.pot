@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-14 08:48-0400\n"
+"POT-Creation-Date: 2026-09-14 15:54-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,6 +44,13 @@ msgstr ""
 # File: module/Application/src/Controller/TransfersController.php, line: 1061
 # File: module/Application/src/Controller/ActivitiesController.php, line: 908
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1190
+# File: module/Application/src/Controller/CustomersController.php, line: 3168
+# File: module/Application/src/Controller/CustomersController.php, line: 3189
+# File: module/Application/src/Controller/CustomersController.php, line: 3210
+# File: module/Application/src/Controller/CustomersController.php, line: 3362
+# File: module/Application/src/Controller/CustomersController.php, line: 3383
+# File: module/Application/src/Controller/CustomersController.php, line: 3404
+# File: module/Application/src/Controller/CustomersController.php, line: 3670
 # File: module/Application/src/Controller/HotelsController.php, line: 7191
 # File: module/Application/src/Controller/HotelsController.php, line: 7213
 # File: module/Application/src/Controller/HotelsController.php, line: 8006
@@ -56,13 +63,6 @@ msgstr ""
 # File: module/Application/src/Controller/FlightsController.php, line: 4373
 # File: module/Application/src/Controller/MarketingController.php, line: 555
 # File: module/Application/src/Controller/IndexController.php, line: 16516
-# File: module/Application/src/Controller/CustomersController.php, line: 3162
-# File: module/Application/src/Controller/CustomersController.php, line: 3183
-# File: module/Application/src/Controller/CustomersController.php, line: 3204
-# File: module/Application/src/Controller/CustomersController.php, line: 3356
-# File: module/Application/src/Controller/CustomersController.php, line: 3377
-# File: module/Application/src/Controller/CustomersController.php, line: 3398
-# File: module/Application/src/Controller/CustomersController.php, line: 3664
 # File: module/Application/src/Controller/CruisesController.php, line: 859
 # File: module/Application/src/Controller/CruisesController.php, line: 1246
 msgid "Not Available"
@@ -86,7 +86,7 @@ msgid "Agents"
 msgstr ""
 #
 # File: module/Application/src/Controller/AgentsController.php, line: 3417
-# File: module/Application/src/Controller/CustomersController.php, line: 3990
+# File: module/Application/src/Controller/CustomersController.php, line: 3996
 # File: module/Application/view/application/agents/list.phtml, line: 30
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 137
 # File: module/Application/view/application/marketing/flyers.phtml, line: 43
@@ -402,8 +402,6 @@ msgstr ""
 # File: module/Application/src/Controller/HotelsController.php, line: 4284
 # File: module/Application/src/Controller/HotelsController.php, line: 5051
 # File: module/Application/src/Controller/HotelsController.php, line: 6880
-# File: module/Application/src/Controller/CustomersController.php, line: 2678
-# File: module/Application/src/Controller/CustomersController.php, line: 2706
 # File: module/Application/view/application/cms/editpage.phtml, line: 56
 # File: module/Application/view/application/cms/new.phtml, line: 57
 # File: module/Application/view/application/hotels/edit.phtml, line: 80
@@ -438,8 +436,6 @@ msgstr ""
 # File: module/Application/src/Controller/HotelsController.php, line: 4288
 # File: module/Application/src/Controller/HotelsController.php, line: 5055
 # File: module/Application/src/Controller/HotelsController.php, line: 6884
-# File: module/Application/src/Controller/CustomersController.php, line: 2680
-# File: module/Application/src/Controller/CustomersController.php, line: 2708
 # File: module/Application/view/application/cms/editpage.phtml, line: 57
 # File: module/Application/view/application/cms/new.phtml, line: 58
 # File: module/Application/view/application/hotels/edit.phtml, line: 81
@@ -875,8 +871,8 @@ msgstr ""
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 134
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 271
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 409
-# File: module/Application/src/Controller/CustomersController.php, line: 3970
-# File: module/Application/src/Controller/CustomersController.php, line: 4006
+# File: module/Application/src/Controller/CustomersController.php, line: 3976
+# File: module/Application/src/Controller/CustomersController.php, line: 4012
 # File: module/Application/view/application/customers/addpoints.phtml, line: 12
 # File: module/Application/view/application/customers/bounces.phtml, line: 12
 # File: module/Application/view/application/customers/edit.phtml, line: 13
@@ -1151,15 +1147,15 @@ msgid "Please Select"
 msgstr ""
 #
 # File: module/Application/src/Controller/ReservationsController.php, line: 996
-# File: module/Application/src/Controller/PackagesController.php, line: 3530
-# File: module/Application/src/Controller/FlightsController.php, line: 1144
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3338
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3399
 # File: module/Application/src/Controller/CustomersController.php, line: 2016
 # File: module/Application/src/Controller/CustomersController.php, line: 2017
 # File: module/Application/src/Controller/CustomersController.php, line: 2018
 # File: module/Application/src/Controller/CustomersController.php, line: 2080
 # File: module/Application/src/Controller/CustomersController.php, line: 2099
+# File: module/Application/src/Controller/PackagesController.php, line: 3530
+# File: module/Application/src/Controller/FlightsController.php, line: 1144
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3338
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3399
 # File: module/Application/view/application/cms/editpage.phtml, line: 63
 # File: module/Application/view/application/cms/new.phtml, line: 64
 # File: module/Application/view/application/packages/edititinerary.phtml, line: 48
@@ -1209,9 +1205,10 @@ msgstr ""
 # File: module/Application/src/Controller/SupportController.php, line: 213
 # File: module/Application/src/Controller/SupportController.php, line: 400
 # File: module/Application/src/Controller/CustomersController.php, line: 2106
-# File: module/Application/src/Controller/CustomersController.php, line: 3856
-# File: module/Application/src/Controller/CustomersController.php, line: 3927
-# File: module/Application/src/Controller/CustomersController.php, line: 4030
+# File: module/Application/src/Controller/CustomersController.php, line: 2690
+# File: module/Application/src/Controller/CustomersController.php, line: 3862
+# File: module/Application/src/Controller/CustomersController.php, line: 3933
+# File: module/Application/src/Controller/CustomersController.php, line: 4036
 # File: module/Application/view/application/customers/editsupport.phtml, line: 35
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 166
 # File: module/Application/view/application/marketing/flyer.phtml, line: 106
@@ -1223,8 +1220,9 @@ msgstr ""
 # File: module/Application/src/Controller/SupportController.php, line: 215
 # File: module/Application/src/Controller/SupportController.php, line: 402
 # File: module/Application/src/Controller/CustomersController.php, line: 2114
-# File: module/Application/src/Controller/CustomersController.php, line: 3858
-# File: module/Application/src/Controller/CustomersController.php, line: 4038
+# File: module/Application/src/Controller/CustomersController.php, line: 2688
+# File: module/Application/src/Controller/CustomersController.php, line: 3864
+# File: module/Application/src/Controller/CustomersController.php, line: 4044
 # File: module/Application/view/application/customers/editsupport.phtml, line: 36
 # File: module/Application/view/application/support/edit.phtml, line: 34
 # File: module/Application/view/application/support/search.phtml, line: 52
@@ -1282,6 +1280,341 @@ msgstr ""
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 559
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 976
 msgid "Best regards"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 460
+# File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 55
+# File: module/Application/view/application/customers/travelcompanions.phtml, line: 50
+msgid "International Passport"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 464
+# File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 56
+# File: module/Application/view/application/customers/travelcompanions.phtml, line: 50
+msgid "National Identity Card"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 602
+# File: module/Application/src/Controller/CustomersController.php, line: 2049
+# File: module/Application/src/Controller/CustomersController.php, line: 2063
+# File: module/Application/src/Controller/CustomersController.php, line: 2077
+# File: module/Application/src/Controller/CustomersController.php, line: 2096
+# File: module/Application/src/Controller/CustomersController.php, line: 3850
+# File: module/Application/src/Controller/CustomersController.php, line: 3883
+# File: module/Application/src/Controller/CustomersController.php, line: 3903
+# File: module/Application/src/Controller/CustomersController.php, line: 3923
+# File: module/Application/src/Controller/HotelsController.php, line: 705
+# File: module/Application/src/Controller/HotelsController.php, line: 992
+# File: module/Application/src/Controller/HotelsController.php, line: 2591
+# File: module/Application/src/Controller/HotelsController.php, line: 2624
+# File: module/Application/src/Controller/HotelsController.php, line: 2640
+# File: module/Application/src/Controller/HotelsController.php, line: 2646
+# File: module/Application/src/Controller/HotelsController.php, line: 2661
+# File: module/Application/src/Controller/HotelsController.php, line: 2664
+# File: module/Application/src/Controller/HotelsController.php, line: 3276
+# File: module/Application/src/Controller/HotelsController.php, line: 5184
+# File: module/Application/src/Controller/HotelsController.php, line: 5202
+# File: module/Application/src/Controller/HotelsController.php, line: 5220
+# File: module/Application/src/Controller/HotelsController.php, line: 7044
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3285
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3349
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3410
+# File: module/Application/src/Controller/IndexController.php, line: 2527
+# File: module/Application/src/Controller/IndexController.php, line: 2848
+# File: module/Application/src/Controller/IndexController.php, line: 2851
+# File: module/Application/src/Controller/IndexController.php, line: 3245
+# File: module/Application/view/application/hotels/listhotels.phtml, line: 58
+# File: module/Application/view/application/hotels/searchhotels.phtml, line: 101
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 72
+# File: module/Application/view/application/packages/availability.phtml, line: 75
+# File: module/Application/view/application/portfolio/categories.phtml, line: 57
+msgid "Unknown"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 2052
+# File: module/Application/src/Controller/CustomersController.php, line: 2066
+msgid "Direct Reservation"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 2110
+# File: module/Application/src/Controller/CustomersController.php, line: 3866
+# File: module/Application/src/Controller/CustomersController.php, line: 3937
+# File: module/Application/src/Controller/CustomersController.php, line: 4040
+# File: module/Application/view/application/customers/editsupport.phtml, line: 37
+msgid "In Progress"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 2122
+# File: module/Application/src/Controller/CustomersController.php, line: 3943
+# File: module/Application/view/application/customers/index.phtml, line: 96
+# File: module/Application/view/application/customers/editsupport.phtml, line: 14
+# File: module/Application/view/application/customers/editsupport.phtml, line: 42
+# File: module/Application/view/application/customers/editsupport.phtml, line: 74
+# File: module/Application/view/application/customers/support.phtml, line: 7
+# File: module/Application/view/application/customers/support.phtml, line: 13
+# File: module/Application/view/application/customers/newsupport.phtml, line: 12
+# File: module/Application/view/application/help/index.phtml, line: 100
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 136
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 136
+# File: module/Application/view/application/index/prices.phtml, line: 121
+# File: module/Application/view/application/index/activate.phtml, line: 120
+# File: module/Application/view/application/index/trial.phtml, line: 120
+# File: module/Application/view/application/index/insideraccess.phtml, line: 126
+# File: module/Application/view/application/index/products.phtml, line: 134
+# File: module/Application/view/application/index/whoarewe.phtml, line: 133
+# File: module/Application/view/application/index/partners.phtml, line: 158
+# File: module/Application/view/application/index/presentation.phtml, line: 153
+# File: module/Application/view/application/index/plansandpricing.phtml, line: 213
+# File: module/Application/view/application/support/edit.phtml, line: 12
+# File: module/Application/view/application/support/edit.phtml, line: 20
+# File: module/Application/view/application/support/index.phtml, line: 6
+# File: module/Application/view/application/support/index.phtml, line: 10
+# File: module/Application/view/application/support/list.phtml, line: 12
+# File: module/Application/view/application/support/search.phtml, line: 12
+# File: module/Application/view/application/support/view.phtml, line: 9
+# File: module/Application/view/application/blog/index.phtml, line: 120
+# File: module/Application/view/application/blog/details.phtml, line: 136
+# File: module/Application/view/application/blog/list.phtml, line: 98
+# File: module/Application/view/application/blog/mobile.phtml, line: 133
+# File: module/Application/view/application/view/index.phtml, line: 118
+# File: module/Application/view/application/faq/index.phtml, line: 148
+# File: module/Application/view/application/tutorials/tutorial.phtml, line: 136
+# File: module/Application/view/application/tutorials/index.phtml, line: 177
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 121
+# File: module/Application/view/layout/layout.phtml, line: 148
+# File: module/Application/view/layout/layout.phtml, line: 249
+msgid "Support"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 2126
+# File: module/Application/src/Controller/CustomersController.php, line: 3945
+# File: module/Application/view/application/customers/editsupport.phtml, line: 43
+msgid "Price Match"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 2130
+# File: module/Application/src/Controller/CustomersController.php, line: 3947
+# File: module/Application/view/application/customers/editsupport.phtml, line: 44
+msgid "Reward Points"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 2134
+# File: module/Application/src/Controller/CustomersController.php, line: 3949
+# File: module/Application/view/application/customers/editsupport.phtml, line: 45
+# File: module/Application/view/application/communications/manage.phtml, line: 10
+# File: module/Application/view/partial/communications.phtml, line: 652
+msgid "Groups"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 2138
+# File: module/Application/src/Controller/CustomersController.php, line: 3951
+# File: module/Application/view/application/customers/editsupport.phtml, line: 46
+msgid "Weddings"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 2142
+# File: module/Application/view/application/customers/editsupport.phtml, line: 47
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 104
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 164
+# File: module/Application/view/application/index/privacypolicy.phtml, line: 251
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 104
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 164
+# File: module/Application/view/application/index/termsandconditions.phtml, line: 237
+# File: module/Application/view/application/index/presentation.old.phtml, line: 34
+# File: module/Application/view/application/index/presentation.old.phtml, line: 52
+# File: module/Application/view/application/index/presentation.old.phtml, line: 220
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 33
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 51
+# File: module/Application/view/application/index/whoarewe.old.phtml, line: 94
+# File: module/Application/view/application/index/tutorials.old.phtml, line: 33
+# File: module/Application/view/application/index/tutorials.old.phtml, line: 317
+# File: module/Application/view/application/index/partners.old.phtml, line: 32
+# File: module/Application/view/application/index/partners.old.phtml, line: 50
+# File: module/Application/view/application/index/partners.old.phtml, line: 198
+# File: module/Application/view/application/index/products.old.phtml, line: 33
+# File: module/Application/view/application/index/products.old.phtml, line: 51
+# File: module/Application/view/application/index/products.old.phtml, line: 209
+# File: module/Application/view/application/index/prices.phtml, line: 89
+# File: module/Application/view/application/index/prices.phtml, line: 150
+# File: module/Application/view/application/index/activate.phtml, line: 88
+# File: module/Application/view/application/index/activate.phtml, line: 149
+# File: module/Application/view/application/index/termsandconditions.old.phtml, line: 33
+# File: module/Application/view/application/index/termsandconditions.old.phtml, line: 51
+# File: module/Application/view/application/index/termsandconditions.old.phtml, line: 112
+# File: module/Application/view/application/index/privacypolicy.old.phtml, line: 33
+# File: module/Application/view/application/index/privacypolicy.old.phtml, line: 51
+# File: module/Application/view/application/index/privacypolicy.old.phtml, line: 126
+# File: module/Application/view/application/index/trial.phtml, line: 88
+# File: module/Application/view/application/index/trial.phtml, line: 149
+# File: module/Application/view/application/index/insideraccess.phtml, line: 97
+# File: module/Application/view/application/index/insideraccess.phtml, line: 153
+# File: module/Application/view/application/index/products.phtml, line: 102
+# File: module/Application/view/application/index/products.phtml, line: 163
+# File: module/Application/view/application/index/products.phtml, line: 447
+# File: module/Application/view/application/index/whoarewe.phtml, line: 101
+# File: module/Application/view/application/index/whoarewe.phtml, line: 162
+# File: module/Application/view/application/index/whoarewe.phtml, line: 318
+# File: module/Application/view/application/index/partners.phtml, line: 126
+# File: module/Application/view/application/index/partners.phtml, line: 187
+# File: module/Application/view/application/index/partners.phtml, line: 348
+# File: module/Application/view/application/index/presentation.phtml, line: 121
+# File: module/Application/view/application/index/presentation.phtml, line: 182
+# File: module/Application/view/application/index/presentation.phtml, line: 1755
+# File: module/Application/view/application/index/plansandpricing.phtml, line: 181
+# File: module/Application/view/application/index/plansandpricing.phtml, line: 242
+# File: module/Application/view/application/blog/index.phtml, line: 88
+# File: module/Application/view/application/blog/index.phtml, line: 148
+# File: module/Application/view/application/blog/index.phtml, line: 211
+# File: module/Application/view/application/blog/details.phtml, line: 104
+# File: module/Application/view/application/blog/details.phtml, line: 164
+# File: module/Application/view/application/blog/details.phtml, line: 394
+# File: module/Application/view/application/blog/details.phtml, line: 410
+# File: module/Application/view/application/blog/list.phtml, line: 66
+# File: module/Application/view/application/blog/list.phtml, line: 126
+# File: module/Application/view/application/blog/list.phtml, line: 346
+# File: module/Application/view/application/blog/mobile.phtml, line: 101
+# File: module/Application/view/application/blog/mobile.phtml, line: 161
+# File: module/Application/view/application/blog/mobile.phtml, line: 208
+# File: module/Application/view/application/view/index.phtml, line: 86
+# File: module/Application/view/application/view/index.phtml, line: 842
+# File: module/Application/view/application/faq/index.phtml, line: 116
+# File: module/Application/view/application/faq/index.phtml, line: 177
+# File: module/Application/view/application/faq/index.phtml, line: 263
+# File: module/Application/view/application/tutorials/tutorial.phtml, line: 104
+# File: module/Application/view/application/tutorials/tutorial.phtml, line: 164
+# File: module/Application/view/application/tutorials/tutorial.phtml, line: 229
+# File: module/Application/view/application/tutorials/index.phtml, line: 145
+# File: module/Application/view/application/tutorials/index.phtml, line: 206
+# File: module/Application/view/application/tutorials/index.phtml, line: 606
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 89
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 149
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 171
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 174
+# File: module/Application/view/application/register-agency/contactus.phtml, line: 188
+msgid "Contact Us"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 2164
+msgid "All Companies"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 2686
+# File: module/Application/view/application/reports/productivity.phtml, line: 313
+msgid "Booked"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 2707
+msgid "Unknown Customer"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 2727
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 650
+# File: module/Application/view/application/index/search.old.phtml, line: 1345
+# File: module/Application/view/application/index/search.phtml, line: 1216
+# File: module/Application/view/application/view-reservation/index.phtml, line: 393
+# File: module/Application/view/application/view-reservation/index.phtml, line: 472
+msgid "Flight"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 2727
+# File: module/Application/view/application/reports/globalware.phtml, line: 25
+# File: module/Application/view/application/reports/search.phtml, line: 32
+msgid "from"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 2727
+# File: module/Application/view/application/reports/globalware.phtml, line: 25
+# File: module/Application/view/application/reports/search.phtml, line: 32
+msgid "to"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 2733
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 751
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 766
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 791
+# File: module/Application/view/application/marketing/edit.phtml, line: 160
+# File: module/Application/view/application/reservations/newreservation.phtml, line: 151
+# File: module/Application/view/application/reservations/newreservation.phtml, line: 158
+msgid "Hotel"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 3853
+# File: module/Application/src/Controller/CustomersController.php, line: 3886
+# File: module/Application/src/Controller/CustomersController.php, line: 3906
+# File: module/Application/src/Controller/CustomersController.php, line: 3926
+msgid "Not set"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 3935
+msgid "Closes"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 3997
+# File: module/Application/view/application/customers/support.phtml, line: 47
+msgid "Agent/Customer"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 3998
+# File: module/Application/view/application/cms/editpage.phtml, line: 29
+# File: module/Application/view/application/cms/new.phtml, line: 30
+# File: module/Application/view/application/cms/pages.phtml, line: 27
+# File: module/Application/view/application/cms/populardestinations.phtml, line: 29
+# File: module/Application/view/application/cms/popularpackages.phtml, line: 29
+# File: module/Application/view/application/cms/winterdestinations.phtml, line: 29
+# File: module/Application/view/application/cms/featureddestinations.phtml, line: 29
+# File: module/Application/view/application/cms/featuredhotels.phtml, line: 29
+# File: module/Application/view/application/customers/edit.phtml, line: 26
+# File: module/Application/view/application/customers/edit.phtml, line: 28
+# File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 28
+# File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 30
+# File: module/Application/view/application/customers/newtravelcompanion.phtml, line: 26
+# File: module/Application/view/application/customers/editsupport.phtml, line: 27
+# File: module/Application/view/application/customers/support.phtml, line: 44
+# File: module/Application/view/application/quick-books/createcustomers.phtml, line: 39
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 42
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 30
+# File: module/Application/view/application/quick-books/blog.phtml, line: 44
+# File: module/Application/view/application/quick-books/tutorials.phtml, line: 43
+# File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 41
+# File: module/Application/view/application/quick-books/edittutorial.phtml, line: 40
+# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 35
+# File: module/Application/view/application/quick-books/editblog.phtml, line: 35
+# File: module/Application/view/application/communications/manage.phtml, line: 194
+msgid "Title"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 3999
+# File: module/Application/view/application/customers/editsupport.phtml, line: 26
+msgid "Quote"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 4000
+# File: module/Application/view/application/customers/editsupport.phtml, line: 28
+# File: module/Application/view/application/customers/support.phtml, line: 50
+# File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 11
+msgid "User"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 4014
+msgid "Customers Support"
+msgstr ""
+#
+# File: module/Application/src/Controller/CustomersController.php, line: 4032
+# File: module/Application/src/Controller/HotelsController.php, line: 7047
+# File: module/Application/view/application/flights/routemap.phtml, line: 70
+# File: module/Application/view/application/index/banners.phtml, line: 93
+# File: module/Application/view/application/index/banners.phtml, line: 116
+# File: module/Application/view/application/index/bannersedit.phtml, line: 87
+# File: module/Application/view/application/index/bannersedit.phtml, line: 143
+# File: module/Application/view/application/index/bannersedit.phtml, line: 154
+# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 49
+# File: module/Application/view/application/packages/searchpackages.phtml, line: 42
+# File: module/Application/view/application/packages/manage.phtml, line: 60
+# File: module/Application/view/application/portfolio/index.phtml, line: 54
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 83
+# File: module/Application/view/application/messaging/index.phtml, line: 114
+# File: module/Application/view/layout/layout.phtml, line: 190
+msgid "All"
 msgstr ""
 #
 # File: module/Application/src/Controller/PackagesController.php, line: 1356
@@ -1421,43 +1754,6 @@ msgstr ""
 #
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 976
 msgid "Complete Registration"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 705
-# File: module/Application/src/Controller/HotelsController.php, line: 992
-# File: module/Application/src/Controller/HotelsController.php, line: 2591
-# File: module/Application/src/Controller/HotelsController.php, line: 2624
-# File: module/Application/src/Controller/HotelsController.php, line: 2640
-# File: module/Application/src/Controller/HotelsController.php, line: 2646
-# File: module/Application/src/Controller/HotelsController.php, line: 2661
-# File: module/Application/src/Controller/HotelsController.php, line: 2664
-# File: module/Application/src/Controller/HotelsController.php, line: 3276
-# File: module/Application/src/Controller/HotelsController.php, line: 5184
-# File: module/Application/src/Controller/HotelsController.php, line: 5202
-# File: module/Application/src/Controller/HotelsController.php, line: 5220
-# File: module/Application/src/Controller/HotelsController.php, line: 7044
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3285
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3349
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3410
-# File: module/Application/src/Controller/IndexController.php, line: 2527
-# File: module/Application/src/Controller/IndexController.php, line: 2848
-# File: module/Application/src/Controller/IndexController.php, line: 2851
-# File: module/Application/src/Controller/IndexController.php, line: 3245
-# File: module/Application/src/Controller/CustomersController.php, line: 602
-# File: module/Application/src/Controller/CustomersController.php, line: 2049
-# File: module/Application/src/Controller/CustomersController.php, line: 2063
-# File: module/Application/src/Controller/CustomersController.php, line: 2077
-# File: module/Application/src/Controller/CustomersController.php, line: 2096
-# File: module/Application/src/Controller/CustomersController.php, line: 3844
-# File: module/Application/src/Controller/CustomersController.php, line: 3877
-# File: module/Application/src/Controller/CustomersController.php, line: 3897
-# File: module/Application/src/Controller/CustomersController.php, line: 3917
-# File: module/Application/view/application/hotels/listhotels.phtml, line: 58
-# File: module/Application/view/application/hotels/searchhotels.phtml, line: 101
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 72
-# File: module/Application/view/application/packages/availability.phtml, line: 75
-# File: module/Application/view/application/portfolio/categories.phtml, line: 57
-msgid "Unknown"
 msgstr ""
 #
 # File: module/Application/src/Controller/HotelsController.php, line: 708
@@ -1634,24 +1930,6 @@ msgstr ""
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1524
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 206
 msgid "nights"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 7047
-# File: module/Application/src/Controller/CustomersController.php, line: 4026
-# File: module/Application/view/application/flights/routemap.phtml, line: 70
-# File: module/Application/view/application/index/banners.phtml, line: 93
-# File: module/Application/view/application/index/banners.phtml, line: 116
-# File: module/Application/view/application/index/bannersedit.phtml, line: 87
-# File: module/Application/view/application/index/bannersedit.phtml, line: 143
-# File: module/Application/view/application/index/bannersedit.phtml, line: 154
-# File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 49
-# File: module/Application/view/application/packages/searchpackages.phtml, line: 42
-# File: module/Application/view/application/packages/manage.phtml, line: 60
-# File: module/Application/view/application/portfolio/index.phtml, line: 54
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 83
-# File: module/Application/view/application/messaging/index.phtml, line: 114
-# File: module/Application/view/layout/layout.phtml, line: 190
-msgid "All"
 msgstr ""
 #
 # File: module/Application/src/Controller/FlightsController.php, line: 1545
@@ -2504,281 +2782,6 @@ msgstr ""
 # File: module/Application/view/application/index/search.old.phtml, line: 2182
 # File: module/Application/view/application/index/search.phtml, line: 1218
 msgid "Search for"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 460
-# File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 55
-# File: module/Application/view/application/customers/travelcompanions.phtml, line: 50
-msgid "International Passport"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 464
-# File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 56
-# File: module/Application/view/application/customers/travelcompanions.phtml, line: 50
-msgid "National Identity Card"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 2052
-# File: module/Application/src/Controller/CustomersController.php, line: 2066
-msgid "Direct Reservation"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 2110
-# File: module/Application/src/Controller/CustomersController.php, line: 3860
-# File: module/Application/src/Controller/CustomersController.php, line: 3931
-# File: module/Application/src/Controller/CustomersController.php, line: 4034
-# File: module/Application/view/application/customers/editsupport.phtml, line: 37
-msgid "In Progress"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 2122
-# File: module/Application/src/Controller/CustomersController.php, line: 3937
-# File: module/Application/view/application/customers/index.phtml, line: 96
-# File: module/Application/view/application/customers/editsupport.phtml, line: 14
-# File: module/Application/view/application/customers/editsupport.phtml, line: 42
-# File: module/Application/view/application/customers/editsupport.phtml, line: 74
-# File: module/Application/view/application/customers/support.phtml, line: 7
-# File: module/Application/view/application/customers/support.phtml, line: 13
-# File: module/Application/view/application/customers/newsupport.phtml, line: 12
-# File: module/Application/view/application/help/index.phtml, line: 100
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 136
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 136
-# File: module/Application/view/application/index/prices.phtml, line: 121
-# File: module/Application/view/application/index/activate.phtml, line: 120
-# File: module/Application/view/application/index/trial.phtml, line: 120
-# File: module/Application/view/application/index/insideraccess.phtml, line: 126
-# File: module/Application/view/application/index/products.phtml, line: 134
-# File: module/Application/view/application/index/whoarewe.phtml, line: 133
-# File: module/Application/view/application/index/partners.phtml, line: 158
-# File: module/Application/view/application/index/presentation.phtml, line: 153
-# File: module/Application/view/application/index/plansandpricing.phtml, line: 213
-# File: module/Application/view/application/support/edit.phtml, line: 12
-# File: module/Application/view/application/support/edit.phtml, line: 20
-# File: module/Application/view/application/support/index.phtml, line: 6
-# File: module/Application/view/application/support/index.phtml, line: 10
-# File: module/Application/view/application/support/list.phtml, line: 12
-# File: module/Application/view/application/support/search.phtml, line: 12
-# File: module/Application/view/application/support/view.phtml, line: 9
-# File: module/Application/view/application/blog/index.phtml, line: 120
-# File: module/Application/view/application/blog/details.phtml, line: 136
-# File: module/Application/view/application/blog/list.phtml, line: 98
-# File: module/Application/view/application/blog/mobile.phtml, line: 133
-# File: module/Application/view/application/view/index.phtml, line: 118
-# File: module/Application/view/application/faq/index.phtml, line: 148
-# File: module/Application/view/application/tutorials/tutorial.phtml, line: 136
-# File: module/Application/view/application/tutorials/index.phtml, line: 177
-# File: module/Application/view/application/register-agency/contactus.phtml, line: 121
-# File: module/Application/view/layout/layout.phtml, line: 148
-# File: module/Application/view/layout/layout.phtml, line: 249
-msgid "Support"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 2126
-# File: module/Application/src/Controller/CustomersController.php, line: 3939
-# File: module/Application/view/application/customers/editsupport.phtml, line: 43
-msgid "Price Match"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 2130
-# File: module/Application/src/Controller/CustomersController.php, line: 3941
-# File: module/Application/view/application/customers/editsupport.phtml, line: 44
-msgid "Reward Points"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 2134
-# File: module/Application/src/Controller/CustomersController.php, line: 3943
-# File: module/Application/view/application/customers/editsupport.phtml, line: 45
-# File: module/Application/view/application/communications/manage.phtml, line: 10
-# File: module/Application/view/partial/communications.phtml, line: 652
-msgid "Groups"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 2138
-# File: module/Application/src/Controller/CustomersController.php, line: 3945
-# File: module/Application/view/application/customers/editsupport.phtml, line: 46
-msgid "Weddings"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 2142
-# File: module/Application/view/application/customers/editsupport.phtml, line: 47
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 104
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 164
-# File: module/Application/view/application/index/privacypolicy.phtml, line: 251
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 104
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 164
-# File: module/Application/view/application/index/termsandconditions.phtml, line: 237
-# File: module/Application/view/application/index/presentation.old.phtml, line: 34
-# File: module/Application/view/application/index/presentation.old.phtml, line: 52
-# File: module/Application/view/application/index/presentation.old.phtml, line: 220
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 33
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 51
-# File: module/Application/view/application/index/whoarewe.old.phtml, line: 94
-# File: module/Application/view/application/index/tutorials.old.phtml, line: 33
-# File: module/Application/view/application/index/tutorials.old.phtml, line: 317
-# File: module/Application/view/application/index/partners.old.phtml, line: 32
-# File: module/Application/view/application/index/partners.old.phtml, line: 50
-# File: module/Application/view/application/index/partners.old.phtml, line: 198
-# File: module/Application/view/application/index/products.old.phtml, line: 33
-# File: module/Application/view/application/index/products.old.phtml, line: 51
-# File: module/Application/view/application/index/products.old.phtml, line: 209
-# File: module/Application/view/application/index/prices.phtml, line: 89
-# File: module/Application/view/application/index/prices.phtml, line: 150
-# File: module/Application/view/application/index/activate.phtml, line: 88
-# File: module/Application/view/application/index/activate.phtml, line: 149
-# File: module/Application/view/application/index/termsandconditions.old.phtml, line: 33
-# File: module/Application/view/application/index/termsandconditions.old.phtml, line: 51
-# File: module/Application/view/application/index/termsandconditions.old.phtml, line: 112
-# File: module/Application/view/application/index/privacypolicy.old.phtml, line: 33
-# File: module/Application/view/application/index/privacypolicy.old.phtml, line: 51
-# File: module/Application/view/application/index/privacypolicy.old.phtml, line: 126
-# File: module/Application/view/application/index/trial.phtml, line: 88
-# File: module/Application/view/application/index/trial.phtml, line: 149
-# File: module/Application/view/application/index/insideraccess.phtml, line: 97
-# File: module/Application/view/application/index/insideraccess.phtml, line: 153
-# File: module/Application/view/application/index/products.phtml, line: 102
-# File: module/Application/view/application/index/products.phtml, line: 163
-# File: module/Application/view/application/index/products.phtml, line: 447
-# File: module/Application/view/application/index/whoarewe.phtml, line: 101
-# File: module/Application/view/application/index/whoarewe.phtml, line: 162
-# File: module/Application/view/application/index/whoarewe.phtml, line: 318
-# File: module/Application/view/application/index/partners.phtml, line: 126
-# File: module/Application/view/application/index/partners.phtml, line: 187
-# File: module/Application/view/application/index/partners.phtml, line: 348
-# File: module/Application/view/application/index/presentation.phtml, line: 121
-# File: module/Application/view/application/index/presentation.phtml, line: 182
-# File: module/Application/view/application/index/presentation.phtml, line: 1755
-# File: module/Application/view/application/index/plansandpricing.phtml, line: 181
-# File: module/Application/view/application/index/plansandpricing.phtml, line: 242
-# File: module/Application/view/application/blog/index.phtml, line: 88
-# File: module/Application/view/application/blog/index.phtml, line: 148
-# File: module/Application/view/application/blog/index.phtml, line: 211
-# File: module/Application/view/application/blog/details.phtml, line: 104
-# File: module/Application/view/application/blog/details.phtml, line: 164
-# File: module/Application/view/application/blog/details.phtml, line: 394
-# File: module/Application/view/application/blog/details.phtml, line: 410
-# File: module/Application/view/application/blog/list.phtml, line: 66
-# File: module/Application/view/application/blog/list.phtml, line: 126
-# File: module/Application/view/application/blog/list.phtml, line: 346
-# File: module/Application/view/application/blog/mobile.phtml, line: 101
-# File: module/Application/view/application/blog/mobile.phtml, line: 161
-# File: module/Application/view/application/blog/mobile.phtml, line: 208
-# File: module/Application/view/application/view/index.phtml, line: 86
-# File: module/Application/view/application/view/index.phtml, line: 842
-# File: module/Application/view/application/faq/index.phtml, line: 116
-# File: module/Application/view/application/faq/index.phtml, line: 177
-# File: module/Application/view/application/faq/index.phtml, line: 263
-# File: module/Application/view/application/tutorials/tutorial.phtml, line: 104
-# File: module/Application/view/application/tutorials/tutorial.phtml, line: 164
-# File: module/Application/view/application/tutorials/tutorial.phtml, line: 229
-# File: module/Application/view/application/tutorials/index.phtml, line: 145
-# File: module/Application/view/application/tutorials/index.phtml, line: 206
-# File: module/Application/view/application/tutorials/index.phtml, line: 606
-# File: module/Application/view/application/register-agency/contactus.phtml, line: 89
-# File: module/Application/view/application/register-agency/contactus.phtml, line: 149
-# File: module/Application/view/application/register-agency/contactus.phtml, line: 171
-# File: module/Application/view/application/register-agency/contactus.phtml, line: 174
-# File: module/Application/view/application/register-agency/contactus.phtml, line: 188
-msgid "Contact Us"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 2164
-msgid "All Companies"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 2697
-msgid "Unknown Customer"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 2721
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 650
-# File: module/Application/view/application/index/search.old.phtml, line: 1345
-# File: module/Application/view/application/index/search.phtml, line: 1216
-# File: module/Application/view/application/view-reservation/index.phtml, line: 393
-# File: module/Application/view/application/view-reservation/index.phtml, line: 472
-msgid "Flight"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 2721
-# File: module/Application/view/application/reports/globalware.phtml, line: 25
-# File: module/Application/view/application/reports/search.phtml, line: 32
-msgid "from"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 2721
-# File: module/Application/view/application/reports/globalware.phtml, line: 25
-# File: module/Application/view/application/reports/search.phtml, line: 32
-msgid "to"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 2727
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 751
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 766
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 791
-# File: module/Application/view/application/marketing/edit.phtml, line: 160
-# File: module/Application/view/application/reservations/newreservation.phtml, line: 151
-# File: module/Application/view/application/reservations/newreservation.phtml, line: 158
-msgid "Hotel"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 3847
-# File: module/Application/src/Controller/CustomersController.php, line: 3880
-# File: module/Application/src/Controller/CustomersController.php, line: 3900
-# File: module/Application/src/Controller/CustomersController.php, line: 3920
-msgid "Not set"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 3929
-msgid "Closes"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 3991
-# File: module/Application/view/application/customers/support.phtml, line: 47
-msgid "Agent/Customer"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 3992
-# File: module/Application/view/application/cms/editpage.phtml, line: 29
-# File: module/Application/view/application/cms/new.phtml, line: 30
-# File: module/Application/view/application/cms/pages.phtml, line: 27
-# File: module/Application/view/application/cms/populardestinations.phtml, line: 29
-# File: module/Application/view/application/cms/popularpackages.phtml, line: 29
-# File: module/Application/view/application/cms/winterdestinations.phtml, line: 29
-# File: module/Application/view/application/cms/featureddestinations.phtml, line: 29
-# File: module/Application/view/application/cms/featuredhotels.phtml, line: 29
-# File: module/Application/view/application/customers/edit.phtml, line: 26
-# File: module/Application/view/application/customers/edit.phtml, line: 28
-# File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 28
-# File: module/Application/view/application/customers/edittravelcompanion.phtml, line: 30
-# File: module/Application/view/application/customers/newtravelcompanion.phtml, line: 26
-# File: module/Application/view/application/customers/editsupport.phtml, line: 27
-# File: module/Application/view/application/customers/support.phtml, line: 44
-# File: module/Application/view/application/quick-books/createcustomers.phtml, line: 39
-# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 42
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 30
-# File: module/Application/view/application/quick-books/blog.phtml, line: 44
-# File: module/Application/view/application/quick-books/tutorials.phtml, line: 43
-# File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 41
-# File: module/Application/view/application/quick-books/edittutorial.phtml, line: 40
-# File: module/Application/view/application/quick-books/addnewblog.phtml, line: 35
-# File: module/Application/view/application/quick-books/editblog.phtml, line: 35
-# File: module/Application/view/application/communications/manage.phtml, line: 194
-msgid "Title"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 3993
-# File: module/Application/view/application/customers/editsupport.phtml, line: 26
-msgid "Quote"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 3994
-# File: module/Application/view/application/customers/editsupport.phtml, line: 28
-# File: module/Application/view/application/customers/support.phtml, line: 50
-# File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 11
-msgid "User"
-msgstr ""
-#
-# File: module/Application/src/Controller/CustomersController.php, line: 4008
-msgid "Customers Support"
 msgstr ""
 #
 # File: module/Application/src/Shared/Sendemailv2.php, line: 505
@@ -21624,10 +21627,6 @@ msgstr ""
 #
 # File: module/Application/view/application/reports/productivity.phtml, line: 308
 msgid "Nothing to list for this service in the selected period."
-msgstr ""
-#
-# File: module/Application/view/application/reports/productivity.phtml, line: 313
-msgid "Booked"
 msgstr ""
 #
 # File: module/Application/view/application/reports/productivity.phtml, line: 316
