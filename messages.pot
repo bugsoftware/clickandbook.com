@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-14 15:54-0400\n"
+"POT-Creation-Date: 2026-09-16 06:27-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22595,6 +22595,18 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1708
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2681
 msgid "Cancel Reservation"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 1708
+msgid "Cancellation Window Expired"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 1708
+msgid "This ticket cannot be cancelled because the booking was created more than 24 hours ago. According to supplier policy, most tickets are only eligible for cancellation within the first 24 hours after issuance. Once this timeframe has passed, the ticket becomes locked and cannot be refunded or voided."
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/index.phtml, line: 1708
+msgid "If you need help or believe this situation requires special handling, please contact your Account Executive."
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1716
