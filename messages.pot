@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-17 02:20-0400\n"
+"POT-Creation-Date: 2026-09-18 02:11-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,6 +51,7 @@ msgstr ""
 # File: module/Application/src/Controller/CustomersController.php, line: 3383
 # File: module/Application/src/Controller/CustomersController.php, line: 3404
 # File: module/Application/src/Controller/CustomersController.php, line: 3670
+# File: module/Application/src/Controller/IndexController.php, line: 16525
 # File: module/Application/src/Controller/HotelsController.php, line: 7191
 # File: module/Application/src/Controller/HotelsController.php, line: 7213
 # File: module/Application/src/Controller/HotelsController.php, line: 8006
@@ -62,7 +63,6 @@ msgstr ""
 # File: module/Application/src/Controller/FlightsController.php, line: 4057
 # File: module/Application/src/Controller/FlightsController.php, line: 4373
 # File: module/Application/src/Controller/MarketingController.php, line: 555
-# File: module/Application/src/Controller/IndexController.php, line: 16516
 # File: module/Application/src/Controller/CruisesController.php, line: 859
 # File: module/Application/src/Controller/CruisesController.php, line: 1246
 msgid "Not Available"
@@ -78,10 +78,10 @@ msgstr ""
 # File: module/Application/view/application/agents/search.phtml, line: 11
 # File: module/Application/view/application/agents/searchagents.phtml, line: 11
 # File: module/Application/view/application/agents/view.phtml, line: 9
-# File: module/Application/view/application/index/index.phtml, line: 197
+# File: module/Application/view/application/index/index.phtml, line: 208
 # File: module/Application/view/application/messaging/index.phtml, line: 115
-# File: module/Application/view/layout/layout.phtml, line: 145
-# File: module/Application/view/layout/layout.phtml, line: 202
+# File: module/Application/view/layout/layout.phtml, line: 146
+# File: module/Application/view/layout/layout.phtml, line: 203
 msgid "Agents"
 msgstr ""
 #
@@ -508,11 +508,11 @@ msgstr ""
 # File: module/Application/view/application/index/partners.phtml, line: 302
 # File: module/Application/view/application/index/presentation.phtml, line: 1137
 # File: module/Application/view/application/index/search.old.phtml, line: 526
-# File: module/Application/view/application/index/index.phtml, line: 50
 # File: module/Application/view/application/index/search.phtml, line: 357
+# File: module/Application/view/application/index/index.phtml, line: 50
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 59
 # File: module/Application/view/layout/layout.phtml, line: 134
-# File: module/Application/view/layout/layout.phtml, line: 191
+# File: module/Application/view/layout/layout.phtml, line: 192
 msgid "Cruises"
 msgstr ""
 #
@@ -584,13 +584,13 @@ msgstr ""
 # File: module/Application/view/application/index/presentation.phtml, line: 307
 # File: module/Application/view/application/index/presentation.phtml, line: 1042
 # File: module/Application/view/application/index/search.old.phtml, line: 524
-# File: module/Application/view/application/index/index.phtml, line: 61
 # File: module/Application/view/application/index/search.phtml, line: 355
+# File: module/Application/view/application/index/index.phtml, line: 61
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 84
-# File: module/Application/view/application/packages/manage.phtml, line: 75
-# File: module/Application/view/application/packages/manage.phtml, line: 193
 # File: module/Application/view/application/packages/newpackage.phtml, line: 92
 # File: module/Application/view/application/packages/newpackage.phtml, line: 93
+# File: module/Application/view/application/packages/manage.phtml, line: 75
+# File: module/Application/view/application/packages/manage.phtml, line: 193
 # File: module/Application/view/application/packages/hotels.phtml, line: 22
 # File: module/Application/view/application/packages/hotels.phtml, line: 30
 # File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 7
@@ -598,7 +598,7 @@ msgstr ""
 # File: module/Application/view/application/reports/index.phtml, line: 90
 # File: module/Application/view/application/view-reservation/index.phtml, line: 648
 # File: module/Application/view/layout/layout.phtml, line: 135
-# File: module/Application/view/layout/layout.phtml, line: 192
+# File: module/Application/view/layout/layout.phtml, line: 193
 msgid "Hotels"
 msgstr ""
 #
@@ -641,11 +641,11 @@ msgstr ""
 # File: module/Application/view/application/index/presentation.phtml, line: 1150
 # File: module/Application/view/application/index/index.phtml, line: 72
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 109
-# File: module/Application/view/application/packages/manage.phtml, line: 198
 # File: module/Application/view/application/packages/newpackage.phtml, line: 108
 # File: module/Application/view/application/packages/newpackage.phtml, line: 109
+# File: module/Application/view/application/packages/manage.phtml, line: 198
 # File: module/Application/view/layout/layout.phtml, line: 136
-# File: module/Application/view/layout/layout.phtml, line: 193
+# File: module/Application/view/layout/layout.phtml, line: 194
 msgid "Flights"
 msgstr ""
 #
@@ -666,13 +666,13 @@ msgstr ""
 # File: module/Application/view/application/index/settings.phtml, line: 115
 # File: module/Application/view/application/index/order.old.phtml, line: 244
 # File: module/Application/view/application/index/search.old.phtml, line: 531
-# File: module/Application/view/application/index/index.phtml, line: 83
 # File: module/Application/view/application/index/search.phtml, line: 365
+# File: module/Application/view/application/index/index.phtml, line: 83
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 135
 # File: module/Application/view/application/packages/newpackage.phtml, line: 104
 # File: module/Application/view/application/packages/newpackage.phtml, line: 105
 # File: module/Application/view/layout/layout.phtml, line: 137
-# File: module/Application/view/layout/layout.phtml, line: 194
+# File: module/Application/view/layout/layout.phtml, line: 195
 msgid "Cars"
 msgstr ""
 #
@@ -701,7 +701,7 @@ msgstr ""
 # File: module/Application/view/application/packages/newpackage.phtml, line: 100
 # File: module/Application/view/application/packages/newpackage.phtml, line: 101
 # File: module/Application/view/layout/layout.phtml, line: 138
-# File: module/Application/view/layout/layout.phtml, line: 195
+# File: module/Application/view/layout/layout.phtml, line: 196
 msgid "Activities"
 msgstr ""
 #
@@ -720,12 +720,12 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 259
 # File: module/Application/view/application/index/presentation.phtml, line: 1081
 # File: module/Application/view/application/index/search.old.phtml, line: 527
-# File: module/Application/view/application/index/index.phtml, line: 105
 # File: module/Application/view/application/index/search.phtml, line: 360
+# File: module/Application/view/application/index/index.phtml, line: 105
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 186
-# File: module/Application/view/application/packages/manage.phtml, line: 192
 # File: module/Application/view/application/packages/newpackage.phtml, line: 96
 # File: module/Application/view/application/packages/newpackage.phtml, line: 97
+# File: module/Application/view/application/packages/manage.phtml, line: 192
 # File: module/Application/view/application/transfers/generalsettings.phtml, line: 11
 # File: module/Application/view/application/transfers/index.phtml, line: 23
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 12
@@ -734,7 +734,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/settings.phtml, line: 11
 # File: module/Application/view/application/view-reservation/index.phtml, line: 780
 # File: module/Application/view/layout/layout.phtml, line: 139
-# File: module/Application/view/layout/layout.phtml, line: 196
+# File: module/Application/view/layout/layout.phtml, line: 197
 msgid "Transfers"
 msgstr ""
 #
@@ -769,11 +769,11 @@ msgstr ""
 # File: module/Application/view/application/index/settings.phtml, line: 113
 # File: module/Application/view/application/index/order.old.phtml, line: 231
 # File: module/Application/view/application/index/search.old.phtml, line: 528
-# File: module/Application/view/application/index/index.phtml, line: 141
 # File: module/Application/view/application/index/search.phtml, line: 361
+# File: module/Application/view/application/index/index.phtml, line: 141
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 212
 # File: module/Application/view/layout/layout.phtml, line: 140
-# File: module/Application/view/layout/layout.phtml, line: 197
+# File: module/Application/view/layout/layout.phtml, line: 198
 msgid "Escorted Tours"
 msgstr ""
 #
@@ -804,9 +804,9 @@ msgstr ""
 # File: module/Application/view/application/packages/settings.phtml, line: 11
 # File: module/Application/view/application/packages/view.phtml, line: 11
 # File: module/Application/view/application/packages/edittermsandconditions.phtml, line: 20
-# File: module/Application/view/application/packages/manage.phtml, line: 121
 # File: module/Application/view/application/packages/newpackage.phtml, line: 21
-# File: module/Application/view/application/packages/packages.phtml, line: 27
+# File: module/Application/view/application/packages/packages.phtml, line: 25
+# File: module/Application/view/application/packages/packages.phtml, line: 34
 # File: module/Application/view/application/packages/editnote.phtml, line: 20
 # File: module/Application/view/application/packages/availability.phtml, line: 21
 # File: module/Application/view/application/packages/newnote.phtml, line: 20
@@ -817,18 +817,19 @@ msgstr ""
 # File: module/Application/view/application/packages/editexclusion.phtml, line: 20
 # File: module/Application/view/application/packages/exclusions.phtml, line: 25
 # File: module/Application/view/application/packages/newexclusion.phtml, line: 20
+# File: module/Application/view/application/packages/listpackages.phtml, line: 59
 # File: module/Application/view/application/packages/images.phtml, line: 24
 # File: module/Application/view/application/packages/edithotel.phtml, line: 20
+# File: module/Application/view/application/packages/manage.phtml, line: 121
 # File: module/Application/view/application/packages/notes.phtml, line: 25
 # File: module/Application/view/application/packages/newhotel.phtml, line: 20
 # File: module/Application/view/application/packages/termsandconditions.phtml, line: 25
-# File: module/Application/view/application/packages/listpackages.phtml, line: 59
 # File: module/Application/view/application/packages/newoptional.phtml, line: 22
 # File: module/Application/view/application/packages/hotels.phtml, line: 26
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 116
 # File: module/Application/view/application/packages/edit.phtml, line: 20
 # File: module/Application/view/layout/layout.phtml, line: 141
-# File: module/Application/view/layout/layout.phtml, line: 198
+# File: module/Application/view/layout/layout.phtml, line: 199
 msgid "Packages"
 msgstr ""
 #
@@ -840,31 +841,31 @@ msgstr ""
 # File: module/Application/view/application/index/order.phtml, line: 265
 # File: module/Application/view/application/index/seo.phtml, line: 370
 # File: module/Application/view/application/index/order.old.phtml, line: 257
-# File: module/Application/view/application/index/index.phtml, line: 163
+# File: module/Application/view/application/index/index.phtml, line: 174
 # File: module/Application/view/application/insurances/index.phtml, line: 27
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 12
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 12
 # File: module/Application/view/application/insurances/settings.phtml, line: 11
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 262
-# File: module/Application/view/layout/layout.phtml, line: 142
-# File: module/Application/view/layout/layout.phtml, line: 199
+# File: module/Application/view/layout/layout.phtml, line: 143
+# File: module/Application/view/layout/layout.phtml, line: 200
 msgid "Insurances"
 msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 130
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 267
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 405
-# File: module/Application/view/application/index/index.phtml, line: 175
-# File: module/Application/view/application/index/index.phtml, line: 1068
+# File: module/Application/view/application/index/index.phtml, line: 186
+# File: module/Application/view/application/index/index.phtml, line: 1099
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 287
 # File: module/Application/view/application/reservations/index.phtml, line: 35
 # File: module/Application/view/application/reservations/list.phtml, line: 12
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 36
 # File: module/Application/view/application/reservations/searchreservations.phtml, line: 12
 # File: module/Application/view/application/reservations/searchallbookings.phtml, line: 12
-# File: module/Application/view/layout/layout.phtml, line: 143
-# File: module/Application/view/layout/layout.phtml, line: 152
-# File: module/Application/view/layout/layout.phtml, line: 200
+# File: module/Application/view/layout/layout.phtml, line: 144
+# File: module/Application/view/layout/layout.phtml, line: 153
+# File: module/Application/view/layout/layout.phtml, line: 201
 msgid "Reservations"
 msgstr ""
 #
@@ -894,12 +895,12 @@ msgstr ""
 # File: module/Application/view/application/customers/editsupport.phtml, line: 13
 # File: module/Application/view/application/customers/support.phtml, line: 12
 # File: module/Application/view/application/customers/newsupport.phtml, line: 11
-# File: module/Application/view/application/index/index.phtml, line: 186
+# File: module/Application/view/application/index/index.phtml, line: 197
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 312
 # File: module/Application/view/application/messaging/index.phtml, line: 116
-# File: module/Application/view/layout/layout.phtml, line: 144
-# File: module/Application/view/layout/layout.phtml, line: 160
-# File: module/Application/view/layout/layout.phtml, line: 201
+# File: module/Application/view/layout/layout.phtml, line: 145
+# File: module/Application/view/layout/layout.phtml, line: 161
+# File: module/Application/view/layout/layout.phtml, line: 202
 msgid "Customers"
 msgstr ""
 #
@@ -907,7 +908,7 @@ msgstr ""
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 275
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 413
 # File: module/Application/view/application/index/billing.phtml, line: 220
-# File: module/Application/view/application/index/index.phtml, line: 263
+# File: module/Application/view/application/index/index.phtml, line: 274
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 337
 # File: module/Application/view/application/reports/globalware.phtml, line: 11
 # File: module/Application/view/application/reports/search.phtml, line: 12
@@ -917,8 +918,8 @@ msgstr ""
 # File: module/Application/view/application/reports/productivity.phtml, line: 10
 # File: module/Application/view/application/reports/index.phtml, line: 32
 # File: module/Application/view/application/reports/incentives.phtml, line: 34
-# File: module/Application/view/layout/layout.phtml, line: 147
-# File: module/Application/view/layout/layout.phtml, line: 204
+# File: module/Application/view/layout/layout.phtml, line: 148
+# File: module/Application/view/layout/layout.phtml, line: 205
 msgid "Reports"
 msgstr ""
 #
@@ -933,19 +934,19 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 153
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 428
-# File: module/Application/src/Controller/IndexController.php, line: 18136
+# File: module/Application/src/Controller/IndexController.php, line: 18145
 msgid "Arabic"
 msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 156
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 431
-# File: module/Application/src/Controller/IndexController.php, line: 18130
+# File: module/Application/src/Controller/IndexController.php, line: 18139
 msgid "Armenian"
 msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 159
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 434
-# File: module/Application/src/Controller/IndexController.php, line: 18132
+# File: module/Application/src/Controller/IndexController.php, line: 18141
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3091
 msgid "Chinese"
 msgstr ""
@@ -957,7 +958,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 165
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 440
-# File: module/Application/src/Controller/IndexController.php, line: 18124
+# File: module/Application/src/Controller/IndexController.php, line: 18133
 msgid "French"
 msgstr ""
 #
@@ -979,14 +980,14 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 177
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 452
-# File: module/Application/src/Controller/IndexController.php, line: 18126
+# File: module/Application/src/Controller/IndexController.php, line: 18135
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3073
 msgid "Italian"
 msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 180
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 455
-# File: module/Application/src/Controller/IndexController.php, line: 18134
+# File: module/Application/src/Controller/IndexController.php, line: 18143
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3082
 msgid "Japanese"
 msgstr ""
@@ -1003,7 +1004,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 189
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 464
-# File: module/Application/src/Controller/IndexController.php, line: 18122
+# File: module/Application/src/Controller/IndexController.php, line: 18131
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3076
 # File: module/Application/view/application/index/order.phtml, line: 83
 # File: module/Application/view/application/index/order.old.phtml, line: 79
@@ -1024,7 +1025,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 198
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 473
-# File: module/Application/src/Controller/IndexController.php, line: 18120
+# File: module/Application/src/Controller/IndexController.php, line: 18129
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3070
 # File: module/Application/view/application/index/order.phtml, line: 82
 # File: module/Application/view/application/index/order.old.phtml, line: 78
@@ -1054,7 +1055,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 207
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 482
-# File: module/Application/src/Controller/IndexController.php, line: 18118
+# File: module/Application/src/Controller/IndexController.php, line: 18127
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3067
 # File: module/Application/view/application/index/order.phtml, line: 81
 # File: module/Application/view/application/index/order.old.phtml, line: 77
@@ -1234,8 +1235,6 @@ msgid "We Received Your Blog Comment"
 msgstr ""
 #
 # File: module/Application/src/Controller/BlogController.php, line: 241
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 559
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 976
 # File: module/Application/src/Controller/IndexController.php, line: 2744
 # File: module/Application/src/Controller/IndexController.php, line: 3083
 # File: module/Application/src/Controller/IndexController.php, line: 3084
@@ -1258,9 +1257,11 @@ msgstr ""
 # File: module/Application/src/Controller/IndexController.php, line: 7788
 # File: module/Application/src/Controller/IndexController.php, line: 14561
 # File: module/Application/src/Controller/IndexController.php, line: 14562
-# File: module/Application/src/Controller/IndexController.php, line: 17032
-# File: module/Application/src/Controller/IndexController.php, line: 17038
-# File: module/Application/src/Controller/IndexController.php, line: 17065
+# File: module/Application/src/Controller/IndexController.php, line: 17041
+# File: module/Application/src/Controller/IndexController.php, line: 17047
+# File: module/Application/src/Controller/IndexController.php, line: 17074
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 559
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 976
 msgid "Hi"
 msgstr ""
 #
@@ -1303,6 +1304,10 @@ msgstr ""
 # File: module/Application/src/Controller/CustomersController.php, line: 3883
 # File: module/Application/src/Controller/CustomersController.php, line: 3903
 # File: module/Application/src/Controller/CustomersController.php, line: 3923
+# File: module/Application/src/Controller/IndexController.php, line: 2527
+# File: module/Application/src/Controller/IndexController.php, line: 2848
+# File: module/Application/src/Controller/IndexController.php, line: 2851
+# File: module/Application/src/Controller/IndexController.php, line: 3245
 # File: module/Application/src/Controller/HotelsController.php, line: 705
 # File: module/Application/src/Controller/HotelsController.php, line: 992
 # File: module/Application/src/Controller/HotelsController.php, line: 2591
@@ -1319,10 +1324,6 @@ msgstr ""
 # File: module/Application/src/Controller/ViewReservationController.php, line: 3285
 # File: module/Application/src/Controller/ViewReservationController.php, line: 3349
 # File: module/Application/src/Controller/ViewReservationController.php, line: 3410
-# File: module/Application/src/Controller/IndexController.php, line: 2527
-# File: module/Application/src/Controller/IndexController.php, line: 2848
-# File: module/Application/src/Controller/IndexController.php, line: 2851
-# File: module/Application/src/Controller/IndexController.php, line: 3245
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 58
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 101
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 72
@@ -1381,8 +1382,8 @@ msgstr ""
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 136
 # File: module/Application/view/application/tutorials/index.phtml, line: 177
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 121
-# File: module/Application/view/layout/layout.phtml, line: 148
-# File: module/Application/view/layout/layout.phtml, line: 249
+# File: module/Application/view/layout/layout.phtml, line: 149
+# File: module/Application/view/layout/layout.phtml, line: 250
 msgid "Support"
 msgstr ""
 #
@@ -1500,6 +1501,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/CustomersController.php, line: 2686
 # File: module/Application/view/application/reports/productivity.phtml, line: 313
+# File: module/Application/view/application/trips/quotes.phtml, line: 15
 msgid "Booked"
 msgstr ""
 #
@@ -1513,6 +1515,7 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 1216
 # File: module/Application/view/application/view-reservation/index.phtml, line: 393
 # File: module/Application/view/application/view-reservation/index.phtml, line: 472
+# File: module/Application/view/application/trips/edit.phtml, line: 234
 msgid "Flight"
 msgstr ""
 #
@@ -1535,6 +1538,8 @@ msgstr ""
 # File: module/Application/view/application/marketing/edit.phtml, line: 160
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 151
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 158
+# File: module/Application/view/application/trips/edit.phtml, line: 197
+# File: module/Application/view/application/trips/edit.phtml, line: 202
 msgid "Hotel"
 msgstr ""
 #
@@ -1613,7 +1618,7 @@ msgstr ""
 # File: module/Application/view/application/portfolio/index.phtml, line: 54
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 83
 # File: module/Application/view/application/messaging/index.phtml, line: 114
-# File: module/Application/view/layout/layout.phtml, line: 190
+# File: module/Application/view/layout/layout.phtml, line: 191
 msgid "All"
 msgstr ""
 #
@@ -1690,8 +1695,8 @@ msgstr ""
 # File: module/Application/view/application/packages/editoptional.phtml, line: 41
 # File: module/Application/view/application/packages/editoptional.phtml, line: 45
 # File: module/Application/view/application/packages/editoptional.phtml, line: 49
-# File: module/Application/view/application/packages/manage.phtml, line: 164
 # File: module/Application/view/application/packages/newpackage.phtml, line: 61
+# File: module/Application/view/application/packages/manage.phtml, line: 164
 # File: module/Application/view/application/packages/newoptional.phtml, line: 39
 # File: module/Application/view/application/packages/newoptional.phtml, line: 43
 # File: module/Application/view/application/packages/newoptional.phtml, line: 47
@@ -1714,568 +1719,6 @@ msgstr ""
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 121
 # File: module/Application/view/application/view-reservation/index.phtml, line: 242
 msgid "Air"
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 551
-msgid "We Received Your Contact Request"
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 559
-msgid "Thank you for reaching out to us."
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 559
-msgid "We confirm that your request has been received and registered under the ID"
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 559
-msgid "Our team will get back to you shortly."
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 968
-msgid "Your Click & Book Account Has Been Created"
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 976
-msgid "Your account has been successfully created in Click & Book."
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 976
-msgid "To activate your account, please select the plan that best fits your needs."
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 976
-msgid "Once the plan is selected, your account will be fully activated and ready to use."
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 976
-msgid "If you haven’t completed your registration yet, simply click the button below to continue the process."
-msgstr ""
-#
-# File: module/Application/src/Controller/RegisterAgencyController.php, line: 976
-msgid "Complete Registration"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 708
-# File: module/Application/src/Controller/HotelsController.php, line: 995
-# File: module/Application/src/Controller/HotelsController.php, line: 3279
-# File: module/Application/src/Controller/HotelsController.php, line: 5187
-# File: module/Application/src/Controller/HotelsController.php, line: 5205
-# File: module/Application/src/Controller/HotelsController.php, line: 5223
-msgid "No Selection"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1265
-# File: module/Application/src/Controller/HotelsController.php, line: 3129
-# File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 47
-# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 251
-msgid "Percentage Based on Double Occupancy Rate"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1269
-# File: module/Application/src/Controller/HotelsController.php, line: 3133
-# File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 47
-# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 252
-msgid "Percentage Based on Total Rate"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1444
-# File: module/Application/src/Controller/HotelsController.php, line: 4517
-# File: module/Application/src/Controller/HotelsController.php, line: 4697
-msgid "No Rule"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1448
-# File: module/Application/src/Controller/HotelsController.php, line: 4521
-# File: module/Application/src/Controller/HotelsController.php, line: 4695
-msgid "Charge Full Stay"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1452
-# File: module/Application/src/Controller/HotelsController.php, line: 4525
-msgid "1 Night Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1456
-# File: module/Application/src/Controller/HotelsController.php, line: 4529
-msgid "2 Nights Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1460
-# File: module/Application/src/Controller/HotelsController.php, line: 4533
-msgid "3 Nights Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1464
-# File: module/Application/src/Controller/HotelsController.php, line: 4537
-msgid "4 Nights Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1468
-# File: module/Application/src/Controller/HotelsController.php, line: 4541
-msgid "5 Nights Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1472
-# File: module/Application/src/Controller/HotelsController.php, line: 4545
-msgid "6 Nights Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1476
-# File: module/Application/src/Controller/HotelsController.php, line: 4549
-msgid "7 Nights Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1480
-# File: module/Application/src/Controller/HotelsController.php, line: 4553
-msgid "8 Nights Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1484
-# File: module/Application/src/Controller/HotelsController.php, line: 4557
-msgid "9 Nights Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1488
-# File: module/Application/src/Controller/HotelsController.php, line: 4561
-msgid "10 Nights Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1492
-# File: module/Application/src/Controller/HotelsController.php, line: 4565
-msgid "11 Nights Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1496
-# File: module/Application/src/Controller/HotelsController.php, line: 4569
-msgid "12 Nights Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1500
-# File: module/Application/src/Controller/HotelsController.php, line: 4573
-msgid "13 Nights Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1504
-# File: module/Application/src/Controller/HotelsController.php, line: 4577
-msgid "14 Nights Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1508
-# File: module/Application/src/Controller/HotelsController.php, line: 4581
-msgid "15 Nights Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1992
-# File: module/Application/src/Controller/FlightsController.php, line: 1585
-# File: module/Application/src/Controller/FlightsController.php, line: 1814
-# File: module/Application/src/Controller/FlightsController.php, line: 2097
-# File: module/Application/src/Controller/FlightsController.php, line: 2464
-# File: module/Application/src/Controller/CruisesController.php, line: 1934
-# File: module/Application/view/application/agents/edit.phtml, line: 163
-# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 48
-# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 54
-# File: module/Application/view/application/customers/edit.phtml, line: 51
-# File: module/Application/view/application/flights/listairblocks.phtml, line: 188
-# File: module/Application/view/application/flights/airblock.phtml, line: 93
-# File: module/Application/view/application/packages/editoptional.phtml, line: 67
-# File: module/Application/view/application/packages/manage.phtml, line: 243
-# File: module/Application/view/application/packages/newoptional.phtml, line: 65
-msgid "Enabled"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1994
-# File: module/Application/src/Controller/FlightsController.php, line: 1589
-# File: module/Application/src/Controller/FlightsController.php, line: 1818
-# File: module/Application/src/Controller/FlightsController.php, line: 2101
-# File: module/Application/src/Controller/FlightsController.php, line: 2468
-# File: module/Application/src/Controller/CruisesController.php, line: 1935
-# File: module/Application/view/application/agents/list.phtml, line: 66
-# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 48
-# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 54
-# File: module/Application/view/application/customers/edit.phtml, line: 52
-# File: module/Application/view/application/flights/listairblocks.phtml, line: 189
-# File: module/Application/view/application/flights/airblock.phtml, line: 94
-# File: module/Application/view/application/packages/editavailability.phtml, line: 78
-# File: module/Application/view/application/packages/editoptional.phtml, line: 68
-# File: module/Application/view/application/packages/searchpackages.phtml, line: 48
-# File: module/Application/view/application/packages/manage.phtml, line: 18
-# File: module/Application/view/application/packages/manage.phtml, line: 243
-# File: module/Application/view/application/packages/manage.phtml, line: 326
-# File: module/Application/view/application/packages/availability.phtml, line: 71
-# File: module/Application/view/application/packages/listpackages.phtml, line: 8
-# File: module/Application/view/application/packages/newoptional.phtml, line: 66
-# File: module/Application/view/application/packages/edit.phtml, line: 67
-msgid "Disabled"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 2644
-# File: module/Application/view/application/reservations/newreservation.phtml, line: 171
-msgid "Room Only"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 4699
-# File: module/Application/src/Controller/HotelsController.php, line: 4701
-# File: module/Application/view/application/quick-books/charge.phtml, line: 15
-msgid "Charge"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 4699
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 1306
-msgid "night"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 4701
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 1306
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 1524
-# File: module/Application/view/application/packages/newpackageai.phtml, line: 206
-msgid "nights"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1545
-# File: module/Application/src/Controller/FlightsController.php, line: 2150
-msgid "All Charters"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1568
-# File: module/Application/src/Controller/FlightsController.php, line: 1797
-# File: module/Application/src/Controller/FlightsController.php, line: 2446
-msgid "All Aircrafts"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1599
-# File: module/Application/src/Controller/FlightsController.php, line: 2111
-msgid "Pending Prepaid"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1603
-# File: module/Application/src/Controller/FlightsController.php, line: 2115
-msgid "Prepaid"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1607
-# File: module/Application/src/Controller/FlightsController.php, line: 2119
-# File: module/Application/src/Controller/IndexController.php, line: 3248
-msgid "Paid"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1611
-# File: module/Application/src/Controller/FlightsController.php, line: 2123
-msgid "Returned Without Penalty"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1615
-# File: module/Application/src/Controller/FlightsController.php, line: 2127
-msgid "Returned With Penalty"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1619
-# File: module/Application/src/Controller/FlightsController.php, line: 2131
-msgid "Canceled"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1623
-# File: module/Application/src/Controller/FlightsController.php, line: 2135
-msgid "Issued"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1775
-# File: module/Application/src/Controller/FlightsController.php, line: 2423
-msgid "All Airlines"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5074
-msgid "That reservation has no air segment to ticket."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5139
-msgid "This reservation is already ticketed."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5144
-msgid "The middleware URL is not configured (settings.middleware)."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5171
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 784
-msgid "Enter the name as printed on the card."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5174
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 786
-msgid "The card number must be between 13 and 19 digits."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5176
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 788
-msgid "That card number is not valid - check for a typo."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5179
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 791
-msgid "The expiry month must be between 01 and 12."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5182
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 794
-msgid "Check the expiry year."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5184
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 796
-msgid "That card has expired."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5187
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 798
-msgid "The security code is 3 or 4 digits."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5190
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 799
-msgid "Enter the billing address."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5193
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 800
-msgid "Enter the billing city."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5196
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 801
-msgid "Enter the billing ZIP or postcode."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5199
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 802
-msgid "Enter the billing country."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5202
-msgid "That e-mail address is not valid."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5207
-msgid "Nothing was sent to the airline - please correct the payment details below and try again."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5277
-msgid "Tickets issued."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5294
-msgid "The middleware rejected the request."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5301
-msgid "The middleware did not respond."
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 2299
-# File: module/Application/src/Controller/ViewReservationController.php, line: 2307
-msgid "Dear"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 2300
-# File: module/Application/view/application/view-reservation/index.phtml, line: 1671
-msgid "Payment Link"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 2307
-msgid "Complete the payment using the secure link provided below."
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 2307
-msgid "Thank you for choosing us! To confirm your reservation, please complete your payment using the secure link provided below."
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 2307
-msgid "If you have any questions or need assistance, our customer support team is always ready to help."
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 2311
-msgid "Simply click the link to finalize your payment. If you have any questions or need assistance, feel free to reach out-we're here to help!"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 2311
-# File: module/Application/src/Controller/IndexController.php, line: 2752
-# File: module/Application/src/Controller/IndexController.php, line: 3085
-# File: module/Application/src/Controller/IndexController.php, line: 3123
-# File: module/Application/src/Controller/IndexController.php, line: 4844
-# File: module/Application/src/Controller/IndexController.php, line: 5594
-# File: module/Application/src/Controller/IndexController.php, line: 6054
-# File: module/Application/src/Controller/IndexController.php, line: 7643
-# File: module/Application/src/Controller/IndexController.php, line: 7685
-# File: module/Application/src/Controller/IndexController.php, line: 7788
-# File: module/Application/src/Controller/IndexController.php, line: 14562
-# File: module/Application/src/Controller/IndexController.php, line: 17040
-# File: module/Application/src/Controller/IndexController.php, line: 17073
-msgid "Thanks"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 2312
-msgid "Payment Link for Your Reservation - Action Required"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3186
-msgid "All Departments"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3205
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3224
-msgid "Direct Booking"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3249
-msgid "All Companies/Markets"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3272
-# File: module/Application/src/Controller/IndexController.php, line: 3250
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 176
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 850
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 1552
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 1705
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 1921
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 2319
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 36
-# File: module/Application/view/application/agents/search.phtml, line: 54
-# File: module/Application/view/application/agents/searchagents.phtml, line: 64
-# File: module/Application/view/application/agents/view.phtml, line: 341
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 36
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 36
-# File: module/Application/view/application/customers/search.phtml, line: 54
-# File: module/Application/view/application/customers/searchcustomers.phtml, line: 62
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 36
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 36
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 36
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 36
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 65
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 36
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 36
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 36
-msgid "Pending"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3274
-msgid "Credited"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3276
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 38
-# File: module/Application/view/application/agents/search.phtml, line: 56
-# File: module/Application/view/application/agents/searchagents.phtml, line: 68
-# File: module/Application/view/application/agents/view.phtml, line: 341
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 38
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 38
-# File: module/Application/view/application/customers/search.phtml, line: 56
-# File: module/Application/view/application/customers/searchcustomers.phtml, line: 66
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 38
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 38
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 38
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 38
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 38
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 96
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 38
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 38
-msgid "Cancelled"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3278
-# File: module/Application/view/application/activities/listreservations.phtml, line: 90
-# File: module/Application/view/application/cars/listreservations.phtml, line: 88
-# File: module/Application/view/application/cruises/listreservations.phtml, line: 88
-# File: module/Application/view/application/customers/view.phtml, line: 327
-# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 88
-# File: module/Application/view/application/flights/listreservations.phtml, line: 88
-# File: module/Application/view/application/hotels/listreservations.phtml, line: 89
-# File: module/Application/view/application/insurances/listreservations.phtml, line: 88
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 116
-# File: module/Application/view/application/packages/listreservations.phtml, line: 87
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 98
-# File: module/Application/view/application/reservations/list.phtml, line: 89
-# File: module/Application/view/application/transfers/listreservations.phtml, line: 89
-# File: module/Application/view/application/view-reservation/termsandconditions.phtml, line: 30
-# File: module/Application/view/application/view-reservation/index.phtml, line: 113
-# File: module/Application/view/application/view-reservation/index.phtml, line: 292
-# File: module/Application/view/application/view-reservation/index.phtml, line: 553
-# File: module/Application/view/application/view-reservation/index.phtml, line: 695
-# File: module/Application/view/application/view-reservation/index.phtml, line: 827
-# File: module/Application/view/application/view-reservation/index.phtml, line: 958
-# File: module/Application/view/application/view-reservation/index.phtml, line: 1091
-# File: module/Application/view/application/view-reservation/index.phtml, line: 1229
-# File: module/Application/view/application/view-reservation/index.phtml, line: 1350
-# File: module/Application/view/application/view-reservation/index.phtml, line: 1470
-msgid "Unknown Status"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3281
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 161
-# File: module/Application/view/application/index/index.phtml, line: 1185
-# File: module/Application/view/application/packages/edit.phtml, line: 77
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2693
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2715
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2737
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2759
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2781
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2803
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2825
-msgid "No"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3283
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 159
-# File: module/Application/view/application/index/index.phtml, line: 1186
-# File: module/Application/view/application/packages/edit.phtml, line: 79
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2694
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2716
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2738
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2760
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2782
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2804
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2826
-msgid "Yes"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3368
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2469
-msgid "Cash"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3374
-msgid "Wire Transfer"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3377
-msgid "Unknown Payment Type"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3384
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2432
-msgid "Total Payment"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3387
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2441
-msgid "1st Payment"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3390
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2448
-msgid "2nd Payment"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3393
-# File: module/Application/view/application/view-reservation/index.phtml, line: 2455
-msgid "3rd Payment"
-msgstr ""
-#
-# File: module/Application/src/Controller/MarketingController.php, line: 6630
-msgid "Please give the flyer a name."
-msgstr ""
-#
-# File: module/Application/src/Controller/MarketingController.php, line: 6693
-msgid "Add at least one destination."
 msgstr ""
 #
 # File: module/Application/src/Controller/IndexController.php, line: 479
@@ -2302,7 +1745,7 @@ msgstr ""
 # File: module/Application/src/Controller/IndexController.php, line: 2751
 # File: module/Application/src/Controller/IndexController.php, line: 14223
 # File: module/Application/src/Controller/IndexController.php, line: 14421
-# File: module/Application/src/Controller/IndexController.php, line: 17072
+# File: module/Application/src/Controller/IndexController.php, line: 17081
 msgid "Member Name:"
 msgstr ""
 #
@@ -2376,7 +1819,7 @@ msgid "Here are the details:"
 msgstr ""
 #
 # File: module/Application/src/Controller/IndexController.php, line: 2751
-# File: module/Application/src/Controller/IndexController.php, line: 17072
+# File: module/Application/src/Controller/IndexController.php, line: 17081
 msgid "Member ID:"
 msgstr ""
 #
@@ -2390,6 +1833,22 @@ msgstr ""
 #
 # File: module/Application/src/Controller/IndexController.php, line: 2751
 msgid "If this update appears suspicious or was not expected, please review the account activity."
+msgstr ""
+#
+# File: module/Application/src/Controller/IndexController.php, line: 2752
+# File: module/Application/src/Controller/IndexController.php, line: 3085
+# File: module/Application/src/Controller/IndexController.php, line: 3123
+# File: module/Application/src/Controller/IndexController.php, line: 4844
+# File: module/Application/src/Controller/IndexController.php, line: 5594
+# File: module/Application/src/Controller/IndexController.php, line: 6054
+# File: module/Application/src/Controller/IndexController.php, line: 7643
+# File: module/Application/src/Controller/IndexController.php, line: 7685
+# File: module/Application/src/Controller/IndexController.php, line: 7788
+# File: module/Application/src/Controller/IndexController.php, line: 14562
+# File: module/Application/src/Controller/IndexController.php, line: 17049
+# File: module/Application/src/Controller/IndexController.php, line: 17082
+# File: module/Application/src/Controller/ViewReservationController.php, line: 2311
+msgid "Thanks"
 msgstr ""
 #
 # File: module/Application/src/Controller/IndexController.php, line: 2759
@@ -2447,6 +1906,39 @@ msgstr ""
 # File: module/Application/src/Controller/IndexController.php, line: 3124
 # File: module/Application/src/Controller/IndexController.php, line: 3142
 msgid "Your Click & Book Membership Has Been Cancelled!"
+msgstr ""
+#
+# File: module/Application/src/Controller/IndexController.php, line: 3248
+# File: module/Application/src/Controller/FlightsController.php, line: 1607
+# File: module/Application/src/Controller/FlightsController.php, line: 2119
+msgid "Paid"
+msgstr ""
+#
+# File: module/Application/src/Controller/IndexController.php, line: 3250
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3272
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 176
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 850
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 1552
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 1705
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 1921
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 2319
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 36
+# File: module/Application/view/application/agents/search.phtml, line: 54
+# File: module/Application/view/application/agents/searchagents.phtml, line: 64
+# File: module/Application/view/application/agents/view.phtml, line: 341
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 36
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 36
+# File: module/Application/view/application/customers/search.phtml, line: 54
+# File: module/Application/view/application/customers/searchcustomers.phtml, line: 62
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 36
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 36
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 36
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 36
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 65
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 36
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 36
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 36
+msgid "Pending"
 msgstr ""
 #
 # File: module/Application/src/Controller/IndexController.php, line: 4842
@@ -2658,64 +2150,621 @@ msgstr ""
 msgid "This is valid for 30 minutes only"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17037
+# File: module/Application/src/Controller/IndexController.php, line: 17046
 msgid "Your Plan Has Been Updated"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17039
+# File: module/Application/src/Controller/IndexController.php, line: 17048
 msgid "This is a confirmation that your Click & Book plan has been successfully updated."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17039
+# File: module/Application/src/Controller/IndexController.php, line: 17048
 msgid "Here are the details of your plan change:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17039
-# File: module/Application/src/Controller/IndexController.php, line: 17072
+# File: module/Application/src/Controller/IndexController.php, line: 17048
+# File: module/Application/src/Controller/IndexController.php, line: 17081
 msgid "Previous Plan:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17039
-# File: module/Application/src/Controller/IndexController.php, line: 17072
+# File: module/Application/src/Controller/IndexController.php, line: 17048
+# File: module/Application/src/Controller/IndexController.php, line: 17081
 msgid "New Plan:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17039
-# File: module/Application/src/Controller/IndexController.php, line: 17072
+# File: module/Application/src/Controller/IndexController.php, line: 17048
+# File: module/Application/src/Controller/IndexController.php, line: 17081
 msgid "Change Date:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17039
+# File: module/Application/src/Controller/IndexController.php, line: 17048
 msgid "Your new plan benefits are now active."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17039
+# File: module/Application/src/Controller/IndexController.php, line: 17048
 msgid "If you did not request this change, please contact our support team immediately."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17047
+# File: module/Application/src/Controller/IndexController.php, line: 17056
 msgid "Your Click & Book Plan Has Been Updated"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17070
-# File: module/Application/src/Controller/IndexController.php, line: 17082
+# File: module/Application/src/Controller/IndexController.php, line: 17079
+# File: module/Application/src/Controller/IndexController.php, line: 17091
 msgid "Plan Change Notification"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17071
+# File: module/Application/src/Controller/IndexController.php, line: 17080
 msgid "A member has changed their Click & Book plan."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17072
+# File: module/Application/src/Controller/IndexController.php, line: 17081
 msgid "Below are the details of the plan change:"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17072
+# File: module/Application/src/Controller/IndexController.php, line: 17081
 msgid "Please review this change and ensure the member’s account is updated accordingly."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 18128
+# File: module/Application/src/Controller/IndexController.php, line: 18137
 msgid "Deutsch"
+msgstr ""
+#
+# File: module/Application/src/Controller/TripsController.php, line: 376
+msgid "Give the trip a name."
+msgstr ""
+#
+# File: module/Application/src/Controller/TripsController.php, line: 379
+msgid "Pick a hotel from the list."
+msgstr ""
+#
+# File: module/Application/src/Controller/TripsController.php, line: 383
+msgid "Enter the default departure date."
+msgstr ""
+#
+# File: module/Application/src/Controller/TripsController.php, line: 385
+msgid "A locked date cannot be in the past."
+msgstr ""
+#
+# File: module/Application/src/Controller/TripsController.php, line: 389
+msgid "Enter the departure airport (3-letter code)."
+msgstr ""
+#
+# File: module/Application/src/Controller/TripsController.php, line: 392
+msgid "Enter the arrival airport (3-letter code)."
+msgstr ""
+#
+# File: module/Application/src/Controller/TripsController.php, line: 394
+msgid "Origin and destination cannot be the same airport."
+msgstr ""
+#
+# File: module/Application/src/Controller/TripsController.php, line: 398
+msgid "Airport transfers need the flight, so the arrival airport is known."
+msgstr ""
+#
+# File: module/Application/src/Controller/TripsController.php, line: 401
+msgid "Pick an activity from the list."
+msgstr ""
+#
+# File: module/Application/src/Controller/TripsController.php, line: 475
+msgid "The trip could not be saved. Has cb_trips.sql been applied?"
+msgstr ""
+#
+# File: module/Application/src/Controller/TripsController.php, line: 478
+msgid "Please correct the highlighted fields."
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 551
+msgid "We Received Your Contact Request"
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 559
+msgid "Thank you for reaching out to us."
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 559
+msgid "We confirm that your request has been received and registered under the ID"
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 559
+msgid "Our team will get back to you shortly."
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 968
+msgid "Your Click & Book Account Has Been Created"
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 976
+msgid "Your account has been successfully created in Click & Book."
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 976
+msgid "To activate your account, please select the plan that best fits your needs."
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 976
+msgid "Once the plan is selected, your account will be fully activated and ready to use."
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 976
+msgid "If you haven’t completed your registration yet, simply click the button below to continue the process."
+msgstr ""
+#
+# File: module/Application/src/Controller/RegisterAgencyController.php, line: 976
+msgid "Complete Registration"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 708
+# File: module/Application/src/Controller/HotelsController.php, line: 995
+# File: module/Application/src/Controller/HotelsController.php, line: 3279
+# File: module/Application/src/Controller/HotelsController.php, line: 5187
+# File: module/Application/src/Controller/HotelsController.php, line: 5205
+# File: module/Application/src/Controller/HotelsController.php, line: 5223
+msgid "No Selection"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1265
+# File: module/Application/src/Controller/HotelsController.php, line: 3129
+# File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 47
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 251
+msgid "Percentage Based on Double Occupancy Rate"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1269
+# File: module/Application/src/Controller/HotelsController.php, line: 3133
+# File: module/Application/view/application/hotels/listchildpolicies.phtml, line: 47
+# File: module/Application/view/application/hotels/newcontractrate.phtml, line: 252
+msgid "Percentage Based on Total Rate"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1444
+# File: module/Application/src/Controller/HotelsController.php, line: 4517
+# File: module/Application/src/Controller/HotelsController.php, line: 4697
+msgid "No Rule"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1448
+# File: module/Application/src/Controller/HotelsController.php, line: 4521
+# File: module/Application/src/Controller/HotelsController.php, line: 4695
+msgid "Charge Full Stay"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1452
+# File: module/Application/src/Controller/HotelsController.php, line: 4525
+msgid "1 Night Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1456
+# File: module/Application/src/Controller/HotelsController.php, line: 4529
+msgid "2 Nights Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1460
+# File: module/Application/src/Controller/HotelsController.php, line: 4533
+msgid "3 Nights Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1464
+# File: module/Application/src/Controller/HotelsController.php, line: 4537
+msgid "4 Nights Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1468
+# File: module/Application/src/Controller/HotelsController.php, line: 4541
+msgid "5 Nights Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1472
+# File: module/Application/src/Controller/HotelsController.php, line: 4545
+msgid "6 Nights Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1476
+# File: module/Application/src/Controller/HotelsController.php, line: 4549
+msgid "7 Nights Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1480
+# File: module/Application/src/Controller/HotelsController.php, line: 4553
+msgid "8 Nights Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1484
+# File: module/Application/src/Controller/HotelsController.php, line: 4557
+msgid "9 Nights Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1488
+# File: module/Application/src/Controller/HotelsController.php, line: 4561
+msgid "10 Nights Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1492
+# File: module/Application/src/Controller/HotelsController.php, line: 4565
+msgid "11 Nights Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1496
+# File: module/Application/src/Controller/HotelsController.php, line: 4569
+msgid "12 Nights Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1500
+# File: module/Application/src/Controller/HotelsController.php, line: 4573
+msgid "13 Nights Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1504
+# File: module/Application/src/Controller/HotelsController.php, line: 4577
+msgid "14 Nights Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1508
+# File: module/Application/src/Controller/HotelsController.php, line: 4581
+msgid "15 Nights Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1992
+# File: module/Application/src/Controller/FlightsController.php, line: 1585
+# File: module/Application/src/Controller/FlightsController.php, line: 1814
+# File: module/Application/src/Controller/FlightsController.php, line: 2097
+# File: module/Application/src/Controller/FlightsController.php, line: 2464
+# File: module/Application/src/Controller/CruisesController.php, line: 1934
+# File: module/Application/view/application/agents/edit.phtml, line: 163
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 48
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 54
+# File: module/Application/view/application/customers/edit.phtml, line: 51
+# File: module/Application/view/application/flights/listairblocks.phtml, line: 188
+# File: module/Application/view/application/flights/airblock.phtml, line: 93
+# File: module/Application/view/application/packages/editoptional.phtml, line: 67
+# File: module/Application/view/application/packages/manage.phtml, line: 243
+# File: module/Application/view/application/packages/newoptional.phtml, line: 65
+msgid "Enabled"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1994
+# File: module/Application/src/Controller/FlightsController.php, line: 1589
+# File: module/Application/src/Controller/FlightsController.php, line: 1818
+# File: module/Application/src/Controller/FlightsController.php, line: 2101
+# File: module/Application/src/Controller/FlightsController.php, line: 2468
+# File: module/Application/src/Controller/CruisesController.php, line: 1935
+# File: module/Application/view/application/agents/list.phtml, line: 66
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 48
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 54
+# File: module/Application/view/application/customers/edit.phtml, line: 52
+# File: module/Application/view/application/flights/listairblocks.phtml, line: 189
+# File: module/Application/view/application/flights/airblock.phtml, line: 94
+# File: module/Application/view/application/packages/editavailability.phtml, line: 78
+# File: module/Application/view/application/packages/editoptional.phtml, line: 68
+# File: module/Application/view/application/packages/searchpackages.phtml, line: 48
+# File: module/Application/view/application/packages/availability.phtml, line: 71
+# File: module/Application/view/application/packages/listpackages.phtml, line: 8
+# File: module/Application/view/application/packages/manage.phtml, line: 18
+# File: module/Application/view/application/packages/manage.phtml, line: 243
+# File: module/Application/view/application/packages/manage.phtml, line: 326
+# File: module/Application/view/application/packages/newoptional.phtml, line: 66
+# File: module/Application/view/application/packages/edit.phtml, line: 67
+msgid "Disabled"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 2644
+# File: module/Application/view/application/reservations/newreservation.phtml, line: 171
+msgid "Room Only"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 4699
+# File: module/Application/src/Controller/HotelsController.php, line: 4701
+# File: module/Application/view/application/quick-books/charge.phtml, line: 15
+msgid "Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 4699
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 1306
+msgid "night"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 4701
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 1306
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 1524
+# File: module/Application/view/application/packages/newpackageai.phtml, line: 206
+msgid "nights"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1545
+# File: module/Application/src/Controller/FlightsController.php, line: 2150
+msgid "All Charters"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1568
+# File: module/Application/src/Controller/FlightsController.php, line: 1797
+# File: module/Application/src/Controller/FlightsController.php, line: 2446
+msgid "All Aircrafts"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1599
+# File: module/Application/src/Controller/FlightsController.php, line: 2111
+msgid "Pending Prepaid"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1603
+# File: module/Application/src/Controller/FlightsController.php, line: 2115
+msgid "Prepaid"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1611
+# File: module/Application/src/Controller/FlightsController.php, line: 2123
+msgid "Returned Without Penalty"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1615
+# File: module/Application/src/Controller/FlightsController.php, line: 2127
+msgid "Returned With Penalty"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1619
+# File: module/Application/src/Controller/FlightsController.php, line: 2131
+msgid "Canceled"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1623
+# File: module/Application/src/Controller/FlightsController.php, line: 2135
+msgid "Issued"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1775
+# File: module/Application/src/Controller/FlightsController.php, line: 2423
+msgid "All Airlines"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5074
+msgid "That reservation has no air segment to ticket."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5139
+msgid "This reservation is already ticketed."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5144
+msgid "The middleware URL is not configured (settings.middleware)."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5171
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 784
+msgid "Enter the name as printed on the card."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5174
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 786
+msgid "The card number must be between 13 and 19 digits."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5176
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 788
+msgid "That card number is not valid - check for a typo."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5179
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 791
+msgid "The expiry month must be between 01 and 12."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5182
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 794
+msgid "Check the expiry year."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5184
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 796
+msgid "That card has expired."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5187
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 798
+msgid "The security code is 3 or 4 digits."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5190
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 799
+msgid "Enter the billing address."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5193
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 800
+msgid "Enter the billing city."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5196
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 801
+msgid "Enter the billing ZIP or postcode."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5199
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 802
+msgid "Enter the billing country."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5202
+msgid "That e-mail address is not valid."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5207
+msgid "Nothing was sent to the airline - please correct the payment details below and try again."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5277
+msgid "Tickets issued."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5294
+msgid "The middleware rejected the request."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5301
+msgid "The middleware did not respond."
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 2299
+# File: module/Application/src/Controller/ViewReservationController.php, line: 2307
+msgid "Dear"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 2300
+# File: module/Application/view/application/view-reservation/index.phtml, line: 1671
+msgid "Payment Link"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 2307
+msgid "Complete the payment using the secure link provided below."
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 2307
+msgid "Thank you for choosing us! To confirm your reservation, please complete your payment using the secure link provided below."
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 2307
+msgid "If you have any questions or need assistance, our customer support team is always ready to help."
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 2311
+msgid "Simply click the link to finalize your payment. If you have any questions or need assistance, feel free to reach out-we're here to help!"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 2312
+msgid "Payment Link for Your Reservation - Action Required"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3186
+msgid "All Departments"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3205
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3224
+msgid "Direct Booking"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3249
+msgid "All Companies/Markets"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3274
+msgid "Credited"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3276
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 38
+# File: module/Application/view/application/agents/search.phtml, line: 56
+# File: module/Application/view/application/agents/searchagents.phtml, line: 68
+# File: module/Application/view/application/agents/view.phtml, line: 341
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 38
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 38
+# File: module/Application/view/application/customers/search.phtml, line: 56
+# File: module/Application/view/application/customers/searchcustomers.phtml, line: 66
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 38
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 38
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 38
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 38
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 38
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 96
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 38
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 38
+msgid "Cancelled"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3278
+# File: module/Application/view/application/activities/listreservations.phtml, line: 90
+# File: module/Application/view/application/cars/listreservations.phtml, line: 88
+# File: module/Application/view/application/cruises/listreservations.phtml, line: 88
+# File: module/Application/view/application/customers/view.phtml, line: 327
+# File: module/Application/view/application/escortedtours/listreservations.phtml, line: 88
+# File: module/Application/view/application/flights/listreservations.phtml, line: 88
+# File: module/Application/view/application/hotels/listreservations.phtml, line: 89
+# File: module/Application/view/application/insurances/listreservations.phtml, line: 88
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 116
+# File: module/Application/view/application/packages/listreservations.phtml, line: 87
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 98
+# File: module/Application/view/application/reservations/list.phtml, line: 89
+# File: module/Application/view/application/transfers/listreservations.phtml, line: 89
+# File: module/Application/view/application/view-reservation/termsandconditions.phtml, line: 30
+# File: module/Application/view/application/view-reservation/index.phtml, line: 113
+# File: module/Application/view/application/view-reservation/index.phtml, line: 292
+# File: module/Application/view/application/view-reservation/index.phtml, line: 553
+# File: module/Application/view/application/view-reservation/index.phtml, line: 695
+# File: module/Application/view/application/view-reservation/index.phtml, line: 827
+# File: module/Application/view/application/view-reservation/index.phtml, line: 958
+# File: module/Application/view/application/view-reservation/index.phtml, line: 1091
+# File: module/Application/view/application/view-reservation/index.phtml, line: 1229
+# File: module/Application/view/application/view-reservation/index.phtml, line: 1350
+# File: module/Application/view/application/view-reservation/index.phtml, line: 1470
+msgid "Unknown Status"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3281
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 161
+# File: module/Application/view/application/index/index.phtml, line: 1216
+# File: module/Application/view/application/packages/edit.phtml, line: 77
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2693
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2715
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2737
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2759
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2781
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2803
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2825
+msgid "No"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3283
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 159
+# File: module/Application/view/application/index/index.phtml, line: 1217
+# File: module/Application/view/application/packages/edit.phtml, line: 79
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2694
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2716
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2738
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2760
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2782
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2804
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2826
+msgid "Yes"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3368
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2469
+msgid "Cash"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3374
+msgid "Wire Transfer"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3377
+msgid "Unknown Payment Type"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3384
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2432
+msgid "Total Payment"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3387
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2441
+msgid "1st Payment"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3390
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2448
+msgid "2nd Payment"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3393
+# File: module/Application/view/application/view-reservation/index.phtml, line: 2455
+msgid "3rd Payment"
+msgstr ""
+#
+# File: module/Application/src/Controller/MarketingController.php, line: 6630
+msgid "Please give the flyer a name."
+msgstr ""
+#
+# File: module/Application/src/Controller/MarketingController.php, line: 6693
+msgid "Add at least one destination."
 msgstr ""
 #
 # File: module/Application/src/Controller/JSONController.php, line: 1269
@@ -3038,6 +3087,7 @@ msgstr ""
 # File: module/Application/view/application/reports/incentives.phtml, line: 360
 # File: module/Application/view/application/communications/manage.phtml, line: 121
 # File: module/Application/view/application/communications/manage.phtml, line: 189
+# File: module/Application/view/application/trips/edit.phtml, line: 249
 msgid "Airline"
 msgstr ""
 #
@@ -3082,10 +3132,10 @@ msgstr ""
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1536
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1587
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 2597
-# File: module/Application/view/application/packages/manage.phtml, line: 71
 # File: module/Application/view/application/packages/newpackage.phtml, line: 132
 # File: module/Application/view/application/packages/itinerary.phtml, line: 24
 # File: module/Application/view/application/packages/itinerary.phtml, line: 32
+# File: module/Application/view/application/packages/manage.phtml, line: 71
 # File: module/Application/view/application/portfolio/edit.phtml, line: 81
 # File: module/Application/view/application/portfolio/edit.phtml, line: 82
 # File: module/Application/view/application/portfolio/new.phtml, line: 71
@@ -3255,6 +3305,7 @@ msgstr ""
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 351
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 358
 # File: module/Application/view/application/marketing/edit.phtml, line: 112
+# File: module/Application/view/application/trips/edit.phtml, line: 343
 msgid "Departure"
 msgstr ""
 #
@@ -3590,8 +3641,8 @@ msgstr ""
 # File: module/Application/view/application/flights/airblock.phtml, line: 124
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 254
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 257
-# File: module/Application/view/application/packages/manage.phtml, line: 77
 # File: module/Application/view/application/packages/editnote.phtml, line: 37
+# File: module/Application/view/application/packages/manage.phtml, line: 77
 # File: module/Application/view/application/packages/notes.phtml, line: 21
 # File: module/Application/view/application/packages/notes.phtml, line: 29
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 78
@@ -3648,8 +3699,8 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 471
 # File: module/Application/view/application/index/search.phtml, line: 703
 # File: module/Application/view/application/index/search.phtml, line: 959
-# File: module/Application/view/application/packages/manage.phtml, line: 160
 # File: module/Application/view/application/packages/newpackage.phtml, line: 62
+# File: module/Application/view/application/packages/manage.phtml, line: 160
 # File: module/Application/view/application/packages/edit.phtml, line: 151
 # File: module/Application/view/application/packages/edit.phtml, line: 153
 msgid "Duration"
@@ -3697,9 +3748,9 @@ msgstr ""
 # File: module/Application/view/application/packages/edititinerary.phtml, line: 43
 # File: module/Application/view/application/packages/newimage.phtml, line: 41
 # File: module/Application/view/application/packages/newitinerary.phtml, line: 41
+# File: module/Application/view/application/packages/itinerary.phtml, line: 57
 # File: module/Application/view/application/packages/manage.phtml, line: 261
 # File: module/Application/view/application/packages/manage.phtml, line: 406
-# File: module/Application/view/application/packages/itinerary.phtml, line: 57
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 47
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 45
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 42
@@ -3714,6 +3765,7 @@ msgstr ""
 # File: module/Application/view/application/packages/newoptional.phtml, line: 81
 # File: module/Application/view/application/packages/newoptional.phtml, line: 86
 # File: module/Application/view/application/packages/newoptional.phtml, line: 91
+# File: module/Application/view/application/trips/list.phtml, line: 73
 msgid "Includes"
 msgstr ""
 #
@@ -3727,6 +3779,7 @@ msgstr ""
 #
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1628
 # File: module/Application/view/application/activities/listreservations.phtml, line: 31
+# File: module/Application/view/application/trips/edit.phtml, line: 281
 msgid "Activity"
 msgstr ""
 #
@@ -3749,7 +3802,7 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 66
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 34
 # File: module/Application/view/application/hotels/searchreservations.phtml, line: 63
-# File: module/Application/view/application/index/index.phtml, line: 528
+# File: module/Application/view/application/index/index.phtml, line: 539
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 34
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 63
 # File: module/Application/view/application/packages/listreservations.phtml, line: 34
@@ -3876,6 +3929,8 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1278
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1391
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1511
+# File: module/Application/view/application/trips/edit.phtml, line: 159
+# File: module/Application/view/application/trips/edit.phtml, line: 344
 msgid "Adults"
 msgstr ""
 #
@@ -3947,6 +4002,8 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1278
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1391
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1511
+# File: module/Application/view/application/trips/edit.phtml, line: 163
+# File: module/Application/view/application/trips/edit.phtml, line: 345
 msgid "Children"
 msgstr ""
 #
@@ -4059,6 +4116,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/edit.phtml, line: 111
 # File: module/Application/view/application/marketing/edit.phtml, line: 158
 # File: module/Application/view/application/marketing/flyer.phtml, line: 333
+# File: module/Application/view/application/trips/list.phtml, line: 71
 msgid "Destination"
 msgstr ""
 #
@@ -4119,6 +4177,8 @@ msgstr ""
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 2612
 # File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 40
 # File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 37
+# File: module/Application/view/application/trips/list.phtml, line: 72
+# File: module/Application/view/application/trips/edit.phtml, line: 145
 msgid "Nights"
 msgstr ""
 #
@@ -4292,6 +4352,8 @@ msgstr ""
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 38
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 64
 # File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 18
+# File: module/Application/view/application/trips/quotes.phtml, line: 49
+# File: module/Application/view/application/trips/edit.phtml, line: 444
 msgid "Total"
 msgstr ""
 #
@@ -4591,9 +4653,8 @@ msgstr ""
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 11
 # File: module/Application/view/application/packages/settings.phtml, line: 10
 # File: module/Application/view/application/packages/edittermsandconditions.phtml, line: 19
-# File: module/Application/view/application/packages/manage.phtml, line: 120
 # File: module/Application/view/application/packages/newpackage.phtml, line: 20
-# File: module/Application/view/application/packages/packages.phtml, line: 26
+# File: module/Application/view/application/packages/packages.phtml, line: 24
 # File: module/Application/view/application/packages/editnote.phtml, line: 19
 # File: module/Application/view/application/packages/availability.phtml, line: 20
 # File: module/Application/view/application/packages/newnote.phtml, line: 19
@@ -4604,12 +4665,13 @@ msgstr ""
 # File: module/Application/view/application/packages/editexclusion.phtml, line: 19
 # File: module/Application/view/application/packages/exclusions.phtml, line: 24
 # File: module/Application/view/application/packages/newexclusion.phtml, line: 19
+# File: module/Application/view/application/packages/listpackages.phtml, line: 58
 # File: module/Application/view/application/packages/images.phtml, line: 23
 # File: module/Application/view/application/packages/edithotel.phtml, line: 19
+# File: module/Application/view/application/packages/manage.phtml, line: 120
 # File: module/Application/view/application/packages/notes.phtml, line: 24
 # File: module/Application/view/application/packages/newhotel.phtml, line: 19
 # File: module/Application/view/application/packages/termsandconditions.phtml, line: 24
-# File: module/Application/view/application/packages/listpackages.phtml, line: 58
 # File: module/Application/view/application/packages/newoptional.phtml, line: 21
 # File: module/Application/view/application/packages/hotels.phtml, line: 25
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 115
@@ -4642,6 +4704,10 @@ msgstr ""
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 11
 # File: module/Application/view/application/transfers/settings.phtml, line: 10
 # File: module/Application/view/application/view-reservation/index.phtml, line: 38
+# File: module/Application/view/application/trips/index.phtml, line: 21
+# File: module/Application/view/application/trips/quotes.phtml, line: 28
+# File: module/Application/view/application/trips/list.phtml, line: 30
+# File: module/Application/view/application/trips/edit.phtml, line: 67
 # File: module/Application/view/layout/layout.phtml, line: 9
 # File: module/Application/view/layout/layout.phtml, line: 132
 msgid "Dashboard"
@@ -5154,7 +5220,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 7
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 13
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 20
-# File: module/Application/view/layout/layout.phtml, line: 154
+# File: module/Application/view/layout/layout.phtml, line: 155
 msgid "List Reservations"
 msgstr ""
 #
@@ -5438,9 +5504,9 @@ msgstr ""
 # File: module/Application/view/application/packages/listreservations.phtml, line: 38
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 76
 # File: module/Application/view/application/packages/searchreservations.phtml, line: 65
-# File: module/Application/view/application/packages/manage.phtml, line: 233
 # File: module/Application/view/application/packages/availability.phtml, line: 56
 # File: module/Application/view/application/packages/listpackages.phtml, line: 110
+# File: module/Application/view/application/packages/manage.phtml, line: 233
 # File: module/Application/view/application/portfolio/categories.phtml, line: 40
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 33
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 36
@@ -5456,6 +5522,7 @@ msgstr ""
 # File: module/Application/view/application/support/search.phtml, line: 82
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 39
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 65
+# File: module/Application/view/application/trips/list.phtml, line: 77
 msgid "Action"
 msgstr ""
 #
@@ -6409,7 +6476,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 7
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 13
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 51
-# File: module/Application/view/layout/layout.phtml, line: 155
+# File: module/Application/view/layout/layout.phtml, line: 156
 msgid "Search Reservations"
 msgstr ""
 #
@@ -6530,6 +6597,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/kb.phtml, line: 31
 # File: module/Application/view/application/tutorials/kb.phtml, line: 37
 # File: module/Application/view/application/tutorials/index.phtml, line: 263
+# File: module/Application/view/application/trips/list.phtml, line: 45
 msgid "Search"
 msgstr ""
 #
@@ -6941,9 +7009,11 @@ msgstr ""
 # File: module/Application/view/application/insurances/index.phtml, line: 27
 # File: module/Application/view/application/marketing/index.phtml, line: 39
 # File: module/Application/view/application/packages/index.phtml, line: 22
+# File: module/Application/view/application/packages/packages.phtml, line: 34
 # File: module/Application/view/application/reservations/index.phtml, line: 35
 # File: module/Application/view/application/support/index.phtml, line: 19
 # File: module/Application/view/application/transfers/index.phtml, line: 23
+# File: module/Application/view/application/trips/index.phtml, line: 30
 msgid "Swipe to the left on the screen to view more items."
 msgstr ""
 #
@@ -7403,11 +7473,11 @@ msgstr ""
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 47
 # File: module/Application/view/application/packages/editavailability.phtml, line: 73
 # File: module/Application/view/application/packages/editoptional.phtml, line: 65
-# File: module/Application/view/application/packages/manage.phtml, line: 233
 # File: module/Application/view/application/packages/newpackage.phtml, line: 43
 # File: module/Application/view/application/packages/availability.phtml, line: 51
 # File: module/Application/view/application/packages/listpackages.phtml, line: 79
 # File: module/Application/view/application/packages/listpackages.phtml, line: 109
+# File: module/Application/view/application/packages/manage.phtml, line: 233
 # File: module/Application/view/application/packages/newoptional.phtml, line: 63
 # File: module/Application/view/application/packages/edit.phtml, line: 62
 # File: module/Application/view/application/portfolio/categories.phtml, line: 39
@@ -7424,6 +7494,10 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/rewards.phtml, line: 11
 # File: module/Application/view/application/communications/manage.phtml, line: 127
 # File: module/Application/view/application/communications/manage.phtml, line: 256
+# File: module/Application/view/application/trips/quotes.phtml, line: 50
+# File: module/Application/view/application/trips/list.phtml, line: 49
+# File: module/Application/view/application/trips/list.phtml, line: 76
+# File: module/Application/view/application/trips/edit.phtml, line: 314
 msgid "Status"
 msgstr ""
 #
@@ -7451,8 +7525,8 @@ msgid "Select status"
 msgstr ""
 #
 # File: module/Application/view/application/agents/edit.phtml, line: 165
-# File: module/Application/view/application/packages/manage.phtml, line: 135
 # File: module/Application/view/application/packages/listpackages.phtml, line: 147
+# File: module/Application/view/application/packages/manage.phtml, line: 135
 msgid "Disable"
 msgstr ""
 #
@@ -7503,7 +7577,7 @@ msgstr ""
 # File: module/Application/view/application/customers/quotes.phtml, line: 40
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 23
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 676
-# File: module/Application/view/application/index/index.phtml, line: 531
+# File: module/Application/view/application/index/index.phtml, line: 542
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 408
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 409
 msgid "Service Fee"
@@ -7701,6 +7775,7 @@ msgid "Air Booking Lead Time"
 msgstr ""
 #
 # File: module/Application/view/application/agents/edit.phtml, line: 604
+# File: module/Application/view/application/trips/quotes.phtml, line: 48
 msgid "Components"
 msgstr ""
 #
@@ -7867,6 +7942,12 @@ msgstr ""
 # File: module/Application/view/application/marketing/flyers.phtml, line: 65
 # File: module/Application/view/application/packages/view.phtml, line: 29
 # File: module/Application/view/application/packages/view.phtml, line: 58
+# File: module/Application/view/application/packages/availability.phtml, line: 83
+# File: module/Application/view/application/packages/itinerary.phtml, line: 63
+# File: module/Application/view/application/packages/inclusions.phtml, line: 56
+# File: module/Application/view/application/packages/exclusions.phtml, line: 56
+# File: module/Application/view/application/packages/listpackages.phtml, line: 150
+# File: module/Application/view/application/packages/images.phtml, line: 51
 # File: module/Application/view/application/packages/manage.phtml, line: 244
 # File: module/Application/view/application/packages/manage.phtml, line: 267
 # File: module/Application/view/application/packages/manage.phtml, line: 285
@@ -7876,18 +7957,14 @@ msgstr ""
 # File: module/Application/view/application/packages/manage.phtml, line: 408
 # File: module/Application/view/application/packages/manage.phtml, line: 425
 # File: module/Application/view/application/packages/manage.phtml, line: 440
-# File: module/Application/view/application/packages/availability.phtml, line: 83
-# File: module/Application/view/application/packages/itinerary.phtml, line: 63
-# File: module/Application/view/application/packages/inclusions.phtml, line: 56
-# File: module/Application/view/application/packages/exclusions.phtml, line: 56
-# File: module/Application/view/application/packages/images.phtml, line: 51
 # File: module/Application/view/application/packages/notes.phtml, line: 56
 # File: module/Application/view/application/packages/termsandconditions.phtml, line: 56
-# File: module/Application/view/application/packages/listpackages.phtml, line: 150
 # File: module/Application/view/application/packages/hotels.phtml, line: 64
 # File: module/Application/view/application/view-reservation/guests.phtml, line: 42
 # File: module/Application/view/application/communications/manage.phtml, line: 151
 # File: module/Application/view/application/communications/manage.phtml, line: 287
+# File: module/Application/view/application/trips/list.phtml, line: 115
+# File: module/Application/view/application/trips/edit.phtml, line: 70
 msgid "Edit"
 msgstr ""
 #
@@ -8052,7 +8129,7 @@ msgstr ""
 # File: module/Application/view/application/cms/winterdestinations.phtml, line: 11
 # File: module/Application/view/application/cms/featureddestinations.phtml, line: 11
 # File: module/Application/view/application/cms/featuredhotels.phtml, line: 11
-# File: module/Application/view/application/index/index.phtml, line: 250
+# File: module/Application/view/application/index/index.phtml, line: 261
 # File: module/Application/view/application/quick-books/cms.phtml, line: 17
 msgid "CMS"
 msgstr ""
@@ -8092,6 +8169,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 109
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 46
 # File: module/Application/view/application/reports/productivity.phtml, line: 314
+# File: module/Application/view/application/trips/edit.phtml, line: 120
 msgid "Description"
 msgstr ""
 #
@@ -8411,6 +8489,12 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 139
 # File: module/Application/view/application/hotels/newroom.phtml, line: 129
 # File: module/Application/view/application/marketing/flyers.phtml, line: 71
+# File: module/Application/view/application/packages/availability.phtml, line: 84
+# File: module/Application/view/application/packages/itinerary.phtml, line: 64
+# File: module/Application/view/application/packages/inclusions.phtml, line: 57
+# File: module/Application/view/application/packages/exclusions.phtml, line: 57
+# File: module/Application/view/application/packages/listpackages.phtml, line: 151
+# File: module/Application/view/application/packages/images.phtml, line: 52
 # File: module/Application/view/application/packages/manage.phtml, line: 245
 # File: module/Application/view/application/packages/manage.phtml, line: 268
 # File: module/Application/view/application/packages/manage.phtml, line: 286
@@ -8420,14 +8504,8 @@ msgstr ""
 # File: module/Application/view/application/packages/manage.phtml, line: 409
 # File: module/Application/view/application/packages/manage.phtml, line: 426
 # File: module/Application/view/application/packages/manage.phtml, line: 441
-# File: module/Application/view/application/packages/availability.phtml, line: 84
-# File: module/Application/view/application/packages/itinerary.phtml, line: 64
-# File: module/Application/view/application/packages/inclusions.phtml, line: 57
-# File: module/Application/view/application/packages/exclusions.phtml, line: 57
-# File: module/Application/view/application/packages/images.phtml, line: 52
 # File: module/Application/view/application/packages/notes.phtml, line: 57
 # File: module/Application/view/application/packages/termsandconditions.phtml, line: 57
-# File: module/Application/view/application/packages/listpackages.phtml, line: 151
 # File: module/Application/view/application/packages/hotels.phtml, line: 65
 # File: module/Application/view/application/portfolio/index.phtml, line: 368
 # File: module/Application/view/application/view-reservation/guests.phtml, line: 44
@@ -8609,6 +8687,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2603
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2647
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2846
+# File: module/Application/view/application/trips/edit.phtml, line: 104
 msgid "Name"
 msgstr ""
 #
@@ -8669,6 +8748,7 @@ msgstr ""
 # File: module/Application/view/application/portfolio/index.phtml, line: 367
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1659
 # File: module/Application/view/application/communications/manage.phtml, line: 265
+# File: module/Application/view/application/trips/edit.phtml, line: 326
 msgid "Cancel"
 msgstr ""
 #
@@ -8730,6 +8810,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/charge.phtml, line: 29
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 27
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 416
+# File: module/Application/view/application/trips/edit.phtml, line: 171
 msgid "Currency"
 msgstr ""
 #
@@ -8773,6 +8854,7 @@ msgstr ""
 # File: module/Application/view/application/packages/editoptional.phtml, line: 110
 # File: module/Application/view/application/packages/manage.phtml, line: 233
 # File: module/Application/view/application/packages/newoptional.phtml, line: 108
+# File: module/Application/view/application/trips/edit.phtml, line: 239
 msgid "From"
 msgstr ""
 #
@@ -8929,6 +9011,7 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 539
 # File: module/Application/view/application/view-reservation/status.phtml, line: 66
 # File: module/Application/view/application/view-reservation/status.phtml, line: 69
+# File: module/Application/view/application/trips/edit.phtml, line: 175
 msgid "Nationality"
 msgstr ""
 #
@@ -9107,7 +9190,7 @@ msgstr ""
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 12
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 26
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 80
-# File: module/Application/view/layout/layout.phtml, line: 163
+# File: module/Application/view/layout/layout.phtml, line: 164
 msgid "Search Customers"
 msgstr ""
 #
@@ -9588,7 +9671,7 @@ msgid "Reload"
 msgstr ""
 #
 # File: module/Application/view/application/escortedtours/index.phtml, line: 223
-# File: module/Application/view/application/index/index.phtml, line: 234
+# File: module/Application/view/application/index/index.phtml, line: 245
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 13
 # File: module/Application/view/application/marketing/edit.phtml, line: 13
 # File: module/Application/view/application/marketing/list.phtml, line: 12
@@ -9602,8 +9685,8 @@ msgstr ""
 # File: module/Application/view/application/marketing/flyers.phtml, line: 13
 # File: module/Application/view/application/marketing/flyer.phtml, line: 60
 # File: module/Application/view/application/marketing/flyersend.phtml, line: 19
-# File: module/Application/view/layout/layout.phtml, line: 146
-# File: module/Application/view/layout/layout.phtml, line: 203
+# File: module/Application/view/layout/layout.phtml, line: 147
+# File: module/Application/view/layout/layout.phtml, line: 204
 msgid "Marketing"
 msgstr ""
 #
@@ -9662,7 +9745,7 @@ msgstr ""
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 80
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 138
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 699
-# File: module/Application/view/application/index/index.phtml, line: 527
+# File: module/Application/view/application/index/index.phtml, line: 538
 # File: module/Application/view/application/reports/globalware.phtml, line: 41
 # File: module/Application/view/application/reports/search.phtml, line: 38
 # File: module/Application/view/application/reports/search.phtml, line: 77
@@ -10035,7 +10118,7 @@ msgid "Search Reservations-Void Reservation"
 msgstr ""
 #
 # File: module/Application/view/application/flights/routemap.phtml, line: 12
-# File: module/Application/view/layout/layout.phtml, line: 171
+# File: module/Application/view/layout/layout.phtml, line: 172
 msgid "Route Map"
 msgstr ""
 #
@@ -10183,7 +10266,7 @@ msgstr ""
 #
 # File: module/Application/view/application/flights/airblocks.phtml, line: 158
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 65
-# File: module/Application/view/application/index/index.phtml, line: 297
+# File: module/Application/view/application/index/index.phtml, line: 308
 # File: module/Application/view/application/packages/listpackages.phtml, line: 149
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 215
 # File: module/Application/view/application/communications/manage.phtml, line: 104
@@ -10233,6 +10316,7 @@ msgstr ""
 #
 # File: module/Application/view/application/flights/listairblocks.phtml, line: 187
 # File: module/Application/view/application/packages/listpackages.phtml, line: 81
+# File: module/Application/view/application/trips/list.phtml, line: 51
 msgid "Any status"
 msgstr ""
 #
@@ -10241,6 +10325,7 @@ msgstr ""
 # File: module/Application/view/application/flights/airblocksreport.phtml, line: 84
 # File: module/Application/view/application/packages/listpackages.phtml, line: 88
 # File: module/Application/view/application/tutorials/index.phtml, line: 259
+# File: module/Application/view/application/trips/list.phtml, line: 56
 msgid "Filter"
 msgstr ""
 #
@@ -10884,6 +10969,7 @@ msgstr ""
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 698
 # File: module/Application/view/application/reports/productivity.phtml, line: 312
 # File: module/Application/view/application/view-reservation/index.phtml, line: 225
+# File: module/Application/view/application/trips/quotes.phtml, line: 51
 msgid "Reservation"
 msgstr ""
 #
@@ -10917,9 +11003,9 @@ msgstr ""
 #
 # File: module/Application/view/application/help/index.phtml, line: 7
 # File: module/Application/view/application/help/index.phtml, line: 12
-# File: module/Application/view/application/index/index.phtml, line: 308
+# File: module/Application/view/application/index/index.phtml, line: 319
 # File: module/Application/view/layout/layout.phtml, line: 93
-# File: module/Application/view/layout/layout.phtml, line: 247
+# File: module/Application/view/layout/layout.phtml, line: 248
 msgid "Help"
 msgstr ""
 #
@@ -11126,11 +11212,15 @@ msgstr ""
 # File: module/Application/view/application/packages/newpackage.phtml, line: 134
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 194
 # File: module/Application/view/application/communications/manage.phtml, line: 190
+# File: module/Application/view/application/trips/edit.phtml, line: 216
+# File: module/Application/view/application/trips/edit.phtml, line: 298
 msgid "Supplier"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/edit.phtml, line: 85
 # File: module/Application/view/application/hotels/newhotel.phtml, line: 66
+# File: module/Application/view/application/trips/list.phtml, line: 74
+# File: module/Application/view/application/trips/edit.phtml, line: 443
 msgid "Markup"
 msgstr ""
 #
@@ -11377,9 +11467,9 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 69
 # File: module/Application/view/application/packages/editavailability.phtml, line: 77
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 46
-# File: module/Application/view/application/packages/manage.phtml, line: 17
 # File: module/Application/view/application/packages/availability.phtml, line: 69
 # File: module/Application/view/application/packages/listpackages.phtml, line: 7
+# File: module/Application/view/application/packages/manage.phtml, line: 17
 # File: module/Application/view/application/packages/edit.phtml, line: 66
 msgid "On Request"
 msgstr ""
@@ -11619,9 +11709,9 @@ msgstr ""
 # File: module/Application/view/application/hotels/listimages.phtml, line: 13
 # File: module/Application/view/application/hotels/manage.phtml, line: 44
 # File: module/Application/view/application/hotels/newimage.phtml, line: 13
-# File: module/Application/view/application/packages/manage.phtml, line: 76
-# File: module/Application/view/application/packages/images.phtml, line: 28
 # File: module/Application/view/application/packages/listpackages.phtml, line: 130
+# File: module/Application/view/application/packages/images.phtml, line: 28
+# File: module/Application/view/application/packages/manage.phtml, line: 76
 msgid "Images"
 msgstr ""
 #
@@ -11807,9 +11897,9 @@ msgstr ""
 # File: module/Application/view/application/hotels/index.phtml, line: 246
 # File: module/Application/view/application/hotels/promotions.phtml, line: 11
 # File: module/Application/view/application/hotels/promotions.phtml, line: 22
-# File: module/Application/view/application/index/index.phtml, line: 281
+# File: module/Application/view/application/index/index.phtml, line: 292
 # File: module/Application/view/application/communications/manage.phtml, line: 8
-# File: module/Application/view/layout/layout.phtml, line: 168
+# File: module/Application/view/layout/layout.phtml, line: 169
 # File: module/Application/view/partial/communications.phtml, line: 650
 msgid "Promotions"
 msgstr ""
@@ -13413,7 +13503,7 @@ msgstr ""
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 88
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 148
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 331
-# File: module/Application/view/layout/layout.phtml, line: 188
+# File: module/Application/view/layout/layout.phtml, line: 189
 msgid "Tutorials"
 msgstr ""
 #
@@ -15610,8 +15700,8 @@ msgid "Activation"
 msgstr ""
 #
 # File: module/Application/view/application/index/setup.phtml, line: 29
-# File: module/Application/view/application/index/index.phtml, line: 582
-# File: module/Application/view/application/index/index.phtml, line: 604
+# File: module/Application/view/application/index/index.phtml, line: 593
+# File: module/Application/view/application/index/index.phtml, line: 615
 msgid "Click and Book"
 msgstr ""
 #
@@ -15788,7 +15878,7 @@ msgid "Back"
 msgstr ""
 #
 # File: module/Application/view/application/index/setup.phtml, line: 170
-# File: module/Application/view/application/index/index.phtml, line: 1117
+# File: module/Application/view/application/index/index.phtml, line: 1148
 # File: module/Application/view/partial/abpager.phtml, line: 36
 msgid "Next"
 msgstr ""
@@ -15925,7 +16015,7 @@ msgid "If you have any questions or concerns about this Terms and Conditions, pl
 msgstr ""
 #
 # File: module/Application/view/application/index/transactions.phtml, line: 12
-# File: module/Application/view/application/index/index.phtml, line: 489
+# File: module/Application/view/application/index/index.phtml, line: 500
 msgid "Credit Card Transactions"
 msgstr ""
 #
@@ -17847,7 +17937,6 @@ msgstr ""
 # File: module/Application/view/application/index/search.old.phtml, line: 1102
 # File: module/Application/view/application/index/search.old.phtml, line: 1153
 # File: module/Application/view/application/index/search.old.phtml, line: 1377
-# File: module/Application/view/application/index/index.phtml, line: 1117
 # File: module/Application/view/application/index/search.phtml, line: 396
 # File: module/Application/view/application/index/search.phtml, line: 532
 # File: module/Application/view/application/index/search.phtml, line: 603
@@ -17857,6 +17946,7 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 1018
 # File: module/Application/view/application/index/search.phtml, line: 1061
 # File: module/Application/view/application/index/search.phtml, line: 1219
+# File: module/Application/view/application/index/index.phtml, line: 1148
 msgid "Done"
 msgstr ""
 #
@@ -17915,6 +18005,7 @@ msgstr ""
 #
 # File: module/Application/view/application/index/search.old.phtml, line: 733
 # File: module/Application/view/application/index/search.phtml, line: 546
+# File: module/Application/view/application/trips/edit.phtml, line: 182
 msgid "Residency"
 msgstr ""
 #
@@ -18455,6 +18546,7 @@ msgstr ""
 # File: module/Application/view/application/packages/editoptional.phtml, line: 111
 # File: module/Application/view/application/packages/manage.phtml, line: 233
 # File: module/Application/view/application/packages/newoptional.phtml, line: 109
+# File: module/Application/view/application/trips/edit.phtml, line: 244
 msgid "To"
 msgstr ""
 #
@@ -18594,208 +18686,6 @@ msgstr ""
 msgid "Please Wait..."
 msgstr ""
 #
-# File: module/Application/view/application/index/index.phtml, line: 34
-msgid "Need help? Book an appointment"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 39
-# File: module/Application/view/application/index/index.phtml, line: 40
-# File: module/Application/view/application/index/index.phtml, line: 131
-# File: module/Application/view/application/index/index.phtml, line: 222
-# File: module/Application/view/application/reports/productivity.phtml, line: 226
-# File: module/Application/view/application/reports/incentives.phtml, line: 332
-msgid "Items"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 40
-msgid "In this area, you can manage various aspects of your travel business, such as cruises, hotels, flights, car, activities and transfers. From this area you can create, view and manage your cruises, hotels, flights, cars, activities and transfers reservations."
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 131
-# File: module/Application/view/application/index/index.phtml, line: 222
-msgid "In this area, you can manage various aspects of your travel business, such as escorted tours, packages and insurances. From this area you can create, view and manage your escorted tours, packages and insurances reservations. You can also view customers and sales reports."
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 245
-# File: module/Application/view/application/index/index.phtml, line: 274
-# File: module/Application/view/partial/communications.phtml, line: 513
-msgid "New"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 281
-# File: module/Application/view/application/portfolio/categories.phtml, line: 13
-# File: module/Application/view/application/portfolio/edit.phtml, line: 11
-# File: module/Application/view/application/portfolio/editcategory.phtml, line: 12
-# File: module/Application/view/application/portfolio/index.phtml, line: 25
-# File: module/Application/view/application/portfolio/index.phtml, line: 29
-# File: module/Application/view/application/portfolio/new.phtml, line: 11
-# File: module/Application/view/application/portfolio/newcategory.phtml, line: 12
-msgid "Portfolio"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 282
-# File: module/Application/view/application/marketing/flyers.phtml, line: 14
-# File: module/Application/view/application/marketing/flyer.phtml, line: 61
-# File: module/Application/view/application/marketing/flyersend.phtml, line: 20
-msgid "Flyers"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 296
-msgid "Communications"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 333
-# File: module/Application/view/application/index/index.phtml, line: 334
-msgid "Sales & Searches"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 333
-msgid "In this area, you can see a graphical representation of your sales and searches performance over time. The chart shows the number of sales and searches that you have made or received in a given periodo. You can use this chart to track your progress, identify trends, and optimize your strategies."
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 351
-# File: module/Application/view/application/index/index.phtml, line: 383
-msgid "THIS WEEK"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 355
-# File: module/Application/view/application/index/index.phtml, line: 387
-msgid "THIS MONTH"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 452
-msgid "Account Details"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 461
-msgid "Current Plan"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 470
-msgid "Current Plan Price"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 470
-msgid "Yearly Payment"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 481
-msgid "Next Renewal Date"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 490
-msgid "Your Charges Summary"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 499
-msgid "Update Payment Method"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 500
-msgid "Change Credit Card"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 509
-msgid "Cancel Subscription"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 510
-msgid "Cancel Next Renewal Date"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 520
-msgid "Air Booking Status"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 529
-msgid "Ticketing"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 530
-msgid "Invoicing"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 583
-msgid "Download the iOS app from the Apple App Store."
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 586
-msgid "Download on the App Store"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 605
-msgid "Download the Android app from Google Play."
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 607
-msgid "Get it on Google Play"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 626
-msgid "Book an appointment"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 1066
-# File: module/Application/view/application/index/index.phtml, line: 1092
-msgid "Monday"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 1066
-# File: module/Application/view/application/index/index.phtml, line: 1092
-msgid "Tuesday"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 1066
-# File: module/Application/view/application/index/index.phtml, line: 1092
-msgid "Wednesday"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 1066
-# File: module/Application/view/application/index/index.phtml, line: 1092
-msgid "Thursday"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 1066
-# File: module/Application/view/application/index/index.phtml, line: 1092
-msgid "Friday"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 1066
-# File: module/Application/view/application/index/index.phtml, line: 1092
-msgid "Saturday"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 1066
-# File: module/Application/view/application/index/index.phtml, line: 1092
-msgid "Sunday"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 1094
-# File: module/Application/view/application/reports/searchactivityreport.phtml, line: 150
-# File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 150
-msgid "Searches"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 1117
-msgid "Prev"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 1151
-msgid "Download Flyer to Share with Customers"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 1160
-msgid "Send via WhatsApp"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 1180
-msgid "Cancel subscription"
-msgstr ""
-#
-# File: module/Application/view/application/index/index.phtml, line: 1183
-msgid "Are you sure you want to cancel your subscription? Once canceled, you will lose access to all your data. Do you want to proceed?"
-msgstr ""
-#
 # File: module/Application/view/application/index/search.phtml, line: 322
 msgid "Missing information"
 msgstr ""
@@ -18878,6 +18768,7 @@ msgid "Amadeus - LCC"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 661
+# File: module/Application/view/application/trips/edit.phtml, line: 261
 msgid "Non-stop flights only"
 msgstr ""
 #
@@ -18958,6 +18849,219 @@ msgstr ""
 msgid "Please enter the age for each child."
 msgstr ""
 #
+# File: module/Application/view/application/index/index.phtml, line: 34
+msgid "Need help? Book an appointment"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 39
+# File: module/Application/view/application/index/index.phtml, line: 40
+# File: module/Application/view/application/index/index.phtml, line: 131
+# File: module/Application/view/application/index/index.phtml, line: 233
+# File: module/Application/view/application/reports/productivity.phtml, line: 226
+# File: module/Application/view/application/reports/incentives.phtml, line: 332
+msgid "Items"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 40
+msgid "In this area, you can manage various aspects of your travel business, such as cruises, hotels, flights, car, activities and transfers. From this area you can create, view and manage your cruises, hotels, flights, cars, activities and transfers reservations."
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 131
+# File: module/Application/view/application/index/index.phtml, line: 233
+msgid "In this area, you can manage various aspects of your travel business, such as escorted tours, packages and insurances. From this area you can create, view and manage your escorted tours, packages and insurances reservations. You can also view customers and sales reports."
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 163
+# File: module/Application/view/application/trips/index.phtml, line: 18
+# File: module/Application/view/application/trips/index.phtml, line: 22
+# File: module/Application/view/application/trips/quotes.phtml, line: 29
+# File: module/Application/view/application/trips/list.phtml, line: 31
+# File: module/Application/view/application/trips/edit.phtml, line: 68
+# File: module/Application/view/layout/layout.phtml, line: 142
+msgid "Trip Builder"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 256
+# File: module/Application/view/application/index/index.phtml, line: 285
+# File: module/Application/view/application/trips/edit.phtml, line: 70
+# File: module/Application/view/partial/communications.phtml, line: 513
+msgid "New"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 292
+# File: module/Application/view/application/portfolio/categories.phtml, line: 13
+# File: module/Application/view/application/portfolio/edit.phtml, line: 11
+# File: module/Application/view/application/portfolio/editcategory.phtml, line: 12
+# File: module/Application/view/application/portfolio/index.phtml, line: 25
+# File: module/Application/view/application/portfolio/index.phtml, line: 29
+# File: module/Application/view/application/portfolio/new.phtml, line: 11
+# File: module/Application/view/application/portfolio/newcategory.phtml, line: 12
+msgid "Portfolio"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 293
+# File: module/Application/view/application/marketing/flyers.phtml, line: 14
+# File: module/Application/view/application/marketing/flyer.phtml, line: 61
+# File: module/Application/view/application/marketing/flyersend.phtml, line: 20
+msgid "Flyers"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 307
+msgid "Communications"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 344
+# File: module/Application/view/application/index/index.phtml, line: 345
+msgid "Sales & Searches"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 344
+msgid "In this area, you can see a graphical representation of your sales and searches performance over time. The chart shows the number of sales and searches that you have made or received in a given periodo. You can use this chart to track your progress, identify trends, and optimize your strategies."
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 362
+# File: module/Application/view/application/index/index.phtml, line: 394
+msgid "THIS WEEK"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 366
+# File: module/Application/view/application/index/index.phtml, line: 398
+msgid "THIS MONTH"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 463
+msgid "Account Details"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 472
+msgid "Current Plan"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 481
+msgid "Current Plan Price"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 481
+msgid "Yearly Payment"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 492
+msgid "Next Renewal Date"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 501
+msgid "Your Charges Summary"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 510
+msgid "Update Payment Method"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 511
+msgid "Change Credit Card"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 520
+msgid "Cancel Subscription"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 521
+msgid "Cancel Next Renewal Date"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 531
+msgid "Air Booking Status"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 540
+msgid "Ticketing"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 541
+msgid "Invoicing"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 594
+msgid "Download the iOS app from the Apple App Store."
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 597
+msgid "Download on the App Store"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 616
+msgid "Download the Android app from Google Play."
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 618
+msgid "Get it on Google Play"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 637
+msgid "Book an appointment"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 1097
+# File: module/Application/view/application/index/index.phtml, line: 1123
+msgid "Monday"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 1097
+# File: module/Application/view/application/index/index.phtml, line: 1123
+msgid "Tuesday"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 1097
+# File: module/Application/view/application/index/index.phtml, line: 1123
+msgid "Wednesday"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 1097
+# File: module/Application/view/application/index/index.phtml, line: 1123
+msgid "Thursday"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 1097
+# File: module/Application/view/application/index/index.phtml, line: 1123
+msgid "Friday"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 1097
+# File: module/Application/view/application/index/index.phtml, line: 1123
+msgid "Saturday"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 1097
+# File: module/Application/view/application/index/index.phtml, line: 1123
+msgid "Sunday"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 1125
+# File: module/Application/view/application/reports/searchactivityreport.phtml, line: 150
+# File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 150
+msgid "Searches"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 1148
+msgid "Prev"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 1182
+msgid "Download Flyer to Share with Customers"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 1191
+msgid "Send via WhatsApp"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 1211
+msgid "Cancel subscription"
+msgstr ""
+#
+# File: module/Application/view/application/index/index.phtml, line: 1214
+msgid "Are you sure you want to cancel your subscription? Once canceled, you will lose access to all your data. Do you want to proceed?"
+msgstr ""
+#
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 23
 msgid "Search Insurances Reservation"
 msgstr ""
@@ -19001,7 +19105,7 @@ msgstr ""
 # File: module/Application/view/application/knowledge-base/item.phtml, line: 10
 # File: module/Application/view/application/knowledge-base/list.phtml, line: 6
 # File: module/Application/view/application/knowledge-base/list.phtml, line: 10
-# File: module/Application/view/layout/layout.phtml, line: 248
+# File: module/Application/view/layout/layout.phtml, line: 249
 msgid "Knowledge Base"
 msgstr ""
 #
@@ -19181,8 +19285,8 @@ msgstr ""
 # File: module/Application/view/application/marketing/list.phtml, line: 48
 # File: module/Application/view/application/marketing/flyers.phtml, line: 62
 # File: module/Application/view/application/marketing/flyer.phtml, line: 613
-# File: module/Application/view/application/packages/manage.phtml, line: 130
 # File: module/Application/view/application/packages/listpackages.phtml, line: 137
+# File: module/Application/view/application/packages/manage.phtml, line: 130
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 211
 # File: module/Application/view/application/portfolio/index.phtml, line: 346
 msgid "Preview"
@@ -19201,10 +19305,10 @@ msgstr ""
 #
 # File: module/Application/view/application/marketing/new.phtml, line: 47
 # File: module/Application/view/application/marketing/flyer.phtml, line: 337
-# File: module/Application/view/application/packages/manage.phtml, line: 161
 # File: module/Application/view/application/packages/newpackage.phtml, line: 63
 # File: module/Application/view/application/packages/newpackage.phtml, line: 64
 # File: module/Application/view/application/packages/listpackages.phtml, line: 105
+# File: module/Application/view/application/packages/manage.phtml, line: 161
 # File: module/Application/view/application/packages/edit.phtml, line: 154
 msgid "Days"
 msgstr ""
@@ -19328,6 +19432,7 @@ msgstr ""
 #
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 160
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 295
+# File: module/Application/view/application/trips/edit.phtml, line: 327
 msgid "Save changes"
 msgstr ""
 #
@@ -19618,6 +19723,8 @@ msgid "Label"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/flyer.phtml, line: 356
+# File: module/Application/view/application/trips/edit.phtml, line: 177
+# File: module/Application/view/application/trips/edit.phtml, line: 184
 msgid "Default"
 msgstr ""
 #
@@ -19871,8 +19978,8 @@ msgstr ""
 # File: module/Application/view/application/packages/edittermsandconditions.phtml, line: 21
 # File: module/Application/view/application/packages/newpackage.phtml, line: 22
 # File: module/Application/view/application/packages/newpackage.phtml, line: 28
-# File: module/Application/view/application/packages/packages.phtml, line: 23
-# File: module/Application/view/application/packages/packages.phtml, line: 28
+# File: module/Application/view/application/packages/packages.phtml, line: 21
+# File: module/Application/view/application/packages/packages.phtml, line: 26
 # File: module/Application/view/application/packages/editnote.phtml, line: 21
 # File: module/Application/view/application/packages/availability.phtml, line: 22
 # File: module/Application/view/application/packages/newnote.phtml, line: 21
@@ -19883,12 +19990,12 @@ msgstr ""
 # File: module/Application/view/application/packages/editexclusion.phtml, line: 21
 # File: module/Application/view/application/packages/exclusions.phtml, line: 26
 # File: module/Application/view/application/packages/newexclusion.phtml, line: 21
+# File: module/Application/view/application/packages/listpackages.phtml, line: 60
 # File: module/Application/view/application/packages/images.phtml, line: 25
 # File: module/Application/view/application/packages/edithotel.phtml, line: 21
 # File: module/Application/view/application/packages/notes.phtml, line: 26
 # File: module/Application/view/application/packages/newhotel.phtml, line: 21
 # File: module/Application/view/application/packages/termsandconditions.phtml, line: 26
-# File: module/Application/view/application/packages/listpackages.phtml, line: 60
 # File: module/Application/view/application/packages/hotels.phtml, line: 27
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 117
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 123
@@ -19995,17 +20102,17 @@ msgstr ""
 #
 # File: module/Application/view/application/packages/editavailability.phtml, line: 76
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 44
-# File: module/Application/view/application/packages/manage.phtml, line: 16
 # File: module/Application/view/application/packages/availability.phtml, line: 67
 # File: module/Application/view/application/packages/listpackages.phtml, line: 6
+# File: module/Application/view/application/packages/manage.phtml, line: 16
 # File: module/Application/view/application/packages/edit.phtml, line: 65
 msgid "Available"
 msgstr ""
 #
 # File: module/Application/view/application/packages/editavailability.phtml, line: 79
-# File: module/Application/view/application/packages/manage.phtml, line: 19
 # File: module/Application/view/application/packages/availability.phtml, line: 73
 # File: module/Application/view/application/packages/listpackages.phtml, line: 9
+# File: module/Application/view/application/packages/manage.phtml, line: 19
 # File: module/Application/view/application/packages/edit.phtml, line: 68
 msgid "Only Quote"
 msgstr ""
@@ -20038,6 +20145,7 @@ msgstr ""
 # File: module/Application/view/application/packages/newoptional.phtml, line: 70
 # File: module/Application/view/application/portfolio/edit.phtml, line: 53
 # File: module/Application/view/application/portfolio/new.phtml, line: 49
+# File: module/Application/view/application/trips/edit.phtml, line: 322
 msgid "Sort order"
 msgstr ""
 #
@@ -20098,7 +20206,7 @@ msgstr ""
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 14
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 28
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 64
-# File: module/Application/view/application/packages/packages.phtml, line: 7
+# File: module/Application/view/application/packages/packages.phtml, line: 13
 msgid "Search Packages"
 msgstr ""
 #
@@ -20159,267 +20267,9 @@ msgstr ""
 msgid "Edit Package Term & Condition"
 msgstr ""
 #
-# File: module/Application/view/application/packages/manage.phtml, line: 70
-# File: module/Application/view/application/packages/availability.phtml, line: 17
-# File: module/Application/view/application/packages/availability.phtml, line: 25
-# File: module/Application/view/application/packages/listpackages.phtml, line: 128
-msgid "Availability"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 72
-# File: module/Application/view/application/packages/inclusions.phtml, line: 21
-# File: module/Application/view/application/packages/inclusions.phtml, line: 29
-msgid "Inclusions"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 73
-# File: module/Application/view/application/packages/exclusions.phtml, line: 21
-# File: module/Application/view/application/packages/exclusions.phtml, line: 29
-msgid "Exclusions"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 78
-msgid "Terms"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 122
-# File: module/Application/view/application/packages/manage.phtml, line: 138
-# File: module/Application/view/application/packages/packages.phtml, line: 4
-# File: module/Application/view/application/packages/availability.phtml, line: 23
-# File: module/Application/view/application/packages/itinerary.phtml, line: 30
-# File: module/Application/view/application/packages/inclusions.phtml, line: 27
-# File: module/Application/view/application/packages/exclusions.phtml, line: 27
-# File: module/Application/view/application/packages/images.phtml, line: 26
-# File: module/Application/view/application/packages/notes.phtml, line: 27
-# File: module/Application/view/application/packages/termsandconditions.phtml, line: 27
-# File: module/Application/view/application/packages/listpackages.phtml, line: 55
-# File: module/Application/view/application/packages/listpackages.phtml, line: 61
-# File: module/Application/view/application/packages/hotels.phtml, line: 28
-msgid "List Packages"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 133
-# File: module/Application/view/application/packages/newpackageai.phtml, line: 214
-msgid "Publish this package now?"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 133
-# File: module/Application/view/application/packages/listpackages.phtml, line: 145
-# File: module/Application/view/application/packages/newpackageai.phtml, line: 214
-msgid "Enable"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 135
-msgid "Unpublish this package?"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 137
-# File: module/Application/view/application/packages/manage.phtml, line: 225
-# File: module/Application/view/application/packages/newpackageai.phtml, line: 216
-msgid "Edit Package"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 159
-msgid "SEO / URL"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 162
-msgid "Base price"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 163
-# File: module/Application/view/application/packages/hotels.phtml, line: 50
-msgid "Stars"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 169
-msgid "Flexible - traveler picks the start date"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 171
-# File: module/Application/view/application/packages/newpackage.phtml, line: 76
-# File: module/Application/view/application/packages/edit.phtml, line: 172
-msgid "Mon"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 171
-# File: module/Application/view/application/packages/newpackage.phtml, line: 76
-# File: module/Application/view/application/packages/edit.phtml, line: 172
-msgid "Tue"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 171
-# File: module/Application/view/application/packages/newpackage.phtml, line: 76
-# File: module/Application/view/application/packages/edit.phtml, line: 172
-msgid "Wed"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 171
-# File: module/Application/view/application/packages/newpackage.phtml, line: 76
-# File: module/Application/view/application/packages/edit.phtml, line: 172
-msgid "Thu"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 171
-# File: module/Application/view/application/packages/newpackage.phtml, line: 76
-# File: module/Application/view/application/packages/edit.phtml, line: 172
-msgid "Fri"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 171
-# File: module/Application/view/application/packages/newpackage.phtml, line: 76
-# File: module/Application/view/application/packages/edit.phtml, line: 172
-msgid "Sat"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 171
-# File: module/Application/view/application/packages/newpackage.phtml, line: 76
-# File: module/Application/view/application/packages/edit.phtml, line: 172
-msgid "Sun"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 183
-msgid "Fixed departure dates (see Availability tab)"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 189
-msgid "Included services"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 194
-# File: module/Application/view/application/packages/newpackage.phtml, line: 112
-# File: module/Application/view/application/packages/newpackage.phtml, line: 113
-msgid "Breakfasts"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 195
-# File: module/Application/view/application/packages/newpackage.phtml, line: 116
-# File: module/Application/view/application/packages/newpackage.phtml, line: 117
-msgid "Lunches"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 196
-# File: module/Application/view/application/packages/newpackage.phtml, line: 120
-# File: module/Application/view/application/packages/newpackage.phtml, line: 121
-msgid "Dinners"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 197
-msgid "Tours & activities"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 199
-msgid "Car"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 207
-msgid "None flagged."
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 210
-msgid "Multilingual names"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 220
-msgid "No cover image yet."
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 230
-msgid "Open full page"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 231
-# File: module/Application/view/application/packages/availability.phtml, line: 38
-msgid "No availability rows yet."
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 233
-msgid "Season / Category"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 233
-msgid "SGL"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 233
-msgid "DBL"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 233
-msgid "TPL"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 256
-msgid "Add day"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 258
-# File: module/Application/view/application/packages/itinerary.phtml, line: 53
-msgid "No itinerary days yet."
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 280
-# File: module/Application/view/application/packages/inclusions.phtml, line: 50
-msgid "No inclusions yet."
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 298
-# File: module/Application/view/application/packages/exclusions.phtml, line: 50
-msgid "No exclusions yet."
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 312
-msgid "Add optional"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 313
-msgid "No optional excursions for this package."
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 333
-msgid "No prices"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 353
-# File: module/Application/view/application/packages/hotels.phtml, line: 44
-msgid "No hotels yet."
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 373
-# File: module/Application/view/partial/communications.phtml, line: 508
-msgid "All categories"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 399
-msgid "Add image"
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 400
-msgid "No images yet - use the AI photo picker or add one manually."
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 420
-# File: module/Application/view/application/packages/notes.phtml, line: 50
-msgid "No notes yet."
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 435
-# File: module/Application/view/application/packages/termsandconditions.phtml, line: 50
-msgid "No terms yet."
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 455
-msgid "Delete this item? This cannot be undone."
-msgstr ""
-#
-# File: module/Application/view/application/packages/manage.phtml, line: 480
-msgid "No rows in this language."
-msgstr ""
-#
 # File: module/Application/view/application/packages/newpackage.phtml, line: 17
 # File: module/Application/view/application/packages/newpackage.phtml, line: 23
-# File: module/Application/view/application/packages/packages.phtml, line: 5
-# File: module/Application/view/application/packages/packages.phtml, line: 34
+# File: module/Application/view/application/packages/packages.phtml, line: 11
 # File: module/Application/view/application/packages/listpackages.phtml, line: 67
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 124
 msgid "New Package"
@@ -20495,6 +20345,66 @@ msgstr ""
 msgid "(flexible packages only - unchecked days are blocked)"
 msgstr ""
 #
+# File: module/Application/view/application/packages/newpackage.phtml, line: 76
+# File: module/Application/view/application/packages/manage.phtml, line: 171
+# File: module/Application/view/application/packages/edit.phtml, line: 172
+msgid "Mon"
+msgstr ""
+#
+# File: module/Application/view/application/packages/newpackage.phtml, line: 76
+# File: module/Application/view/application/packages/manage.phtml, line: 171
+# File: module/Application/view/application/packages/edit.phtml, line: 172
+msgid "Tue"
+msgstr ""
+#
+# File: module/Application/view/application/packages/newpackage.phtml, line: 76
+# File: module/Application/view/application/packages/manage.phtml, line: 171
+# File: module/Application/view/application/packages/edit.phtml, line: 172
+msgid "Wed"
+msgstr ""
+#
+# File: module/Application/view/application/packages/newpackage.phtml, line: 76
+# File: module/Application/view/application/packages/manage.phtml, line: 171
+# File: module/Application/view/application/packages/edit.phtml, line: 172
+msgid "Thu"
+msgstr ""
+#
+# File: module/Application/view/application/packages/newpackage.phtml, line: 76
+# File: module/Application/view/application/packages/manage.phtml, line: 171
+# File: module/Application/view/application/packages/edit.phtml, line: 172
+msgid "Fri"
+msgstr ""
+#
+# File: module/Application/view/application/packages/newpackage.phtml, line: 76
+# File: module/Application/view/application/packages/manage.phtml, line: 171
+# File: module/Application/view/application/packages/edit.phtml, line: 172
+msgid "Sat"
+msgstr ""
+#
+# File: module/Application/view/application/packages/newpackage.phtml, line: 76
+# File: module/Application/view/application/packages/manage.phtml, line: 171
+# File: module/Application/view/application/packages/edit.phtml, line: 172
+msgid "Sun"
+msgstr ""
+#
+# File: module/Application/view/application/packages/newpackage.phtml, line: 112
+# File: module/Application/view/application/packages/newpackage.phtml, line: 113
+# File: module/Application/view/application/packages/manage.phtml, line: 194
+msgid "Breakfasts"
+msgstr ""
+#
+# File: module/Application/view/application/packages/newpackage.phtml, line: 116
+# File: module/Application/view/application/packages/newpackage.phtml, line: 117
+# File: module/Application/view/application/packages/manage.phtml, line: 195
+msgid "Lunches"
+msgstr ""
+#
+# File: module/Application/view/application/packages/newpackage.phtml, line: 120
+# File: module/Application/view/application/packages/newpackage.phtml, line: 121
+# File: module/Application/view/application/packages/manage.phtml, line: 196
+msgid "Dinners"
+msgstr ""
+#
 # File: module/Application/view/application/packages/newpackage.phtml, line: 130
 msgid "Itinerary & Pricing"
 msgstr ""
@@ -20504,6 +20414,7 @@ msgid "Guarantee/Cancel Policy"
 msgstr ""
 #
 # File: module/Application/view/application/packages/newpackage.phtml, line: 135
+# File: module/Application/view/application/trips/edit.phtml, line: 167
 msgid "Markup %"
 msgstr ""
 #
@@ -20527,15 +20438,30 @@ msgstr ""
 msgid "Activate pay/prepayment"
 msgstr ""
 #
-# File: module/Application/view/application/packages/packages.phtml, line: 6
-# File: module/Application/view/application/packages/packages.phtml, line: 33
+# File: module/Application/view/application/packages/packages.phtml, line: 10
+# File: module/Application/view/application/packages/availability.phtml, line: 23
+# File: module/Application/view/application/packages/itinerary.phtml, line: 30
+# File: module/Application/view/application/packages/inclusions.phtml, line: 27
+# File: module/Application/view/application/packages/exclusions.phtml, line: 27
+# File: module/Application/view/application/packages/listpackages.phtml, line: 55
+# File: module/Application/view/application/packages/listpackages.phtml, line: 61
+# File: module/Application/view/application/packages/images.phtml, line: 26
+# File: module/Application/view/application/packages/manage.phtml, line: 122
+# File: module/Application/view/application/packages/manage.phtml, line: 138
+# File: module/Application/view/application/packages/notes.phtml, line: 27
+# File: module/Application/view/application/packages/termsandconditions.phtml, line: 27
+# File: module/Application/view/application/packages/hotels.phtml, line: 28
+msgid "List Packages"
+msgstr ""
+#
+# File: module/Application/view/application/packages/packages.phtml, line: 12
 # File: module/Application/view/application/packages/listpackages.phtml, line: 66
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 112
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 118
 msgid "New Package (Via AI)"
 msgstr ""
 #
-# File: module/Application/view/application/packages/packages.phtml, line: 6
+# File: module/Application/view/application/packages/packages.phtml, line: 12
 msgid "Upload itinerary"
 msgstr ""
 #
@@ -20549,8 +20475,20 @@ msgstr ""
 msgid "Note Details"
 msgstr ""
 #
+# File: module/Application/view/application/packages/availability.phtml, line: 17
+# File: module/Application/view/application/packages/availability.phtml, line: 25
+# File: module/Application/view/application/packages/listpackages.phtml, line: 128
+# File: module/Application/view/application/packages/manage.phtml, line: 70
+msgid "Availability"
+msgstr ""
+#
 # File: module/Application/view/application/packages/availability.phtml, line: 31
 msgid "New Availability"
+msgstr ""
+#
+# File: module/Application/view/application/packages/availability.phtml, line: 38
+# File: module/Application/view/application/packages/manage.phtml, line: 231
+msgid "No availability rows yet."
 msgstr ""
 #
 # File: module/Application/view/application/packages/availability.phtml, line: 140
@@ -20598,6 +20536,11 @@ msgstr ""
 msgid "All Languages"
 msgstr ""
 #
+# File: module/Application/view/application/packages/itinerary.phtml, line: 53
+# File: module/Application/view/application/packages/manage.phtml, line: 258
+msgid "No itinerary days yet."
+msgstr ""
+#
 # File: module/Application/view/application/packages/itinerary.phtml, line: 117
 msgid "Are you sure you want to delete this itinerary?"
 msgstr ""
@@ -20618,6 +20561,17 @@ msgstr ""
 msgid "New Inclusion"
 msgstr ""
 #
+# File: module/Application/view/application/packages/inclusions.phtml, line: 21
+# File: module/Application/view/application/packages/inclusions.phtml, line: 29
+# File: module/Application/view/application/packages/manage.phtml, line: 72
+msgid "Inclusions"
+msgstr ""
+#
+# File: module/Application/view/application/packages/inclusions.phtml, line: 50
+# File: module/Application/view/application/packages/manage.phtml, line: 280
+msgid "No inclusions yet."
+msgstr ""
+#
 # File: module/Application/view/application/packages/inclusions.phtml, line: 110
 msgid "Are you sure you want to delete this inclusion?"
 msgstr ""
@@ -20632,14 +20586,51 @@ msgstr ""
 msgid "Exclusion Details"
 msgstr ""
 #
+# File: module/Application/view/application/packages/exclusions.phtml, line: 21
+# File: module/Application/view/application/packages/exclusions.phtml, line: 29
+# File: module/Application/view/application/packages/manage.phtml, line: 73
+msgid "Exclusions"
+msgstr ""
+#
 # File: module/Application/view/application/packages/exclusions.phtml, line: 35
 # File: module/Application/view/application/packages/newexclusion.phtml, line: 16
 # File: module/Application/view/application/packages/newexclusion.phtml, line: 22
 msgid "New Exclusion"
 msgstr ""
 #
+# File: module/Application/view/application/packages/exclusions.phtml, line: 50
+# File: module/Application/view/application/packages/manage.phtml, line: 298
+msgid "No exclusions yet."
+msgstr ""
+#
 # File: module/Application/view/application/packages/exclusions.phtml, line: 110
 msgid "Are you sure you want to delete this exclusion?"
+msgstr ""
+#
+# File: module/Application/view/application/packages/listpackages.phtml, line: 76
+msgid "Name, SEO or location..."
+msgstr ""
+#
+# File: module/Application/view/application/packages/listpackages.phtml, line: 90
+msgid "packages"
+msgstr ""
+#
+# File: module/Application/view/application/packages/listpackages.phtml, line: 115
+msgid "No packages found."
+msgstr ""
+#
+# File: module/Application/view/application/packages/listpackages.phtml, line: 129
+msgid "Itinerary days"
+msgstr ""
+#
+# File: module/Application/view/application/packages/listpackages.phtml, line: 145
+# File: module/Application/view/application/packages/manage.phtml, line: 133
+# File: module/Application/view/application/packages/newpackageai.phtml, line: 214
+msgid "Enable"
+msgstr ""
+#
+# File: module/Application/view/application/packages/listpackages.phtml, line: 180
+msgid "Delete this package and ALL its content (availability, itinerary, images...)? This cannot be undone."
 msgstr ""
 #
 # File: module/Application/view/application/packages/images.phtml, line: 42
@@ -20669,32 +20660,148 @@ msgstr ""
 msgid "Must match the season/category wording used in Availability, e.g. A, B, Silver."
 msgstr ""
 #
+# File: module/Application/view/application/packages/manage.phtml, line: 78
+msgid "Terms"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 133
+# File: module/Application/view/application/packages/newpackageai.phtml, line: 214
+msgid "Publish this package now?"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 135
+msgid "Unpublish this package?"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 137
+# File: module/Application/view/application/packages/manage.phtml, line: 225
+# File: module/Application/view/application/packages/newpackageai.phtml, line: 216
+msgid "Edit Package"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 159
+msgid "SEO / URL"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 162
+msgid "Base price"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 163
+# File: module/Application/view/application/packages/hotels.phtml, line: 50
+msgid "Stars"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 169
+msgid "Flexible - traveler picks the start date"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 183
+msgid "Fixed departure dates (see Availability tab)"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 189
+msgid "Included services"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 197
+msgid "Tours & activities"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 199
+msgid "Car"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 207
+msgid "None flagged."
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 210
+msgid "Multilingual names"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 220
+msgid "No cover image yet."
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 230
+msgid "Open full page"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 233
+msgid "Season / Category"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 233
+msgid "SGL"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 233
+msgid "DBL"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 233
+msgid "TPL"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 256
+msgid "Add day"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 312
+msgid "Add optional"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 313
+msgid "No optional excursions for this package."
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 333
+msgid "No prices"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 353
+# File: module/Application/view/application/packages/hotels.phtml, line: 44
+msgid "No hotels yet."
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 373
+# File: module/Application/view/partial/communications.phtml, line: 508
+msgid "All categories"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 399
+msgid "Add image"
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 400
+msgid "No images yet - use the AI photo picker or add one manually."
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 420
+# File: module/Application/view/application/packages/notes.phtml, line: 50
+msgid "No notes yet."
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 435
+# File: module/Application/view/application/packages/termsandconditions.phtml, line: 50
+msgid "No terms yet."
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 455
+msgid "Delete this item? This cannot be undone."
+msgstr ""
+#
+# File: module/Application/view/application/packages/manage.phtml, line: 480
+msgid "No rows in this language."
+msgstr ""
+#
 # File: module/Application/view/application/packages/notes.phtml, line: 110
 msgid "Are you sure you want to delete this note?"
 msgstr ""
 #
 # File: module/Application/view/application/packages/termsandconditions.phtml, line: 110
 msgid "Are you sure you want to delete this term & condition?"
-msgstr ""
-#
-# File: module/Application/view/application/packages/listpackages.phtml, line: 76
-msgid "Name, SEO or location..."
-msgstr ""
-#
-# File: module/Application/view/application/packages/listpackages.phtml, line: 90
-msgid "packages"
-msgstr ""
-#
-# File: module/Application/view/application/packages/listpackages.phtml, line: 115
-msgid "No packages found."
-msgstr ""
-#
-# File: module/Application/view/application/packages/listpackages.phtml, line: 129
-msgid "Itinerary days"
-msgstr ""
-#
-# File: module/Application/view/application/packages/listpackages.phtml, line: 180
-msgid "Delete this package and ALL its content (availability, itinerary, images...)? This cannot be undone."
 msgstr ""
 #
 # File: module/Application/view/application/packages/newoptional.phtml, line: 18
@@ -20743,6 +20850,7 @@ msgid "Claude is extracting titles, prices, departures, itinerary days, inclusio
 msgstr ""
 #
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 173
+# File: module/Application/view/application/trips/edit.phtml, line: 355
 msgid "How it works"
 msgstr ""
 #
@@ -20869,6 +20977,7 @@ msgid "Load More"
 msgstr ""
 #
 # File: module/Application/view/application/portfolio/index.phtml, line: 89
+# File: module/Application/view/application/trips/quotes.phtml, line: 17
 msgid "Expired"
 msgstr ""
 #
@@ -21108,7 +21217,7 @@ msgid "List Charges"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 16
-# File: module/Application/view/layout/layout.phtml, line: 162
+# File: module/Application/view/layout/layout.phtml, line: 163
 msgid "List Customers"
 msgstr ""
 #
@@ -23232,6 +23341,325 @@ msgstr ""
 msgid "Delete this communication? This cannot be undone."
 msgstr ""
 #
+# File: module/Application/view/application/trips/index.phtml, line: 8
+# File: module/Application/view/application/trips/quotes.phtml, line: 30
+# File: module/Application/view/application/trips/list.phtml, line: 27
+# File: module/Application/view/application/trips/list.phtml, line: 32
+# File: module/Application/view/application/trips/edit.phtml, line: 69
+# File: module/Application/view/application/trips/edit.phtml, line: 82
+msgid "List Trips"
+msgstr ""
+#
+# File: module/Application/view/application/trips/index.phtml, line: 9
+# File: module/Application/view/application/trips/list.phtml, line: 37
+# File: module/Application/view/application/trips/edit.phtml, line: 64
+msgid "New Trip"
+msgstr ""
+#
+# File: module/Application/view/application/trips/index.phtml, line: 9
+msgid "Hotel + flight, priced live"
+msgstr ""
+#
+# File: module/Application/view/application/trips/index.phtml, line: 10
+# File: module/Application/view/application/trips/edit.phtml, line: 317
+msgid "Live on the site"
+msgstr ""
+#
+# File: module/Application/view/application/trips/index.phtml, line: 30
+msgid "Trips"
+msgstr ""
+#
+# File: module/Application/view/application/trips/quotes.phtml, line: 13
+msgid "Quoted"
+msgstr ""
+#
+# File: module/Application/view/application/trips/quotes.phtml, line: 14
+msgid "Booking..."
+msgstr ""
+#
+# File: module/Application/view/application/trips/quotes.phtml, line: 16
+msgid "Failed"
+msgstr ""
+#
+# File: module/Application/view/application/trips/quotes.phtml, line: 31
+# File: module/Application/view/application/trips/list.phtml, line: 114
+msgid "Quotes & bookings"
+msgstr ""
+#
+# File: module/Application/view/application/trips/quotes.phtml, line: 36
+msgid "Edit trip"
+msgstr ""
+#
+# File: module/Application/view/application/trips/quotes.phtml, line: 45
+msgid "When"
+msgstr ""
+#
+# File: module/Application/view/application/trips/quotes.phtml, line: 46
+msgid "Travel"
+msgstr ""
+#
+# File: module/Application/view/application/trips/quotes.phtml, line: 47
+msgid "Party"
+msgstr ""
+#
+# File: module/Application/view/application/trips/quotes.phtml, line: 56
+msgid "No quotes yet for this trip."
+msgstr ""
+#
+# File: module/Application/view/application/trips/quotes.phtml, line: 68
+msgid "markup"
+msgstr ""
+#
+# File: module/Application/view/application/trips/list.phtml, line: 9
+# File: module/Application/view/application/trips/edit.phtml, line: 316
+msgid "Draft"
+msgstr ""
+#
+# File: module/Application/view/application/trips/list.phtml, line: 10
+msgid "Live"
+msgstr ""
+#
+# File: module/Application/view/application/trips/list.phtml, line: 11
+# File: module/Application/view/application/trips/edit.phtml, line: 318
+msgid "Archived"
+msgstr ""
+#
+# File: module/Application/view/application/trips/list.phtml, line: 46
+msgid "Name, destination or URL..."
+msgstr ""
+#
+# File: module/Application/view/application/trips/list.phtml, line: 58
+msgid "trips"
+msgstr ""
+#
+# File: module/Application/view/application/trips/list.phtml, line: 70
+# File: module/Application/view/application/trips/edit.phtml, line: 101
+msgid "Trip"
+msgstr ""
+#
+# File: module/Application/view/application/trips/list.phtml, line: 75
+msgid "Last quote"
+msgstr ""
+#
+# File: module/Application/view/application/trips/list.phtml, line: 82
+msgid "No trips yet."
+msgstr ""
+#
+# File: module/Application/view/application/trips/list.phtml, line: 82
+msgid "Build the first one."
+msgstr ""
+#
+# File: module/Application/view/application/trips/list.phtml, line: 96
+msgid "not priced yet"
+msgstr ""
+#
+# File: module/Application/view/application/trips/list.phtml, line: 110
+msgid "Take offline"
+msgstr ""
+#
+# File: module/Application/view/application/trips/list.phtml, line: 112
+msgid "Put live"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 30
+msgid "Any supplier"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 36
+msgid "Any board"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 36
+msgid "Room only"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 36
+msgid "Bed & breakfast"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 36
+msgid "Half board"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 36
+msgid "Full board"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 36
+msgid "All inclusive"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 77
+msgid "Open on site"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 79
+msgid "Only live trips are visible on the site. Set the status to Live first."
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 79
+msgid "Draft - not on site yet"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 88
+msgid "Trip saved."
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 88
+msgid "It is still a draft - set the status to Live when the test quote looks right."
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 105
+msgid "e.g. Cancun all inclusive, 5 nights, flights from Miami"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 108
+msgid "Name (Spanish)"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 112
+msgid "Tagline"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 113
+msgid "One line under the title"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 116
+msgid "Tagline (Spanish)"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 124
+msgid "Description (Spanish)"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 128
+msgid "Destination label"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 129
+msgid "Cancun, Mexico (defaults to the hotel's city)"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 132
+msgid "Cover image URL"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 133
+msgid "Leave empty to use the hotel's photo"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 142
+msgid "Dates, travellers & price"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 149
+msgid "Default departure"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 155
+msgid "Lock the date (traveller cannot change it)"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 189
+msgid "The markup is applied to the sum of the components and booked as the agency service charge, so the reservation total equals what the traveller saw."
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 198
+msgid "required"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 203
+msgid "Type a hotel name or city..."
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 220
+msgid "Board"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 225
+msgid "At quote time: the cheapest room in that board, from that supplier (or every enabled one). If no room has the board, the cheapest room is shown and flagged."
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 235
+# File: module/Application/view/application/trips/edit.phtml, line: 275
+msgid "Include"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 252
+msgid "A = any airline"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 255
+msgid "GDS / supplier"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 274
+msgid "next stage"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 282
+msgid "Type an activity or destination..."
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 293
+msgid "On day"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 302
+msgid "Saved with the trip, but not priced or booked until this component's stage ships. Quotes will say so."
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 327
+msgid "Create trip"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 338
+msgid "Test quote"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 340
+msgid "Save the trip first, then price it here for any date before putting it live."
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 346
+# File: module/Application/view/application/trips/edit.phtml, line: 416
+# File: module/Application/view/application/trips/edit.phtml, line: 448
+msgid "Price it now"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 348
+msgid "Runs the exact same middleware call the site uses. Prices what is saved - save your changes first."
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 356
+msgid "A trip is a recipe, not a rate. Each component searches its suppliers live for the traveller's date, the markup is applied, and everything is booked as one reservation. Supplier choices narrow the search; they never switch on a supplier that is disabled for the agency."
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 413
+msgid "Checking suppliers..."
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 435
+msgid "Out"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 437
+msgid "Ret"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 442
+msgid "next stage - not priced"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 445
+msgid "per person"
+msgstr ""
+#
+# File: module/Application/view/application/trips/edit.phtml, line: 449
+msgid "The request failed."
+msgstr ""
+#
 # File: module/Application/view/layout/layout.phtml, line: 64
 msgid "Change language"
 msgstr ""
@@ -23264,7 +23692,7 @@ msgstr ""
 msgid "On the top of the screen, you will see a menu bar with three options: Dashboard, Reservations, and Customers. In this area, you can easily manage your reservations and customers, as well as make new reservations."
 msgstr ""
 #
-# File: module/Application/view/layout/layout.phtml, line: 171
+# File: module/Application/view/layout/layout.phtml, line: 172
 msgid "NEW"
 msgstr ""
 #
