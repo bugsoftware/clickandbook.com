@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-18 02:11-0400\n"
+"POT-Creation-Date: 2026-09-18 08:43-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -52,16 +52,16 @@ msgstr ""
 # File: module/Application/src/Controller/CustomersController.php, line: 3404
 # File: module/Application/src/Controller/CustomersController.php, line: 3670
 # File: module/Application/src/Controller/IndexController.php, line: 16525
-# File: module/Application/src/Controller/HotelsController.php, line: 7191
-# File: module/Application/src/Controller/HotelsController.php, line: 7213
-# File: module/Application/src/Controller/HotelsController.php, line: 8006
-# File: module/Application/src/Controller/HotelsController.php, line: 8311
 # File: module/Application/src/Controller/FlightsController.php, line: 3121
 # File: module/Application/src/Controller/FlightsController.php, line: 3286
 # File: module/Application/src/Controller/FlightsController.php, line: 3451
 # File: module/Application/src/Controller/FlightsController.php, line: 3616
 # File: module/Application/src/Controller/FlightsController.php, line: 4057
 # File: module/Application/src/Controller/FlightsController.php, line: 4373
+# File: module/Application/src/Controller/HotelsController.php, line: 7191
+# File: module/Application/src/Controller/HotelsController.php, line: 7213
+# File: module/Application/src/Controller/HotelsController.php, line: 8006
+# File: module/Application/src/Controller/HotelsController.php, line: 8311
 # File: module/Application/src/Controller/MarketingController.php, line: 555
 # File: module/Application/src/Controller/CruisesController.php, line: 859
 # File: module/Application/src/Controller/CruisesController.php, line: 1246
@@ -459,8 +459,8 @@ msgstr ""
 # File: module/Application/src/Controller/ReservationsController.php, line: 1863
 # File: module/Application/src/Controller/TransfersController.php, line: 1074
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1203
-# File: module/Application/src/Controller/HotelsController.php, line: 8324
 # File: module/Application/src/Controller/FlightsController.php, line: 4386
+# File: module/Application/src/Controller/HotelsController.php, line: 8324
 # File: module/Application/src/Controller/CruisesController.php, line: 1259
 msgid "All Payment Status"
 msgstr ""
@@ -471,8 +471,8 @@ msgstr ""
 # File: module/Application/src/Controller/ReservationsController.php, line: 1913
 # File: module/Application/src/Controller/TransfersController.php, line: 1124
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1253
-# File: module/Application/src/Controller/HotelsController.php, line: 8374
 # File: module/Application/src/Controller/FlightsController.php, line: 4436
+# File: module/Application/src/Controller/HotelsController.php, line: 8374
 # File: module/Application/src/Controller/CruisesController.php, line: 1309
 msgid "All Reservation Status"
 msgstr ""
@@ -621,7 +621,6 @@ msgstr ""
 # File: module/Application/view/application/flights/settings.phtml, line: 11
 # File: module/Application/view/application/flights/viewfarealert.phtml, line: 15
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 11
-# File: module/Application/view/application/flights/routemap.phtml, line: 11
 # File: module/Application/view/application/flights/airblocks.phtml, line: 114
 # File: module/Application/view/application/flights/listairblocks.phtml, line: 119
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 69
@@ -631,6 +630,7 @@ msgstr ""
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 21
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 21
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 104
+# File: module/Application/view/application/flights/routemap.phtml, line: 11
 # File: module/Application/view/application/index/billing.phtml, line: 71
 # File: module/Application/view/application/index/billing.phtml, line: 169
 # File: module/Application/view/application/index/billing.phtml, line: 208
@@ -1606,7 +1606,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/CustomersController.php, line: 4032
 # File: module/Application/src/Controller/HotelsController.php, line: 7047
-# File: module/Application/view/application/flights/routemap.phtml, line: 70
+# File: module/Application/view/application/flights/routemap.phtml, line: 82
 # File: module/Application/view/application/index/banners.phtml, line: 93
 # File: module/Application/view/application/index/banners.phtml, line: 116
 # File: module/Application/view/application/index/bannersedit.phtml, line: 87
@@ -2254,6 +2254,182 @@ msgstr ""
 msgid "Please correct the highlighted fields."
 msgstr ""
 #
+# File: module/Application/src/Controller/FlightsController.php, line: 1545
+# File: module/Application/src/Controller/FlightsController.php, line: 2150
+msgid "All Charters"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1568
+# File: module/Application/src/Controller/FlightsController.php, line: 1797
+# File: module/Application/src/Controller/FlightsController.php, line: 2446
+msgid "All Aircrafts"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1585
+# File: module/Application/src/Controller/FlightsController.php, line: 1814
+# File: module/Application/src/Controller/FlightsController.php, line: 2097
+# File: module/Application/src/Controller/FlightsController.php, line: 2464
+# File: module/Application/src/Controller/HotelsController.php, line: 1992
+# File: module/Application/src/Controller/CruisesController.php, line: 1934
+# File: module/Application/view/application/agents/edit.phtml, line: 163
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 48
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 54
+# File: module/Application/view/application/customers/edit.phtml, line: 51
+# File: module/Application/view/application/flights/listairblocks.phtml, line: 188
+# File: module/Application/view/application/flights/airblock.phtml, line: 93
+# File: module/Application/view/application/packages/editoptional.phtml, line: 67
+# File: module/Application/view/application/packages/manage.phtml, line: 243
+# File: module/Application/view/application/packages/newoptional.phtml, line: 65
+msgid "Enabled"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1589
+# File: module/Application/src/Controller/FlightsController.php, line: 1818
+# File: module/Application/src/Controller/FlightsController.php, line: 2101
+# File: module/Application/src/Controller/FlightsController.php, line: 2468
+# File: module/Application/src/Controller/HotelsController.php, line: 1994
+# File: module/Application/src/Controller/CruisesController.php, line: 1935
+# File: module/Application/view/application/agents/list.phtml, line: 66
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 48
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 54
+# File: module/Application/view/application/customers/edit.phtml, line: 52
+# File: module/Application/view/application/flights/listairblocks.phtml, line: 189
+# File: module/Application/view/application/flights/airblock.phtml, line: 94
+# File: module/Application/view/application/packages/editavailability.phtml, line: 78
+# File: module/Application/view/application/packages/editoptional.phtml, line: 68
+# File: module/Application/view/application/packages/searchpackages.phtml, line: 48
+# File: module/Application/view/application/packages/availability.phtml, line: 71
+# File: module/Application/view/application/packages/listpackages.phtml, line: 8
+# File: module/Application/view/application/packages/manage.phtml, line: 18
+# File: module/Application/view/application/packages/manage.phtml, line: 243
+# File: module/Application/view/application/packages/manage.phtml, line: 326
+# File: module/Application/view/application/packages/newoptional.phtml, line: 66
+# File: module/Application/view/application/packages/edit.phtml, line: 67
+msgid "Disabled"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1599
+# File: module/Application/src/Controller/FlightsController.php, line: 2111
+msgid "Pending Prepaid"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1603
+# File: module/Application/src/Controller/FlightsController.php, line: 2115
+msgid "Prepaid"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1611
+# File: module/Application/src/Controller/FlightsController.php, line: 2123
+msgid "Returned Without Penalty"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1615
+# File: module/Application/src/Controller/FlightsController.php, line: 2127
+msgid "Returned With Penalty"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1619
+# File: module/Application/src/Controller/FlightsController.php, line: 2131
+msgid "Canceled"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1623
+# File: module/Application/src/Controller/FlightsController.php, line: 2135
+msgid "Issued"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 1775
+# File: module/Application/src/Controller/FlightsController.php, line: 2423
+msgid "All Airlines"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5157
+msgid "That reservation has no air segment to ticket."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5222
+msgid "This reservation is already ticketed."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5227
+msgid "The middleware URL is not configured (settings.middleware)."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5254
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 784
+msgid "Enter the name as printed on the card."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5257
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 786
+msgid "The card number must be between 13 and 19 digits."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5259
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 788
+msgid "That card number is not valid - check for a typo."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5262
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 791
+msgid "The expiry month must be between 01 and 12."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5265
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 794
+msgid "Check the expiry year."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5267
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 796
+msgid "That card has expired."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5270
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 798
+msgid "The security code is 3 or 4 digits."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5273
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 799
+msgid "Enter the billing address."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5276
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 800
+msgid "Enter the billing city."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5279
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 801
+msgid "Enter the billing ZIP or postcode."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5282
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 802
+msgid "Enter the billing country."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5285
+msgid "That e-mail address is not valid."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5290
+msgid "Nothing was sent to the airline - please correct the payment details below and try again."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5360
+msgid "Tickets issued."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5377
+msgid "The middleware rejected the request."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5384
+msgid "The middleware did not respond."
+msgstr ""
+#
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 551
 msgid "We Received Your Contact Request"
 msgstr ""
@@ -2404,49 +2580,6 @@ msgstr ""
 msgid "15 Nights Charge"
 msgstr ""
 #
-# File: module/Application/src/Controller/HotelsController.php, line: 1992
-# File: module/Application/src/Controller/FlightsController.php, line: 1585
-# File: module/Application/src/Controller/FlightsController.php, line: 1814
-# File: module/Application/src/Controller/FlightsController.php, line: 2097
-# File: module/Application/src/Controller/FlightsController.php, line: 2464
-# File: module/Application/src/Controller/CruisesController.php, line: 1934
-# File: module/Application/view/application/agents/edit.phtml, line: 163
-# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 48
-# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 54
-# File: module/Application/view/application/customers/edit.phtml, line: 51
-# File: module/Application/view/application/flights/listairblocks.phtml, line: 188
-# File: module/Application/view/application/flights/airblock.phtml, line: 93
-# File: module/Application/view/application/packages/editoptional.phtml, line: 67
-# File: module/Application/view/application/packages/manage.phtml, line: 243
-# File: module/Application/view/application/packages/newoptional.phtml, line: 65
-msgid "Enabled"
-msgstr ""
-#
-# File: module/Application/src/Controller/HotelsController.php, line: 1994
-# File: module/Application/src/Controller/FlightsController.php, line: 1589
-# File: module/Application/src/Controller/FlightsController.php, line: 1818
-# File: module/Application/src/Controller/FlightsController.php, line: 2101
-# File: module/Application/src/Controller/FlightsController.php, line: 2468
-# File: module/Application/src/Controller/CruisesController.php, line: 1935
-# File: module/Application/view/application/agents/list.phtml, line: 66
-# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 48
-# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 54
-# File: module/Application/view/application/customers/edit.phtml, line: 52
-# File: module/Application/view/application/flights/listairblocks.phtml, line: 189
-# File: module/Application/view/application/flights/airblock.phtml, line: 94
-# File: module/Application/view/application/packages/editavailability.phtml, line: 78
-# File: module/Application/view/application/packages/editoptional.phtml, line: 68
-# File: module/Application/view/application/packages/searchpackages.phtml, line: 48
-# File: module/Application/view/application/packages/availability.phtml, line: 71
-# File: module/Application/view/application/packages/listpackages.phtml, line: 8
-# File: module/Application/view/application/packages/manage.phtml, line: 18
-# File: module/Application/view/application/packages/manage.phtml, line: 243
-# File: module/Application/view/application/packages/manage.phtml, line: 326
-# File: module/Application/view/application/packages/newoptional.phtml, line: 66
-# File: module/Application/view/application/packages/edit.phtml, line: 67
-msgid "Disabled"
-msgstr ""
-#
 # File: module/Application/src/Controller/HotelsController.php, line: 2644
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 171
 msgid "Room Only"
@@ -2468,139 +2601,6 @@ msgstr ""
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1524
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 206
 msgid "nights"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1545
-# File: module/Application/src/Controller/FlightsController.php, line: 2150
-msgid "All Charters"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1568
-# File: module/Application/src/Controller/FlightsController.php, line: 1797
-# File: module/Application/src/Controller/FlightsController.php, line: 2446
-msgid "All Aircrafts"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1599
-# File: module/Application/src/Controller/FlightsController.php, line: 2111
-msgid "Pending Prepaid"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1603
-# File: module/Application/src/Controller/FlightsController.php, line: 2115
-msgid "Prepaid"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1611
-# File: module/Application/src/Controller/FlightsController.php, line: 2123
-msgid "Returned Without Penalty"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1615
-# File: module/Application/src/Controller/FlightsController.php, line: 2127
-msgid "Returned With Penalty"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1619
-# File: module/Application/src/Controller/FlightsController.php, line: 2131
-msgid "Canceled"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1623
-# File: module/Application/src/Controller/FlightsController.php, line: 2135
-msgid "Issued"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1775
-# File: module/Application/src/Controller/FlightsController.php, line: 2423
-msgid "All Airlines"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5074
-msgid "That reservation has no air segment to ticket."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5139
-msgid "This reservation is already ticketed."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5144
-msgid "The middleware URL is not configured (settings.middleware)."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5171
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 784
-msgid "Enter the name as printed on the card."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5174
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 786
-msgid "The card number must be between 13 and 19 digits."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5176
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 788
-msgid "That card number is not valid - check for a typo."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5179
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 791
-msgid "The expiry month must be between 01 and 12."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5182
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 794
-msgid "Check the expiry year."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5184
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 796
-msgid "That card has expired."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5187
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 798
-msgid "The security code is 3 or 4 digits."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5190
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 799
-msgid "Enter the billing address."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5193
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 800
-msgid "Enter the billing city."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5196
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 801
-msgid "Enter the billing ZIP or postcode."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5199
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 802
-msgid "Enter the billing country."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5202
-msgid "That e-mail address is not valid."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5207
-msgid "Nothing was sent to the airline - please correct the payment details below and try again."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5277
-msgid "Tickets issued."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5294
-msgid "The middleware rejected the request."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5301
-msgid "The middleware did not respond."
 msgstr ""
 #
 # File: module/Application/src/Controller/ViewReservationController.php, line: 2299
@@ -3068,7 +3068,6 @@ msgstr ""
 #
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 130
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 496
-# File: module/Application/view/application/flights/routemap.phtml, line: 39
 # File: module/Application/view/application/flights/listairblocks.phtml, line: 167
 # File: module/Application/view/application/flights/listairblocks.phtml, line: 210
 # File: module/Application/view/application/flights/newairblock.phtml, line: 51
@@ -3076,6 +3075,7 @@ msgstr ""
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 140
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 419
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 701
+# File: module/Application/view/application/flights/routemap.phtml, line: 51
 # File: module/Application/view/application/index/search.old.phtml, line: 842
 # File: module/Application/view/application/index/search.phtml, line: 608
 # File: module/Application/view/application/marketing/edit.phtml, line: 28
@@ -4103,6 +4103,7 @@ msgstr ""
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 2305
 # File: module/Application/view/application/flights/farealert.phtml, line: 44
 # File: module/Application/view/application/flights/listfarealerts.phtml, line: 33
+# File: module/Application/view/application/flights/routemap.phtml, line: 39
 # File: module/Application/view/application/hotels/promotions.phtml, line: 103
 # File: module/Application/view/application/index/search.old.phtml, line: 668
 # File: module/Application/view/application/index/search.old.phtml, line: 916
@@ -4544,7 +4545,6 @@ msgstr ""
 # File: module/Application/view/application/flights/settings.phtml, line: 10
 # File: module/Application/view/application/flights/viewfarealert.phtml, line: 13
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 10
-# File: module/Application/view/application/flights/routemap.phtml, line: 10
 # File: module/Application/view/application/flights/airblocks.phtml, line: 113
 # File: module/Application/view/application/flights/listairblocks.phtml, line: 118
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 68
@@ -4554,6 +4554,7 @@ msgstr ""
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 20
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 20
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 103
+# File: module/Application/view/application/flights/routemap.phtml, line: 10
 # File: module/Application/view/application/hotels/cancellationpolicies.phtml, line: 10
 # File: module/Application/view/application/hotels/childpolicies.phtml, line: 10
 # File: module/Application/view/application/hotels/contractrates.phtml, line: 10
@@ -8753,6 +8754,7 @@ msgid "Cancel"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/newconfirmedcruise.phtml, line: 86
+# File: module/Application/view/application/flights/routemap.phtml, line: 168
 # File: module/Application/view/application/reports/productivity.phtml, line: 243
 msgid "Loading..."
 msgstr ""
@@ -9909,19 +9911,19 @@ msgstr ""
 #
 # File: module/Application/view/application/flights/farealert.phtml, line: 30
 # File: module/Application/view/application/flights/listfarealerts.phtml, line: 49
-# File: module/Application/view/application/flights/routemap.phtml, line: 72
-# File: module/Application/view/application/flights/routemap.phtml, line: 286
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 60
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 63
+# File: module/Application/view/application/flights/routemap.phtml, line: 84
+# File: module/Application/view/application/flights/routemap.phtml, line: 319
 msgid "Round Trip"
 msgstr ""
 #
 # File: module/Application/view/application/flights/farealert.phtml, line: 34
 # File: module/Application/view/application/flights/listfarealerts.phtml, line: 49
-# File: module/Application/view/application/flights/routemap.phtml, line: 71
-# File: module/Application/view/application/flights/routemap.phtml, line: 286
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 64
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 67
+# File: module/Application/view/application/flights/routemap.phtml, line: 83
+# File: module/Application/view/application/flights/routemap.phtml, line: 319
 msgid "One Way"
 msgstr ""
 #
@@ -10117,100 +10119,6 @@ msgstr ""
 msgid "Search Reservations-Void Reservation"
 msgstr ""
 #
-# File: module/Application/view/application/flights/routemap.phtml, line: 12
-# File: module/Application/view/layout/layout.phtml, line: 172
-msgid "Route Map"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 20
-msgid "Flight Route Map"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 41
-# File: module/Application/view/application/flights/listairblocks.phtml, line: 169
-# File: module/Application/view/application/index/search.old.phtml, line: 847
-# File: module/Application/view/application/index/search.phtml, line: 611
-# File: module/Application/view/partial/communications.phtml, line: 502
-msgid "All airlines"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 48
-# File: module/Application/view/application/index/search.phtml, line: 484
-msgid "Max price"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 49
-# File: module/Application/view/application/flights/routemap.phtml, line: 61
-# File: module/Application/view/application/flights/routemap.phtml, line: 65
-# File: module/Application/view/application/index/search.phtml, line: 485
-msgid "Any"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 52
-# File: module/Application/view/application/flights/airblockavailability.phtml, line: 113
-# File: module/Application/view/application/index/search.phtml, line: 434
-msgid "Departing from"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 56
-# File: module/Application/view/application/flights/airblockavailability.phtml, line: 117
-msgid "Departing to"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 60
-msgid "Min nights"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 64
-msgid "Max nights"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 68
-msgid "Trip type"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 78
-msgid "Nonstop only"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 82
-msgid "Update map"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 91
-msgid "Prices shown are for reference only and may be slightly lower or higher at the time of booking. Fares can change based on real-time availability, currency, taxes and fare type (for example NDC content), and other factors. Please confirm the final price during the booking process."
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 157
-# File: module/Application/view/application/index/search.phtml, line: 442
-msgid "destinations"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 170
-msgid "Lower price"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 171
-msgid "Mid price"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 172
-msgid "Higher price"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 194
-msgid "Toggle fullscreen"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 287
-# File: module/Application/view/application/hotels/promotions.phtml, line: 116
-msgid "Nonstop"
-msgstr ""
-#
-# File: module/Application/view/application/flights/routemap.phtml, line: 314
-msgid "Book"
-msgstr ""
-#
 # File: module/Application/view/application/flights/airblocks.phtml, line: 9
 # File: module/Application/view/application/flights/airblocks.phtml, line: 121
 # File: module/Application/view/application/flights/listairblocks.phtml, line: 128
@@ -10298,6 +10206,14 @@ msgstr ""
 msgid "Name, origin, destination..."
 msgstr ""
 #
+# File: module/Application/view/application/flights/listairblocks.phtml, line: 169
+# File: module/Application/view/application/flights/routemap.phtml, line: 53
+# File: module/Application/view/application/index/search.old.phtml, line: 847
+# File: module/Application/view/application/index/search.phtml, line: 611
+# File: module/Application/view/partial/communications.phtml, line: 502
+msgid "All airlines"
+msgstr ""
+#
 # File: module/Application/view/application/flights/listairblocks.phtml, line: 176
 # File: module/Application/view/application/flights/listairblocks.phtml, line: 211
 # File: module/Application/view/application/flights/newairblock.phtml, line: 75
@@ -10378,6 +10294,17 @@ msgstr ""
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 106
 # File: module/Application/view/application/flights/airblocksreport.phtml, line: 77
 msgid "Select Air Block"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 113
+# File: module/Application/view/application/flights/routemap.phtml, line: 64
+# File: module/Application/view/application/index/search.phtml, line: 434
+msgid "Departing from"
+msgstr ""
+#
+# File: module/Application/view/application/flights/airblockavailability.phtml, line: 117
+# File: module/Application/view/application/flights/routemap.phtml, line: 68
+msgid "Departing to"
 msgstr ""
 #
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 138
@@ -10999,6 +10926,88 @@ msgstr ""
 #
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 747
 msgid "Issuing..."
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 12
+# File: module/Application/view/layout/layout.phtml, line: 172
+msgid "Route Map"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 20
+msgid "Flight Route Map"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 41
+# File: module/Application/view/application/flights/routemap.phtml, line: 171
+# File: module/Application/view/application/flights/routemap.phtml, line: 181
+# File: module/Application/view/application/index/search.phtml, line: 463
+msgid "All destinations"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 60
+# File: module/Application/view/application/index/search.phtml, line: 484
+msgid "Max price"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 61
+# File: module/Application/view/application/flights/routemap.phtml, line: 73
+# File: module/Application/view/application/flights/routemap.phtml, line: 77
+# File: module/Application/view/application/index/search.phtml, line: 485
+msgid "Any"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 72
+msgid "Min nights"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 76
+msgid "Max nights"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 80
+msgid "Trip type"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 90
+msgid "Nonstop only"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 94
+msgid "Update map"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 103
+msgid "Prices shown are for reference only and may be slightly lower or higher at the time of booking. Fares can change based on real-time availability, currency, taxes and fare type (for example NDC content), and other factors. Please confirm the final price during the booking process."
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 190
+# File: module/Application/view/application/index/search.phtml, line: 442
+msgid "destinations"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 203
+msgid "Lower price"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 204
+msgid "Mid price"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 205
+msgid "Higher price"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 227
+msgid "Toggle fullscreen"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 320
+# File: module/Application/view/application/hotels/promotions.phtml, line: 116
+msgid "Nonstop"
+msgstr ""
+#
+# File: module/Application/view/application/flights/routemap.phtml, line: 347
+msgid "Book"
 msgstr ""
 #
 # File: module/Application/view/application/help/index.phtml, line: 7
@@ -18737,10 +18746,6 @@ msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 456
 msgid "Any name, or leave empty"
-msgstr ""
-#
-# File: module/Application/view/application/index/search.phtml, line: 463
-msgid "All destinations"
 msgstr ""
 #
 # File: module/Application/view/application/index/search.phtml, line: 476
