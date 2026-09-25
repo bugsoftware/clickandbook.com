@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-25 10:14-0400\n"
+"POT-Creation-Date: 2026-09-25 12:35-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,9 +35,9 @@ msgstr ""
 # File: module/Application/src/Controller/EscortedtoursController.php, line: 3082
 # File: module/Application/src/Controller/InsurancesController.php, line: 409
 # File: module/Application/src/Controller/InsurancesController.php, line: 732
-# File: module/Application/src/Controller/ReservationsController.php, line: 1488
-# File: module/Application/src/Controller/ReservationsController.php, line: 1812
-# File: module/Application/src/Controller/ReservationsController.php, line: 2017
+# File: module/Application/src/Controller/ReservationsController.php, line: 1497
+# File: module/Application/src/Controller/ReservationsController.php, line: 1821
+# File: module/Application/src/Controller/ReservationsController.php, line: 2026
 # File: module/Application/src/Controller/SupportController.php, line: 237
 # File: module/Application/src/Controller/SupportController.php, line: 424
 # File: module/Application/src/Controller/TransfersController.php, line: 780
@@ -456,7 +456,7 @@ msgstr ""
 # File: module/Application/src/Controller/CarsController.php, line: 1052
 # File: module/Application/src/Controller/EscortedtoursController.php, line: 3095
 # File: module/Application/src/Controller/InsurancesController.php, line: 745
-# File: module/Application/src/Controller/ReservationsController.php, line: 2030
+# File: module/Application/src/Controller/ReservationsController.php, line: 2039
 # File: module/Application/src/Controller/TransfersController.php, line: 1074
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1203
 # File: module/Application/src/Controller/FlightsController.php, line: 4386
@@ -468,7 +468,7 @@ msgstr ""
 # File: module/Application/src/Controller/CarsController.php, line: 1102
 # File: module/Application/src/Controller/EscortedtoursController.php, line: 3145
 # File: module/Application/src/Controller/InsurancesController.php, line: 795
-# File: module/Application/src/Controller/ReservationsController.php, line: 2080
+# File: module/Application/src/Controller/ReservationsController.php, line: 2089
 # File: module/Application/src/Controller/TransfersController.php, line: 1124
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1253
 # File: module/Application/src/Controller/FlightsController.php, line: 4436
@@ -1143,15 +1143,15 @@ msgstr ""
 msgid "Pending Review"
 msgstr ""
 #
-# File: module/Application/src/Controller/ReservationsController.php, line: 944
+# File: module/Application/src/Controller/ReservationsController.php, line: 953
 msgid "Action Required: New cruise settlement received – review required"
 msgstr ""
 #
-# File: module/Application/src/Controller/ReservationsController.php, line: 1111
+# File: module/Application/src/Controller/ReservationsController.php, line: 1120
 msgid "Please Select"
 msgstr ""
 #
-# File: module/Application/src/Controller/ReservationsController.php, line: 1140
+# File: module/Application/src/Controller/ReservationsController.php, line: 1149
 # File: module/Application/src/Controller/CustomersController.php, line: 2016
 # File: module/Application/src/Controller/CustomersController.php, line: 2017
 # File: module/Application/src/Controller/CustomersController.php, line: 2018
@@ -1169,41 +1169,41 @@ msgstr ""
 msgid "None"
 msgstr ""
 #
-# File: module/Application/src/Controller/ReservationsController.php, line: 1160
+# File: module/Application/src/Controller/ReservationsController.php, line: 1169
 # File: module/Application/src/Controller/ViewReservationController.php, line: 3371
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2474
 msgid "Credit Card"
 msgstr ""
 #
-# File: module/Application/src/Controller/ReservationsController.php, line: 1165
+# File: module/Application/src/Controller/ReservationsController.php, line: 1174
 msgid "Affirm"
 msgstr ""
 #
-# File: module/Application/src/Controller/ReservationsController.php, line: 1170
+# File: module/Application/src/Controller/ReservationsController.php, line: 1179
 msgid "PayPal"
 msgstr ""
 #
-# File: module/Application/src/Controller/ReservationsController.php, line: 1175
+# File: module/Application/src/Controller/ReservationsController.php, line: 1184
 msgid "Safety Pay"
 msgstr ""
 #
-# File: module/Application/src/Controller/ReservationsController.php, line: 1180
+# File: module/Application/src/Controller/ReservationsController.php, line: 1189
 msgid "PayU"
 msgstr ""
 #
-# File: module/Application/src/Controller/ReservationsController.php, line: 1185
+# File: module/Application/src/Controller/ReservationsController.php, line: 1194
 msgid "Book Now and Pay Later"
 msgstr ""
 #
-# File: module/Application/src/Controller/ReservationsController.php, line: 1190
+# File: module/Application/src/Controller/ReservationsController.php, line: 1199
 msgid "PayFort"
 msgstr ""
 #
-# File: module/Application/src/Controller/ReservationsController.php, line: 1195
+# File: module/Application/src/Controller/ReservationsController.php, line: 1204
 msgid "Sadad"
 msgstr ""
 #
-# File: module/Application/src/Controller/ReservationsController.php, line: 1200
+# File: module/Application/src/Controller/ReservationsController.php, line: 1209
 msgid "PayeeZy"
 msgstr ""
 #
@@ -21943,8 +21943,16 @@ msgstr ""
 msgid "Agency Details"
 msgstr ""
 #
+# File: module/Application/view/application/reservations/newreservation.phtml, line: 70
+msgid "Leave blank if the booking is for yourself"
+msgstr ""
+#
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 83
 msgid "Contact Details"
+msgstr ""
+#
+# File: module/Application/view/application/reservations/newreservation.phtml, line: 83
+msgid "Insert customer details here"
 msgstr ""
 #
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 99
