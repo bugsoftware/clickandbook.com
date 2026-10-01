@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-30 12:40-0400\n"
+"POT-Creation-Date: 2026-10-01 09:38-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -326,6 +326,7 @@ msgstr ""
 # File: module/Application/view/application/packages/newpackage.phtml, line: 108
 # File: module/Application/view/application/packages/newpackage.phtml, line: 109
 # File: module/Application/view/application/packages/manage.phtml, line: 198
+# File: module/Application/view/application/statistics/index.phtml, line: 444
 # File: module/Application/view/layout/layout.phtml, line: 136
 # File: module/Application/view/layout/layout.phtml, line: 195
 msgid "Flights"
@@ -600,6 +601,8 @@ msgstr ""
 # File: module/Application/view/application/reports/productivity.phtml, line: 10
 # File: module/Application/view/application/reports/incentives.phtml, line: 34
 # File: module/Application/view/application/reports/index.phtml, line: 32
+# File: module/Application/view/application/statistics/index.phtml, line: 66
+# File: module/Application/view/application/statistics/searches.phtml, line: 46
 # File: module/Application/view/layout/layout.phtml, line: 148
 # File: module/Application/view/layout/layout.phtml, line: 206
 msgid "Reports"
@@ -1015,7 +1018,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 72
 # File: module/Application/view/application/packages/availability.phtml, line: 75
 # File: module/Application/view/application/portfolio/categories.phtml, line: 57
-# File: module/Application/view/application/funnel/index.phtml, line: 178
+# File: module/Application/view/application/funnel/index.phtml, line: 171
 msgid "Unknown"
 msgstr ""
 #
@@ -1190,9 +1193,10 @@ msgstr ""
 # File: module/Application/view/application/reports/productivity.phtml, line: 312
 # File: module/Application/view/application/trips/quotes.phtml, line: 15
 # File: module/Application/view/application/funnel/journey.phtml, line: 17
-# File: module/Application/view/application/funnel/index.phtml, line: 120
-# File: module/Application/view/application/funnel/index.phtml, line: 199
-# File: module/Application/view/application/funnel/index.phtml, line: 224
+# File: module/Application/view/application/funnel/index.phtml, line: 113
+# File: module/Application/view/application/funnel/index.phtml, line: 192
+# File: module/Application/view/application/funnel/index.phtml, line: 217
+# File: module/Application/view/application/funnel/index.phtml, line: 243
 # File: module/Application/view/application/funnel/list.phtml, line: 16
 msgid "Booked"
 msgstr ""
@@ -1232,6 +1236,8 @@ msgstr ""
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 180
 # File: module/Application/view/application/trips/edit.phtml, line: 197
 # File: module/Application/view/application/trips/edit.phtml, line: 202
+# File: module/Application/view/application/statistics/index.phtml, line: 313
+# File: module/Application/view/application/statistics/searches.phtml, line: 82
 msgid "Hotel"
 msgstr ""
 #
@@ -1318,7 +1324,7 @@ msgstr ""
 # File: module/Application/view/application/portfolio/index.phtml, line: 54
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 83
 # File: module/Application/view/application/messaging/index.phtml, line: 114
-# File: module/Application/view/application/funnel/index.phtml, line: 102
+# File: module/Application/view/application/partial/report-scope.phtml, line: 22
 # File: module/Application/view/layout/layout.phtml, line: 192
 msgid "All"
 msgstr ""
@@ -2174,11 +2180,15 @@ msgstr ""
 # File: module/Application/view/application/messaging/index.phtml, line: 156
 # File: module/Application/view/application/messaging/index.phtml, line: 189
 # File: module/Application/view/application/funnel/journey.phtml, line: 69
-# File: module/Application/view/application/funnel/index.phtml, line: 99
-# File: module/Application/view/application/funnel/index.phtml, line: 224
+# File: module/Application/view/application/funnel/index.phtml, line: 217
 # File: module/Application/view/application/funnel/list.phtml, line: 30
 # File: module/Application/view/application/funnel/list.phtml, line: 82
 # File: module/Application/view/application/funnel/list.phtml, line: 106
+# File: module/Application/view/application/statistics/index.phtml, line: 413
+# File: module/Application/view/application/statistics/searches.phtml, line: 85
+# File: module/Application/view/application/partial/report-scope.phtml, line: 19
+# File: module/Application/view/application/partial/report-scope.phtml, line: 45
+# File: module/Application/view/application/partial/report-scope.phtml, line: 53
 msgid "Agent"
 msgstr ""
 #
@@ -2262,7 +2272,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 3076
 # File: module/Application/view/application/view-reservation/index.phtml, line: 3269
 # File: module/Application/view/application/tutorials/index.phtml, line: 919
-# File: module/Application/view/application/funnel/index.phtml, line: 287
+# File: module/Application/view/application/funnel/index.phtml, line: 304
 # File: module/Application/view/application/funnel/list.phtml, line: 122
 msgid "Email"
 msgstr ""
@@ -2579,6 +2589,7 @@ msgstr ""
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1306
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1524
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 206
+# File: module/Application/view/application/statistics/index.phtml, line: 259
 msgid "nights"
 msgstr ""
 #
@@ -3735,6 +3746,8 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 478
 # File: module/Application/view/application/index/search.phtml, line: 479
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 205
+# File: module/Application/view/application/statistics/index.phtml, line: 242
+# File: module/Application/view/application/statistics/index.phtml, line: 541
 msgid "days"
 msgstr ""
 #
@@ -3776,6 +3789,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 47
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 45
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 42
+# File: module/Application/view/application/statistics/index.phtml, line: 169
 msgid "Day"
 msgstr ""
 #
@@ -4145,6 +4159,8 @@ msgstr ""
 # File: module/Application/view/application/marketing/flyer.phtml, line: 333
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1598
 # File: module/Application/view/application/trips/list.phtml, line: 71
+# File: module/Application/view/application/statistics/index.phtml, line: 285
+# File: module/Application/view/application/statistics/searches.phtml, line: 82
 msgid "Destination"
 msgstr ""
 #
@@ -5216,6 +5232,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2796
 # File: module/Application/view/application/tutorials/kb.phtml, line: 146
 # File: module/Application/view/application/register-agency/reactivate.phtml, line: 127
+# File: module/Application/view/application/statistics/index.phtml, line: 486
 msgid "Please wait..."
 msgstr ""
 #
@@ -6679,6 +6696,7 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/blockedactivities.phtml, line: 38
 # File: module/Application/view/application/activities/blockedactivities.phtml, line: 58
+# File: module/Application/view/application/funnel/index.phtml, line: 243
 msgid "Value"
 msgstr ""
 #
@@ -6955,6 +6973,8 @@ msgstr ""
 # File: module/Application/view/application/funnel/journey.phtml, line: 47
 # File: module/Application/view/application/funnel/index.phtml, line: 59
 # File: module/Application/view/application/funnel/list.phtml, line: 44
+# File: module/Application/view/application/statistics/index.phtml, line: 65
+# File: module/Application/view/application/statistics/searches.phtml, line: 45
 msgid "Home"
 msgstr ""
 #
@@ -7164,6 +7184,11 @@ msgstr ""
 # File: module/Application/view/application/support/list.phtml, line: 29
 # File: module/Application/view/application/support/search.phtml, line: 75
 # File: module/Application/view/application/communications/manage.phtml, line: 234
+# File: module/Application/view/application/funnel/index.phtml, line: 243
+# File: module/Application/view/application/funnel/index.phtml, line: 247
+# File: module/Application/view/application/statistics/index.phtml, line: 390
+# File: module/Application/view/application/statistics/index.phtml, line: 394
+# File: module/Application/view/application/partial/report-scope.phtml, line: 32
 msgid "Company"
 msgstr ""
 #
@@ -8948,7 +8973,7 @@ msgid "Email Bounces"
 msgstr ""
 #
 # File: module/Application/view/application/customers/bounces.phtml, line: 28
-# File: module/Application/view/application/funnel/index.phtml, line: 173
+# File: module/Application/view/application/funnel/index.phtml, line: 166
 msgid "Reason"
 msgstr ""
 #
@@ -9117,7 +9142,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/rewards.phtml, line: 10
 # File: module/Application/view/application/view-reservation/index.phtml, line: 2929
 # File: module/Application/view/application/funnel/journey.phtml, line: 75
-# File: module/Application/view/application/funnel/index.phtml, line: 257
+# File: module/Application/view/application/funnel/index.phtml, line: 274
 # File: module/Application/view/application/funnel/list.phtml, line: 85
 msgid "Amount"
 msgstr ""
@@ -10136,6 +10161,9 @@ msgid "Return"
 msgstr ""
 #
 # File: module/Application/view/application/flights/listfarealerts.phtml, line: 36
+# File: module/Application/view/application/funnel/index.phtml, line: 221
+# File: module/Application/view/application/funnel/list.phtml, line: 112
+# File: module/Application/view/application/statistics/index.phtml, line: 417
 msgid "Direct"
 msgstr ""
 #
@@ -12021,10 +12049,12 @@ msgid "Departing"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/promotions.phtml, line: 118
+# File: module/Application/view/application/statistics/index.phtml, line: 241
 msgid "one way"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/promotions.phtml, line: 118
+# File: module/Application/view/application/statistics/index.phtml, line: 241
 msgid "round trip"
 msgstr ""
 #
@@ -12324,6 +12354,8 @@ msgstr ""
 # File: module/Application/view/application/index/viewsecuritylog.phtml, line: 57
 # File: module/Application/view/application/index/twofactor.phtml, line: 164
 # File: module/Application/view/application/index/password.phtml, line: 60
+# File: module/Application/view/application/statistics/index.phtml, line: 367
+# File: module/Application/view/application/statistics/index.phtml, line: 370
 msgid "Devices"
 msgstr ""
 #
@@ -12357,6 +12389,7 @@ msgstr ""
 # File: module/Application/view/application/index/bannersedit.phtml, line: 165
 # File: module/Application/view/application/portfolio/edit.phtml, line: 49
 # File: module/Application/view/application/portfolio/new.phtml, line: 45
+# File: module/Application/view/application/statistics/index.phtml, line: 313
 msgid "Views"
 msgstr ""
 #
@@ -18274,7 +18307,8 @@ msgstr ""
 # File: module/Application/view/application/index/search.old.phtml, line: 1308
 # File: module/Application/view/application/reports/productivity.phtml, line: 56
 # File: module/Application/view/application/reports/incentives.phtml, line: 93
-# File: module/Application/view/application/funnel/index.phtml, line: 110
+# File: module/Application/view/application/funnel/index.phtml, line: 103
+# File: module/Application/view/application/statistics/index.phtml, line: 108
 msgid "Apply"
 msgstr ""
 #
@@ -18451,7 +18485,7 @@ msgid "Trip Builder"
 msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 174
-# File: module/Application/view/application/reports/index.phtml, line: 129
+# File: module/Application/view/application/reports/index.phtml, line: 138
 # File: module/Application/view/application/funnel/journey.phtml, line: 48
 # File: module/Application/view/application/funnel/index.phtml, line: 56
 # File: module/Application/view/application/funnel/index.phtml, line: 61
@@ -18622,7 +18656,9 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 1145
 # File: module/Application/view/application/reports/searchactivityreport.phtml, line: 150
 # File: module/Application/view/application/reports/searchactivityreporthotel.phtml, line: 150
-# File: module/Application/view/application/funnel/index.phtml, line: 199
+# File: module/Application/view/application/funnel/index.phtml, line: 192
+# File: module/Application/view/application/statistics/index.phtml, line: 193
+# File: module/Application/view/application/statistics/index.phtml, line: 285
 msgid "Searches"
 msgstr ""
 #
@@ -20074,7 +20110,7 @@ msgid "One per line, or separated by commas."
 msgstr ""
 #
 # File: module/Application/view/application/marketing/flyersend.phtml, line: 81
-# File: module/Application/view/application/funnel/index.phtml, line: 123
+# File: module/Application/view/application/funnel/index.phtml, line: 116
 msgid "Your customers"
 msgstr ""
 #
@@ -21682,12 +21718,14 @@ msgstr ""
 # File: module/Application/view/application/reports/search.phtml, line: 46
 # File: module/Application/view/application/reports/productivity.phtml, line: 39
 # File: module/Application/view/application/funnel/index.phtml, line: 81
+# File: module/Application/view/application/statistics/index.phtml, line: 80
 msgid "Search From Date"
 msgstr ""
 #
 # File: module/Application/view/application/reports/search.phtml, line: 50
 # File: module/Application/view/application/reports/productivity.phtml, line: 43
 # File: module/Application/view/application/funnel/index.phtml, line: 85
+# File: module/Application/view/application/statistics/index.phtml, line: 84
 msgid "Search To Date"
 msgstr ""
 #
@@ -21875,6 +21913,7 @@ msgid "Nothing to list for this service in the selected period."
 msgstr ""
 #
 # File: module/Application/view/application/reports/productivity.phtml, line: 315
+# File: module/Application/view/application/statistics/searches.phtml, line: 83
 msgid "Travel dates"
 msgstr ""
 #
@@ -21968,8 +22007,16 @@ msgstr ""
 #
 # File: module/Application/view/application/reports/index.phtml, line: 111
 # File: module/Application/view/application/reports/index.phtml, line: 120
-# File: module/Application/view/application/reports/index.phtml, line: 130
+# File: module/Application/view/application/reports/index.phtml, line: 129
+# File: module/Application/view/application/reports/index.phtml, line: 139
 msgid "Report"
+msgstr ""
+#
+# File: module/Application/view/application/reports/index.phtml, line: 128
+# File: module/Application/view/application/statistics/index.phtml, line: 62
+# File: module/Application/view/application/statistics/index.phtml, line: 67
+# File: module/Application/view/application/statistics/searches.phtml, line: 47
+msgid "Search Statistics"
 msgstr ""
 #
 # File: module/Application/view/application/reservations/list.phtml, line: 32
@@ -23626,6 +23673,7 @@ msgid "Attachment / link"
 msgstr ""
 #
 # File: module/Application/view/application/communications/manage.phtml, line: 236
+# File: module/Application/view/application/partial/report-scope.phtml, line: 34
 msgid "All companies"
 msgstr ""
 #
@@ -23704,7 +23752,8 @@ msgstr ""
 #
 # File: module/Application/view/application/trips/quotes.phtml, line: 45
 # File: module/Application/view/application/funnel/journey.phtml, line: 111
-# File: module/Application/view/application/funnel/index.phtml, line: 258
+# File: module/Application/view/application/funnel/index.phtml, line: 275
+# File: module/Application/view/application/statistics/searches.phtml, line: 81
 msgid "When"
 msgstr ""
 #
@@ -23748,7 +23797,7 @@ msgstr ""
 #
 # File: module/Application/view/application/trips/list.phtml, line: 70
 # File: module/Application/view/application/trips/edit.phtml, line: 101
-# File: module/Application/view/application/funnel/index.phtml, line: 254
+# File: module/Application/view/application/funnel/index.phtml, line: 271
 # File: module/Application/view/application/funnel/list.phtml, line: 80
 msgid "Trip"
 msgstr ""
@@ -23987,7 +24036,7 @@ msgid "Abandoned"
 msgstr ""
 #
 # File: module/Application/view/application/funnel/journey.phtml, line: 18
-# File: module/Application/view/application/funnel/index.phtml, line: 122
+# File: module/Application/view/application/funnel/index.phtml, line: 115
 # File: module/Application/view/application/funnel/list.phtml, line: 17
 msgid "Recovered"
 msgstr ""
@@ -24026,7 +24075,7 @@ msgid "Journey"
 msgstr ""
 #
 # File: module/Application/view/application/funnel/journey.phtml, line: 54
-# File: module/Application/view/application/funnel/index.phtml, line: 286
+# File: module/Application/view/application/funnel/index.phtml, line: 303
 # File: module/Application/view/application/funnel/list.phtml, line: 121
 msgid "Call"
 msgstr ""
@@ -24040,13 +24089,14 @@ msgid "reached"
 msgstr ""
 #
 # File: module/Application/view/application/funnel/journey.phtml, line: 66
-# File: module/Application/view/application/funnel/index.phtml, line: 282
+# File: module/Application/view/application/funnel/index.phtml, line: 299
 # File: module/Application/view/application/funnel/list.phtml, line: 114
 msgid "-"
 msgstr ""
 #
 # File: module/Application/view/application/funnel/journey.phtml, line: 68
 # File: module/Application/view/application/funnel/index.phtml, line: 89
+# File: module/Application/view/application/statistics/index.phtml, line: 88
 msgid "Product"
 msgstr ""
 #
@@ -24055,7 +24105,7 @@ msgid "Booking by"
 msgstr ""
 #
 # File: module/Application/view/application/funnel/journey.phtml, line: 69
-# File: module/Application/view/application/funnel/index.phtml, line: 278
+# File: module/Application/view/application/funnel/index.phtml, line: 295
 # File: module/Application/view/application/funnel/list.phtml, line: 108
 msgid "Customer on your site"
 msgstr ""
@@ -24139,123 +24189,138 @@ msgid "Where your bookings stop"
 msgstr ""
 #
 # File: module/Application/view/application/funnel/index.phtml, line: 91
+# File: module/Application/view/application/statistics/index.phtml, line: 90
 msgid "All products"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 101
-msgid "Myself"
-msgstr ""
-#
-# File: module/Application/view/application/funnel/index.phtml, line: 119
+# File: module/Application/view/application/funnel/index.phtml, line: 112
 msgid "Booking attempts"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 119
+# File: module/Application/view/application/funnel/index.phtml, line: 112
 msgid "Searches that started a booking"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 120
+# File: module/Application/view/application/funnel/index.phtml, line: 113
 msgid "conversion"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 121
-# File: module/Application/view/application/funnel/index.phtml, line: 199
-# File: module/Application/view/application/funnel/index.phtml, line: 224
+# File: module/Application/view/application/funnel/index.phtml, line: 114
+# File: module/Application/view/application/funnel/index.phtml, line: 192
+# File: module/Application/view/application/funnel/index.phtml, line: 217
+# File: module/Application/view/application/funnel/index.phtml, line: 243
 msgid "Unfinished"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 121
+# File: module/Application/view/application/funnel/index.phtml, line: 114
 msgid "abandoned (idle over an hour)"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 122
+# File: module/Application/view/application/funnel/index.phtml, line: 115
 msgid "Came back and booked"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 123
+# File: module/Application/view/application/funnel/index.phtml, line: 116
 msgid "booked on your site"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 139
+# File: module/Application/view/application/funnel/index.phtml, line: 132
 msgid "Journeys reaching each step"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 143
+# File: module/Application/view/application/funnel/index.phtml, line: 136
 msgid "No booking attempts in this period."
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 149
+# File: module/Application/view/application/funnel/index.phtml, line: 142
 msgid "booked"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 166
+# File: module/Application/view/application/funnel/index.phtml, line: 159
 msgid "Why bookings failed"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 170
+# File: module/Application/view/application/funnel/index.phtml, line: 163
 msgid "No failures in this period."
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 173
+# File: module/Application/view/application/funnel/index.phtml, line: 166
 msgid "Step"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 173
+# File: module/Application/view/application/funnel/index.phtml, line: 166
 msgid "Journeys"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 191
+# File: module/Application/view/application/funnel/index.phtml, line: 184
 msgid "Searches by route"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 195
+# File: module/Application/view/application/funnel/index.phtml, line: 188
+# File: module/Application/view/application/statistics/index.phtml, line: 282
 msgid "No searches in this period."
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 199
+# File: module/Application/view/application/funnel/index.phtml, line: 192
 # File: module/Application/view/application/funnel/list.phtml, line: 27
+# File: module/Application/view/application/statistics/index.phtml, line: 193
+# File: module/Application/view/application/statistics/searches.phtml, line: 82
 msgid "Route"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 199
-# File: module/Application/view/application/funnel/index.phtml, line: 224
+# File: module/Application/view/application/funnel/index.phtml, line: 192
+# File: module/Application/view/application/funnel/index.phtml, line: 217
+# File: module/Application/view/application/funnel/index.phtml, line: 243
 msgid "Conversion"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 219
+# File: module/Application/view/application/funnel/index.phtml, line: 212
+# File: module/Application/view/application/statistics/index.phtml, line: 408
 msgid "By agent"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 224
+# File: module/Application/view/application/funnel/index.phtml, line: 217
+# File: module/Application/view/application/funnel/index.phtml, line: 243
 msgid "Attempts"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 238
+# File: module/Application/view/application/funnel/index.phtml, line: 231
 msgid "Choose \"All\" under Agent to include your sub-agents."
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 244
+# File: module/Application/view/application/funnel/index.phtml, line: 238
+# File: module/Application/view/application/statistics/index.phtml, line: 385
+msgid "By company"
+msgstr ""
+#
+# File: module/Application/view/application/funnel/index.phtml, line: 247
+# File: module/Application/view/application/statistics/index.phtml, line: 394
+# File: module/Application/view/application/partial/report-scope.phtml, line: 39
+msgid "No agent (direct visitors)"
+msgstr ""
+#
+# File: module/Application/view/application/funnel/index.phtml, line: 261
 msgid "Follow up: unfinished bookings"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 248
+# File: module/Application/view/application/funnel/index.phtml, line: 265
 msgid "Nothing to follow up. Unfinished bookings where an option was chosen appear here about an hour after they stop."
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 255
+# File: module/Application/view/application/funnel/index.phtml, line: 272
 # File: module/Application/view/application/funnel/list.phtml, line: 81
 msgid "Who"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 256
+# File: module/Application/view/application/funnel/index.phtml, line: 273
 msgid "Stopped at"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 276
+# File: module/Application/view/application/funnel/index.phtml, line: 293
 msgid "You (or your agent)"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/index.phtml, line: 288
+# File: module/Application/view/application/funnel/index.phtml, line: 305
 # File: module/Application/view/application/funnel/list.phtml, line: 123
 msgid "Resume"
 msgstr ""
@@ -24268,10 +24333,6 @@ msgstr ""
 msgid "Back to funnel"
 msgstr ""
 #
-# File: module/Application/view/application/funnel/list.phtml, line: 59
-msgid "All agents"
-msgstr ""
-#
 # File: module/Application/view/application/funnel/list.phtml, line: 72
 msgid "No journeys match."
 msgstr ""
@@ -24281,11 +24342,291 @@ msgid "journeys"
 msgstr ""
 #
 # File: module/Application/view/application/funnel/list.phtml, line: 74
+# File: module/Application/view/application/statistics/searches.phtml, line: 76
 msgid "showing the latest"
 msgstr ""
 #
 # File: module/Application/view/application/funnel/list.phtml, line: 83
 msgid "Reached"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 31
+msgid "Computer"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 32
+msgid "Phone / tablet browser"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 33
+msgid "App"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 34
+msgid "Not identified"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 35
+# File: module/Application/view/application/statistics/index.phtml, line: 453
+# File: module/Application/view/application/statistics/index.phtml, line: 467
+msgid "Robots"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 41
+# File: module/Application/view/application/statistics/index.phtml, line: 120
+# File: module/Application/view/application/statistics/index.phtml, line: 390
+# File: module/Application/view/application/statistics/index.phtml, line: 413
+# File: module/Application/view/application/statistics/index.phtml, line: 533
+msgid "Flight searches"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 42
+# File: module/Application/view/application/statistics/index.phtml, line: 123
+# File: module/Application/view/application/statistics/index.phtml, line: 390
+# File: module/Application/view/application/statistics/index.phtml, line: 413
+# File: module/Application/view/application/statistics/index.phtml, line: 536
+msgid "Hotel searches"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 43
+# File: module/Application/view/application/statistics/index.phtml, line: 124
+msgid "Hotel pages viewed"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 44
+# File: module/Application/view/application/statistics/index.phtml, line: 127
+# File: module/Application/view/application/statistics/index.phtml, line: 390
+# File: module/Application/view/application/statistics/index.phtml, line: 413
+msgid "Things to do searches"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 74
+msgid "What people searched on your site"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 104
+msgid "Include robots"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 120
+msgid "requests"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 146
+# File: module/Application/view/application/statistics/index.phtml, line: 193
+# File: module/Application/view/application/statistics/index.phtml, line: 285
+# File: module/Application/view/application/statistics/index.phtml, line: 313
+msgid "Visitors"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 147
+msgid "signed-in customers"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 154
+msgid "A search is counted once per visitor, route and dates: refreshing the results, or picking the return flight, is not a new search."
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 156
+msgid "requests from robots and crawlers are left out."
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 161
+# File: module/Application/view/application/statistics/index.phtml, line: 164
+msgid "Searches per day"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 166
+msgid "Show as table"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 185
+msgid "Most searched routes"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 189
+# File: module/Application/view/application/statistics/index.phtml, line: 222
+msgid "No flight searches in this period."
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 193
+msgid "Round trip"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 218
+msgid "Flight destinations"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 242
+msgid "average stay"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 253
+msgid "How far ahead people search"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 256
+msgid "Days between the search and the travel date"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 258
+msgid "Days between the search and the first travel day."
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 259
+msgid "Hotel searches average"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 270
+msgid "Hotel destinations"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 273
+msgid "Things to do destinations"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 306
+msgid "Hotels most viewed"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 310
+msgid "No hotel pages viewed in this period."
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 338
+msgid "Where visitors are"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 342
+msgid "No visitors in this period."
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 350
+msgid "Not located yet"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 361
+msgid "From the visitor's IP address, located overnight."
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 378
+msgid "Requests, not searches. \"Not identified\" means the visitor's browser was not passed on to the search."
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 431
+msgid "Data quality"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 434
+msgid "How complete the search logs are for this selection (all requests, robots included). Only agents who can see other agents' reports see this."
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 444
+# File: module/Application/view/application/statistics/index.phtml, line: 460
+msgid "rows"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 444
+# File: module/Application/view/application/statistics/index.phtml, line: 460
+msgid "newest"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 447
+# File: module/Application/view/application/statistics/index.phtml, line: 463
+msgid "Not enriched yet (nightly job)"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 448
+msgid "Origin airport not resolved"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 449
+msgid "Destination airport not resolved"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 450
+msgid "Destination 'Unknown'"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 451
+# File: module/Application/view/application/statistics/index.phtml, line: 465
+msgid "Visitor not located"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 452
+msgid "Return-leg / next-segment requests"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 454
+# File: module/Application/view/application/statistics/index.phtml, line: 468
+msgid "Browser not passed on"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 455
+# File: module/Application/view/application/statistics/index.phtml, line: 469
+msgid "Requests per search"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 460
+msgid "Hotels and things to do"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 464
+msgid "No city"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 466
+msgid "Not a hotel or activity request"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/index.phtml, line: 559
+# File: module/Application/view/application/statistics/searches.phtml, line: 86
+msgid "Requests"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/searches.phtml, line: 53
+msgid "Back to statistics"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/searches.phtml, line: 62
+msgid "robots included"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/searches.phtml, line: 74
+msgid "No searches match."
+msgstr ""
+#
+# File: module/Application/view/application/statistics/searches.phtml, line: 76
+msgid "views"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/searches.phtml, line: 76
+msgid "searches"
+msgstr ""
+#
+# File: module/Application/view/application/statistics/searches.phtml, line: 84
+msgid "Visitor"
+msgstr ""
+#
+# File: module/Application/view/application/partial/report-scope.phtml, line: 21
+# File: module/Application/view/application/partial/report-scope.phtml, line: 48
+msgid "Myself"
+msgstr ""
+#
+# File: module/Application/view/application/partial/report-scope.phtml, line: 34
+msgid "All my companies"
+msgstr ""
+#
+# File: module/Application/view/application/partial/report-scope.phtml, line: 47
+msgid "Everyone in the company"
+msgstr ""
+#
+# File: module/Application/view/application/partial/report-scope.phtml, line: 47
+msgid "Everyone"
+msgstr ""
+#
+# File: module/Application/view/application/partial/report-scope.phtml, line: 56
+msgid "Pick a company to choose one of its agents."
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 64
