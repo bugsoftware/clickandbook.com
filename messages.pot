@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-23 05:17-0400\n"
+"POT-Creation-Date: 2026-10-23 11:30-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1214,168 +1214,168 @@ msgstr ""
 msgid "Ticketing needs attention"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5485
+# File: module/Application/src/Controller/FlightsController.php, line: 5491
 msgid "That reservation has no air segment to ticket."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5524
-# File: module/Application/src/Controller/FlightsController.php, line: 5641
+# File: module/Application/src/Controller/FlightsController.php, line: 5530
+# File: module/Application/src/Controller/FlightsController.php, line: 5647
 msgid "The middleware URL is not configured (settings.middleware)."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5544
-# File: module/Application/src/Controller/FlightsController.php, line: 5852
+# File: module/Application/src/Controller/FlightsController.php, line: 5550
+# File: module/Application/src/Controller/FlightsController.php, line: 5858
 msgid "The middleware rejected the request."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5546
-# File: module/Application/src/Controller/FlightsController.php, line: 5859
+# File: module/Application/src/Controller/FlightsController.php, line: 5552
+# File: module/Application/src/Controller/FlightsController.php, line: 5865
 msgid "The middleware did not respond."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5631
+# File: module/Application/src/Controller/FlightsController.php, line: 5637
 msgid "This reservation is already ticketed."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5634
+# File: module/Application/src/Controller/FlightsController.php, line: 5640
 msgid "The order no longer exists at the airline / GDS (cancelled or purged) - nothing was sent."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5637
+# File: module/Application/src/Controller/FlightsController.php, line: 5643
 msgid "The airline reports this booking as already ticketed - the ticket numbers were recorded, nothing was charged."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5656
+# File: module/Application/src/Controller/FlightsController.php, line: 5662
 msgid "The agency credit limit could not be verified (service unavailable), so ticketing on the agency account (CASH) is disabled right now. Issue with a credit card or try again later."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5656
+# File: module/Application/src/Controller/FlightsController.php, line: 5662
 msgid "Ticketing on the agency account (CASH) is not available for this booking - the credit limit does not cover it. Issue with a credit card."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5672
+# File: module/Application/src/Controller/FlightsController.php, line: 5678
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1149
 msgid "Enter the name as printed on the card."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5674
+# File: module/Application/src/Controller/FlightsController.php, line: 5680
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1163
 msgid "The name on the card cannot contain numbers."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5677
+# File: module/Application/src/Controller/FlightsController.php, line: 5683
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1150
 msgid "The card number must be between 13 and 19 digits."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5679
+# File: module/Application/src/Controller/FlightsController.php, line: 5685
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1151
 msgid "That card number is not valid - check for a typo."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5682
+# File: module/Application/src/Controller/FlightsController.php, line: 5688
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1152
 msgid "The expiry month must be between 01 and 12."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5685
+# File: module/Application/src/Controller/FlightsController.php, line: 5691
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1153
 msgid "Check the expiry year."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5687
+# File: module/Application/src/Controller/FlightsController.php, line: 5693
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1154
 msgid "That card has expired."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5690
+# File: module/Application/src/Controller/FlightsController.php, line: 5696
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1155
 msgid "The security code is 3 or 4 digits."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5693
+# File: module/Application/src/Controller/FlightsController.php, line: 5699
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1157
 msgid "Enter the billing address."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5696
+# File: module/Application/src/Controller/FlightsController.php, line: 5702
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1158
 msgid "Enter the billing city."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5702
+# File: module/Application/src/Controller/FlightsController.php, line: 5708
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1168
 msgid "Choose the billing country."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5704
+# File: module/Application/src/Controller/FlightsController.php, line: 5710
 msgid "Choose the billing country from the list."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5710
+# File: module/Application/src/Controller/FlightsController.php, line: 5716
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1169
 msgid "Choose the billing state."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5710
+# File: module/Application/src/Controller/FlightsController.php, line: 5716
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1170
 msgid "Choose the billing province."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5714
+# File: module/Application/src/Controller/FlightsController.php, line: 5720
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1159
 msgid "Enter the billing ZIP or postcode."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5716
+# File: module/Application/src/Controller/FlightsController.php, line: 5722
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1171
 msgid "A US ZIP code is 5 digits (or ZIP+4)."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5716
+# File: module/Application/src/Controller/FlightsController.php, line: 5722
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1172
 msgid "A Canadian postal code looks like A1A 1A1."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5716
+# File: module/Application/src/Controller/FlightsController.php, line: 5722
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1174
 msgid "Check the ZIP or postcode."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5719
+# File: module/Application/src/Controller/FlightsController.php, line: 5725
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1161
 msgid "That e-mail address is not valid."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5722
+# File: module/Application/src/Controller/FlightsController.php, line: 5728
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1162
 msgid "Enter a phone number with at least 7 digits."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5736
+# File: module/Application/src/Controller/FlightsController.php, line: 5742
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1167
 msgid "Only Visa, Mastercard, American Express and Discover cards are accepted."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5741
+# File: module/Application/src/Controller/FlightsController.php, line: 5747
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1156
 msgid "American Express cards have a 4-digit security code."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5743
+# File: module/Application/src/Controller/FlightsController.php, line: 5749
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1166
 msgid "The security code on this card is 3 digits."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5748
+# File: module/Application/src/Controller/FlightsController.php, line: 5754
 msgid "Nothing was sent to the airline - please correct the payment details below and try again."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5830
+# File: module/Application/src/Controller/FlightsController.php, line: 5836
 msgid "This reservation was already ticketed - nothing was charged."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5830
+# File: module/Application/src/Controller/FlightsController.php, line: 5836
 msgid "Tickets issued."
 msgstr ""
 #
