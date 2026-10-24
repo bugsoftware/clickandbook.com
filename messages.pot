@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-23 20:19-0400\n"
+"POT-Creation-Date: 2026-10-24 12:04-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -180,8 +180,6 @@ msgstr ""
 # File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 11
 # File: module/Application/view/application/index/banners.phtml, line: 107
 # File: module/Application/view/application/index/bannersedit.phtml, line: 94
-# File: module/Application/view/application/index/billing.phtml, line: 83
-# File: module/Application/view/application/index/billing.phtml, line: 204
 # File: module/Application/view/application/index/order.phtml, line: 225
 # File: module/Application/view/application/index/seo.phtml, line: 143
 # File: module/Application/view/application/index/settings.phtml, line: 111
@@ -189,6 +187,8 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 357
 # File: module/Application/view/application/index/products.phtml, line: 335
 # File: module/Application/view/application/index/index.phtml, line: 147
+# File: module/Application/view/application/index/billing.phtml, line: 89
+# File: module/Application/view/application/index/billing.phtml, line: 210
 # File: module/Application/view/application/index/presentation.phtml, line: 1137
 # File: module/Application/view/application/index/search.old.phtml, line: 526
 # File: module/Application/view/application/index/partners.phtml, line: 302
@@ -255,8 +255,6 @@ msgstr ""
 # File: module/Application/view/application/hotels/promotions.phtml, line: 10
 # File: module/Application/view/application/index/banners.phtml, line: 95
 # File: module/Application/view/application/index/bannersedit.phtml, line: 88
-# File: module/Application/view/application/index/billing.phtml, line: 77
-# File: module/Application/view/application/index/billing.phtml, line: 243
 # File: module/Application/view/application/index/order.phtml, line: 167
 # File: module/Application/view/application/index/seo.phtml, line: 110
 # File: module/Application/view/application/index/settings.phtml, line: 109
@@ -264,6 +262,8 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 355
 # File: module/Application/view/application/index/products.phtml, line: 209
 # File: module/Application/view/application/index/index.phtml, line: 158
+# File: module/Application/view/application/index/billing.phtml, line: 83
+# File: module/Application/view/application/index/billing.phtml, line: 249
 # File: module/Application/view/application/index/presentation.phtml, line: 307
 # File: module/Application/view/application/index/presentation.phtml, line: 1042
 # File: module/Application/view/application/index/search.old.phtml, line: 524
@@ -313,14 +313,14 @@ msgstr ""
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 21
 # File: module/Application/view/application/flights/routemap.phtml, line: 11
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 131
-# File: module/Application/view/application/index/billing.phtml, line: 71
-# File: module/Application/view/application/index/billing.phtml, line: 169
-# File: module/Application/view/application/index/billing.phtml, line: 208
 # File: module/Application/view/application/index/order.phtml, line: 180
 # File: module/Application/view/application/index/seo.phtml, line: 239
 # File: module/Application/view/application/index/order.old.phtml, line: 172
 # File: module/Application/view/application/index/products.phtml, line: 347
 # File: module/Application/view/application/index/index.phtml, line: 169
+# File: module/Application/view/application/index/billing.phtml, line: 77
+# File: module/Application/view/application/index/billing.phtml, line: 175
+# File: module/Application/view/application/index/billing.phtml, line: 214
 # File: module/Application/view/application/index/presentation.phtml, line: 1150
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 109
 # File: module/Application/view/application/packages/newpackage.phtml, line: 108
@@ -343,13 +343,13 @@ msgstr ""
 # File: module/Application/view/application/cars/settings.phtml, line: 11
 # File: module/Application/view/application/index/banners.phtml, line: 99
 # File: module/Application/view/application/index/bannersedit.phtml, line: 90
-# File: module/Application/view/application/index/billing.phtml, line: 113
 # File: module/Application/view/application/index/order.phtml, line: 252
 # File: module/Application/view/application/index/seo.phtml, line: 271
 # File: module/Application/view/application/index/settings.phtml, line: 115
 # File: module/Application/view/application/index/order.old.phtml, line: 244
 # File: module/Application/view/application/index/search.phtml, line: 365
 # File: module/Application/view/application/index/index.phtml, line: 180
+# File: module/Application/view/application/index/billing.phtml, line: 119
 # File: module/Application/view/application/index/search.old.phtml, line: 531
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 135
 # File: module/Application/view/application/packages/newpackage.phtml, line: 104
@@ -371,14 +371,14 @@ msgstr ""
 # File: module/Application/view/application/activities/index.phtml, line: 23
 # File: module/Application/view/application/index/banners.phtml, line: 101
 # File: module/Application/view/application/index/bannersedit.phtml, line: 91
-# File: module/Application/view/application/index/billing.phtml, line: 107
-# File: module/Application/view/application/index/billing.phtml, line: 247
 # File: module/Application/view/application/index/order.phtml, line: 198
 # File: module/Application/view/application/index/seo.phtml, line: 304
 # File: module/Application/view/application/index/settings.phtml, line: 116
 # File: module/Application/view/application/index/order.old.phtml, line: 190
 # File: module/Application/view/application/index/products.phtml, line: 228
 # File: module/Application/view/application/index/index.phtml, line: 191
+# File: module/Application/view/application/index/billing.phtml, line: 113
+# File: module/Application/view/application/index/billing.phtml, line: 253
 # File: module/Application/view/application/index/presentation.phtml, line: 1055
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 161
 # File: module/Application/view/application/packages/newpackage.phtml, line: 100
@@ -394,8 +394,6 @@ msgstr ""
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1307
 # File: module/Application/view/application/index/banners.phtml, line: 103
 # File: module/Application/view/application/index/bannersedit.phtml, line: 92
-# File: module/Application/view/application/index/billing.phtml, line: 101
-# File: module/Application/view/application/index/billing.phtml, line: 251
 # File: module/Application/view/application/index/order.phtml, line: 211
 # File: module/Application/view/application/index/seo.phtml, line: 175
 # File: module/Application/view/application/index/settings.phtml, line: 112
@@ -403,6 +401,8 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 360
 # File: module/Application/view/application/index/products.phtml, line: 259
 # File: module/Application/view/application/index/index.phtml, line: 202
+# File: module/Application/view/application/index/billing.phtml, line: 107
+# File: module/Application/view/application/index/billing.phtml, line: 257
 # File: module/Application/view/application/index/presentation.phtml, line: 1081
 # File: module/Application/view/application/index/search.old.phtml, line: 527
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 186
@@ -445,14 +445,14 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/settings.phtml, line: 11
 # File: module/Application/view/application/escortedtours/southamericadestinations.phtml, line: 11
 # File: module/Application/view/application/escortedtours/specialoffers.phtml, line: 11
-# File: module/Application/view/application/index/billing.phtml, line: 89
-# File: module/Application/view/application/index/billing.phtml, line: 212
 # File: module/Application/view/application/index/order.phtml, line: 239
 # File: module/Application/view/application/index/seo.phtml, line: 207
 # File: module/Application/view/application/index/settings.phtml, line: 113
 # File: module/Application/view/application/index/order.old.phtml, line: 231
 # File: module/Application/view/application/index/search.phtml, line: 361
 # File: module/Application/view/application/index/index.phtml, line: 213
+# File: module/Application/view/application/index/billing.phtml, line: 95
+# File: module/Application/view/application/index/billing.phtml, line: 218
 # File: module/Application/view/application/index/search.old.phtml, line: 528
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 212
 # File: module/Application/view/layout/layout.phtml, line: 150
@@ -465,12 +465,12 @@ msgstr ""
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 397
 # File: module/Application/view/application/index/banners.phtml, line: 105
 # File: module/Application/view/application/index/bannersedit.phtml, line: 93
-# File: module/Application/view/application/index/billing.phtml, line: 119
 # File: module/Application/view/application/index/order.phtml, line: 278
 # File: module/Application/view/application/index/seo.phtml, line: 337
 # File: module/Application/view/application/index/settings.phtml, line: 117
 # File: module/Application/view/application/index/order.old.phtml, line: 270
 # File: module/Application/view/application/index/index.phtml, line: 224
+# File: module/Application/view/application/index/billing.phtml, line: 125
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 237
 # File: module/Application/view/application/packages/editimage.phtml, line: 20
 # File: module/Application/view/application/packages/edititinerary.phtml, line: 20
@@ -519,12 +519,12 @@ msgstr ""
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 126
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 263
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 401
-# File: module/Application/view/application/index/billing.phtml, line: 95
-# File: module/Application/view/application/index/billing.phtml, line: 216
 # File: module/Application/view/application/index/order.phtml, line: 265
 # File: module/Application/view/application/index/seo.phtml, line: 370
 # File: module/Application/view/application/index/order.old.phtml, line: 257
 # File: module/Application/view/application/index/index.phtml, line: 268
+# File: module/Application/view/application/index/billing.phtml, line: 101
+# File: module/Application/view/application/index/billing.phtml, line: 222
 # File: module/Application/view/application/insurances/index.phtml, line: 27
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 12
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 12
@@ -592,8 +592,8 @@ msgstr ""
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 138
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 275
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 413
-# File: module/Application/view/application/index/billing.phtml, line: 220
 # File: module/Application/view/application/index/index.phtml, line: 344
+# File: module/Application/view/application/index/billing.phtml, line: 226
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 337
 # File: module/Application/view/application/reports/globalware.phtml, line: 11
 # File: module/Application/view/application/reports/search.phtml, line: 12
@@ -622,19 +622,19 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 153
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 428
-# File: module/Application/src/Controller/IndexController.php, line: 18745
+# File: module/Application/src/Controller/IndexController.php, line: 18765
 msgid "Arabic"
 msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 156
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 431
-# File: module/Application/src/Controller/IndexController.php, line: 18739
+# File: module/Application/src/Controller/IndexController.php, line: 18759
 msgid "Armenian"
 msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 159
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 434
-# File: module/Application/src/Controller/IndexController.php, line: 18741
+# File: module/Application/src/Controller/IndexController.php, line: 18761
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3091
 msgid "Chinese"
 msgstr ""
@@ -646,7 +646,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 165
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 440
-# File: module/Application/src/Controller/IndexController.php, line: 18733
+# File: module/Application/src/Controller/IndexController.php, line: 18753
 msgid "French"
 msgstr ""
 #
@@ -668,14 +668,14 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 177
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 452
-# File: module/Application/src/Controller/IndexController.php, line: 18735
+# File: module/Application/src/Controller/IndexController.php, line: 18755
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3073
 msgid "Italian"
 msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 180
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 455
-# File: module/Application/src/Controller/IndexController.php, line: 18743
+# File: module/Application/src/Controller/IndexController.php, line: 18763
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3082
 msgid "Japanese"
 msgstr ""
@@ -692,7 +692,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 189
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 464
-# File: module/Application/src/Controller/IndexController.php, line: 18731
+# File: module/Application/src/Controller/IndexController.php, line: 18751
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3076
 # File: module/Application/view/application/index/order.phtml, line: 83
 # File: module/Application/view/application/index/order.old.phtml, line: 79
@@ -713,7 +713,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 198
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 473
-# File: module/Application/src/Controller/IndexController.php, line: 18729
+# File: module/Application/src/Controller/IndexController.php, line: 18749
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3070
 # File: module/Application/view/application/index/order.phtml, line: 82
 # File: module/Application/view/application/index/order.old.phtml, line: 78
@@ -743,7 +743,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 207
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 482
-# File: module/Application/src/Controller/IndexController.php, line: 18727
+# File: module/Application/src/Controller/IndexController.php, line: 18747
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3067
 # File: module/Application/view/application/index/order.phtml, line: 81
 # File: module/Application/view/application/index/order.old.phtml, line: 77
@@ -891,9 +891,6 @@ msgstr ""
 # File: module/Application/src/Controller/IndexController.php, line: 8206
 # File: module/Application/src/Controller/IndexController.php, line: 15006
 # File: module/Application/src/Controller/IndexController.php, line: 15007
-# File: module/Application/src/Controller/IndexController.php, line: 17641
-# File: module/Application/src/Controller/IndexController.php, line: 17647
-# File: module/Application/src/Controller/IndexController.php, line: 17674
 msgid "Hi"
 msgstr ""
 #
@@ -1077,6 +1074,7 @@ msgid "The trip could not be saved. Has cb_trips.sql been applied?"
 msgstr ""
 #
 # File: module/Application/src/Controller/TripsController.php, line: 485
+# File: module/Application/view/application/index/changeplan.phtml, line: 91
 msgid "Please correct the highlighted fields."
 msgstr ""
 #
@@ -1296,11 +1294,13 @@ msgstr ""
 #
 # File: module/Application/src/Controller/FlightsController.php, line: 5523
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1157
+# File: module/Application/view/application/index/changeplan.phtml, line: 154
 msgid "Enter the billing address."
 msgstr ""
 #
 # File: module/Application/src/Controller/FlightsController.php, line: 5526
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1158
+# File: module/Application/view/application/index/changeplan.phtml, line: 169
 msgid "Enter the billing city."
 msgstr ""
 #
@@ -1672,6 +1672,7 @@ msgstr ""
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 911
 # File: module/Application/view/application/index/whoarewe.phtml, line: 605
 # File: module/Application/view/application/index/products.phtml, line: 751
+# File: module/Application/view/application/index/changeplan.phtml, line: 157
 # File: module/Application/view/application/index/activate.phtml, line: 624
 # File: module/Application/view/application/index/presentation.phtml, line: 2034
 # File: module/Application/view/application/index/trial.phtml, line: 271
@@ -1729,7 +1730,6 @@ msgstr ""
 # File: module/Application/src/Controller/IndexController.php, line: 3013
 # File: module/Application/src/Controller/IndexController.php, line: 14668
 # File: module/Application/src/Controller/IndexController.php, line: 14866
-# File: module/Application/src/Controller/IndexController.php, line: 17681
 msgid "Member Name:"
 msgstr ""
 #
@@ -1841,7 +1841,6 @@ msgid "Here are the details:"
 msgstr ""
 #
 # File: module/Application/src/Controller/IndexController.php, line: 3013
-# File: module/Application/src/Controller/IndexController.php, line: 17681
 msgid "Member ID:"
 msgstr ""
 #
@@ -1867,8 +1866,6 @@ msgstr ""
 # File: module/Application/src/Controller/IndexController.php, line: 8103
 # File: module/Application/src/Controller/IndexController.php, line: 8206
 # File: module/Application/src/Controller/IndexController.php, line: 15007
-# File: module/Application/src/Controller/IndexController.php, line: 17649
-# File: module/Application/src/Controller/IndexController.php, line: 17682
 # File: module/Application/src/Controller/ViewReservationController.php, line: 2895
 msgid "Thanks"
 msgstr ""
@@ -1881,10 +1878,10 @@ msgstr ""
 # File: module/Application/src/Controller/IndexController.php, line: 3150
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 878
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 879
-# File: module/Application/view/application/index/billing.phtml, line: 63
-# File: module/Application/view/application/index/billing.phtml, line: 161
-# File: module/Application/view/application/index/billing.phtml, line: 196
-# File: module/Application/view/application/index/billing.phtml, line: 235
+# File: module/Application/view/application/index/billing.phtml, line: 69
+# File: module/Application/view/application/index/billing.phtml, line: 167
+# File: module/Application/view/application/index/billing.phtml, line: 202
+# File: module/Application/view/application/index/billing.phtml, line: 241
 # File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 29
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 27
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 41
@@ -2169,63 +2166,19 @@ msgstr ""
 msgid "This is valid for 30 minutes only"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17646
-msgid "Your Plan Has Been Updated"
+# File: module/Application/src/Controller/IndexController.php, line: 17620
+msgid "Your session expired. Please review the details and submit again."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17648
-msgid "This is a confirmation that your Click & Book plan has been successfully updated."
+# File: module/Application/src/Controller/IndexController.php, line: 17625
+msgid "The amount changed while you were on this page. Please review the new total and submit again."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17648
-msgid "Here are the details of your plan change:"
+# File: module/Application/src/Controller/IndexController.php, line: 17641
+msgid "The card could not be charged."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 17648
-# File: module/Application/src/Controller/IndexController.php, line: 17681
-msgid "Previous Plan:"
-msgstr ""
-#
-# File: module/Application/src/Controller/IndexController.php, line: 17648
-# File: module/Application/src/Controller/IndexController.php, line: 17681
-msgid "New Plan:"
-msgstr ""
-#
-# File: module/Application/src/Controller/IndexController.php, line: 17648
-# File: module/Application/src/Controller/IndexController.php, line: 17681
-msgid "Change Date:"
-msgstr ""
-#
-# File: module/Application/src/Controller/IndexController.php, line: 17648
-msgid "Your new plan benefits are now active."
-msgstr ""
-#
-# File: module/Application/src/Controller/IndexController.php, line: 17648
-msgid "If you did not request this change, please contact our support team immediately."
-msgstr ""
-#
-# File: module/Application/src/Controller/IndexController.php, line: 17656
-msgid "Your Click & Book Plan Has Been Updated"
-msgstr ""
-#
-# File: module/Application/src/Controller/IndexController.php, line: 17679
-# File: module/Application/src/Controller/IndexController.php, line: 17691
-msgid "Plan Change Notification"
-msgstr ""
-#
-# File: module/Application/src/Controller/IndexController.php, line: 17680
-msgid "A member has changed their Click & Book plan."
-msgstr ""
-#
-# File: module/Application/src/Controller/IndexController.php, line: 17681
-msgid "Below are the details of the plan change:"
-msgstr ""
-#
-# File: module/Application/src/Controller/IndexController.php, line: 17681
-msgid "Please review this change and ensure the member’s account is updated accordingly."
-msgstr ""
-#
-# File: module/Application/src/Controller/IndexController.php, line: 18737
+# File: module/Application/src/Controller/IndexController.php, line: 18757
 msgid "Deutsch"
 msgstr ""
 #
@@ -3615,6 +3568,7 @@ msgstr ""
 # File: module/Application/view/application/index/userinfo.phtml, line: 95
 # File: module/Application/view/application/index/order.old.phtml, line: 426
 # File: module/Application/view/application/index/order.old.phtml, line: 476
+# File: module/Application/view/application/index/changeplan.phtml, line: 152
 # File: module/Application/view/application/marketing/view.phtml, line: 104
 # File: module/Application/view/application/packages/view.phtml, line: 107
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 21
@@ -5249,12 +5203,6 @@ msgstr ""
 # File: module/Application/view/application/hotels/paymentsettings.phtml, line: 72
 # File: module/Application/view/application/hotels/settings.phtml, line: 78
 # File: module/Application/view/application/index/accepttermsandconditions.phtml, line: 53
-# File: module/Application/view/application/index/billing.phtml, line: 314
-# File: module/Application/view/application/index/billing.phtml, line: 320
-# File: module/Application/view/application/index/billing.phtml, line: 326
-# File: module/Application/view/application/index/billing.phtml, line: 334
-# File: module/Application/view/application/index/billing.phtml, line: 350
-# File: module/Application/view/application/index/billing.phtml, line: 353
 # File: module/Application/view/application/index/forgotpassword.phtml, line: 129
 # File: module/Application/view/application/index/order.phtml, line: 867
 # File: module/Application/view/application/index/preferences.phtml, line: 180
@@ -5301,6 +5249,12 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 339
 # File: module/Application/view/application/index/insideraccess.phtml, line: 657
 # File: module/Application/view/application/index/plansandpricing.phtml, line: 1018
+# File: module/Application/view/application/index/billing.phtml, line: 320
+# File: module/Application/view/application/index/billing.phtml, line: 326
+# File: module/Application/view/application/index/billing.phtml, line: 332
+# File: module/Application/view/application/index/billing.phtml, line: 340
+# File: module/Application/view/application/index/billing.phtml, line: 356
+# File: module/Application/view/application/index/billing.phtml, line: 359
 # File: module/Application/view/application/index/search.old.phtml, line: 349
 # File: module/Application/view/application/index/search.old.phtml, line: 1387
 # File: module/Application/view/application/index/otpgenerate.phtml, line: 180
@@ -6977,7 +6931,6 @@ msgstr ""
 # File: module/Application/view/application/index/accepttermsandconditions.phtml, line: 11
 # File: module/Application/view/application/index/banners.phtml, line: 16
 # File: module/Application/view/application/index/bannersedit.phtml, line: 17
-# File: module/Application/view/application/index/billing.phtml, line: 9
 # File: module/Application/view/application/index/content.phtml, line: 16
 # File: module/Application/view/application/index/devices.phtml, line: 17
 # File: module/Application/view/application/index/invoices.phtml, line: 17
@@ -7042,11 +6995,13 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 157
 # File: module/Application/view/application/index/products.phtml, line: 187
 # File: module/Application/view/application/index/products.phtml, line: 584
+# File: module/Application/view/application/index/changeplan.phtml, line: 41
 # File: module/Application/view/application/index/activate.phtml, line: 82
 # File: module/Application/view/application/index/activate.phtml, line: 143
 # File: module/Application/view/application/index/activate.phtml, line: 173
 # File: module/Application/view/application/index/activate.phtml, line: 474
 # File: module/Application/view/application/index/index.phtml, line: 34
+# File: module/Application/view/application/index/billing.phtml, line: 9
 # File: module/Application/view/application/index/presentation.phtml, line: 115
 # File: module/Application/view/application/index/presentation.phtml, line: 176
 # File: module/Application/view/application/index/presentation.phtml, line: 1892
@@ -7631,6 +7586,7 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 848
 # File: module/Application/view/application/index/search.phtml, line: 852
 # File: module/Application/view/application/index/search.phtml, line: 995
+# File: module/Application/view/application/index/changeplan.phtml, line: 167
 # File: module/Application/view/application/index/search.old.phtml, line: 1117
 # File: module/Application/view/application/marketing/edit.phtml, line: 49
 # File: module/Application/view/application/marketing/new.phtml, line: 129
@@ -8268,7 +8224,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 220
 # File: module/Application/view/application/hotels/newcontractrate.phtml, line: 262
 # File: module/Application/view/application/hotels/newroom.phtml, line: 439
-# File: module/Application/view/application/index/billing.phtml, line: 301
+# File: module/Application/view/application/index/billing.phtml, line: 307
 # File: module/Application/view/application/marketing/flyer.phtml, line: 608
 # File: module/Application/view/application/portfolio/index.phtml, line: 367
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1706
@@ -8999,7 +8955,7 @@ msgstr ""
 # File: module/Application/view/application/hotels/newroom.phtml, line: 424
 # File: module/Application/view/application/hotels/index.phtml, line: 159
 # File: module/Application/view/application/hotels/index.phtml, line: 172
-# File: module/Application/view/application/index/billing.phtml, line: 294
+# File: module/Application/view/application/index/billing.phtml, line: 300
 # File: module/Application/view/application/index/partners.phtml, line: 595
 # File: module/Application/view/application/knowledge-base/item.phtml, line: 33
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 148
@@ -10992,6 +10948,7 @@ msgid "Not provided by the airline"
 msgstr ""
 #
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 377
+# File: module/Application/view/application/index/changeplan.phtml, line: 213
 msgid "until"
 msgstr ""
 #
@@ -11203,6 +11160,7 @@ msgstr ""
 # File: module/Application/view/application/index/socialmedia.phtml, line: 47
 # File: module/Application/view/application/index/userinfo.phtml, line: 46
 # File: module/Application/view/application/index/viewsecuritylog.phtml, line: 43
+# File: module/Application/view/application/index/changeplan.phtml, line: 43
 # File: module/Application/view/application/index/twofactor.phtml, line: 150
 # File: module/Application/view/application/index/password.phtml, line: 46
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 511
@@ -11288,14 +11246,17 @@ msgid "will be required."
 msgstr ""
 #
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 865
+# File: module/Application/view/application/index/changeplan.phtml, line: 101
 msgid "Card details"
 msgstr ""
 #
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 868
+# File: module/Application/view/application/index/changeplan.phtml, line: 107
 msgid "Card number"
 msgstr ""
 #
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 872
+# File: module/Application/view/application/index/changeplan.phtml, line: 115
 msgid "Name on card"
 msgstr ""
 #
@@ -11325,6 +11286,7 @@ msgid "Detected from the card number."
 msgstr ""
 #
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 912
+# File: module/Application/view/application/index/changeplan.phtml, line: 149
 msgid "Billing address"
 msgstr ""
 #
@@ -11421,6 +11383,7 @@ msgid "Check again"
 msgstr ""
 #
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1014
+# File: module/Application/view/application/index/changeplan.phtml, line: 200
 msgid "Order summary"
 msgstr ""
 #
@@ -11767,12 +11730,14 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/edit.phtml, line: 40
 # File: module/Application/view/application/hotels/edit.phtml, line: 50
-# File: module/Application/view/application/index/billing.phtml, line: 145
-# File: module/Application/view/application/index/billing.phtml, line: 184
-# File: module/Application/view/application/index/billing.phtml, line: 223
-# File: module/Application/view/application/index/billing.phtml, line: 258
 # File: module/Application/view/application/index/order.phtml, line: 375
 # File: module/Application/view/application/index/order.old.phtml, line: 367
+# File: module/Application/view/application/index/changeplan.phtml, line: 159
+# File: module/Application/view/application/index/changeplan.phtml, line: 274
+# File: module/Application/view/application/index/billing.phtml, line: 151
+# File: module/Application/view/application/index/billing.phtml, line: 190
+# File: module/Application/view/application/index/billing.phtml, line: 229
+# File: module/Application/view/application/index/billing.phtml, line: 264
 # File: module/Application/view/application/packages/editavailability.phtml, line: 75
 # File: module/Application/view/application/packages/edithotel.phtml, line: 43
 # File: module/Application/view/application/packages/edit.phtml, line: 75
@@ -12740,7 +12705,6 @@ msgstr ""
 #
 # File: module/Application/view/application/index/banners.phtml, line: 46
 # File: module/Application/view/application/index/bannersedit.phtml, line: 46
-# File: module/Application/view/application/index/billing.phtml, line: 6
 # File: module/Application/view/application/index/content.phtml, line: 45
 # File: module/Application/view/application/index/devices.phtml, line: 45
 # File: module/Application/view/application/index/invoices.phtml, line: 48
@@ -12751,6 +12715,7 @@ msgstr ""
 # File: module/Application/view/application/index/transactions.phtml, line: 6
 # File: module/Application/view/application/index/userinfo.phtml, line: 48
 # File: module/Application/view/application/index/viewsecuritylog.phtml, line: 45
+# File: module/Application/view/application/index/billing.phtml, line: 6
 # File: module/Application/view/application/index/twofactor.phtml, line: 152
 # File: module/Application/view/application/index/password.phtml, line: 48
 # File: module/Application/view/application/view-reservation/index.phtml, line: 1766
@@ -13011,11 +12976,11 @@ msgstr ""
 # File: module/Application/view/application/index/content.phtml, line: 107
 # File: module/Application/view/application/index/content.phtml, line: 132
 # File: module/Application/view/application/index/content.phtml, line: 157
-# File: module/Application/view/application/index/content.phtml, line: 179
-# File: module/Application/view/application/index/content.phtml, line: 202
-# File: module/Application/view/application/index/content.phtml, line: 215
-# File: module/Application/view/application/index/content.phtml, line: 228
-# File: module/Application/view/application/index/content.phtml, line: 247
+# File: module/Application/view/application/index/content.phtml, line: 212
+# File: module/Application/view/application/index/content.phtml, line: 250
+# File: module/Application/view/application/index/content.phtml, line: 263
+# File: module/Application/view/application/index/content.phtml, line: 276
+# File: module/Application/view/application/index/content.phtml, line: 295
 # File: module/Application/view/application/index/preferences.phtml, line: 74
 # File: module/Application/view/application/index/seo.phtml, line: 69
 # File: module/Application/view/application/index/seo.phtml, line: 107
@@ -13037,200 +13002,6 @@ msgstr ""
 # File: module/Application/view/application/index/userinfo.phtml, line: 114
 # File: module/Application/view/application/index/index.phtml, line: 77
 msgid "Update"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 10
-# File: module/Application/view/application/index/billing.phtml, line: 17
-# File: module/Application/view/application/index/order.phtml, line: 7
-# File: module/Application/view/application/index/order.phtml, line: 8
-# File: module/Application/view/application/index/order.phtml, line: 79
-# File: module/Application/view/application/index/order.old.phtml, line: 7
-# File: module/Application/view/application/index/order.old.phtml, line: 8
-# File: module/Application/view/application/index/order.old.phtml, line: 75
-msgid "Choose a Plan"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 21
-msgid "Your plan has been successfully updated. Your new features are now active."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 22
-msgid "Your plan has been successfully changed to"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 35
-msgid "Your current plan is:"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 41
-msgid "Trial"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 43
-# File: module/Application/view/application/index/billing.phtml, line: 158
-msgid "Free"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 63
-msgid "Paid Yearly"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 71
-# File: module/Application/view/application/index/billing.phtml, line: 169
-msgid "You can find the cheapest, fastest, or best flights for any destination and date. You can also filter your results by price, duration, stops, airlines, airports, and more."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 77
-# File: module/Application/view/application/index/billing.phtml, line: 243
-msgid "We have direct connections with local Caribbean hotel chains, as well as major hotel chains with access to net and package prices. This means you can save money and time by booking with us. You can choose from a variety of options, such as all-inclusive resorts, boutique hotels, or villas"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 83
-# File: module/Application/view/application/index/billing.phtml, line: 204
-msgid "Connect directly with Royal International API and enjoy 26 boats and cabins of your choice, traveling to more than 68 countries across 6 continents."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 89
-# File: module/Application/view/application/index/billing.phtml, line: 212
-msgid "Explore a wide range of escorted tours with diverse services, designed for small groups of 2 to 7 travelers."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 95
-# File: module/Application/view/application/index/billing.phtml, line: 216
-msgid "Protect yourself and your customers with travel insurance from CSA Generali and Universal Assistance. Earn commissions for every sale and secure you and your customers' trips."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 101
-# File: module/Application/view/application/index/billing.phtml, line: 251
-msgid "Our system also includes access to several transfers suppliers, who offer you the best options and prices for your transportation needs."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 107
-# File: module/Application/view/application/index/billing.phtml, line: 247
-msgid "With our system, you and your customers' can access a wide range of tours and activities suppliers, who offer you the best deals and experiences for your destinations."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 113
-msgid "Our platform gives you and your customers access to top car rental suppliers, ensuring the best prices, reliable vehicles, and smooth experiences at your destinations."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 119
-msgid "With our system, you and your customers can access a wide range of vacation package suppliers offering bundled deals, great value, and curated experiences for every destination."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 125
-# File: module/Application/view/application/index/order.phtml, line: 291
-# File: module/Application/view/application/index/order.old.phtml, line: 283
-msgid "Trip Planner"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 125
-msgid "Our platform empowers you and your customers with intuitive trip‑planning features, helping you build complete itineraries, combine services effortlessly, and create personalized travel experiences."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 130
-# File: module/Application/view/application/index/billing.phtml, line: 173
-msgid "Live pricing and Availability"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 130
-# File: module/Application/view/application/index/billing.phtml, line: 173
-msgid "You can see the live prices and availability of flights, as well as the latest deals and discounts. You can book your flights directly from our website. You can also manage your bookings online."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 134
-# File: module/Application/view/application/index/billing.phtml, line: 177
-msgid "Wide range of suppliers"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 134
-# File: module/Application/view/application/index/billing.phtml, line: 177
-msgid "Access a variety of fares from different sources, including public, private, net and NDC."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 139
-# File: module/Application/view/application/index/billing.phtml, line: 255
-# File: module/Application/view/application/index/order.phtml, line: 304
-# File: module/Application/view/application/index/order.old.phtml, line: 296
-msgid "Sub-Agents"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 139
-# File: module/Application/view/application/index/billing.phtml, line: 255
-msgid "With our system, you can easily manage your sub agents. You can assign sub agents to different regions, monitor their performance and track their commissions. Our system helps you to streamline your operations, reduce your costs, and increase your customer satisfaction."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 163
-msgid "If you are a travel agency that wants to offer your customers the best deals on flights, you might be interested in our free membership plan. With this plan, you will have access to our flights engine module, which is a powerful tool that allows you to search and book flights from hundreds of airlines and travel providers. Here are some of the benefits of using our flights engine module:"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 181
-msgid "Free Membership"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 181
-msgid "Our free membership plan is easy to sign up for and has no hidden fees or charges. All you need to do is create an account with us and start using our flights engine module. You can also upgrade to our premium membership plans anytime if you want to access more features and benefits."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 193
-msgid "Basic"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 198
-msgid "With this plan you and your customers can travel the world with Royal International. Cruise on 26 boats and cabins to suit your preferences, fly with the best fares from various sources and tour with small groups of 2 to 7 travelers across 6 continents. You can enjoy wholesale prices and earn commissions from every sale you make."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 198
-msgid "Every sale you make gives you commissions and wholesale prices."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 208
-msgid "Access a variety of fares from different sources, including public, private, net and NDC, and customize your markups according to your preferences."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 220
-msgid "With our system, you can easily list your reservation sales, as well as see and manage all commissions that you earn from your bookings."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 232
-# File: module/Application/view/application/view-reservation/guests.phtml, line: 27
-msgid "Master"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 237
-msgid "The master plan includes everything that the basic plan offers, such as flights, car rentals, cruises, and insurance. But it also gives you access to more features and options, such as hotels, activities, transfers, and sub agents modules. You can also offer them the convenience of booking now and paying later in all modules."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 237
-msgid "If you want to enjoy the full benefits of our system, you should choose the master plan."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 274
-msgid "Executive Approval Needed"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 276
-msgid "Your agency account is not yet enabled. Please contact your <strong>account executive</strong> to activate your access."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 279
-msgid "If you experience any issues or have questions, reach out to your <strong>account executive</strong> for assistance."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 293
-msgid "Confirm Plan Change"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 297
-msgid "You are about to change your current Click & Book plan."
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 298
-msgid "Are you sure you want to continue?"
-msgstr ""
-#
-# File: module/Application/view/application/index/billing.phtml, line: 302
-msgid "Yes, Change Plan"
 msgstr ""
 #
 # File: module/Application/view/application/index/content.phtml, line: 64
@@ -13313,55 +13084,79 @@ msgid "GDPR Compliance Information"
 msgstr ""
 #
 # File: module/Application/view/application/index/content.phtml, line: 164
-# File: module/Application/view/application/index/content.phtml, line: 168
-# File: module/Application/view/application/index/content.phtml, line: 175
+# File: module/Application/view/application/index/content.phtml, line: 188
+# File: module/Application/view/application/index/content.phtml, line: 199
 # File: module/Application/view/application/index/userinfo.phtml, line: 83
 msgid "Logo"
 msgstr ""
 #
-# File: module/Application/view/application/index/content.phtml, line: 175
+# File: module/Application/view/application/index/content.phtml, line: 190
+msgid "How it looks on your quotes"
+msgstr ""
+#
+# File: module/Application/view/application/index/content.phtml, line: 199
 msgid "Upload Logo"
 msgstr ""
 #
-# File: module/Application/view/application/index/content.phtml, line: 184
-# File: module/Application/view/application/index/content.phtml, line: 188
-# File: module/Application/view/application/index/content.phtml, line: 195
+# File: module/Application/view/application/index/content.phtml, line: 202
+msgid "Logo background on quotes"
+msgstr ""
+#
+# File: module/Application/view/application/index/content.phtml, line: 204
+msgid "White (default)"
+msgstr ""
+#
+# File: module/Application/view/application/index/content.phtml, line: 205
+msgid "No background"
+msgstr ""
+#
+# File: module/Application/view/application/index/content.phtml, line: 206
+msgid "Custom colour"
+msgstr ""
+#
+# File: module/Application/view/application/index/content.phtml, line: 208
+msgid "Use \"No background\" for a white or transparent logo, so it shows directly on the photo of the quote."
+msgstr ""
+#
+# File: module/Application/view/application/index/content.phtml, line: 232
+# File: module/Application/view/application/index/content.phtml, line: 236
+# File: module/Application/view/application/index/content.phtml, line: 243
 msgid "Voucher Logo"
 msgstr ""
 #
-# File: module/Application/view/application/index/content.phtml, line: 195
+# File: module/Application/view/application/index/content.phtml, line: 243
 msgid "Upload Voucher Logo"
 msgstr ""
 #
-# File: module/Application/view/application/index/content.phtml, line: 198
+# File: module/Application/view/application/index/content.phtml, line: 246
 msgid "Input logo height (e.g. 80px), leave empty for default size"
 msgstr ""
 #
-# File: module/Application/view/application/index/content.phtml, line: 207
+# File: module/Application/view/application/index/content.phtml, line: 255
 msgid "Public Email"
 msgstr ""
 #
-# File: module/Application/view/application/index/content.phtml, line: 211
+# File: module/Application/view/application/index/content.phtml, line: 259
 msgid "Input the email address that will be visible to the public on your website"
 msgstr ""
 #
-# File: module/Application/view/application/index/content.phtml, line: 220
+# File: module/Application/view/application/index/content.phtml, line: 268
 msgid "Public Phone"
 msgstr ""
 #
-# File: module/Application/view/application/index/content.phtml, line: 224
+# File: module/Application/view/application/index/content.phtml, line: 272
 msgid "Input the phone number that will be visible to the public on your website"
 msgstr ""
 #
-# File: module/Application/view/application/index/content.phtml, line: 233
+# File: module/Application/view/application/index/content.phtml, line: 281
 msgid "Public Address"
 msgstr ""
 #
-# File: module/Application/view/application/index/content.phtml, line: 237
+# File: module/Application/view/application/index/content.phtml, line: 285
 msgid "Input the address that will be visible to the public on your website"
 msgstr ""
 #
-# File: module/Application/view/application/index/content.phtml, line: 242
+# File: module/Application/view/application/index/content.phtml, line: 290
 msgid "Do not show address in website"
 msgstr ""
 #
@@ -13422,6 +13217,18 @@ msgstr ""
 msgid "Send Reset Email"
 msgstr ""
 #
+# File: module/Application/view/application/index/order.phtml, line: 7
+# File: module/Application/view/application/index/order.phtml, line: 8
+# File: module/Application/view/application/index/order.phtml, line: 79
+# File: module/Application/view/application/index/order.old.phtml, line: 7
+# File: module/Application/view/application/index/order.old.phtml, line: 8
+# File: module/Application/view/application/index/order.old.phtml, line: 75
+# File: module/Application/view/application/index/changeplan.phtml, line: 42
+# File: module/Application/view/application/index/billing.phtml, line: 10
+# File: module/Application/view/application/index/billing.phtml, line: 17
+msgid "Choose a Plan"
+msgstr ""
+#
 # File: module/Application/view/application/index/order.phtml, line: 96
 # File: module/Application/view/application/index/order.old.phtml, line: 92
 msgid "Your Click & Book Subscription is Now Active!"
@@ -13461,6 +13268,19 @@ msgstr ""
 # File: module/Application/view/application/index/order.phtml, line: 148
 # File: module/Application/view/application/index/order.old.phtml, line: 140
 msgid "Annually"
+msgstr ""
+#
+# File: module/Application/view/application/index/order.phtml, line: 291
+# File: module/Application/view/application/index/order.old.phtml, line: 283
+# File: module/Application/view/application/index/billing.phtml, line: 131
+msgid "Trip Planner"
+msgstr ""
+#
+# File: module/Application/view/application/index/order.phtml, line: 304
+# File: module/Application/view/application/index/order.old.phtml, line: 296
+# File: module/Application/view/application/index/billing.phtml, line: 145
+# File: module/Application/view/application/index/billing.phtml, line: 261
+msgid "Sub-Agents"
 msgstr ""
 #
 # File: module/Application/view/application/index/order.phtml, line: 317
@@ -13526,17 +13346,23 @@ msgstr ""
 # File: module/Application/view/application/index/order.phtml, line: 401
 # File: module/Application/view/application/index/order.old.phtml, line: 60
 # File: module/Application/view/application/index/order.old.phtml, line: 393
+# File: module/Application/view/application/index/changeplan.phtml, line: 59
+# File: module/Application/view/application/index/changeplan.phtml, line: 205
+# File: module/Application/view/application/index/changeplan.phtml, line: 211
 msgid "month"
 msgstr ""
 #
 # File: module/Application/view/application/index/order.phtml, line: 401
 # File: module/Application/view/application/index/order.old.phtml, line: 58
 # File: module/Application/view/application/index/order.old.phtml, line: 393
+# File: module/Application/view/application/index/changeplan.phtml, line: 59
+# File: module/Application/view/application/index/changeplan.phtml, line: 211
 msgid "months"
 msgstr ""
 #
 # File: module/Application/view/application/index/order.phtml, line: 401
 # File: module/Application/view/application/index/order.old.phtml, line: 393
+# File: module/Application/view/application/index/changeplan.phtml, line: 216
 # File: module/Application/view/application/index/activate.phtml, line: 191
 # File: module/Application/view/application/index/activate.phtml, line: 193
 msgid "per month"
@@ -19131,6 +18957,203 @@ msgstr ""
 msgid "Trusted by 1600+ of the world's most popular companies"
 msgstr ""
 #
+# File: module/Application/view/application/index/changeplan.phtml, line: 38
+msgid "Change Plan"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 55
+msgid "Payment received"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 56
+msgid "Your plan is now"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 56
+msgid "A receipt was sent to your email."
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 61
+# File: module/Application/view/application/index/changeplan.phtml, line: 213
+msgid "Credit for unused time"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 63
+msgid "Charged today"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 64
+msgid "Card"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 65
+msgid "Approval"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 66
+msgid "Renews"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 68
+msgid "Go to Dashboard"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 85
+msgid "Payment required to continue."
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 85
+msgid "Your account is on the"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 85
+msgid "plan, but it has not been paid yet. Complete the payment below to keep using Click & Book, or"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 85
+msgid "choose a different plan"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 89
+msgid "Payment not completed."
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 103
+msgid "Card on file ends in"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 103
+msgid "Enter the card to charge for this plan - it will be used for renewals too."
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 112
+msgid "Enter a valid card number."
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 117
+msgid "Enter the name exactly as it appears on the card."
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 120
+msgid "Exp. month"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 122
+msgid "MM"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 127
+msgid "The card has expired or the date is invalid."
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 130
+msgid "Exp. year"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 132
+msgid "YYYY"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 139
+# File: module/Application/view/application/quick-books/charge.phtml, line: 45
+# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 116
+# File: module/Application/view/application/quick-books/editcharge.phtml, line: 43
+# File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 84
+# File: module/Application/view/application/quick-books/listcharges.phtml, line: 30
+# File: module/Application/view/application/view-reservation/creditcardinfo.phtml, line: 28
+# File: module/Application/view/application/view-reservation/creditcardinfo.phtml, line: 33
+msgid "CVV"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 141
+msgid "Enter the security code."
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 164
+msgid "Select the billing country."
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 172
+msgid "State / Province"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 176
+msgid "Select the billing state / province."
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 179
+msgid "ZIP / Postal code"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 181
+msgid "Enter the billing ZIP / postal code."
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 184
+msgid "Billing email"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 186
+msgid "Enter a valid billing email."
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 189
+msgid "Billing phone"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 205
+# File: module/Application/view/application/index/billing.phtml, line: 69
+msgid "Paid Yearly"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 209
+msgid "Current plan"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 213
+msgid "paid"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 215
+msgid "Due today"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 216
+msgid "Then"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 216
+msgid "per year"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 216
+msgid "renews"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 219
+msgid "Pay"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 219
+msgid "and change plan"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 221
+msgid "Confirm plan change"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 224
+msgid "Secure payment processed by Intuit QuickBooks. Your plan changes only after the payment is approved."
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 225
+msgid "Back to plans"
+msgstr ""
+#
+# File: module/Application/view/application/index/changeplan.phtml, line: 320
+msgid "Processing payment..."
+msgstr ""
+#
 # File: module/Application/view/application/index/activate.phtml, line: 6
 msgid "Click And Book | Easy, Fast, and Reliable Travel Booking - Checkout"
 msgstr ""
@@ -19543,6 +19566,188 @@ msgstr ""
 #
 # File: module/Application/view/application/index/index.phtml, line: 1292
 msgid "Are you sure you want to cancel your subscription? Once canceled, you will lose access to all your data. Do you want to proceed?"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 22
+msgid "Payment required."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 22
+msgid "Your"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 22
+msgid "plan has not been paid yet. Complete the payment or choose a different plan below."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 23
+msgid "Complete payment"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 27
+msgid "Your plan has been successfully updated. Your new features are now active."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 28
+msgid "Your plan has been successfully changed to"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 41
+msgid "Your current plan is:"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 47
+msgid "Trial"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 49
+# File: module/Application/view/application/index/billing.phtml, line: 164
+msgid "Free"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 77
+# File: module/Application/view/application/index/billing.phtml, line: 175
+msgid "You can find the cheapest, fastest, or best flights for any destination and date. You can also filter your results by price, duration, stops, airlines, airports, and more."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 83
+# File: module/Application/view/application/index/billing.phtml, line: 249
+msgid "We have direct connections with local Caribbean hotel chains, as well as major hotel chains with access to net and package prices. This means you can save money and time by booking with us. You can choose from a variety of options, such as all-inclusive resorts, boutique hotels, or villas"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 89
+# File: module/Application/view/application/index/billing.phtml, line: 210
+msgid "Connect directly with Royal International API and enjoy 26 boats and cabins of your choice, traveling to more than 68 countries across 6 continents."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 95
+# File: module/Application/view/application/index/billing.phtml, line: 218
+msgid "Explore a wide range of escorted tours with diverse services, designed for small groups of 2 to 7 travelers."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 101
+# File: module/Application/view/application/index/billing.phtml, line: 222
+msgid "Protect yourself and your customers with travel insurance from CSA Generali and Universal Assistance. Earn commissions for every sale and secure you and your customers' trips."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 107
+# File: module/Application/view/application/index/billing.phtml, line: 257
+msgid "Our system also includes access to several transfers suppliers, who offer you the best options and prices for your transportation needs."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 113
+# File: module/Application/view/application/index/billing.phtml, line: 253
+msgid "With our system, you and your customers' can access a wide range of tours and activities suppliers, who offer you the best deals and experiences for your destinations."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 119
+msgid "Our platform gives you and your customers access to top car rental suppliers, ensuring the best prices, reliable vehicles, and smooth experiences at your destinations."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 125
+msgid "With our system, you and your customers can access a wide range of vacation package suppliers offering bundled deals, great value, and curated experiences for every destination."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 131
+msgid "Our platform empowers you and your customers with intuitive trip‑planning features, helping you build complete itineraries, combine services effortlessly, and create personalized travel experiences."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 136
+# File: module/Application/view/application/index/billing.phtml, line: 179
+msgid "Live pricing and Availability"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 136
+# File: module/Application/view/application/index/billing.phtml, line: 179
+msgid "You can see the live prices and availability of flights, as well as the latest deals and discounts. You can book your flights directly from our website. You can also manage your bookings online."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 140
+# File: module/Application/view/application/index/billing.phtml, line: 183
+msgid "Wide range of suppliers"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 140
+# File: module/Application/view/application/index/billing.phtml, line: 183
+msgid "Access a variety of fares from different sources, including public, private, net and NDC."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 145
+# File: module/Application/view/application/index/billing.phtml, line: 261
+msgid "With our system, you can easily manage your sub agents. You can assign sub agents to different regions, monitor their performance and track their commissions. Our system helps you to streamline your operations, reduce your costs, and increase your customer satisfaction."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 169
+msgid "If you are a travel agency that wants to offer your customers the best deals on flights, you might be interested in our free membership plan. With this plan, you will have access to our flights engine module, which is a powerful tool that allows you to search and book flights from hundreds of airlines and travel providers. Here are some of the benefits of using our flights engine module:"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 187
+msgid "Free Membership"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 187
+msgid "Our free membership plan is easy to sign up for and has no hidden fees or charges. All you need to do is create an account with us and start using our flights engine module. You can also upgrade to our premium membership plans anytime if you want to access more features and benefits."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 199
+msgid "Basic"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 204
+msgid "With this plan you and your customers can travel the world with Royal International. Cruise on 26 boats and cabins to suit your preferences, fly with the best fares from various sources and tour with small groups of 2 to 7 travelers across 6 continents. You can enjoy wholesale prices and earn commissions from every sale you make."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 204
+msgid "Every sale you make gives you commissions and wholesale prices."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 214
+msgid "Access a variety of fares from different sources, including public, private, net and NDC, and customize your markups according to your preferences."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 226
+msgid "With our system, you can easily list your reservation sales, as well as see and manage all commissions that you earn from your bookings."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 238
+# File: module/Application/view/application/view-reservation/guests.phtml, line: 27
+msgid "Master"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 243
+msgid "The master plan includes everything that the basic plan offers, such as flights, car rentals, cruises, and insurance. But it also gives you access to more features and options, such as hotels, activities, transfers, and sub agents modules. You can also offer them the convenience of booking now and paying later in all modules."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 243
+msgid "If you want to enjoy the full benefits of our system, you should choose the master plan."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 280
+msgid "Executive Approval Needed"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 282
+msgid "Your agency account is not yet enabled. Please contact your <strong>account executive</strong> to activate your access."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 285
+msgid "If you experience any issues or have questions, reach out to your <strong>account executive</strong> for assistance."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 299
+msgid "Confirm Plan Change"
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 303
+msgid "You are about to change your current Click & Book plan."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 304
+msgid "On the next page you will see the total, enter your card and pay. Your plan changes as soon as the payment is approved."
+msgstr ""
+#
+# File: module/Application/view/application/index/billing.phtml, line: 308
+msgid "Continue to Payment"
 msgstr ""
 #
 # File: module/Application/view/application/index/presentation.phtml, line: 7
@@ -21863,16 +22068,6 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 80
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 29
 msgid "Expiration Month/Year"
-msgstr ""
-#
-# File: module/Application/view/application/quick-books/charge.phtml, line: 45
-# File: module/Application/view/application/quick-books/createrecurringbill.phtml, line: 116
-# File: module/Application/view/application/quick-books/editcharge.phtml, line: 43
-# File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 84
-# File: module/Application/view/application/quick-books/listcharges.phtml, line: 30
-# File: module/Application/view/application/view-reservation/creditcardinfo.phtml, line: 28
-# File: module/Application/view/application/view-reservation/creditcardinfo.phtml, line: 33
-msgid "CVV"
 msgstr ""
 #
 # File: module/Application/view/application/quick-books/charge.phtml, line: 61
