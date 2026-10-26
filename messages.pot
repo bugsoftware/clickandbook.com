@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-26 07:13-0400\n"
+"POT-Creation-Date: 2026-10-26 17:27-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -104,12 +104,6 @@ msgstr ""
 # File: module/Application/src/Controller/ActivitiesController.php, line: 908
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1194
 # File: module/Application/src/Controller/IndexController.php, line: 17222
-# File: module/Application/src/Controller/FlightsController.php, line: 3121
-# File: module/Application/src/Controller/FlightsController.php, line: 3286
-# File: module/Application/src/Controller/FlightsController.php, line: 3451
-# File: module/Application/src/Controller/FlightsController.php, line: 3616
-# File: module/Application/src/Controller/FlightsController.php, line: 4057
-# File: module/Application/src/Controller/FlightsController.php, line: 4376
 # File: module/Application/src/Controller/AgentsController.php, line: 2820
 # File: module/Application/src/Controller/AgentsController.php, line: 2841
 # File: module/Application/src/Controller/AgentsController.php, line: 2862
@@ -136,6 +130,36 @@ msgstr ""
 # File: module/Application/src/Controller/ReservationsController.php, line: 1653
 # File: module/Application/src/Controller/ReservationsController.php, line: 1980
 # File: module/Application/src/Controller/ReservationsController.php, line: 2190
+# File: module/Application/src/Controller/FlightsController.old.php, line: 3175
+# File: module/Application/src/Controller/FlightsController.old.php, line: 3340
+# File: module/Application/src/Controller/FlightsController.old.php, line: 3505
+# File: module/Application/src/Controller/FlightsController.old.php, line: 3670
+# File: module/Application/src/Controller/FlightsController.old.php, line: 4111
+# File: module/Application/src/Controller/FlightsController.old.php, line: 4430
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 3175
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 3340
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 3505
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 3670
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 4111
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 4427
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 3121
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 3286
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 3451
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 3616
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 4057
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 4373
+# File: module/Application/src/Controller/FlightsController.php, line: 3175
+# File: module/Application/src/Controller/FlightsController.php, line: 3340
+# File: module/Application/src/Controller/FlightsController.php, line: 3505
+# File: module/Application/src/Controller/FlightsController.php, line: 3670
+# File: module/Application/src/Controller/FlightsController.php, line: 4111
+# File: module/Application/src/Controller/FlightsController.php, line: 4430
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 3175
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 3340
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 3505
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 3670
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 4111
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 4430
 # File: module/Application/view/application/index/index2.phtml, line: 262
 # File: module/Application/view/application/index/index3.phtml, line: 307
 # File: module/Application/view/application/product/index3.phtml, line: 128
@@ -149,10 +173,14 @@ msgstr ""
 # File: module/Application/src/Controller/InsurancesController.php, line: 748
 # File: module/Application/src/Controller/TransfersController.php, line: 1078
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1207
-# File: module/Application/src/Controller/FlightsController.php, line: 4389
 # File: module/Application/src/Controller/HotelsController.php, line: 8402
 # File: module/Application/src/Controller/CruisesController.php, line: 1263
 # File: module/Application/src/Controller/ReservationsController.php, line: 2203
+# File: module/Application/src/Controller/FlightsController.old.php, line: 4443
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 4440
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 4386
+# File: module/Application/src/Controller/FlightsController.php, line: 4443
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 4443
 msgid "All Payment Status"
 msgstr ""
 #
@@ -161,10 +189,14 @@ msgstr ""
 # File: module/Application/src/Controller/InsurancesController.php, line: 798
 # File: module/Application/src/Controller/TransfersController.php, line: 1128
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1257
-# File: module/Application/src/Controller/FlightsController.php, line: 4439
 # File: module/Application/src/Controller/HotelsController.php, line: 8452
 # File: module/Application/src/Controller/CruisesController.php, line: 1313
 # File: module/Application/src/Controller/ReservationsController.php, line: 2253
+# File: module/Application/src/Controller/FlightsController.old.php, line: 4493
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 4490
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 4436
+# File: module/Application/src/Controller/FlightsController.php, line: 4493
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 4493
 msgid "All Reservation Status"
 msgstr ""
 #
@@ -899,9 +931,17 @@ msgid "Please select"
 msgstr ""
 #
 # File: module/Application/src/Controller/PortfolioController.php, line: 370
-# File: module/Application/src/Controller/FlightsController.php, line: 1751
-# File: module/Application/src/Controller/FlightsController.php, line: 2399
 # File: module/Application/src/Controller/CruisesController.php, line: 1947
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1783
+# File: module/Application/src/Controller/FlightsController.old.php, line: 2451
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1783
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 2451
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1751
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 2399
+# File: module/Application/src/Controller/FlightsController.php, line: 1783
+# File: module/Application/src/Controller/FlightsController.php, line: 2451
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1783
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 2451
 msgid "All Companys"
 msgstr ""
 #
@@ -1561,7 +1601,6 @@ msgid "5"
 msgstr ""
 #
 # File: module/Application/src/Controller/PackagesController.php, line: 3530
-# File: module/Application/src/Controller/FlightsController.php, line: 1144
 # File: module/Application/src/Controller/ViewReservationController.php, line: 4009
 # File: module/Application/src/Controller/ViewReservationController.php, line: 4070
 # File: module/Application/src/Controller/CustomersController.php, line: 2016
@@ -1570,6 +1609,11 @@ msgstr ""
 # File: module/Application/src/Controller/CustomersController.php, line: 2080
 # File: module/Application/src/Controller/CustomersController.php, line: 2099
 # File: module/Application/src/Controller/ReservationsController.php, line: 1284
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1148
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1148
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1144
+# File: module/Application/src/Controller/FlightsController.php, line: 1148
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1148
 # File: module/Application/view/application/cms/editpage.phtml, line: 63
 # File: module/Application/view/application/cms/new.phtml, line: 64
 # File: module/Application/view/application/index/invoices.phtml, line: 104
@@ -1665,258 +1709,6 @@ msgstr ""
 #
 # File: module/Application/src/Controller/TripsController.php, line: 533
 msgid "not bookable online"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1545
-# File: module/Application/src/Controller/FlightsController.php, line: 2150
-msgid "All Charters"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1568
-# File: module/Application/src/Controller/FlightsController.php, line: 1797
-# File: module/Application/src/Controller/FlightsController.php, line: 2446
-msgid "All Aircrafts"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1585
-# File: module/Application/src/Controller/FlightsController.php, line: 1814
-# File: module/Application/src/Controller/FlightsController.php, line: 2097
-# File: module/Application/src/Controller/FlightsController.php, line: 2464
-# File: module/Application/src/Controller/HotelsController.php, line: 1992
-# File: module/Application/src/Controller/CruisesController.php, line: 1939
-# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 48
-# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 54
-# File: module/Application/view/application/customers/edit.phtml, line: 51
-# File: module/Application/view/application/flights/listairblocks.phtml, line: 188
-# File: module/Application/view/application/flights/airblock.phtml, line: 93
-# File: module/Application/view/application/packages/editoptional.phtml, line: 67
-# File: module/Application/view/application/packages/manage.phtml, line: 243
-# File: module/Application/view/application/packages/newoptional.phtml, line: 65
-# File: module/Application/view/application/agents/edit.phtml, line: 163
-msgid "Enabled"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1589
-# File: module/Application/src/Controller/FlightsController.php, line: 1818
-# File: module/Application/src/Controller/FlightsController.php, line: 2101
-# File: module/Application/src/Controller/FlightsController.php, line: 2468
-# File: module/Application/src/Controller/HotelsController.php, line: 1994
-# File: module/Application/src/Controller/CruisesController.php, line: 1940
-# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 48
-# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 54
-# File: module/Application/view/application/customers/edit.phtml, line: 52
-# File: module/Application/view/application/flights/listairblocks.phtml, line: 189
-# File: module/Application/view/application/flights/airblock.phtml, line: 94
-# File: module/Application/view/application/packages/editavailability.phtml, line: 78
-# File: module/Application/view/application/packages/editoptional.phtml, line: 68
-# File: module/Application/view/application/packages/searchpackages.phtml, line: 48
-# File: module/Application/view/application/packages/availability.phtml, line: 71
-# File: module/Application/view/application/packages/listpackages.phtml, line: 8
-# File: module/Application/view/application/packages/manage.phtml, line: 18
-# File: module/Application/view/application/packages/manage.phtml, line: 243
-# File: module/Application/view/application/packages/manage.phtml, line: 326
-# File: module/Application/view/application/packages/newoptional.phtml, line: 66
-# File: module/Application/view/application/packages/edit.phtml, line: 67
-# File: module/Application/view/application/agents/list.phtml, line: 66
-# File: module/Application/view/application/section/index3.phtml, line: 123
-# File: module/Application/view/application/section/person3.phtml, line: 68
-# File: module/Application/view/partial/a3-people-table.phtml, line: 47
-msgid "Disabled"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1599
-# File: module/Application/src/Controller/FlightsController.php, line: 2111
-msgid "Pending Prepaid"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1603
-# File: module/Application/src/Controller/FlightsController.php, line: 2115
-msgid "Prepaid"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1607
-# File: module/Application/src/Controller/FlightsController.php, line: 2119
-# File: module/Application/view/application/view-reservation/vr-items.phtml, line: 290
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 63
-# File: module/Application/view/application/funnel/journey.phtml, line: 34
-# File: module/Application/view/application/group-tours/bookings.phtml, line: 8
-# File: module/Application/view/application/group-tours/bookings.phtml, line: 32
-# File: module/Application/view/application/group-tours/bookings.phtml, line: 44
-msgid "Paid"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1611
-# File: module/Application/src/Controller/FlightsController.php, line: 2123
-msgid "Returned Without Penalty"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1615
-# File: module/Application/src/Controller/FlightsController.php, line: 2127
-msgid "Returned With Penalty"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1619
-# File: module/Application/src/Controller/FlightsController.php, line: 2131
-msgid "Canceled"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1623
-# File: module/Application/src/Controller/FlightsController.php, line: 2135
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 490
-msgid "Issued"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 1775
-# File: module/Application/src/Controller/FlightsController.php, line: 2423
-msgid "All Airlines"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5206
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 391
-msgid "Not ticketed"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5207
-msgid "Queued for ticketing"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5208
-msgid "Ticketing in progress"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5209
-# File: module/Application/src/Controller/FlightsController.php, line: 5210
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 170
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 219
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 380
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 391
-# File: module/Application/view/application/view-reservation/vr-items.phtml, line: 191
-msgid "Ticketed"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5211
-msgid "Ticketing failed - will retry"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5212
-msgid "Ticketing failed - action needed"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5213
-msgid "Ticketing needs attention"
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5341
-msgid "That reservation has no air segment to ticket."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5380
-# File: module/Application/src/Controller/FlightsController.php, line: 5477
-msgid "The middleware URL is not configured (settings.middleware)."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5393
-# File: module/Application/src/Controller/FlightsController.php, line: 5641
-msgid "The middleware rejected the request."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5395
-# File: module/Application/src/Controller/FlightsController.php, line: 5648
-msgid "The middleware did not respond."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5467
-msgid "This reservation is already ticketed."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5470
-msgid "The order no longer exists at the airline / GDS (cancelled or purged) - nothing was sent."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5473
-msgid "The airline reports this booking as already ticketed - the ticket numbers were recorded, nothing was charged."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5492
-msgid "The agency credit limit could not be verified (service unavailable), so ticketing on the agency account (CASH) is disabled right now. Issue with a credit card or try again later."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5492
-msgid "Ticketing on the agency account (CASH) is not available for this booking - the credit limit does not cover it. Issue with a credit card."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5508
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1149
-msgid "Enter the name as printed on the card."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5511
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1150
-msgid "The card number must be between 13 and 19 digits."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5513
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1151
-msgid "That card number is not valid - check for a typo."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5516
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1152
-msgid "The expiry month must be between 01 and 12."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5519
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1153
-msgid "Check the expiry year."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5521
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1154
-msgid "That card has expired."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5524
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1155
-msgid "The security code is 3 or 4 digits."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5527
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1157
-# File: module/Application/view/application/index/changeplan.phtml, line: 154
-msgid "Enter the billing address."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5530
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1158
-# File: module/Application/view/application/index/changeplan.phtml, line: 169
-msgid "Enter the billing city."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5533
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1159
-msgid "Enter the billing ZIP or postcode."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5536
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1160
-msgid "Enter the billing country."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5539
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1161
-msgid "That e-mail address is not valid."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5544
-msgid "Nothing was sent to the airline - please correct the payment details below and try again."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5619
-msgid "This reservation was already ticketed - nothing was charged."
-msgstr ""
-#
-# File: module/Application/src/Controller/FlightsController.php, line: 5619
-msgid "Tickets issued."
 msgstr ""
 #
 # File: module/Application/src/Controller/RegisterAgencyController.php, line: 551
@@ -2419,6 +2211,84 @@ msgstr ""
 # File: module/Application/src/Controller/HotelsController.php, line: 1508
 # File: module/Application/src/Controller/HotelsController.php, line: 4581
 msgid "15 Nights Charge"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1992
+# File: module/Application/src/Controller/CruisesController.php, line: 1939
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1617
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1846
+# File: module/Application/src/Controller/FlightsController.old.php, line: 2129
+# File: module/Application/src/Controller/FlightsController.old.php, line: 2516
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1617
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1846
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 2129
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 2516
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1585
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1814
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 2097
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 2464
+# File: module/Application/src/Controller/FlightsController.php, line: 1617
+# File: module/Application/src/Controller/FlightsController.php, line: 1846
+# File: module/Application/src/Controller/FlightsController.php, line: 2129
+# File: module/Application/src/Controller/FlightsController.php, line: 2516
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1617
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1846
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 2129
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 2516
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 48
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 54
+# File: module/Application/view/application/customers/edit.phtml, line: 51
+# File: module/Application/view/application/flights/listairblocks.phtml, line: 188
+# File: module/Application/view/application/flights/airblock.phtml, line: 93
+# File: module/Application/view/application/packages/editoptional.phtml, line: 67
+# File: module/Application/view/application/packages/manage.phtml, line: 243
+# File: module/Application/view/application/packages/newoptional.phtml, line: 65
+# File: module/Application/view/application/agents/edit.phtml, line: 163
+msgid "Enabled"
+msgstr ""
+#
+# File: module/Application/src/Controller/HotelsController.php, line: 1994
+# File: module/Application/src/Controller/CruisesController.php, line: 1940
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1621
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1850
+# File: module/Application/src/Controller/FlightsController.old.php, line: 2133
+# File: module/Application/src/Controller/FlightsController.old.php, line: 2520
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1621
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1850
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 2133
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 2520
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1589
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1818
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 2101
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 2468
+# File: module/Application/src/Controller/FlightsController.php, line: 1621
+# File: module/Application/src/Controller/FlightsController.php, line: 1850
+# File: module/Application/src/Controller/FlightsController.php, line: 2133
+# File: module/Application/src/Controller/FlightsController.php, line: 2520
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1621
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1850
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 2133
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 2520
+# File: module/Application/view/application/cruises/listconfirmedcruises.phtml, line: 48
+# File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 54
+# File: module/Application/view/application/customers/edit.phtml, line: 52
+# File: module/Application/view/application/flights/listairblocks.phtml, line: 189
+# File: module/Application/view/application/flights/airblock.phtml, line: 94
+# File: module/Application/view/application/packages/editavailability.phtml, line: 78
+# File: module/Application/view/application/packages/editoptional.phtml, line: 68
+# File: module/Application/view/application/packages/searchpackages.phtml, line: 48
+# File: module/Application/view/application/packages/availability.phtml, line: 71
+# File: module/Application/view/application/packages/listpackages.phtml, line: 8
+# File: module/Application/view/application/packages/manage.phtml, line: 18
+# File: module/Application/view/application/packages/manage.phtml, line: 243
+# File: module/Application/view/application/packages/manage.phtml, line: 326
+# File: module/Application/view/application/packages/newoptional.phtml, line: 66
+# File: module/Application/view/application/packages/edit.phtml, line: 67
+# File: module/Application/view/application/agents/list.phtml, line: 66
+# File: module/Application/view/application/section/index3.phtml, line: 123
+# File: module/Application/view/application/section/person3.phtml, line: 68
+# File: module/Application/view/partial/a3-people-table.phtml, line: 47
+msgid "Disabled"
 msgstr ""
 #
 # File: module/Application/src/Controller/HotelsController.php, line: 2644
@@ -3172,6 +3042,505 @@ msgstr ""
 #
 # File: module/Application/src/Controller/ReservationsController.php, line: 1344
 msgid "PayeeZy"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1577
+# File: module/Application/src/Controller/FlightsController.old.php, line: 2182
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1577
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 2182
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1545
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 2150
+# File: module/Application/src/Controller/FlightsController.php, line: 1577
+# File: module/Application/src/Controller/FlightsController.php, line: 2182
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1577
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 2182
+msgid "All Charters"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1600
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1829
+# File: module/Application/src/Controller/FlightsController.old.php, line: 2498
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1600
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1829
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 2498
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1568
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1797
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 2446
+# File: module/Application/src/Controller/FlightsController.php, line: 1600
+# File: module/Application/src/Controller/FlightsController.php, line: 1829
+# File: module/Application/src/Controller/FlightsController.php, line: 2498
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1600
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1829
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 2498
+msgid "All Aircrafts"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1631
+# File: module/Application/src/Controller/FlightsController.old.php, line: 2143
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1631
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 2143
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1599
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 2111
+# File: module/Application/src/Controller/FlightsController.php, line: 1631
+# File: module/Application/src/Controller/FlightsController.php, line: 2143
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1631
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 2143
+msgid "Pending Prepaid"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1635
+# File: module/Application/src/Controller/FlightsController.old.php, line: 2147
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1635
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 2147
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1603
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 2115
+# File: module/Application/src/Controller/FlightsController.php, line: 1635
+# File: module/Application/src/Controller/FlightsController.php, line: 2147
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1635
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 2147
+msgid "Prepaid"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1639
+# File: module/Application/src/Controller/FlightsController.old.php, line: 2151
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1639
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 2151
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1607
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 2119
+# File: module/Application/src/Controller/FlightsController.php, line: 1639
+# File: module/Application/src/Controller/FlightsController.php, line: 2151
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1639
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 2151
+# File: module/Application/view/application/view-reservation/vr-items.phtml, line: 290
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 63
+# File: module/Application/view/application/funnel/journey.phtml, line: 34
+# File: module/Application/view/application/group-tours/bookings.phtml, line: 8
+# File: module/Application/view/application/group-tours/bookings.phtml, line: 32
+# File: module/Application/view/application/group-tours/bookings.phtml, line: 44
+msgid "Paid"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1643
+# File: module/Application/src/Controller/FlightsController.old.php, line: 2155
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1643
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 2155
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1611
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 2123
+# File: module/Application/src/Controller/FlightsController.php, line: 1643
+# File: module/Application/src/Controller/FlightsController.php, line: 2155
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1643
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 2155
+msgid "Returned Without Penalty"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1647
+# File: module/Application/src/Controller/FlightsController.old.php, line: 2159
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1647
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 2159
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1615
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 2127
+# File: module/Application/src/Controller/FlightsController.php, line: 1647
+# File: module/Application/src/Controller/FlightsController.php, line: 2159
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1647
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 2159
+msgid "Returned With Penalty"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1651
+# File: module/Application/src/Controller/FlightsController.old.php, line: 2163
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1651
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 2163
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1619
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 2131
+# File: module/Application/src/Controller/FlightsController.php, line: 1651
+# File: module/Application/src/Controller/FlightsController.php, line: 2163
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1651
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 2163
+msgid "Canceled"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1655
+# File: module/Application/src/Controller/FlightsController.old.php, line: 2167
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1655
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 2167
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1623
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 2135
+# File: module/Application/src/Controller/FlightsController.php, line: 1655
+# File: module/Application/src/Controller/FlightsController.php, line: 2167
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1655
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 2167
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 490
+msgid "Issued"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 1807
+# File: module/Application/src/Controller/FlightsController.old.php, line: 2475
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 1807
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 2475
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 1775
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 2423
+# File: module/Application/src/Controller/FlightsController.php, line: 1807
+# File: module/Application/src/Controller/FlightsController.php, line: 2475
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 1807
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 2475
+msgid "All Airlines"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5327
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5349
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5202
+# File: module/Application/src/Controller/FlightsController.php, line: 5353
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5309
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 391
+msgid "Not ticketed"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5328
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5350
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5203
+# File: module/Application/src/Controller/FlightsController.php, line: 5354
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5310
+msgid "Queued for ticketing"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5329
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5351
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5204
+# File: module/Application/src/Controller/FlightsController.php, line: 5355
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5311
+msgid "Ticketing in progress"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5330
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5331
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5352
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5353
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5205
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5206
+# File: module/Application/src/Controller/FlightsController.php, line: 5356
+# File: module/Application/src/Controller/FlightsController.php, line: 5357
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5312
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5313
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 170
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 219
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 380
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 391
+# File: module/Application/view/application/view-reservation/vr-items.phtml, line: 191
+msgid "Ticketed"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5332
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5354
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5207
+# File: module/Application/src/Controller/FlightsController.php, line: 5358
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5314
+msgid "Ticketing failed - will retry"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5333
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5355
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5208
+# File: module/Application/src/Controller/FlightsController.php, line: 5359
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5315
+msgid "Ticketing failed - action needed"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5334
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5356
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5209
+# File: module/Application/src/Controller/FlightsController.php, line: 5360
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5316
+msgid "Ticketing needs attention"
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5469
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5491
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5337
+# File: module/Application/src/Controller/FlightsController.php, line: 5495
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5445
+msgid "That reservation has no air segment to ticket."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5508
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5625
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5530
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5647
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5376
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5473
+# File: module/Application/src/Controller/FlightsController.php, line: 5534
+# File: module/Application/src/Controller/FlightsController.php, line: 5651
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5484
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5601
+msgid "The middleware URL is not configured (settings.middleware)."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5528
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5801
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5550
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5858
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5389
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5637
+# File: module/Application/src/Controller/FlightsController.php, line: 5554
+# File: module/Application/src/Controller/FlightsController.php, line: 5862
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5504
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5777
+msgid "The middleware rejected the request."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5530
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5808
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5552
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5865
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5391
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5644
+# File: module/Application/src/Controller/FlightsController.php, line: 5556
+# File: module/Application/src/Controller/FlightsController.php, line: 5869
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5506
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5784
+msgid "The middleware did not respond."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5615
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5637
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5463
+# File: module/Application/src/Controller/FlightsController.php, line: 5641
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5591
+msgid "This reservation is already ticketed."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5618
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5640
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5466
+# File: module/Application/src/Controller/FlightsController.php, line: 5644
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5594
+msgid "The order no longer exists at the airline / GDS (cancelled or purged) - nothing was sent."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5621
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5643
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5469
+# File: module/Application/src/Controller/FlightsController.php, line: 5647
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5597
+msgid "The airline reports this booking as already ticketed - the ticket numbers were recorded, nothing was charged."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5640
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5662
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5488
+# File: module/Application/src/Controller/FlightsController.php, line: 5666
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5616
+msgid "The agency credit limit could not be verified (service unavailable), so ticketing on the agency account (CASH) is disabled right now. Issue with a credit card or try again later."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5640
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5662
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5488
+# File: module/Application/src/Controller/FlightsController.php, line: 5666
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5616
+msgid "Ticketing on the agency account (CASH) is not available for this booking - the credit limit does not cover it. Issue with a credit card."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5656
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5678
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5504
+# File: module/Application/src/Controller/FlightsController.php, line: 5682
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5632
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1149
+msgid "Enter the name as printed on the card."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5659
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5683
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5507
+# File: module/Application/src/Controller/FlightsController.php, line: 5687
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5635
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1150
+msgid "The card number must be between 13 and 19 digits."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5661
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5685
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5509
+# File: module/Application/src/Controller/FlightsController.php, line: 5689
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5637
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1151
+msgid "That card number is not valid - check for a typo."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5664
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5688
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5512
+# File: module/Application/src/Controller/FlightsController.php, line: 5692
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5640
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1152
+msgid "The expiry month must be between 01 and 12."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5667
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5691
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5515
+# File: module/Application/src/Controller/FlightsController.php, line: 5695
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5643
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1153
+msgid "Check the expiry year."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5669
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5693
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5517
+# File: module/Application/src/Controller/FlightsController.php, line: 5697
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5645
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1154
+msgid "That card has expired."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5672
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5696
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5520
+# File: module/Application/src/Controller/FlightsController.php, line: 5700
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5648
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1155
+msgid "The security code is 3 or 4 digits."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5675
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5699
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5523
+# File: module/Application/src/Controller/FlightsController.php, line: 5703
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5651
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1157
+# File: module/Application/view/application/index/changeplan.phtml, line: 154
+msgid "Enter the billing address."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5678
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5702
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5526
+# File: module/Application/src/Controller/FlightsController.php, line: 5706
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5654
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1158
+# File: module/Application/view/application/index/changeplan.phtml, line: 169
+msgid "Enter the billing city."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5681
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5720
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5529
+# File: module/Application/src/Controller/FlightsController.php, line: 5724
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5657
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1159
+msgid "Enter the billing ZIP or postcode."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5684
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5532
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5660
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1160
+msgid "Enter the billing country."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5687
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5725
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5535
+# File: module/Application/src/Controller/FlightsController.php, line: 5729
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5663
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1161
+msgid "That e-mail address is not valid."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5692
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5754
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5540
+# File: module/Application/src/Controller/FlightsController.php, line: 5758
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5668
+msgid "Nothing was sent to the airline - please correct the payment details below and try again."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5779
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5836
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5615
+# File: module/Application/src/Controller/FlightsController.php, line: 5840
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5755
+msgid "This reservation was already ticketed - nothing was charged."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.old.php, line: 5779
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5836
+# File: module/Application/src/Controller/FlightsController.1986.php, line: 5615
+# File: module/Application/src/Controller/FlightsController.php, line: 5840
+# File: module/Application/src/Controller/FlightsController.claude.fucked.up.everything.php, line: 5755
+msgid "Tickets issued."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5680
+# File: module/Application/src/Controller/FlightsController.php, line: 5684
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1163
+msgid "The name on the card cannot contain numbers."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5708
+# File: module/Application/src/Controller/FlightsController.php, line: 5712
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1168
+msgid "Choose the billing country."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5710
+# File: module/Application/src/Controller/FlightsController.php, line: 5714
+msgid "Choose the billing country from the list."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5716
+# File: module/Application/src/Controller/FlightsController.php, line: 5720
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1169
+msgid "Choose the billing state."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5716
+# File: module/Application/src/Controller/FlightsController.php, line: 5720
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1170
+msgid "Choose the billing province."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5722
+# File: module/Application/src/Controller/FlightsController.php, line: 5726
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1171
+msgid "A US ZIP code is 5 digits (or ZIP+4)."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5722
+# File: module/Application/src/Controller/FlightsController.php, line: 5726
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1172
+msgid "A Canadian postal code looks like A1A 1A1."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5722
+# File: module/Application/src/Controller/FlightsController.php, line: 5726
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1174
+msgid "Check the ZIP or postcode."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5728
+# File: module/Application/src/Controller/FlightsController.php, line: 5732
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1162
+msgid "Enter a phone number with at least 7 digits."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5742
+# File: module/Application/src/Controller/FlightsController.php, line: 5746
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1167
+msgid "Only Visa, Mastercard, American Express and Discover cards are accepted."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5747
+# File: module/Application/src/Controller/FlightsController.php, line: 5751
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1156
+msgid "American Express cards have a 4-digit security code."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.correct.php, line: 5749
+# File: module/Application/src/Controller/FlightsController.php, line: 5753
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1166
+msgid "The security code on this card is 3 digits."
 msgstr ""
 #
 # File: module/Application/src/Shared/Sendemailv2.php, line: 505
@@ -12346,18 +12715,6 @@ msgstr ""
 msgid "Issuing the tickets with the airline - do not close this window."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1156
-msgid "American Express cards have a 4-digit security code."
-msgstr ""
-#
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1162
-msgid "Enter a phone number with at least 7 digits."
-msgstr ""
-#
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1163
-msgid "The name on the card cannot contain numbers."
-msgstr ""
-#
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1164
 msgid "Choose the expiry month."
 msgstr ""
@@ -12366,40 +12723,8 @@ msgstr ""
 msgid "Choose the expiry year."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1166
-msgid "The security code on this card is 3 digits."
-msgstr ""
-#
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1167
-msgid "Only Visa, Mastercard, American Express and Discover cards are accepted."
-msgstr ""
-#
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1168
-msgid "Choose the billing country."
-msgstr ""
-#
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1169
-msgid "Choose the billing state."
-msgstr ""
-#
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1170
-msgid "Choose the billing province."
-msgstr ""
-#
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1171
-msgid "A US ZIP code is 5 digits (or ZIP+4)."
-msgstr ""
-#
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1172
-msgid "A Canadian postal code looks like A1A 1A1."
-msgstr ""
-#
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1173
 msgid "A Mexican postal code is 5 digits."
-msgstr ""
-#
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1174
-msgid "Check the ZIP or postcode."
 msgstr ""
 #
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1178
