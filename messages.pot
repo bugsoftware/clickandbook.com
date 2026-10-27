@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-27 03:32-0400\n"
+"POT-Creation-Date: 2026-10-27 10:59-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,8 +48,8 @@ msgstr ""
 # File: module/Application/view/application/communications/manage.phtml, line: 149
 # File: module/Application/view/application/communications/manage.phtml, line: 259
 # File: module/Application/view/application/communications/manage.phtml, line: 285
-# File: module/Application/view/application/section/index3.phtml, line: 86
-# File: module/Application/view/application/section/index3.phtml, line: 123
+# File: module/Application/view/application/section/index3.phtml, line: 87
+# File: module/Application/view/application/section/index3.phtml, line: 124
 # File: module/Application/view/application/section/person3.phtml, line: 68
 # File: module/Application/view/partial/a3-people-table.phtml, line: 47
 msgid "Active"
@@ -88,9 +88,9 @@ msgstr ""
 msgid "Inactive"
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1172
-# File: module/Application/src/Controller/CMSController.php, line: 1193
-# File: module/Application/src/Controller/CMSController.php, line: 1214
+# File: module/Application/src/Controller/CMSController.php, line: 1174
+# File: module/Application/src/Controller/CMSController.php, line: 1195
+# File: module/Application/src/Controller/CMSController.php, line: 1216
 # File: module/Application/src/Controller/CarsController.php, line: 779
 # File: module/Application/src/Controller/CarsController.php, line: 1043
 # File: module/Application/src/Controller/EscortedtoursController.php, line: 2805
@@ -163,9 +163,49 @@ msgstr ""
 # File: module/Application/view/application/index/index2.phtml, line: 262
 # File: module/Application/view/application/index/index3.phtml, line: 307
 # File: module/Application/view/application/product/index3.phtml, line: 128
-# File: module/Application/view/application/section/index3.phtml, line: 116
+# File: module/Application/view/application/section/index3.phtml, line: 117
 # File: module/Application/view/partial/a3-people-table.phtml, line: 37
 msgid "Not Available"
+msgstr ""
+#
+# File: module/Application/src/Controller/CMSController.php, line: 1434
+msgid "Your session expired - please try again."
+msgstr ""
+#
+# File: module/Application/src/Controller/CMSController.php, line: 1439
+msgid "Promotion switched on."
+msgstr ""
+#
+# File: module/Application/src/Controller/CMSController.php, line: 1439
+msgid "Promotion switched off."
+msgstr ""
+#
+# File: module/Application/src/Controller/CMSController.php, line: 1442
+msgid "Promotion deleted."
+msgstr ""
+#
+# File: module/Application/src/Controller/CMSController.php, line: 1447
+msgid "Copy created (switched off) - review it and switch it on."
+msgstr ""
+#
+# File: module/Application/src/Controller/CMSController.php, line: 1451
+msgid "Could not duplicate the promotion."
+msgstr ""
+#
+# File: module/Application/src/Controller/CMSController.php, line: 1456
+msgid "Something went wrong - nothing was changed."
+msgstr ""
+#
+# File: module/Application/src/Controller/CMSController.php, line: 1485
+msgid "Your session expired - nothing was saved, please make the change again."
+msgstr ""
+#
+# File: module/Application/src/Controller/CMSController.php, line: 1494
+msgid "Saved. The airline page shows it right away."
+msgstr ""
+#
+# File: module/Application/src/Controller/CMSController.php, line: 1509
+msgid "Run sql/airline_promos.sql first."
 msgstr ""
 #
 # File: module/Application/src/Controller/CarsController.php, line: 1056
@@ -2285,7 +2325,7 @@ msgstr ""
 # File: module/Application/view/application/packages/newoptional.phtml, line: 66
 # File: module/Application/view/application/packages/edit.phtml, line: 67
 # File: module/Application/view/application/agents/list.phtml, line: 66
-# File: module/Application/view/application/section/index3.phtml, line: 123
+# File: module/Application/view/application/section/index3.phtml, line: 124
 # File: module/Application/view/application/section/person3.phtml, line: 68
 # File: module/Application/view/partial/a3-people-table.phtml, line: 47
 msgid "Disabled"
@@ -2312,7 +2352,7 @@ msgstr ""
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1524
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 206
 # File: module/Application/view/application/statistics/index.phtml, line: 259
-# File: module/Application/view/application/section/index3.phtml, line: 128
+# File: module/Application/view/application/section/index3.phtml, line: 129
 msgid "nights"
 msgstr ""
 #
@@ -2685,7 +2725,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 136
 # File: module/Application/view/application/tutorials/index.phtml, line: 177
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 121
-# File: module/Application/view/application/section/index3.phtml, line: 84
+# File: module/Application/view/application/section/index3.phtml, line: 85
 # File: module/Application/view/layout/layout.phtml, line: 160
 # File: module/Application/view/layout/layout.phtml, line: 322
 # File: module/Application/view/layout/layout2.phtml, line: 66
@@ -2845,6 +2885,7 @@ msgid "Flight"
 msgstr ""
 #
 # File: module/Application/src/Controller/CustomersController.php, line: 2740
+# File: module/Application/view/application/cms/airlinepages.phtml, line: 134
 # File: module/Application/view/application/reports/globalware.phtml, line: 25
 # File: module/Application/view/application/reports/search.phtml, line: 32
 msgid "from"
@@ -7427,7 +7468,7 @@ msgstr ""
 # File: module/Application/view/application/agents/searchagents.phtml, line: 66
 # File: module/Application/view/application/product/index3.phtml, line: 96
 # File: module/Application/view/application/product/searchreservations3.phtml, line: 63
-# File: module/Application/view/application/section/index3.phtml, line: 83
+# File: module/Application/view/application/section/index3.phtml, line: 84
 # File: module/Application/view/application/section/people3.phtml, line: 75
 msgid "Confirmed"
 msgstr ""
@@ -8473,6 +8514,10 @@ msgstr ""
 msgid "Featured Hotels"
 msgstr ""
 #
+# File: module/Application/view/application/cms/index.phtml, line: 107
+msgid "Airline Pages"
+msgstr ""
+#
 # File: module/Application/view/application/cms/pages.phtml, line: 7
 # File: module/Application/view/application/cms/pages.phtml, line: 13
 # File: module/Application/view/application/cms/pages.phtml, line: 20
@@ -8524,6 +8569,20 @@ msgstr ""
 # File: module/Application/view/application/section/people3.phtml, line: 43
 # File: module/Application/view/application/section/people3.phtml, line: 47
 msgid "List"
+msgstr ""
+#
+# File: module/Application/view/application/cms/airlinepages.phtml, line: 135
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 377
+# File: module/Application/view/application/index/changeplan.phtml, line: 213
+msgid "until"
+msgstr ""
+#
+# File: module/Application/view/application/cms/airlinepages.phtml, line: 166
+msgid "Delete this promotion with its banners and routes?"
+msgstr ""
+#
+# File: module/Application/view/application/cms/airlinepage.phtml, line: 332
+msgid "Featured routes"
 msgstr ""
 #
 # File: module/Application/view/application/cruises/addpopularcruises.phtml, line: 7
@@ -9685,7 +9744,7 @@ msgstr ""
 # File: module/Application/view/application/customers/quote.phtml, line: 90
 # File: module/Application/view/application/customers/quotes2.phtml, line: 88
 # File: module/Application/view/application/customers/quotes2.phtml, line: 93
-# File: module/Application/view/application/section/index3.phtml, line: 84
+# File: module/Application/view/application/section/index3.phtml, line: 85
 msgid "Quotes"
 msgstr ""
 #
@@ -12197,11 +12256,6 @@ msgstr ""
 msgid "Not provided by the airline"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 377
-# File: module/Application/view/application/index/changeplan.phtml, line: 213
-msgid "until"
-msgstr ""
-#
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 383
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1152
 # File: module/Application/view/application/portfolio/index.phtml, line: 89
@@ -13868,7 +13922,7 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/index3.phtml, line: 113
 # File: module/Application/view/application/product/index3.phtml, line: 107
-# File: module/Application/view/application/section/index3.phtml, line: 96
+# File: module/Application/view/application/section/index3.phtml, line: 97
 msgid "What do you need?"
 msgstr ""
 #
@@ -27133,7 +27187,7 @@ msgstr ""
 # File: module/Application/view/application/trips/list3.phtml, line: 16
 # File: module/Application/view/application/group-tours/list.phtml, line: 8
 # File: module/Application/view/application/group-tours/edit.phtml, line: 128
-# File: module/Application/view/application/section/index3.phtml, line: 129
+# File: module/Application/view/application/section/index3.phtml, line: 130
 msgid "Draft"
 msgstr ""
 #
@@ -27142,8 +27196,8 @@ msgstr ""
 # File: module/Application/view/application/trips/list3.phtml, line: 41
 # File: module/Application/view/application/group-tours/list.phtml, line: 9
 # File: module/Application/view/application/group-tours/edit.phtml, line: 128
-# File: module/Application/view/application/section/index3.phtml, line: 85
-# File: module/Application/view/application/section/index3.phtml, line: 129
+# File: module/Application/view/application/section/index3.phtml, line: 86
+# File: module/Application/view/application/section/index3.phtml, line: 130
 msgid "Live"
 msgstr ""
 #
@@ -28828,7 +28882,7 @@ msgid "What each line pays you"
 msgstr ""
 #
 # File: module/Application/view/application/product/index3.phtml, line: 158
-# File: module/Application/view/application/section/index3.phtml, line: 107
+# File: module/Application/view/application/section/index3.phtml, line: 108
 msgid "See all"
 msgstr ""
 #
@@ -28906,26 +28960,26 @@ msgstr ""
 msgid "Pick one or more criteria above and press Search."
 msgstr ""
 #
-# File: module/Application/view/application/section/index3.phtml, line: 83
-# File: module/Application/view/application/section/index3.phtml, line: 86
+# File: module/Application/view/application/section/index3.phtml, line: 84
+# File: module/Application/view/application/section/index3.phtml, line: 87
 msgid "of the latest"
 msgstr ""
 #
-# File: module/Application/view/application/section/index3.phtml, line: 85
+# File: module/Application/view/application/section/index3.phtml, line: 86
 msgid "Drafts"
 msgstr ""
 #
-# File: module/Application/view/application/section/index3.phtml, line: 107
+# File: module/Application/view/application/section/index3.phtml, line: 108
 msgid "Latest"
 msgstr ""
 #
-# File: module/Application/view/application/section/index3.phtml, line: 109
+# File: module/Application/view/application/section/index3.phtml, line: 110
 # File: module/Application/view/application/section/people3.phtml, line: 63
 # File: module/Application/view/application/section/people3.phtml, line: 84
 msgid "Nothing here yet."
 msgstr ""
 #
-# File: module/Application/view/application/section/index3.phtml, line: 129
+# File: module/Application/view/application/section/index3.phtml, line: 130
 msgid "Offline"
 msgstr ""
 #
