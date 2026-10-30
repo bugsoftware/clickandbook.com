@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-29 20:15-0400\n"
+"POT-Creation-Date: 2026-10-30 03:09-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -123,9 +123,8 @@ msgstr ""
 # File: module/Application/src/Controller/CustomersController.php, line: 4369
 # File: module/Application/src/Controller/CustomersController.php, line: 4389
 # File: module/Application/src/Controller/CustomersController.php, line: 4409
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3956
-# File: module/Application/src/Controller/ViewReservationController.php, line: 4020
-# File: module/Application/src/Controller/ViewReservationController.php, line: 4081
+# File: module/Application/src/Controller/ViewReservationController.php, line: 4013
+# File: module/Application/src/Controller/ViewReservationController.php, line: 4074
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 58
 # File: module/Application/view/application/hotels/searchhotels.phtml, line: 101
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 72
@@ -1565,8 +1564,8 @@ msgstr ""
 # File: module/Application/src/Controller/CustomersController.php, line: 2018
 # File: module/Application/src/Controller/CustomersController.php, line: 2080
 # File: module/Application/src/Controller/CustomersController.php, line: 2099
-# File: module/Application/src/Controller/ViewReservationController.php, line: 4009
-# File: module/Application/src/Controller/ViewReservationController.php, line: 4070
+# File: module/Application/src/Controller/ViewReservationController.php, line: 4002
+# File: module/Application/src/Controller/ViewReservationController.php, line: 4063
 # File: module/Application/src/Controller/FlightsController.old.php, line: 1148
 # File: module/Application/src/Controller/FlightsController.correct.php, line: 1148
 # File: module/Application/src/Controller/FlightsController.1986.php, line: 1144
@@ -1582,7 +1581,7 @@ msgid "None"
 msgstr ""
 #
 # File: module/Application/src/Controller/ReservationsController.php, line: 1309
-# File: module/Application/src/Controller/ViewReservationController.php, line: 4042
+# File: module/Application/src/Controller/ViewReservationController.php, line: 4035
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 642
 msgid "Credit Card"
 msgstr ""
@@ -1904,6 +1903,7 @@ msgid "Created"
 msgstr ""
 #
 # File: module/Application/src/Controller/AgentsController.php, line: 3448
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3968
 # File: module/Application/view/application/customers/managebounce.phtml, line: 36
 # File: module/Application/view/application/customers/editsupport.phtml, line: 30
 # File: module/Application/view/application/customers/editsupport.phtml, line: 74
@@ -2717,6 +2717,7 @@ msgid "Quote"
 msgstr ""
 #
 # File: module/Application/src/Controller/CustomersController.php, line: 4167
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3968
 # File: module/Application/view/application/activities/listreservations.phtml, line: 32
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 60
 # File: module/Application/view/application/cars/listreservations.phtml, line: 31
@@ -2888,67 +2889,7 @@ msgstr ""
 msgid "All Companies/Markets"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3943
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 176
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 850
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 1552
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 1705
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 1921
-# File: module/Application/src/Templates/reservation_v2.phtml, line: 2335
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 36
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 36
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 36
-# File: module/Application/view/application/customers/search.phtml, line: 54
-# File: module/Application/view/application/customers/searchcustomers.phtml, line: 62
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 36
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 36
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 36
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 36
-# File: module/Application/view/application/marketing/sendingreport.phtml, line: 65
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 36
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 36
-# File: module/Application/view/application/reservations/newreservation.phtml, line: 112
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 36
-# File: module/Application/view/application/agents/view.phtml, line: 341
-# File: module/Application/view/application/agents/search.phtml, line: 54
-# File: module/Application/view/application/agents/searchagents.phtml, line: 64
-# File: module/Application/view/application/group-tours/bookings.phtml, line: 8
-# File: module/Application/view/application/product/searchreservations3.phtml, line: 62
-# File: module/Application/view/application/section/people3.phtml, line: 74
-# File: module/Application/view/application/section/person3.phtml, line: 68
-msgid "Pending"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3945
-msgid "Credited"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3947
-# File: module/Application/view/application/activities/searchreservations.phtml, line: 38
-# File: module/Application/view/application/cars/searchreservations.phtml, line: 38
-# File: module/Application/view/application/cruises/searchreservations.phtml, line: 38
-# File: module/Application/view/application/customers/search.phtml, line: 56
-# File: module/Application/view/application/customers/searchcustomers.phtml, line: 66
-# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 38
-# File: module/Application/view/application/flights/searchreservations.phtml, line: 38
-# File: module/Application/view/application/hotels/searchreservations.phtml, line: 38
-# File: module/Application/view/application/index/invoices.phtml, line: 120
-# File: module/Application/view/application/insurances/searchreservations.phtml, line: 38
-# File: module/Application/view/application/packages/searchreservations.phtml, line: 38
-# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 96
-# File: module/Application/view/application/reservations/searchreservations.phtml, line: 38
-# File: module/Application/view/application/transfers/searchreservations.phtml, line: 38
-# File: module/Application/view/application/view-reservation/vr-items.phtml, line: 289
-# File: module/Application/view/application/view-reservation/vr-services.phtml, line: 45
-# File: module/Application/view/application/agents/view.phtml, line: 341
-# File: module/Application/view/application/agents/search.phtml, line: 56
-# File: module/Application/view/application/agents/searchagents.phtml, line: 68
-# File: module/Application/view/application/product/searchreservations3.phtml, line: 64
-# File: module/Application/view/application/section/people3.phtml, line: 76
-msgid "Cancelled"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3949
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3969
 # File: module/Application/view/application/activities/listreservations.phtml, line: 90
 # File: module/Application/view/application/cars/listreservations.phtml, line: 88
 # File: module/Application/view/application/cruises/listreservations.phtml, line: 88
@@ -2976,23 +2917,7 @@ msgstr ""
 msgid "Unknown Status"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3952
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 188
-# File: module/Application/view/application/index/index.phtml, line: 1294
-# File: module/Application/view/application/index/index2.phtml, line: 442
-# File: module/Application/view/application/index/index3.phtml, line: 490
-# File: module/Application/view/application/packages/edit.phtml, line: 77
-# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 861
-# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 883
-# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 905
-# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 927
-# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 949
-# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 971
-# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 993
-msgid "No"
-msgstr ""
-#
-# File: module/Application/src/Controller/ViewReservationController.php, line: 3954
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3970
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 186
 # File: module/Application/view/application/index/index.phtml, line: 1295
 # File: module/Application/view/application/index/index2.phtml, line: 443
@@ -3008,36 +2933,52 @@ msgstr ""
 msgid "Yes"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 4039
+# File: module/Application/src/Controller/ViewReservationController.php, line: 3970
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 188
+# File: module/Application/view/application/index/index.phtml, line: 1294
+# File: module/Application/view/application/index/index2.phtml, line: 442
+# File: module/Application/view/application/index/index3.phtml, line: 490
+# File: module/Application/view/application/packages/edit.phtml, line: 77
+# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 861
+# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 883
+# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 905
+# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 927
+# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 949
+# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 971
+# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 993
+msgid "No"
+msgstr ""
+#
+# File: module/Application/src/Controller/ViewReservationController.php, line: 4032
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 118
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 637
 msgid "Cash"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 4045
+# File: module/Application/src/Controller/ViewReservationController.php, line: 4038
 msgid "Wire Transfer"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 4048
+# File: module/Application/src/Controller/ViewReservationController.php, line: 4041
 msgid "Unknown Payment Type"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 4055
+# File: module/Application/src/Controller/ViewReservationController.php, line: 4048
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 600
 msgid "Total Payment"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 4058
+# File: module/Application/src/Controller/ViewReservationController.php, line: 4051
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 609
 msgid "1st Payment"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 4061
+# File: module/Application/src/Controller/ViewReservationController.php, line: 4054
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 616
 msgid "2nd Payment"
 msgstr ""
 #
-# File: module/Application/src/Controller/ViewReservationController.php, line: 4064
+# File: module/Application/src/Controller/ViewReservationController.php, line: 4057
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 623
 msgid "3rd Payment"
 msgstr ""
@@ -3952,6 +3893,36 @@ msgstr ""
 msgid "Airline Confirmation Number"
 msgstr ""
 #
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 176
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 850
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 1552
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 1705
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 1921
+# File: module/Application/src/Templates/reservation_v2.phtml, line: 2335
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 36
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 36
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 36
+# File: module/Application/view/application/customers/search.phtml, line: 54
+# File: module/Application/view/application/customers/searchcustomers.phtml, line: 62
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 36
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 36
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 36
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 36
+# File: module/Application/view/application/marketing/sendingreport.phtml, line: 65
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 36
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 36
+# File: module/Application/view/application/reservations/newreservation.phtml, line: 112
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 36
+# File: module/Application/view/application/agents/view.phtml, line: 341
+# File: module/Application/view/application/agents/search.phtml, line: 54
+# File: module/Application/view/application/agents/searchagents.phtml, line: 64
+# File: module/Application/view/application/group-tours/bookings.phtml, line: 8
+# File: module/Application/view/application/product/searchreservations3.phtml, line: 62
+# File: module/Application/view/application/section/people3.phtml, line: 74
+# File: module/Application/view/application/section/person3.phtml, line: 68
+msgid "Pending"
+msgstr ""
+#
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 205
 msgid "Flight Number"
 msgstr ""
@@ -4109,6 +4080,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 9
 # File: module/Application/view/application/view-reservation/vr-services.phtml, line: 182
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 672
+# File: module/Application/view/application/view-reservation/rewards.phtml, line: 8
 # File: module/Application/view/application/agents/view.phtml, line: 335
 # File: module/Application/view/partial/a3-resv-table.phtml, line: 43
 # File: module/Application/view/partial/a3-resv-table.phtml, line: 66
@@ -6285,7 +6257,6 @@ msgstr ""
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 29
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 28
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 58
-# File: module/Application/view/application/view-reservation/rewards.phtml, line: 8
 # File: module/Application/view/application/view-reservation/index.phtml, line: 57
 # File: module/Application/view/application/view-reservation/index.phtml, line: 164
 # File: module/Application/view/application/view-reservation/index3.phtml, line: 64
@@ -7517,6 +7488,30 @@ msgstr ""
 msgid "Confirmed"
 msgstr ""
 #
+# File: module/Application/view/application/activities/searchreservations.phtml, line: 38
+# File: module/Application/view/application/cars/searchreservations.phtml, line: 38
+# File: module/Application/view/application/cruises/searchreservations.phtml, line: 38
+# File: module/Application/view/application/customers/search.phtml, line: 56
+# File: module/Application/view/application/customers/searchcustomers.phtml, line: 66
+# File: module/Application/view/application/escortedtours/searchreservations.phtml, line: 38
+# File: module/Application/view/application/flights/searchreservations.phtml, line: 38
+# File: module/Application/view/application/hotels/searchreservations.phtml, line: 38
+# File: module/Application/view/application/index/invoices.phtml, line: 120
+# File: module/Application/view/application/insurances/searchreservations.phtml, line: 38
+# File: module/Application/view/application/packages/searchreservations.phtml, line: 38
+# File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 96
+# File: module/Application/view/application/reservations/searchreservations.phtml, line: 38
+# File: module/Application/view/application/transfers/searchreservations.phtml, line: 38
+# File: module/Application/view/application/view-reservation/vr-items.phtml, line: 289
+# File: module/Application/view/application/view-reservation/vr-services.phtml, line: 45
+# File: module/Application/view/application/agents/view.phtml, line: 341
+# File: module/Application/view/application/agents/search.phtml, line: 56
+# File: module/Application/view/application/agents/searchagents.phtml, line: 68
+# File: module/Application/view/application/product/searchreservations3.phtml, line: 64
+# File: module/Application/view/application/section/people3.phtml, line: 76
+msgid "Cancelled"
+msgstr ""
+#
 # File: module/Application/view/application/activities/searchreservations.phtml, line: 42
 # File: module/Application/view/application/cars/searchreservations.phtml, line: 42
 # File: module/Application/view/application/cruises/searchreservations.phtml, line: 42
@@ -8368,7 +8363,7 @@ msgstr ""
 # File: module/Application/view/application/support/edit.phtml, line: 34
 # File: module/Application/view/application/support/list.phtml, line: 34
 # File: module/Application/view/application/support/search.phtml, line: 80
-# File: module/Application/view/application/view-reservation/rewards.phtml, line: 11
+# File: module/Application/view/application/view-reservation/rewards.phtml, line: 12
 # File: module/Application/view/application/communications/manage.phtml, line: 127
 # File: module/Application/view/application/communications/manage.phtml, line: 256
 # File: module/Application/view/application/trips/quotes.phtml, line: 50
@@ -9620,9 +9615,9 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 66
 # File: module/Application/view/application/quick-books/listcharges.phtml, line: 26
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 43
-# File: module/Application/view/application/view-reservation/rewards.phtml, line: 10
 # File: module/Application/view/application/view-reservation/vr-services.phtml, line: 186
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 681
+# File: module/Application/view/application/view-reservation/rewards.phtml, line: 11
 # File: module/Application/view/application/funnel/journey.phtml, line: 75
 # File: module/Application/view/application/funnel/index.phtml, line: 274
 # File: module/Application/view/application/funnel/list.phtml, line: 85
@@ -10697,6 +10692,7 @@ msgid "No e-mails match these filters."
 msgstr ""
 #
 # File: module/Application/view/application/customers/emails.phtml, line: 120
+# File: module/Application/view/application/view-reservation/rewards.phtml, line: 9
 msgid "For"
 msgstr ""
 #
@@ -26416,19 +26412,6 @@ msgstr ""
 msgid "Approval Number"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/rewards.phtml, line: 9
-# File: module/Application/view/application/view-reservation/vr-tabs.phtml, line: 21
-msgid "Rewards - Points"
-msgstr ""
-#
-# File: module/Application/view/application/view-reservation/rewards.phtml, line: 12
-msgid "Processed"
-msgstr ""
-#
-# File: module/Application/view/application/view-reservation/rewards.phtml, line: 13
-msgid "Available On"
-msgstr ""
-#
 # File: module/Application/view/application/view-reservation/status.phtml, line: 21
 # File: module/Application/view/application/view-reservation/status.phtml, line: 24
 msgid "Supplier Payment Status"
@@ -27013,6 +26996,11 @@ msgstr ""
 msgid "Payment History"
 msgstr ""
 #
+# File: module/Application/view/application/view-reservation/vr-tabs.phtml, line: 21
+# File: module/Application/view/application/view-reservation/rewards.phtml, line: 10
+msgid "Rewards - Points"
+msgstr ""
+#
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 166
 msgid "Cancel this additional service? Its Total amount will be taken off the reservation total."
 msgstr ""
@@ -27255,6 +27243,14 @@ msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index3.phtml, line: 154
 msgid "Rewards"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/rewards.phtml, line: 13
+msgid "Processed"
+msgstr ""
+#
+# File: module/Application/view/application/view-reservation/rewards.phtml, line: 14
+msgid "Available On"
 msgstr ""
 #
 # File: module/Application/view/application/blog/index.phtml, line: 423
