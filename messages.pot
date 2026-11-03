@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-03 18:02-0500\n"
+"POT-Creation-Date: 2026-11-03 18:53-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -746,8 +746,8 @@ msgid "All statuses"
 msgstr ""
 #
 # File: module/Application/src/Controller/CMSController.php, line: 1350
-# File: module/Application/src/Controller/CMSController.php, line: 1766
-# File: module/Application/src/Controller/CMSController.php, line: 1893
+# File: module/Application/src/Controller/CMSController.php, line: 1767
+# File: module/Application/src/Controller/CMSController.php, line: 1894
 msgid "Your session expired - please try again."
 msgstr ""
 #
@@ -756,7 +756,7 @@ msgid "Something went wrong - nothing was deleted."
 msgstr ""
 #
 # File: module/Application/src/Controller/CMSController.php, line: 1482
-# File: module/Application/src/Controller/CMSController.php, line: 1582
+# File: module/Application/src/Controller/CMSController.php, line: 1583
 msgid "Your session expired - reload the page and try again."
 msgstr ""
 #
@@ -764,71 +764,71 @@ msgstr ""
 msgid "Create the campaign first."
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1527
-# File: module/Application/src/Controller/CMSController.php, line: 1616
-# File: module/Application/src/Controller/CMSController.php, line: 1654
-# File: module/Application/src/Controller/CMSController.php, line: 1788
-# File: module/Application/src/Controller/CMSController.php, line: 1917
+# File: module/Application/src/Controller/CMSController.php, line: 1528
+# File: module/Application/src/Controller/CMSController.php, line: 1617
+# File: module/Application/src/Controller/CMSController.php, line: 1655
+# File: module/Application/src/Controller/CMSController.php, line: 1789
+# File: module/Application/src/Controller/CMSController.php, line: 1918
 msgid "Something went wrong - nothing was changed."
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1771
+# File: module/Application/src/Controller/CMSController.php, line: 1772
 msgid "Promotion switched on."
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1771
+# File: module/Application/src/Controller/CMSController.php, line: 1772
 msgid "Promotion switched off."
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1774
+# File: module/Application/src/Controller/CMSController.php, line: 1775
 msgid "Promotion deleted."
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1779
+# File: module/Application/src/Controller/CMSController.php, line: 1780
 msgid "Copy created (switched off) - review it and switch it on."
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1783
+# File: module/Application/src/Controller/CMSController.php, line: 1784
 msgid "Could not duplicate the promotion."
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1817
-# File: module/Application/src/Controller/CMSController.php, line: 1963
+# File: module/Application/src/Controller/CMSController.php, line: 1818
+# File: module/Application/src/Controller/CMSController.php, line: 1964
 msgid "Your session expired - nothing was saved, please make the change again."
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1826
+# File: module/Application/src/Controller/CMSController.php, line: 1827
 msgid "Saved. The airline page shows it right away."
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1841
+# File: module/Application/src/Controller/CMSController.php, line: 1842
 msgid "Run sql/airline_promos.sql first."
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1898
+# File: module/Application/src/Controller/CMSController.php, line: 1899
 #, php-format
 msgid "Banner #%d is active."
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1898
+# File: module/Application/src/Controller/CMSController.php, line: 1899
 #, php-format
 msgid "Banner #%d is inactive."
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1901
+# File: module/Application/src/Controller/CMSController.php, line: 1902
 #, php-format
 msgid "Banner #%d deleted."
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1904
+# File: module/Application/src/Controller/CMSController.php, line: 1905
 msgid "Views reset to 0."
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1909
+# File: module/Application/src/Controller/CMSController.php, line: 1910
 msgid "Copy created (inactive) - change it and switch it on."
 msgstr ""
 #
-# File: module/Application/src/Controller/CMSController.php, line: 1973
+# File: module/Application/src/Controller/CMSController.php, line: 1974
 msgid "Saved. The site uses it right away."
 msgstr ""
 #
@@ -2454,12 +2454,14 @@ msgstr ""
 #
 # File: module/Application/src/Controller/HotelsController.php, line: 4699
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1306
+# File: module/Application/view/application/cms/campaignoffers.phtml, line: 321
 msgid "night"
 msgstr ""
 #
 # File: module/Application/src/Controller/HotelsController.php, line: 4701
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1306
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1524
+# File: module/Application/view/application/cms/campaignoffers.phtml, line: 321
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 206
 # File: module/Application/view/application/statistics/index.phtml, line: 259
 # File: module/Application/view/application/section/index3.phtml, line: 135
@@ -8750,6 +8752,10 @@ msgstr ""
 #
 # File: module/Application/view/application/cms/banner.phtml, line: 219
 msgid "Image size"
+msgstr ""
+#
+# File: module/Application/view/application/cms/campaignoffers.phtml, line: 376
+msgid "Pick the travel dates."
 msgstr ""
 #
 # File: module/Application/view/application/cms/deletepage.phtml, line: 38
