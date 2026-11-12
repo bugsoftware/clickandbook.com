@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-12 10:48-0500\n"
+"POT-Creation-Date: 2026-11-12 12:05-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1470,6 +1470,7 @@ msgstr ""
 # File: module/Application/view/application/cms/new.phtml, line: 64
 # File: module/Application/view/application/index/invoices.phtml, line: 104
 # File: module/Application/view/application/packages/edititinerary.phtml, line: 48
+# File: module/Application/view/application/portfolio/new.phtml, line: 39
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 252
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 260
 msgid "None"
@@ -3644,8 +3645,8 @@ msgstr ""
 # File: module/Application/view/application/packages/manage.phtml, line: 71
 # File: module/Application/view/application/portfolio/edit.phtml, line: 81
 # File: module/Application/view/application/portfolio/edit.phtml, line: 82
-# File: module/Application/view/application/portfolio/new.phtml, line: 71
-# File: module/Application/view/application/portfolio/new.phtml, line: 72
+# File: module/Application/view/application/portfolio/new.phtml, line: 82
+# File: module/Application/view/application/portfolio/new.phtml, line: 83
 # File: module/Application/view/application/reports/globalware.phtml, line: 39
 # File: module/Application/view/application/reports/search.phtml, line: 75
 # File: module/Application/view/application/view-reservation/vr-modals-a.phtml, line: 126
@@ -5667,7 +5668,7 @@ msgstr ""
 # File: module/Application/view/application/packages/edit.phtml, line: 187
 # File: module/Application/view/application/portfolio/edit.phtml, line: 90
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 37
-# File: module/Application/view/application/portfolio/new.phtml, line: 80
+# File: module/Application/view/application/portfolio/new.phtml, line: 91
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 31
 # File: module/Application/view/application/quick-books/charge.phtml, line: 74
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 85
@@ -5853,7 +5854,7 @@ msgstr ""
 # File: module/Application/view/application/portfolio/edit.phtml, line: 144
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 78
 # File: module/Application/view/application/portfolio/index.phtml, line: 209
-# File: module/Application/view/application/portfolio/new.phtml, line: 129
+# File: module/Application/view/application/portfolio/new.phtml, line: 151
 # File: module/Application/view/application/portfolio/newcategory.phtml, line: 72
 # File: module/Application/view/application/portfolio/index3.phtml, line: 237
 # File: module/Application/view/application/quick-books/cms.phtml, line: 124
@@ -8657,8 +8658,8 @@ msgstr ""
 # File: module/Application/view/application/packages/newexclusion.phtml, line: 41
 # File: module/Application/view/application/packages/newexclusion.phtml, line: 42
 # File: module/Application/view/application/portfolio/edit.phtml, line: 61
-# File: module/Application/view/application/portfolio/new.phtml, line: 57
-# File: module/Application/view/application/portfolio/new.phtml, line: 58
+# File: module/Application/view/application/portfolio/new.phtml, line: 68
+# File: module/Application/view/application/portfolio/new.phtml, line: 69
 # File: module/Application/view/application/quick-books/blog.phtml, line: 68
 # File: module/Application/view/application/quick-books/tutorials.phtml, line: 45
 # File: module/Application/view/application/quick-books/faqs.phtml, line: 40
@@ -9020,6 +9021,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cms/bundles.phtml, line: 172
 # File: module/Application/view/application/cms/bundles.phtml, line: 193
+# File: module/Application/view/application/portfolio/new.phtml, line: 39
 msgid "selected"
 msgstr ""
 #
@@ -9188,8 +9190,8 @@ msgstr ""
 # File: module/Application/view/application/packages/newimage.phtml, line: 49
 # File: module/Application/view/application/portfolio/edit.phtml, line: 73
 # File: module/Application/view/application/portfolio/edit.phtml, line: 74
-# File: module/Application/view/application/portfolio/new.phtml, line: 67
-# File: module/Application/view/application/portfolio/new.phtml, line: 68
+# File: module/Application/view/application/portfolio/new.phtml, line: 78
+# File: module/Application/view/application/portfolio/new.phtml, line: 79
 # File: module/Application/view/application/quick-books/blog.phtml, line: 42
 # File: module/Application/view/application/quick-books/addnewtutorial.phtml, line: 49
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 48
@@ -9834,8 +9836,6 @@ msgstr ""
 # File: module/Application/view/application/index/userinfo.phtml, line: 93
 # File: module/Application/view/application/packages/listpackages.phtml, line: 107
 # File: module/Application/view/application/portfolio/edit.phtml, line: 39
-# File: module/Application/view/application/portfolio/new.phtml, line: 37
-# File: module/Application/view/application/portfolio/new.phtml, line: 38
 # File: module/Application/view/application/reports/loyaltypoints.phtml, line: 150
 # File: module/Application/view/application/support/list.phtml, line: 29
 # File: module/Application/view/application/support/search.phtml, line: 75
@@ -12882,6 +12882,7 @@ msgstr ""
 #
 # File: module/Application/view/application/flights/newairblock.phtml, line: 94
 # File: module/Application/view/application/flights/airblock.phtml, line: 109
+# File: module/Application/view/application/portfolio/new.phtml, line: 38
 # File: module/Application/view/application/reports/loyaltypoints.phtml, line: 83
 msgid "Companies"
 msgstr ""
@@ -15420,7 +15421,7 @@ msgstr ""
 # File: module/Application/view/application/index/banners.phtml, line: 78
 # File: module/Application/view/application/index/bannersedit.phtml, line: 164
 # File: module/Application/view/application/portfolio/edit.phtml, line: 49
-# File: module/Application/view/application/portfolio/new.phtml, line: 45
+# File: module/Application/view/application/portfolio/new.phtml, line: 56
 # File: module/Application/view/application/portfolio/index3.phtml, line: 139
 # File: module/Application/view/application/statistics/index.phtml, line: 313
 msgid "Views"
@@ -24416,7 +24417,7 @@ msgstr ""
 # File: module/Application/view/application/packages/newhotel.phtml, line: 55
 # File: module/Application/view/application/packages/newoptional.phtml, line: 70
 # File: module/Application/view/application/portfolio/edit.phtml, line: 53
-# File: module/Application/view/application/portfolio/new.phtml, line: 49
+# File: module/Application/view/application/portfolio/new.phtml, line: 60
 # File: module/Application/view/application/trips/edit.phtml, line: 336
 msgid "Sort order"
 msgstr ""
@@ -25202,18 +25203,18 @@ msgid "Select Category"
 msgstr ""
 #
 # File: module/Application/view/application/portfolio/edit.phtml, line: 45
-# File: module/Application/view/application/portfolio/new.phtml, line: 41
+# File: module/Application/view/application/portfolio/new.phtml, line: 52
 # File: module/Application/view/application/portfolio/index3.phtml, line: 139
 msgid "Likes"
 msgstr ""
 #
 # File: module/Application/view/application/portfolio/edit.phtml, line: 57
-# File: module/Application/view/application/portfolio/new.phtml, line: 53
+# File: module/Application/view/application/portfolio/new.phtml, line: 64
 msgid "Expire Date"
 msgstr ""
 #
 # File: module/Application/view/application/portfolio/edit.phtml, line: 74
-# File: module/Application/view/application/portfolio/new.phtml, line: 68
+# File: module/Application/view/application/portfolio/new.phtml, line: 79
 msgid "Upload Image"
 msgstr ""
 #
@@ -25280,11 +25281,27 @@ msgstr ""
 msgid "Are you sure you want to delete this flyer? This action cannot be undone."
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/new.phtml, line: 117
+# File: module/Application/view/application/portfolio/new.phtml, line: 39
+msgid "Select all"
+msgstr ""
+#
+# File: module/Application/view/application/portfolio/new.phtml, line: 40
+msgid "Filter companies..."
+msgstr ""
+#
+# File: module/Application/view/application/portfolio/new.phtml, line: 49
+msgid "A flyer is created for each company ticked, with the same image and details."
+msgstr ""
+#
+# File: module/Application/view/application/portfolio/new.phtml, line: 134
 msgid "Image is required! Please upload image."
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/new.phtml, line: 122
+# File: module/Application/view/application/portfolio/new.phtml, line: 139
+msgid "Tick at least one company."
+msgstr ""
+#
+# File: module/Application/view/application/portfolio/new.phtml, line: 144
 msgid "Itinerary is required! Please upload itinerary."
 msgstr ""
 #
