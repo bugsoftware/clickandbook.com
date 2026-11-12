@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-11 11:43-0500\n"
+"POT-Creation-Date: 2026-11-12 05:19-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1197,6 +1197,7 @@ msgstr ""
 # File: module/Application/view/application/index/index3.phtml, line: 85
 # File: module/Application/view/application/index/index3.phtml, line: 135
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 312
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 161
 # File: module/Application/view/application/messaging/index.phtml, line: 116
 # File: module/Application/view/application/section/people3.phtml, line: 18
 # File: module/Application/view/application/section/person3.phtml, line: 25
@@ -1230,7 +1231,7 @@ msgstr ""
 # File: module/Application/view/application/reports/productivity.phtml, line: 10
 # File: module/Application/view/application/reports/loyaltypoints.phtml, line: 77
 # File: module/Application/view/application/reports/incentives.phtml, line: 34
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 50
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 52
 # File: module/Application/view/application/reports/index.phtml, line: 32
 # File: module/Application/view/application/statistics/index.phtml, line: 66
 # File: module/Application/view/application/statistics/searches.phtml, line: 46
@@ -2194,6 +2195,7 @@ msgstr ""
 # File: module/Application/view/application/packages/edit.phtml, line: 115
 # File: module/Application/view/application/packages/edit.phtml, line: 117
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 27
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 147
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 167
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 168
 # File: module/Application/view/application/support/list.phtml, line: 31
@@ -2678,7 +2680,7 @@ msgstr ""
 # File: module/Application/view/application/cms/bundles.phtml, line: 148
 # File: module/Application/view/application/cms/bundles.phtml, line: 245
 # File: module/Application/view/application/marketing/edit.phtml, line: 160
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 160
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 208
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 247
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 254
 # File: module/Application/view/application/trips/edit.phtml, line: 197
@@ -4284,6 +4286,8 @@ msgstr ""
 # File: module/Application/view/application/index/search.phtml, line: 478
 # File: module/Application/view/application/index/search.phtml, line: 479
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 205
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 98
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 222
 # File: module/Application/view/application/statistics/index.phtml, line: 242
 # File: module/Application/view/application/statistics/index.phtml, line: 541
 msgid "days"
@@ -4709,7 +4713,7 @@ msgstr ""
 # File: module/Application/view/application/flights/farealert.phtml, line: 44
 # File: module/Application/view/application/flights/listfarealerts.phtml, line: 33
 # File: module/Application/view/application/flights/routemap.phtml, line: 39
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 106
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 110
 # File: module/Application/view/application/hotels/promotions.phtml, line: 103
 # File: module/Application/view/application/index/search.phtml, line: 459
 # File: module/Application/view/application/index/search.phtml, line: 502
@@ -4728,7 +4732,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/edit.phtml, line: 111
 # File: module/Application/view/application/marketing/edit.phtml, line: 158
 # File: module/Application/view/application/marketing/flyer.phtml, line: 351
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 161
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 209
 # File: module/Application/view/application/view-reservation/vr-services.phtml, line: 29
 # File: module/Application/view/application/trips/list.phtml, line: 71
 # File: module/Application/view/application/trips/list3.phtml, line: 59
@@ -4796,9 +4800,10 @@ msgstr ""
 # File: module/Application/view/application/cms/flightdealsform.phtml, line: 69
 # File: module/Application/view/application/cruises/newconfirmedcruiseavailability.phtml, line: 40
 # File: module/Application/view/application/cruises/confirmedcruiseavailability.phtml, line: 37
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 94
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 163
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 222
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 96
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 160
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 211
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 272
 # File: module/Application/view/application/trips/list.phtml, line: 72
 # File: module/Application/view/application/trips/edit.phtml, line: 145
 # File: module/Application/view/application/trips/list3.phtml, line: 59
@@ -5853,7 +5858,7 @@ msgstr ""
 # File: module/Application/view/application/reports/search.phtml, line: 116
 # File: module/Application/view/application/reports/productivity.phtml, line: 394
 # File: module/Application/view/application/reports/incentives.phtml, line: 412
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 193
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 243
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 888
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 1253
 # File: module/Application/view/application/support/edit.phtml, line: 83
@@ -7484,8 +7489,8 @@ msgstr ""
 # File: module/Application/view/application/packages/newoptional.phtml, line: 122
 # File: module/Application/view/application/packages/newoptional.phtml, line: 151
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 155
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 142
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 145
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 190
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 193
 # File: module/Application/view/application/group-tours/edit.phtml, line: 77
 # File: module/Application/view/application/group-tours/edit.phtml, line: 91
 # File: module/Application/view/application/group-tours/repeater.phtml, line: 31
@@ -7659,7 +7664,7 @@ msgstr ""
 # File: module/Application/view/application/reports/productivity.phtml, line: 8
 # File: module/Application/view/application/reports/loyaltypoints.phtml, line: 76
 # File: module/Application/view/application/reports/incentives.phtml, line: 32
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 49
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 51
 # File: module/Application/view/application/reports/index.phtml, line: 11
 # File: module/Application/view/application/reservations/index.phtml, line: 17
 # File: module/Application/view/application/support/index.phtml, line: 9
@@ -9085,7 +9090,7 @@ msgstr ""
 # File: module/Application/view/application/cms/flightdealsform.phtml, line: 32
 # File: module/Application/view/application/cms/flightdeals.phtml, line: 46
 # File: module/Application/view/application/cms/flightdeals.phtml, line: 47
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 76
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 80
 # File: module/Application/view/application/hotels/promotions2.phtml, line: 117
 # File: module/Application/view/application/hotels/promotions2.phtml, line: 150
 # File: module/Application/view/application/hotels/index.phtml, line: 196
@@ -9197,7 +9202,7 @@ msgstr ""
 # File: module/Application/view/application/cms/flightdeals.phtml, line: 86
 # File: module/Application/view/application/cms/flightdeals.phtml, line: 115
 # File: module/Application/view/application/flights/routemap.phtml, line: 320
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 112
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 116
 # File: module/Application/view/application/hotels/promotions2.phtml, line: 191
 # File: module/Application/view/application/hotels/promotions2.phtml, line: 211
 # File: module/Application/view/application/hotels/promotions.phtml, line: 116
@@ -9358,7 +9363,7 @@ msgid "Not linked"
 msgstr ""
 #
 # File: module/Application/view/application/cms/flightdeals.phtml, line: 85
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 113
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 117
 # File: module/Application/view/application/hotels/promotions2.phtml, line: 212
 # File: module/Application/view/application/hotels/promotions.phtml, line: 118
 # File: module/Application/view/application/statistics/index.phtml, line: 241
@@ -12269,7 +12274,7 @@ msgstr ""
 # File: module/Application/view/application/flights/campaings.phtml, line: 14
 # File: module/Application/view/application/flights/campaings.phtml, line: 27
 # File: module/Application/view/application/flights/airblocks.phtml, line: 49
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 75
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 79
 msgid "Campaigns"
 msgstr ""
 #
@@ -12596,8 +12601,9 @@ msgstr ""
 # File: module/Application/view/application/flights/airblocks.phtml, line: 153
 # File: module/Application/view/application/reports/loyaltypoints.phtml, line: 108
 # File: module/Application/view/application/reports/loyaltypoints.phtml, line: 109
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 96
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 97
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 99
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 100
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 130
 # File: module/Application/view/application/group-tours/edit.phtml, line: 202
 msgid "bookings"
 msgstr ""
@@ -12662,7 +12668,7 @@ msgid "Campaign"
 msgstr ""
 #
 # File: module/Application/view/application/flights/listairblocks.phtml, line: 178
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 83
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 87
 # File: module/Application/view/application/hotels/promotions2.phtml, line: 125
 # File: module/Application/view/application/hotels/promotions.phtml, line: 29
 msgid "All campaigns"
@@ -13134,7 +13140,7 @@ msgid "Prices shown are for reference only and may be slightly lower or higher a
 msgstr ""
 #
 # File: module/Application/view/application/flights/routemap.phtml, line: 190
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 84
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 88
 # File: module/Application/view/application/index/search.phtml, line: 442
 msgid "destinations"
 msgstr ""
@@ -14753,7 +14759,7 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/promotions3.phtml, line: 68
 # File: module/Application/view/application/hotels/promotions3.phtml, line: 69
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 74
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 78
 # File: module/Application/view/application/hotels/promotions2.phtml, line: 109
 # File: module/Application/view/application/hotels/promotions2.phtml, line: 110
 # File: module/Application/view/application/hotels/index.phtml, line: 187
@@ -14782,28 +14788,32 @@ msgstr ""
 msgid "Destination deals your customers see on your site, and the flyers you can share for each of them."
 msgstr ""
 #
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 71
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 130
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 72
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 134
 # File: module/Application/view/application/hotels/promotions.phtml, line: 137
 msgid "Download Flyers"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 103
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 74
+msgid "New view"
+msgstr ""
+#
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 107
 # File: module/Application/view/application/hotels/promotions.phtml, line: 92
 msgid "This week's winners"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 103
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 107
 # File: module/Application/view/application/hotels/promotions.phtml, line: 93
 msgid "Top Flight Deals"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 103
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 107
 # File: module/Application/view/application/hotels/promotions.phtml, line: 94
 msgid "Round-trip fares from major gateways — updated weekly while seats last."
 msgstr ""
 #
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 105
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 109
 # File: module/Application/view/application/hotels/promotions.phtml, line: 97
 # File: module/Application/view/application/index/search.phtml, line: 574
 # File: module/Application/view/application/index/search.phtml, line: 855
@@ -14814,24 +14824,24 @@ msgstr ""
 msgid "Departing"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 113
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 117
 # File: module/Application/view/application/hotels/promotions2.phtml, line: 212
 # File: module/Application/view/application/hotels/promotions.phtml, line: 118
 # File: module/Application/view/application/statistics/index.phtml, line: 241
 msgid "round trip"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 117
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 121
 # File: module/Application/view/application/hotels/promotions.phtml, line: 122
 msgid "No flights match your selection."
 msgstr ""
 #
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 121
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 125
 # File: module/Application/view/application/hotels/promotions.phtml, line: 127
 msgid "No active promotions right now. Please check back soon."
 msgstr ""
 #
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 136
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 140
 msgid "en"
 msgstr ""
 #
@@ -20867,7 +20877,7 @@ msgstr ""
 # File: module/Application/view/application/index/search3.phtml, line: 154
 # File: module/Application/view/application/reports/productivity.phtml, line: 56
 # File: module/Application/view/application/reports/incentives.phtml, line: 93
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 77
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 79
 # File: module/Application/view/application/funnel/index.phtml, line: 103
 # File: module/Application/view/application/funnel/index3.phtml, line: 110
 # File: module/Application/view/application/funnel/index3.phtml, line: 317
@@ -25924,9 +25934,9 @@ msgstr ""
 # File: module/Application/view/application/reports/incentives.phtml, line: 333
 # File: module/Application/view/application/reports/incentives.phtml, line: 363
 # File: module/Application/view/application/reports/incentives.phtml, line: 481
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 162
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 215
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 222
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 210
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 265
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 272
 msgid "Sales"
 msgstr ""
 #
@@ -26214,92 +26224,159 @@ msgstr ""
 msgid "more"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 46
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 51
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 48
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 53
 # File: module/Application/view/application/reports/index.phtml, line: 128
 msgid "Hotel Sales"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 58
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 60
 msgid "Hotel bookings by destination, supplier and hotel"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 64
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 66
 msgid "Booked From"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 68
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 70
 msgid "Booked To"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 93
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 95
 msgid "Hotel bookings"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 93
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 95
 msgid "reservations"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 94
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 96
 msgid "Check-in to check-out"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 95
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 97
 msgid "Average stay"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 95
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 97
 msgid "nights per booking"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 96
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 98
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 212
+msgid "Avg booking window"
+msgstr ""
+#
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 98
+msgid "days before check-in"
+msgstr ""
+#
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 98
+msgid "median"
+msgstr ""
+#
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 99
 msgid "Top destination"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 97
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 100
 msgid "Top supplier"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 113
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 116
 msgid "No hotel bookings in this period for the agents selected."
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 117
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 120
-msgid "Top Destinations"
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 122
+msgid "Booking Window"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 121
-msgid "Click a bar to list the hotels sold in that destination."
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 125
+msgid "How far ahead of check-in the hotels were booked."
 msgstr ""
 #
 # File: module/Application/view/application/reports/hotelsales.phtml, line: 126
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 129
+msgid "0-7 days"
+msgstr ""
+#
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 126
+msgid "8-30 days"
+msgstr ""
+#
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 126
+msgid "1-3 months"
+msgstr ""
+#
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 126
+msgid "3-6 months"
+msgstr ""
+#
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 126
+msgid "6+ months"
+msgstr ""
+#
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 148
+# File: module/Application/view/application/group-tours/index.phtml, line: 11
+# File: module/Application/view/application/group-tours/list.phtml, line: 37
+# File: module/Application/view/application/group-tours/bookings.phtml, line: 22
+# File: module/Application/view/application/group-tours/bookings.phtml, line: 24
+# File: module/Application/view/application/group-tours/partial/head.phtml, line: 15
+# File: module/Application/view/application/section/index3.phtml, line: 92
+msgid "Bookings"
+msgstr ""
+#
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 160
+msgid "Top 10 Destination Countries"
+msgstr ""
+#
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 160
+msgid "Where the hotels booked are."
+msgstr ""
+#
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 161
+msgid "Top 10 Countries of Origin"
+msgstr ""
+#
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 161
+msgid "Where the customers who booked live (their customer profile country)."
+msgstr ""
+#
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 165
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 168
+msgid "Top Destinations"
+msgstr ""
+#
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 169
+msgid "Click a bar to list the hotels sold in that destination."
+msgstr ""
+#
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 174
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 177
 msgid "Hotel Suppliers"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 130
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 178
 msgid "Click a bar to list the hotels sold through that supplier."
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 135
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 152
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 183
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 200
 msgid "Top Hotels"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 140
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 188
 msgid "Showing only:"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 150
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 198
 msgid "No hotels match these filters."
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 154
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 202
 msgid "Download CSV"
 msgstr ""
 #
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 179
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 229
 msgid "Showing the top 200 hotels - the CSV has them all."
 msgstr ""
 #
@@ -29536,15 +29613,6 @@ msgstr ""
 #
 # File: module/Application/view/application/group-tours/index.phtml, line: 10
 msgid "Itinerary, prices and departures"
-msgstr ""
-#
-# File: module/Application/view/application/group-tours/index.phtml, line: 11
-# File: module/Application/view/application/group-tours/list.phtml, line: 37
-# File: module/Application/view/application/group-tours/bookings.phtml, line: 22
-# File: module/Application/view/application/group-tours/bookings.phtml, line: 24
-# File: module/Application/view/application/group-tours/partial/head.phtml, line: 15
-# File: module/Application/view/application/section/index3.phtml, line: 92
-msgid "Bookings"
 msgstr ""
 #
 # File: module/Application/view/application/group-tours/index.phtml, line: 11
