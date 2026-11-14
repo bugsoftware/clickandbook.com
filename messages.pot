@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-14 14:29-0500\n"
+"POT-Creation-Date: 2026-11-14 17:25-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -107,6 +107,7 @@ msgstr ""
 # File: module/Application/view/application/agents/search.phtml, line: 11
 # File: module/Application/view/application/agents/searchagents.phtml, line: 11
 # File: module/Application/view/application/agents/view.phtml, line: 9
+# File: module/Application/view/application/cms/devices.phtml, line: 97
 # File: module/Application/view/application/index/index.phtml, line: 302
 # File: module/Application/view/application/index/index2.phtml, line: 84
 # File: module/Application/view/application/index/index3.phtml, line: 86
@@ -140,6 +141,8 @@ msgstr ""
 # File: module/Application/view/application/agents/new.phtml, line: 20
 # File: module/Application/view/application/agents/search.phtml, line: 78
 # File: module/Application/view/application/agents/searchagents.phtml, line: 90
+# File: module/Application/view/application/cms/devices.phtml, line: 142
+# File: module/Application/view/application/cms/devices.phtml, line: 153
 # File: module/Application/view/application/customers/editsupport.phtml, line: 30
 # File: module/Application/view/application/customers/editsupport.phtml, line: 74
 # File: module/Application/view/application/customers/emails.phtml, line: 122
@@ -1331,6 +1334,9 @@ msgstr ""
 # File: module/Application/view/application/cms/populardestinations.phtml, line: 29
 # File: module/Application/view/application/cms/popularpackages.phtml, line: 29
 # File: module/Application/view/application/cms/winterdestinations.phtml, line: 29
+# File: module/Application/view/application/cms/devices.phtml, line: 185
+# File: module/Application/view/application/cms/devices.phtml, line: 200
+# File: module/Application/view/application/cms/devices.phtml, line: 281
 # File: module/Application/view/application/communications/manage.phtml, line: 194
 # File: module/Application/view/application/customers/edit.phtml, line: 42
 # File: module/Application/view/application/customers/edit.phtml, line: 44
@@ -1368,6 +1374,7 @@ msgstr ""
 # File: module/Application/src/Controller/CustomersController.php, line: 4518
 # File: module/Application/src/Controller/HotelsController.php, line: 7047
 # File: module/Application/view/application/cms/flightdeals.phtml, line: 66
+# File: module/Application/view/application/cms/devices.phtml, line: 128
 # File: module/Application/view/application/customers/emails.phtml, line: 77
 # File: module/Application/view/application/customers/quotes2.phtml, line: 127
 # File: module/Application/view/application/flights/routemap.phtml, line: 82
@@ -5108,6 +5115,7 @@ msgstr ""
 # File: module/Application/view/application/cms/popularpackages.phtml, line: 10
 # File: module/Application/view/application/cms/winterdestinations.phtml, line: 10
 # File: module/Application/view/application/cms/loginoffers.phtml, line: 92
+# File: module/Application/view/application/cms/devices.phtml, line: 91
 # File: module/Application/view/application/cruises/addpopularcruises.phtml, line: 10
 # File: module/Application/view/application/cruises/addpopulardestinations.phtml, line: 10
 # File: module/Application/view/application/cruises/addpopularrivercruises.phtml, line: 10
@@ -11167,6 +11175,7 @@ msgstr ""
 # File: module/Application/view/application/cms/popularpackages.phtml, line: 11
 # File: module/Application/view/application/cms/winterdestinations.phtml, line: 11
 # File: module/Application/view/application/cms/loginoffers.phtml, line: 92
+# File: module/Application/view/application/cms/devices.phtml, line: 91
 # File: module/Application/view/application/index/index.phtml, line: 331
 # File: module/Application/view/application/index/index2.phtml, line: 86
 # File: module/Application/view/application/index/index3.phtml, line: 88
@@ -12551,28 +12560,184 @@ msgstr ""
 msgid "Add to"
 msgstr ""
 #
-# File: module/Application/view/application/communications/index.phtml, line: 13
-# File: module/Application/view/application/communications/index.phtml, line: 17
-# File: module/Application/view/application/communications/manage.phtml, line: 103
-# File: module/Application/view/partial/communications.phtml, line: 474
-msgid "Communications Center"
+# File: module/Application/view/application/cms/devices.phtml, line: 91
+# File: module/Application/view/application/cms/devices.phtml, line: 92
+msgid "App Devices"
 msgstr ""
 #
-# File: module/Application/view/application/communications/index.phtml, line: 22
-msgid "Back to Dashboard"
+# File: module/Application/view/application/cms/devices.phtml, line: 93
+msgid "Every phone with the Click & Book app installed, who it belongs to, and push messages to one agent, a few, or everyone."
 msgstr ""
 #
-# File: module/Application/view/application/communications/manage.phtml, line: 7
-# File: module/Application/view/application/hotels/editpolicy.phtml, line: 13
-# File: module/Application/view/application/hotels/listpolicies.phtml, line: 13
-# File: module/Application/view/application/hotels/manage.phtml, line: 52
-# File: module/Application/view/application/hotels/newpolicy.phtml, line: 13
-# File: module/Application/view/application/hotels/policies.phtml, line: 25
-# File: module/Application/view/application/hotels/policies.phtml, line: 35
-# File: module/Application/view/partial/communications.phtml, line: 649
-msgid "Policies"
+# File: module/Application/view/application/cms/devices.phtml, line: 96
+# File: module/Application/view/application/cms/devices.phtml, line: 143
+# File: module/Application/view/application/index/banners.phtml, line: 56
+# File: module/Application/view/application/index/bannersedit.phtml, line: 54
+# File: module/Application/view/application/index/content.phtml, line: 55
+# File: module/Application/view/application/index/devices.phtml, line: 13
+# File: module/Application/view/application/index/devices.phtml, line: 19
+# File: module/Application/view/application/index/devices.phtml, line: 56
+# File: module/Application/view/application/index/devices.phtml, line: 64
+# File: module/Application/view/application/index/invoices.phtml, line: 82
+# File: module/Application/view/application/index/password.phtml, line: 60
+# File: module/Application/view/application/index/securitylog.phtml, line: 53
+# File: module/Application/view/application/index/seo.phtml, line: 52
+# File: module/Application/view/application/index/settings.phtml, line: 52
+# File: module/Application/view/application/index/socialmedia.phtml, line: 59
+# File: module/Application/view/application/index/twofactor.phtml, line: 164
+# File: module/Application/view/application/index/userinfo.phtml, line: 59
+# File: module/Application/view/application/index/viewsecuritylog.phtml, line: 57
+# File: module/Application/view/application/statistics/index.phtml, line: 367
+# File: module/Application/view/application/statistics/index.phtml, line: 370
+msgid "Devices"
 msgstr ""
 #
+# File: module/Application/view/application/cms/devices.phtml, line: 97
+msgid "new / active this week"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 107
+msgid "The message could not be sent:"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 109
+msgid "sent to"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 109
+msgid "all devices"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 109
+# File: module/Application/view/application/cms/devices.phtml, line: 242
+msgid "agent(s)"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 109
+msgid "devices accepted by Expo."
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 109
+msgid "Uninstalled apps are removed from the list automatically."
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 115
+msgid "No device table yet (agents_devices). It is created by the mobile app API the first time a phone registers."
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 123
+msgid "Installed devices"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 124
+# File: module/Application/view/application/cms/devices.phtml, line: 183
+# File: module/Application/view/application/cms/devices.phtml, line: 216
+# File: module/Application/view/application/cms/devices.phtml, line: 239
+msgid "devices"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 124
+# File: module/Application/view/application/cms/devices.phtml, line: 183
+msgid "agents"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 124
+# File: module/Application/view/application/product/listreservations3.phtml, line: 53
+msgid "filtered"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 132
+msgid "Agent, e-mail, company, device"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 136
+msgid "No device matches."
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 136
+msgid "No phone has installed the app yet."
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 141
+# File: module/Application/view/application/portfolio/new.phtml, line: 39
+msgid "Select all"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 144
+msgid "Installed"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 145
+msgid "Last seen"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 155
+msgid "agent not found"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 167
+# File: module/Application/view/application/cms/devices.phtml, line: 187
+# File: module/Application/view/application/customers/newsupport.phtml, line: 58
+# File: module/Application/view/application/help/index.phtml, line: 51
+# File: module/Application/view/application/messaging/index.phtml, line: 227
+# File: module/Application/view/application/view-reservation/termsandconditions.phtml, line: 43
+# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 710
+# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 753
+# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 795
+msgid "Message"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 178
+msgid "Send a push message"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 179
+msgid "It appears on the phone and in the app's Notifications screen."
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 180
+msgid "Send to"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 182
+msgid "Selected agents"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 182
+# File: module/Application/view/application/cms/devices.phtml, line: 237
+msgid "Tick agents in the list"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 183
+# File: module/Application/view/application/cms/devices.phtml, line: 216
+msgid "All devices"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 186
+msgid "e.g. Black Friday is live"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 188
+msgid "Up to 500 characters. Phones show the first 2-4 lines."
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 189
+msgid "Picture (optional)"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 191
+msgid "A public https link, e.g. a flyer picture. Tapping opens it full screen in the app."
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 192
+msgid "When tapped, open"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 194
+msgid "The app (home)"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 195
 # File: module/Application/view/application/communications/manage.phtml, line: 8
 # File: module/Application/view/application/hotels/index.phtml, line: 187
 # File: module/Application/view/application/hotels/index.phtml, line: 188
@@ -12598,6 +12763,81 @@ msgstr ""
 # File: module/Application/view/layout/layout3.phtml, line: 60
 # File: module/Application/view/partial/communications.phtml, line: 650
 msgid "Promotions"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 196
+# File: module/Application/view/application/group-tours/partial/head.phtml, line: 15
+# File: module/Application/view/application/group-tours/bookings.phtml, line: 22
+# File: module/Application/view/application/group-tours/bookings.phtml, line: 24
+# File: module/Application/view/application/group-tours/index.phtml, line: 11
+# File: module/Application/view/application/group-tours/list.phtml, line: 37
+# File: module/Application/view/application/reports/hotelsales.phtml, line: 148
+# File: module/Application/view/application/section/index3.phtml, line: 92
+msgid "Bookings"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 197
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 529
+msgid "Notifications"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 200
+# File: module/Application/view/application/cms/devices.phtml, line: 282
+msgid "Your message"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 202
+msgid "Send push"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 206
+msgid "Latest pushes"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 207
+msgid "Everything sent to the app (bookings, support, promotions and from here)."
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 209
+msgid "Nothing sent yet."
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 238
+msgid "agent(s) selected"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 240
+msgid "Send this push to ALL devices"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 241
+msgid "Send this push to"
+msgstr ""
+#
+# File: module/Application/view/application/cms/devices.phtml, line: 243
+msgid "Tick at least one agent, or choose \"All devices\"."
+msgstr ""
+#
+# File: module/Application/view/application/communications/index.phtml, line: 13
+# File: module/Application/view/application/communications/index.phtml, line: 17
+# File: module/Application/view/application/communications/manage.phtml, line: 103
+# File: module/Application/view/partial/communications.phtml, line: 474
+msgid "Communications Center"
+msgstr ""
+#
+# File: module/Application/view/application/communications/index.phtml, line: 22
+msgid "Back to Dashboard"
+msgstr ""
+#
+# File: module/Application/view/application/communications/manage.phtml, line: 7
+# File: module/Application/view/application/hotels/editpolicy.phtml, line: 13
+# File: module/Application/view/application/hotels/listpolicies.phtml, line: 13
+# File: module/Application/view/application/hotels/manage.phtml, line: 52
+# File: module/Application/view/application/hotels/newpolicy.phtml, line: 13
+# File: module/Application/view/application/hotels/policies.phtml, line: 25
+# File: module/Application/view/application/hotels/policies.phtml, line: 35
+# File: module/Application/view/partial/communications.phtml, line: 649
+msgid "Policies"
 msgstr ""
 #
 # File: module/Application/view/application/communications/manage.phtml, line: 11
@@ -14056,16 +14296,6 @@ msgstr ""
 #
 # File: module/Application/view/application/customers/newsupport.phtml, line: 51
 msgid "Optional"
-msgstr ""
-#
-# File: module/Application/view/application/customers/newsupport.phtml, line: 58
-# File: module/Application/view/application/help/index.phtml, line: 51
-# File: module/Application/view/application/messaging/index.phtml, line: 227
-# File: module/Application/view/application/view-reservation/termsandconditions.phtml, line: 43
-# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 710
-# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 753
-# File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 795
-msgid "Message"
 msgstr ""
 #
 # File: module/Application/view/application/customers/newsupport.phtml, line: 60
@@ -16014,10 +16244,6 @@ msgstr ""
 msgid "What the airline / middleware said"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 529
-msgid "Notifications"
-msgstr ""
-#
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 531
 msgid "App push"
 msgstr ""
@@ -17158,16 +17384,6 @@ msgstr ""
 # File: module/Application/view/application/group-tours/index.phtml, line: 10
 # File: module/Application/view/application/group-tours/list.phtml, line: 20
 msgid "New program"
-msgstr ""
-#
-# File: module/Application/view/application/group-tours/partial/head.phtml, line: 15
-# File: module/Application/view/application/group-tours/bookings.phtml, line: 22
-# File: module/Application/view/application/group-tours/bookings.phtml, line: 24
-# File: module/Application/view/application/group-tours/index.phtml, line: 11
-# File: module/Application/view/application/group-tours/list.phtml, line: 37
-# File: module/Application/view/application/reports/hotelsales.phtml, line: 148
-# File: module/Application/view/application/section/index3.phtml, line: 92
-msgid "Bookings"
 msgstr ""
 #
 # File: module/Application/view/application/group-tours/partial/head.phtml, line: 16
@@ -19453,27 +19669,6 @@ msgstr ""
 # File: module/Application/view/application/index/viewsecuritylog.phtml, line: 56
 # File: module/Application/view/application/index/viewsecuritylog.phtml, line: 65
 msgid "Security Log"
-msgstr ""
-#
-# File: module/Application/view/application/index/banners.phtml, line: 56
-# File: module/Application/view/application/index/bannersedit.phtml, line: 54
-# File: module/Application/view/application/index/content.phtml, line: 55
-# File: module/Application/view/application/index/devices.phtml, line: 13
-# File: module/Application/view/application/index/devices.phtml, line: 19
-# File: module/Application/view/application/index/devices.phtml, line: 56
-# File: module/Application/view/application/index/devices.phtml, line: 64
-# File: module/Application/view/application/index/invoices.phtml, line: 82
-# File: module/Application/view/application/index/password.phtml, line: 60
-# File: module/Application/view/application/index/securitylog.phtml, line: 53
-# File: module/Application/view/application/index/seo.phtml, line: 52
-# File: module/Application/view/application/index/settings.phtml, line: 52
-# File: module/Application/view/application/index/socialmedia.phtml, line: 59
-# File: module/Application/view/application/index/twofactor.phtml, line: 164
-# File: module/Application/view/application/index/userinfo.phtml, line: 59
-# File: module/Application/view/application/index/viewsecuritylog.phtml, line: 57
-# File: module/Application/view/application/statistics/index.phtml, line: 367
-# File: module/Application/view/application/statistics/index.phtml, line: 370
-msgid "Devices"
 msgstr ""
 #
 # File: module/Application/view/application/index/banners.phtml, line: 74
@@ -27252,10 +27447,6 @@ msgstr ""
 msgid "Show expired"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/new.phtml, line: 39
-msgid "Select all"
-msgstr ""
-#
 # File: module/Application/view/application/portfolio/new.phtml, line: 40
 msgid "Filter companies..."
 msgstr ""
@@ -27341,10 +27532,6 @@ msgstr ""
 #
 # File: module/Application/view/application/product/listreservations3.phtml, line: 46
 msgid "Every booking made by you, your sub-agents or sold by you, newest first. Filter by reservation or payment status, open any of them to see the details."
-msgstr ""
-#
-# File: module/Application/view/application/product/listreservations3.phtml, line: 53
-msgid "filtered"
 msgstr ""
 #
 # File: module/Application/view/application/product/listreservations3.phtml, line: 60
