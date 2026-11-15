@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-15 16:07-0500\n"
+"POT-Creation-Date: 2026-11-15 16:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -129,7 +129,7 @@ msgstr ""
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 164
 # File: module/Application/view/application/marketing/flyers.phtml, line: 43
 # File: module/Application/view/application/section/person3.phtml, line: 108
-# File: module/Application/view/application/giftcards/edit.phtml, line: 184
+# File: module/Application/view/application/giftcards/edit.phtml, line: 207
 # File: module/Application/view/partial/a3-people-table.phtml, line: 30
 # File: module/Application/view/partial/a3-people-table.phtml, line: 46
 msgid "Created"
@@ -176,8 +176,8 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 10
 # File: module/Application/view/application/view-reservation/status.phtml, line: 39
 # File: module/Application/view/application/view-reservation/status.phtml, line: 42
-# File: module/Application/view/application/giftcards/index.phtml, line: 93
-# File: module/Application/view/application/giftcards/edit.phtml, line: 160
+# File: module/Application/view/application/giftcards/index.phtml, line: 94
+# File: module/Application/view/application/giftcards/edit.phtml, line: 183
 # File: module/Application/view/partial/a3-people-table.phtml, line: 26
 # File: module/Application/view/partial/a3-people-table.phtml, line: 42
 msgid "Agent"
@@ -595,8 +595,8 @@ msgstr ""
 # File: module/Application/view/application/section/index3.phtml, line: 95
 # File: module/Application/view/application/section/index3.phtml, line: 133
 # File: module/Application/view/application/section/person3.phtml, line: 68
-# File: module/Application/view/application/giftcards/index.phtml, line: 102
-# File: module/Application/view/application/giftcards/edit.phtml, line: 101
+# File: module/Application/view/application/giftcards/index.phtml, line: 105
+# File: module/Application/view/application/giftcards/edit.phtml, line: 109
 # File: module/Application/view/partial/a3-people-table.phtml, line: 47
 msgid "Active"
 msgstr ""
@@ -634,8 +634,8 @@ msgstr ""
 # File: module/Application/view/application/portfolio/editcategory.phtml, line: 30
 # File: module/Application/view/application/quick-books/editrecurringbill.phtml, line: 53
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 92
-# File: module/Application/view/application/giftcards/index.phtml, line: 102
-# File: module/Application/view/application/giftcards/edit.phtml, line: 101
+# File: module/Application/view/application/giftcards/index.phtml, line: 105
+# File: module/Application/view/application/giftcards/edit.phtml, line: 109
 msgid "Inactive"
 msgstr ""
 #
@@ -1104,8 +1104,8 @@ msgstr ""
 # File: module/Application/src/Controller/CustomersController.php, line: 2740
 # File: module/Application/view/application/reports/globalware.phtml, line: 25
 # File: module/Application/view/application/reports/search.phtml, line: 32
-# File: module/Application/view/application/giftcards/index.phtml, line: 99
-# File: module/Application/view/application/giftcards/index.phtml, line: 100
+# File: module/Application/view/application/giftcards/index.phtml, line: 102
+# File: module/Application/view/application/giftcards/index.phtml, line: 103
 msgid "to"
 msgstr ""
 #
@@ -1203,7 +1203,7 @@ msgstr ""
 # File: module/Application/view/application/support/search.phtml, line: 74
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 31
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 60
-# File: module/Application/view/application/giftcards/index.phtml, line: 92
+# File: module/Application/view/application/giftcards/index.phtml, line: 93
 # File: module/Application/view/partial/a3-people-table.phtml, line: 26
 # File: module/Application/view/partial/a3-people-table.phtml, line: 42
 # File: module/Application/view/partial/a3-resv-table.phtml, line: 44
@@ -1398,14 +1398,14 @@ msgstr ""
 # File: module/Application/view/application/packages/manage.phtml, line: 60
 # File: module/Application/view/application/packages/searchpackages.phtml, line: 42
 # File: module/Application/view/application/partial/report-scope.phtml, line: 22
-# File: module/Application/view/application/portfolio/embed.phtml, line: 86
+# File: module/Application/view/application/portfolio/embed.phtml, line: 107
 # File: module/Application/view/application/portfolio/index.phtml, line: 54
 # File: module/Application/view/application/portfolio/index3.phtml, line: 113
 # File: module/Application/view/application/portfolio/new.phtml, line: 143
 # File: module/Application/view/application/quick-books/listrecurringbills.phtml, line: 83
-# File: module/Application/view/application/giftcards/index.phtml, line: 88
-# File: module/Application/view/application/giftcards/index.phtml, line: 90
-# File: module/Application/view/application/giftcards/edit.phtml, line: 93
+# File: module/Application/view/application/giftcards/index.phtml, line: 89
+# File: module/Application/view/application/giftcards/index.phtml, line: 91
+# File: module/Application/view/application/giftcards/edit.phtml, line: 101
 # File: module/Application/view/layout/layout.phtml, line: 204
 msgid "All"
 msgstr ""
@@ -3910,7 +3910,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/rewards.phtml, line: 8
 # File: module/Application/view/application/view-reservation/vr-services.phtml, line: 189
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 682
-# File: module/Application/view/application/giftcards/edit.phtml, line: 154
+# File: module/Application/view/application/giftcards/edit.phtml, line: 177
 # File: module/Application/view/partial/a3-resv-table.phtml, line: 43
 # File: module/Application/view/partial/a3-resv-table.phtml, line: 66
 msgid "Date"
@@ -5075,7 +5075,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/paymenthistory.phtml, line: 18
 # File: module/Application/view/application/view-reservation/vr-modals-a.phtml, line: 166
 # File: module/Application/view/application/view-reservation/vr-services.phtml, line: 35
-# File: module/Application/view/application/giftcards/edit.phtml, line: 154
+# File: module/Application/view/application/giftcards/edit.phtml, line: 177
 # File: module/Application/view/partial/a3-resv-table.phtml, line: 49
 # File: module/Application/view/partial/a3-resv-table.phtml, line: 72
 msgid "Total"
@@ -5433,7 +5433,7 @@ msgstr ""
 # File: module/Application/view/application/customers/blocklist.phtml, line: 70
 # File: module/Application/view/application/funnel/index.phtml, line: 243
 # File: module/Application/view/application/funnel/index3.phtml, line: 236
-# File: module/Application/view/application/giftcards/index.phtml, line: 77
+# File: module/Application/view/application/giftcards/index.phtml, line: 78
 msgid "Value"
 msgstr ""
 #
@@ -5571,7 +5571,7 @@ msgstr ""
 # File: module/Application/view/application/index/setup.phtml, line: 72
 # File: module/Application/view/application/portfolio/edit.phtml, line: 29
 # File: module/Application/view/application/portfolio/new.phtml, line: 29
-# File: module/Application/view/application/giftcards/edit.phtml, line: 98
+# File: module/Application/view/application/giftcards/edit.phtml, line: 106
 msgid "Code"
 msgstr ""
 #
@@ -5599,7 +5599,7 @@ msgstr ""
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 155
 # File: module/Application/view/application/reports/hotelsales.phtml, line: 190
 # File: module/Application/view/application/reports/hotelsales.phtml, line: 193
-# File: module/Application/view/application/giftcards/edit.phtml, line: 42
+# File: module/Application/view/application/giftcards/edit.phtml, line: 44
 msgid "Remove"
 msgstr ""
 #
@@ -7957,7 +7957,7 @@ msgstr ""
 # File: module/Application/view/application/support/list.phtml, line: 7
 # File: module/Application/view/application/support/list.phtml, line: 13
 # File: module/Application/view/application/support/list.phtml, line: 20
-# File: module/Application/view/application/giftcards/edit.phtml, line: 192
+# File: module/Application/view/application/giftcards/edit.phtml, line: 215
 msgid "List"
 msgstr ""
 #
@@ -8150,6 +8150,9 @@ msgstr ""
 # File: module/Application/view/application/statistics/index.phtml, line: 394
 # File: module/Application/view/application/support/list.phtml, line: 29
 # File: module/Application/view/application/support/search.phtml, line: 75
+# File: module/Application/view/application/giftcards/index.phtml, line: 95
+# File: module/Application/view/application/giftcards/edit.phtml, line: 151
+# File: module/Application/view/application/giftcards/edit.phtml, line: 153
 # File: module/Application/view/partial/a3-people-table.phtml, line: 27
 # File: module/Application/view/partial/a3-people-table.phtml, line: 43
 msgid "Company"
@@ -8416,9 +8419,9 @@ msgstr ""
 # File: module/Application/view/application/trips/list3.phtml, line: 70
 # File: module/Application/view/application/trips/quotes.phtml, line: 50
 # File: module/Application/view/application/view-reservation/rewards.phtml, line: 12
-# File: module/Application/view/application/giftcards/index.phtml, line: 77
-# File: module/Application/view/application/giftcards/edit.phtml, line: 101
-# File: module/Application/view/application/giftcards/edit.phtml, line: 154
+# File: module/Application/view/application/giftcards/index.phtml, line: 78
+# File: module/Application/view/application/giftcards/edit.phtml, line: 109
+# File: module/Application/view/application/giftcards/edit.phtml, line: 177
 # File: module/Application/view/partial/a3-people-table.phtml, line: 31
 # File: module/Application/view/partial/a3-people-table.phtml, line: 47
 msgid "Status"
@@ -8912,7 +8915,7 @@ msgstr ""
 # File: module/Application/view/application/trips/list3.phtml, line: 74
 # File: module/Application/view/application/view-reservation/guests.phtml, line: 42
 # File: module/Application/view/application/view-reservation/vr-services.phtml, line: 84
-# File: module/Application/view/application/giftcards/index.phtml, line: 104
+# File: module/Application/view/application/giftcards/index.phtml, line: 107
 msgid "Edit"
 msgstr ""
 #
@@ -11270,7 +11273,7 @@ msgstr ""
 # File: module/Application/view/application/group-tours/departures.phtml, line: 75
 # File: module/Application/view/application/index/search.phtml, line: 1042
 # File: module/Application/view/application/view-reservation/vr-services.phtml, line: 28
-# File: module/Application/view/application/giftcards/edit.phtml, line: 114
+# File: module/Application/view/application/giftcards/edit.phtml, line: 122
 msgid "Dates"
 msgstr ""
 #
@@ -11437,6 +11440,8 @@ msgstr ""
 # File: module/Application/view/application/portfolio/index3.phtml, line: 151
 # File: module/Application/view/application/portfolio/index3.phtml, line: 197
 # File: module/Application/view/application/view-reservation/guests.phtml, line: 44
+# File: module/Application/view/application/giftcards/index.phtml, line: 109
+# File: module/Application/view/application/giftcards/edit.phtml, line: 215
 msgid "Delete"
 msgstr ""
 #
@@ -11764,7 +11769,7 @@ msgstr ""
 # File: module/Application/view/application/packages/listpackages.phtml, line: 137
 # File: module/Application/view/application/packages/manage.phtml, line: 130
 # File: module/Application/view/application/packages/newpackageai.phtml, line: 211
-# File: module/Application/view/application/portfolio/embed.phtml, line: 99
+# File: module/Application/view/application/portfolio/embed.phtml, line: 121
 # File: module/Application/view/application/portfolio/index.phtml, line: 346
 # File: module/Application/view/application/portfolio/index3.phtml, line: 136
 # File: module/Application/view/application/portfolio/index3.phtml, line: 171
@@ -11805,7 +11810,7 @@ msgstr ""
 # File: module/Application/view/application/reports/productivity.phtml, line: 313
 # File: module/Application/view/application/trips/edit.phtml, line: 120
 # File: module/Application/view/application/view-reservation/vr-services.phtml, line: 190
-# File: module/Application/view/application/giftcards/edit.phtml, line: 100
+# File: module/Application/view/application/giftcards/edit.phtml, line: 108
 msgid "Description"
 msgstr ""
 #
@@ -12044,7 +12049,7 @@ msgstr ""
 # File: module/Application/view/application/trips/list.phtml, line: 56
 # File: module/Application/view/application/trips/list3.phtml, line: 49
 # File: module/Application/view/application/tutorials/index.phtml, line: 259
-# File: module/Application/view/application/giftcards/index.phtml, line: 72
+# File: module/Application/view/application/giftcards/index.phtml, line: 73
 msgid "Filter"
 msgstr ""
 #
@@ -12121,7 +12126,7 @@ msgstr ""
 # File: module/Application/view/application/portfolio/index3.phtml, line: 100
 # File: module/Application/view/application/portfolio/index3.phtml, line: 137
 # File: module/Application/view/application/trips/quotes.phtml, line: 17
-# File: module/Application/view/application/giftcards/index.phtml, line: 102
+# File: module/Application/view/application/giftcards/index.phtml, line: 105
 msgid "Expired"
 msgstr ""
 #
@@ -12378,7 +12383,7 @@ msgstr ""
 # File: module/Application/view/application/index/order.phtml, line: 399
 # File: module/Application/view/application/index/order.phtml, line: 402
 # File: module/Application/view/application/view-reservation/vr-modals-a.phtml, line: 223
-# File: module/Application/view/application/giftcards/edit.phtml, line: 144
+# File: module/Application/view/application/giftcards/edit.phtml, line: 167
 # File: module/Application/view/partial/communications.phtml, line: 539
 # File: module/Application/view/partial/communications.phtml, line: 557
 # File: module/Application/view/partial/communications.phtml, line: 670
@@ -12464,7 +12469,7 @@ msgstr ""
 # File: module/Application/view/application/cms/populardestinations3.phtml, line: 187
 # File: module/Application/view/application/marketing/flyer.phtml, line: 436
 # File: module/Application/view/application/marketing/flyer.phtml, line: 679
-# File: module/Application/view/application/portfolio/embed.phtml, line: 98
+# File: module/Application/view/application/portfolio/embed.phtml, line: 120
 # File: module/Application/view/application/portfolio/index3.phtml, line: 135
 msgid "No image"
 msgstr ""
@@ -12940,7 +12945,7 @@ msgstr ""
 # File: module/Application/view/application/communications/manage.phtml, line: 109
 # File: module/Application/view/application/index/setup.phtml, line: 167
 # File: module/Application/view/application/section/formwrap3.phtml, line: 35
-# File: module/Application/view/application/giftcards/edit.phtml, line: 145
+# File: module/Application/view/application/giftcards/edit.phtml, line: 168
 msgid "Back"
 msgstr ""
 #
@@ -13443,7 +13448,7 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editcharge.phtml, line: 27
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 552
 # File: module/Application/view/application/trips/edit.phtml, line: 171
-# File: module/Application/view/application/giftcards/edit.phtml, line: 106
+# File: module/Application/view/application/giftcards/edit.phtml, line: 114
 msgid "Currency"
 msgstr ""
 #
@@ -13733,8 +13738,8 @@ msgstr ""
 # File: module/Application/view/application/knowledge-base/item.phtml, line: 33
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 148
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 159
-# File: module/Application/view/application/portfolio/embed.phtml, line: 127
-# File: module/Application/view/application/portfolio/embed.phtml, line: 130
+# File: module/Application/view/application/portfolio/embed.phtml, line: 149
+# File: module/Application/view/application/portfolio/embed.phtml, line: 153
 # File: module/Application/view/application/portfolio/index.phtml, line: 342
 # File: module/Application/view/application/portfolio/index.phtml, line: 349
 # File: module/Application/view/application/portfolio/index.phtml, line: 363
@@ -13956,7 +13961,7 @@ msgid "Not the same person"
 msgstr ""
 #
 # File: module/Application/view/application/customers/duplicates.phtml, line: 71
-# File: module/Application/view/application/giftcards/edit.phtml, line: 132
+# File: module/Application/view/application/giftcards/edit.phtml, line: 140
 msgid "Customer id"
 msgstr ""
 #
@@ -13985,7 +13990,7 @@ msgid "Last merges"
 msgstr ""
 #
 # File: module/Application/view/application/customers/duplicates.phtml, line: 100
-# File: module/Application/view/application/giftcards/edit.phtml, line: 184
+# File: module/Application/view/application/giftcards/edit.phtml, line: 207
 msgid "Batch"
 msgstr ""
 #
@@ -14080,6 +14085,7 @@ msgstr ""
 # File: module/Application/view/application/index/bannersedit.phtml, line: 104
 # File: module/Application/view/application/view-reservation/status.phtml, line: 48
 # File: module/Application/view/application/view-reservation/status.phtml, line: 51
+# File: module/Application/view/application/giftcards/index.phtml, line: 96
 msgid "Affiliate"
 msgstr ""
 #
@@ -14246,7 +14252,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/rewards.phtml, line: 11
 # File: module/Application/view/application/view-reservation/vr-services.phtml, line: 193
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 691
-# File: module/Application/view/application/giftcards/edit.phtml, line: 102
+# File: module/Application/view/application/giftcards/edit.phtml, line: 110
 msgid "Amount"
 msgstr ""
 #
@@ -14350,8 +14356,8 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/specialtoursdoc.phtml, line: 263
 # File: module/Application/view/application/funnel/journey.phtml, line: 33
 # File: module/Application/view/application/group-tours/edit.phtml, line: 187
-# File: module/Application/view/application/giftcards/index.phtml, line: 77
-# File: module/Application/view/application/giftcards/edit.phtml, line: 154
+# File: module/Application/view/application/giftcards/index.phtml, line: 78
+# File: module/Application/view/application/giftcards/edit.phtml, line: 177
 msgid "Booking"
 msgstr ""
 #
@@ -14537,7 +14543,7 @@ msgstr ""
 # File: module/Application/view/application/funnel/index.phtml, line: 89
 # File: module/Application/view/application/funnel/journey.phtml, line: 68
 # File: module/Application/view/application/statistics/index.phtml, line: 88
-# File: module/Application/view/application/giftcards/edit.phtml, line: 154
+# File: module/Application/view/application/giftcards/edit.phtml, line: 177
 msgid "Product"
 msgstr ""
 #
@@ -14708,7 +14714,7 @@ msgstr ""
 # File: module/Application/view/application/section/person3.phtml, line: 113
 # File: module/Application/view/application/giftcards/index.phtml, line: 44
 # File: module/Application/view/application/giftcards/index.phtml, line: 45
-# File: module/Application/view/application/giftcards/edit.phtml, line: 82
+# File: module/Application/view/application/giftcards/edit.phtml, line: 90
 msgid "Gift Cards"
 msgstr ""
 #
@@ -14718,7 +14724,7 @@ msgstr ""
 #
 # File: module/Application/view/application/customers/view.phtml, line: 443
 # File: module/Application/view/application/customers/view.phtml, line: 444
-# File: module/Application/view/application/portfolio/embed.phtml, line: 104
+# File: module/Application/view/application/portfolio/embed.phtml, line: 126
 # File: module/Application/view/application/portfolio/index.phtml, line: 67
 # File: module/Application/view/application/portfolio/index.phtml, line: 68
 # File: module/Application/view/application/portfolio/index.phtml, line: 96
@@ -14928,7 +14934,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/sendsmscampaign.phtml, line: 13
 # File: module/Application/view/application/marketing/view.phtml, line: 10
 # File: module/Application/view/application/giftcards/index.phtml, line: 44
-# File: module/Application/view/application/giftcards/edit.phtml, line: 82
+# File: module/Application/view/application/giftcards/edit.phtml, line: 90
 # File: module/Application/view/layout/layout.phtml, line: 159
 # File: module/Application/view/layout/layout.phtml, line: 217
 # File: module/Application/view/layout/layout2.phtml, line: 60
@@ -15656,7 +15662,7 @@ msgstr ""
 # File: module/Application/view/application/section/records3.phtml, line: 94
 # File: module/Application/view/application/section/records3.phtml, line: 101
 # File: module/Application/view/application/giftcards/edit.phtml, line: 26
-# File: module/Application/view/application/giftcards/edit.phtml, line: 208
+# File: module/Application/view/application/giftcards/edit.phtml, line: 231
 msgid "Clear"
 msgstr ""
 #
@@ -17092,7 +17098,7 @@ msgstr ""
 # File: module/Application/view/application/reports/incentives.phtml, line: 93
 # File: module/Application/view/application/reports/productivity.phtml, line: 56
 # File: module/Application/view/application/statistics/index.phtml, line: 108
-# File: module/Application/view/application/giftcards/edit.phtml, line: 208
+# File: module/Application/view/application/giftcards/edit.phtml, line: 231
 msgid "Apply"
 msgstr ""
 #
@@ -18087,7 +18093,7 @@ msgstr ""
 #
 # File: module/Application/view/application/group-tours/list.phtml, line: 65
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 70
-# File: module/Application/view/application/giftcards/edit.phtml, line: 85
+# File: module/Application/view/application/giftcards/edit.phtml, line: 93
 msgid "Duplicate"
 msgstr ""
 #
@@ -19159,7 +19165,7 @@ msgstr ""
 # File: module/Application/view/application/marketing/flyer.phtml, line: 61
 # File: module/Application/view/application/marketing/flyers.phtml, line: 14
 # File: module/Application/view/application/marketing/flyersend.phtml, line: 20
-# File: module/Application/view/application/portfolio/embed.phtml, line: 80
+# File: module/Application/view/application/portfolio/embed.phtml, line: 101
 # File: module/Application/view/application/portfolio/index3.phtml, line: 87
 # File: module/Application/view/application/portfolio/index3.phtml, line: 88
 # File: module/Application/view/application/portfolio/index3.phtml, line: 98
@@ -19773,7 +19779,7 @@ msgstr ""
 # File: module/Application/view/application/index/banners.phtml, line: 78
 # File: module/Application/view/application/index/bannersedit.phtml, line: 164
 # File: module/Application/view/application/portfolio/edit.phtml, line: 49
-# File: module/Application/view/application/portfolio/embed.phtml, line: 106
+# File: module/Application/view/application/portfolio/embed.phtml, line: 128
 # File: module/Application/view/application/portfolio/index3.phtml, line: 146
 # File: module/Application/view/application/portfolio/new.phtml, line: 61
 # File: module/Application/view/application/statistics/index.phtml, line: 313
@@ -21124,7 +21130,7 @@ msgstr ""
 # File: module/Application/view/application/index/index2.phtml, line: 263
 # File: module/Application/view/application/index/index3.phtml, line: 308
 # File: module/Application/view/application/trips/quotes.phtml, line: 46
-# File: module/Application/view/application/giftcards/index.phtml, line: 77
+# File: module/Application/view/application/giftcards/index.phtml, line: 78
 msgid "Travel"
 msgstr ""
 #
@@ -25979,7 +25985,7 @@ msgid "From price"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/flyer.phtml, line: 363
-# File: module/Application/view/application/giftcards/edit.phtml, line: 154
+# File: module/Application/view/application/giftcards/edit.phtml, line: 177
 msgid "Discount"
 msgstr ""
 #
@@ -26165,7 +26171,7 @@ msgid "Flyer Builder"
 msgstr ""
 #
 # File: module/Application/view/application/marketing/flyers.phtml, line: 31
-# File: module/Application/view/application/portfolio/embed.phtml, line: 120
+# File: module/Application/view/application/portfolio/embed.phtml, line: 142
 # File: module/Application/view/application/portfolio/index3.phtml, line: 119
 msgid "No flyers yet."
 msgstr ""
@@ -27414,7 +27420,7 @@ msgid "Select Category"
 msgstr ""
 #
 # File: module/Application/view/application/portfolio/edit.phtml, line: 45
-# File: module/Application/view/application/portfolio/embed.phtml, line: 106
+# File: module/Application/view/application/portfolio/embed.phtml, line: 128
 # File: module/Application/view/application/portfolio/index3.phtml, line: 146
 # File: module/Application/view/application/portfolio/new.phtml, line: 57
 msgid "Likes"
@@ -27438,7 +27444,7 @@ msgid "Upload Image"
 msgstr ""
 #
 # File: module/Application/view/application/portfolio/edit.phtml, line: 78
-# File: module/Application/view/application/portfolio/embed.phtml, line: 127
+# File: module/Application/view/application/portfolio/embed.phtml, line: 149
 # File: module/Application/view/application/portfolio/index.phtml, line: 180
 # File: module/Application/view/application/portfolio/index.phtml, line: 337
 # File: module/Application/view/application/portfolio/index3.phtml, line: 168
@@ -27484,43 +27490,48 @@ msgstr ""
 msgid "Sortorder"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/embed.phtml, line: 80
+# File: module/Application/view/application/portfolio/embed.phtml, line: 101
 msgid "Ready to share"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/embed.phtml, line: 81
+# File: module/Application/view/application/portfolio/embed.phtml, line: 102
 msgid "See all flyers"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/embed.phtml, line: 100
+# File: module/Application/view/application/portfolio/embed.phtml, line: 122
 # File: module/Application/view/application/portfolio/index3.phtml, line: 137
 msgid "Ends soon"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/embed.phtml, line: 108
+# File: module/Application/view/application/portfolio/embed.phtml, line: 130
 # File: module/Application/view/application/portfolio/index3.phtml, line: 148
 msgid "Like"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/embed.phtml, line: 109
-# File: module/Application/view/application/portfolio/embed.phtml, line: 134
+# File: module/Application/view/application/portfolio/embed.phtml, line: 131
+# File: module/Application/view/application/portfolio/embed.phtml, line: 160
 # File: module/Application/view/application/portfolio/index.phtml, line: 340
 # File: module/Application/view/application/portfolio/index.phtml, line: 351
 # File: module/Application/view/application/portfolio/index3.phtml, line: 181
 msgid "Download"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/embed.phtml, line: 118
-# File: module/Application/view/application/portfolio/embed.phtml, line: 120
+# File: module/Application/view/application/portfolio/embed.phtml, line: 140
+# File: module/Application/view/application/portfolio/embed.phtml, line: 142
 # File: module/Application/view/application/portfolio/index3.phtml, line: 159
 msgid "No flyers match."
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/embed.phtml, line: 121
+# File: module/Application/view/application/portfolio/embed.phtml, line: 143
 msgid "Open the Flyers page"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/embed.phtml, line: 132
+# File: module/Application/view/application/portfolio/embed.phtml, line: 157
+# File: module/Application/view/application/portfolio/index3.phtml, line: 178
+msgid "View offer"
+msgstr ""
+#
+# File: module/Application/view/application/portfolio/embed.phtml, line: 158
 # File: module/Application/view/application/portfolio/index.phtml, line: 341
 # File: module/Application/view/application/portfolio/index.phtml, line: 352
 # File: module/Application/view/application/portfolio/index3.phtml, line: 179
@@ -27529,7 +27540,7 @@ msgstr ""
 msgid "View Itinerary"
 msgstr ""
 #
-# File: module/Application/view/application/portfolio/embed.phtml, line: 133
+# File: module/Application/view/application/portfolio/embed.phtml, line: 159
 # File: module/Application/view/application/portfolio/index.phtml, line: 339
 # File: module/Application/view/application/portfolio/index.phtml, line: 350
 # File: module/Application/view/application/portfolio/index3.phtml, line: 180
@@ -27568,10 +27579,6 @@ msgstr ""
 #
 # File: module/Application/view/application/portfolio/index3.phtml, line: 107
 msgid "Show expired"
-msgstr ""
-#
-# File: module/Application/view/application/portfolio/index3.phtml, line: 178
-msgid "View offer"
 msgstr ""
 #
 # File: module/Application/view/application/portfolio/new.phtml, line: 40
@@ -28429,7 +28436,7 @@ msgid "No hotels match these filters."
 msgstr ""
 #
 # File: module/Application/view/application/reports/hotelsales.phtml, line: 202
-# File: module/Application/view/application/giftcards/edit.phtml, line: 192
+# File: module/Application/view/application/giftcards/edit.phtml, line: 215
 msgid "Download CSV"
 msgstr ""
 #
@@ -29909,9 +29916,9 @@ msgid "This section allows you to define the reservation fees for your service. 
 msgstr ""
 #
 # File: module/Application/view/application/trips/edit.phtml, line: 30
-# File: module/Application/view/application/giftcards/index.phtml, line: 69
+# File: module/Application/view/application/giftcards/index.phtml, line: 70
 # File: module/Application/view/application/giftcards/edit.phtml, line: 37
-# File: module/Application/view/application/giftcards/edit.phtml, line: 228
+# File: module/Application/view/application/giftcards/edit.phtml, line: 251
 msgid "Any supplier"
 msgstr ""
 #
@@ -31430,251 +31437,289 @@ msgstr ""
 msgid "back to all cards"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 63
+# File: module/Application/view/application/giftcards/index.phtml, line: 61
+# File: module/Application/view/application/giftcards/edit.phtml, line: 215
+msgid "Delete every unused code of this batch? Redeemed codes are kept. This cannot be undone."
+msgstr ""
+#
+# File: module/Application/view/application/giftcards/index.phtml, line: 61
+msgid "Delete batch"
+msgstr ""
+#
+# File: module/Application/view/application/giftcards/index.phtml, line: 64
 msgid "Code, description or id"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 67
+# File: module/Application/view/application/giftcards/index.phtml, line: 68
 msgid "Any product"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 71
+# File: module/Application/view/application/giftcards/index.phtml, line: 72
 msgid "New and legacy"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 71
+# File: module/Application/view/application/giftcards/index.phtml, line: 72
 msgid "New (with rules)"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 71
-# File: module/Application/view/application/giftcards/index.phtml, line: 90
+# File: module/Application/view/application/giftcards/index.phtml, line: 72
+# File: module/Application/view/application/giftcards/index.phtml, line: 91
 msgid "Legacy"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 75
+# File: module/Application/view/application/giftcards/index.phtml, line: 76
 msgid "No gift cards match."
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 77
+# File: module/Application/view/application/giftcards/index.phtml, line: 78
 msgid "Gift card"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 77
-# File: module/Application/view/application/giftcards/edit.phtml, line: 124
+# File: module/Application/view/application/giftcards/index.phtml, line: 78
+# File: module/Application/view/application/giftcards/edit.phtml, line: 132
 msgid "Valid for"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 77
-# File: module/Application/view/application/giftcards/edit.phtml, line: 107
+# File: module/Application/view/application/giftcards/index.phtml, line: 78
+# File: module/Application/view/application/giftcards/edit.phtml, line: 115
 msgid "Uses left"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 96
+# File: module/Application/view/application/giftcards/index.phtml, line: 99
 msgid "per adult"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 97
+# File: module/Application/view/application/giftcards/index.phtml, line: 100
 msgid "min"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 101
+# File: module/Application/view/application/giftcards/index.phtml, line: 104
 msgid "redeemed"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 101
+# File: module/Application/view/application/giftcards/index.phtml, line: 104
 msgid "batches"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 102
+# File: module/Application/view/application/giftcards/index.phtml, line: 105
 msgid "Used up"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 105
+# File: module/Application/view/application/giftcards/index.phtml, line: 108
 msgid "Deactivate"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/index.phtml, line: 105
+# File: module/Application/view/application/giftcards/index.phtml, line: 108
 msgid "Activate"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 41
-msgid "Any tour (or pick one)"
+# File: module/Application/view/application/giftcards/index.phtml, line: 109
+msgid "Delete this gift card? This cannot be undone."
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 84
+# File: module/Application/view/application/giftcards/edit.phtml, line: 42
+msgid "Any tour - or type a tour name, ST code or id"
+msgstr ""
+#
+# File: module/Application/view/application/giftcards/edit.phtml, line: 44
+msgid "Remove this line (the last one is cleared)"
+msgstr ""
+#
+# File: module/Application/view/application/giftcards/edit.phtml, line: 92
 msgid "The code works only when every condition below is met. It is checked again by the middleware when the booking is made."
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 93
+# File: module/Application/view/application/giftcards/edit.phtml, line: 101
 msgid "Legacy card (created in the old admin): it applies to"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 93
+# File: module/Application/view/application/giftcards/edit.phtml, line: 101
 msgid "and the booking only checks that it is active and has uses left. Tick \"Use the new rules\" to limit it by product, supplier and tour."
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 94
+# File: module/Application/view/application/giftcards/edit.phtml, line: 102
 msgid "Use the new rules for this card"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 96
+# File: module/Application/view/application/giftcards/edit.phtml, line: 104
 msgid "Code and value"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 98
+# File: module/Application/view/application/giftcards/edit.phtml, line: 106
 msgid "Empty = random"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 98
+# File: module/Application/view/application/giftcards/edit.phtml, line: 106
 msgid "Letters, digits and dashes"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 99
+# File: module/Application/view/application/giftcards/edit.phtml, line: 107
 msgid "Random code prefix"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 99
+# File: module/Application/view/application/giftcards/edit.phtml, line: 107
 msgid "Used when the code is empty"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 100
+# File: module/Application/view/application/giftcards/edit.phtml, line: 108
 msgid "Shown to the customer at checkout"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 102
+# File: module/Application/view/application/giftcards/edit.phtml, line: 110
 msgid "Fixed discount - or use a percentage"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 103
+# File: module/Application/view/application/giftcards/edit.phtml, line: 111
 msgid "Percentage"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 104
+# File: module/Application/view/application/giftcards/edit.phtml, line: 112
 msgid "Max discount"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 104
+# File: module/Application/view/application/giftcards/edit.phtml, line: 112
 msgid "Cap for percentage cards; empty = no cap"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 105
+# File: module/Application/view/application/giftcards/edit.phtml, line: 113
 msgid "Minimum booking total"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 107
+# File: module/Application/view/application/giftcards/edit.phtml, line: 115
 msgid "Each booking takes one"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 110
+# File: module/Application/view/application/giftcards/edit.phtml, line: 118
 msgid "Amount is per adult"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 111
+# File: module/Application/view/application/giftcards/edit.phtml, line: 119
 msgid "Balance card: subtract the amount used"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 116
+# File: module/Application/view/application/giftcards/edit.phtml, line: 124
 msgid "Book from"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 117
+# File: module/Application/view/application/giftcards/edit.phtml, line: 125
 msgid "Book until"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 117
+# File: module/Application/view/application/giftcards/edit.phtml, line: 125
 msgid "Last day the code can be used"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 118
+# File: module/Application/view/application/giftcards/edit.phtml, line: 126
 msgid "Departures from"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 119
+# File: module/Application/view/application/giftcards/edit.phtml, line: 127
 msgid "Departures until"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 120
+# File: module/Application/view/application/giftcards/edit.phtml, line: 128
 msgid "Expires"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 120
+# File: module/Application/view/application/giftcards/edit.phtml, line: 128
 msgid "Optional hard expiry"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 125
+# File: module/Application/view/application/giftcards/edit.phtml, line: 133
 msgid "The card works when the booking matches any line. Leave supplier or tour empty for any."
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 127
+# File: module/Application/view/application/giftcards/edit.phtml, line: 135
 msgid "Add a line"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 130
+# File: module/Application/view/application/giftcards/edit.phtml, line: 138
 msgid "Who can use it"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 132
+# File: module/Application/view/application/giftcards/edit.phtml, line: 140
 msgid "Only this customer (signed in)"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 133
+# File: module/Application/view/application/giftcards/edit.phtml, line: 141
 msgid "Agent id"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 134
+# File: module/Application/view/application/giftcards/edit.phtml, line: 142
 msgid "Affiliate id"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 135
-msgid "Company id"
-msgstr ""
-#
-# File: module/Application/view/application/giftcards/edit.phtml, line: 138
-msgid "Internal use only (agents logged in)"
-msgstr ""
-#
-# File: module/Application/view/application/giftcards/edit.phtml, line: 139
-msgid "Discount collected from deposit"
+# File: module/Application/view/application/giftcards/edit.phtml, line: 151
+# File: module/Application/view/application/giftcards/edit.phtml, line: 154
+msgid "Any company"
 msgstr ""
 #
 # File: module/Application/view/application/giftcards/edit.phtml, line: 151
-msgid "Redemptions"
-msgstr ""
-#
-# File: module/Application/view/application/giftcards/edit.phtml, line: 152
-msgid "Not redeemed yet. Bookings made before November 2026, or with legacy cards, are not listed here."
+msgid "Set by your account"
 msgstr ""
 #
 # File: module/Application/view/application/giftcards/edit.phtml, line: 154
-msgid "Customer / agent"
+msgid "Pick a company"
+msgstr ""
+#
+# File: module/Application/view/application/giftcards/edit.phtml, line: 157
+msgid "Only bookings of this company can use the card"
+msgstr ""
+#
+# File: module/Application/view/application/giftcards/edit.phtml, line: 161
+msgid "Internal use only (agents logged in)"
+msgstr ""
+#
+# File: module/Application/view/application/giftcards/edit.phtml, line: 162
+msgid "Discount collected from deposit"
 msgstr ""
 #
 # File: module/Application/view/application/giftcards/edit.phtml, line: 174
-msgid "Generate one-use codes"
+msgid "Redemptions"
 msgstr ""
 #
 # File: module/Application/view/application/giftcards/edit.phtml, line: 175
+msgid "Not redeemed yet. Bookings made before November 2026, or with legacy cards, are not listed here."
+msgstr ""
+#
+# File: module/Application/view/application/giftcards/edit.phtml, line: 177
+msgid "Customer / agent"
+msgstr ""
+#
+# File: module/Application/view/application/giftcards/edit.phtml, line: 197
+msgid "Generate one-use codes"
+msgstr ""
+#
+# File: module/Application/view/application/giftcards/edit.phtml, line: 198
 msgid "Copies this card (value, dates, rules) into codes that can each be used once - e.g. one per newsletter recipient."
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 178
+# File: module/Application/view/application/giftcards/edit.phtml, line: 201
 msgid "How many"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 179
+# File: module/Application/view/application/giftcards/edit.phtml, line: 202
 msgid "Prefix"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 180
+# File: module/Application/view/application/giftcards/edit.phtml, line: 203
 msgid "Generate"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 184
+# File: module/Application/view/application/giftcards/edit.phtml, line: 207
 msgid "Codes"
 msgstr ""
 #
-# File: module/Application/view/application/giftcards/edit.phtml, line: 184
+# File: module/Application/view/application/giftcards/edit.phtml, line: 207
 msgid "Used"
+msgstr ""
+#
+# File: module/Application/view/application/giftcards/edit.phtml, line: 261
+msgid "Not a tour on sale - pick one from the list, or leave empty for any tour"
+msgstr ""
+#
+# File: module/Application/view/application/giftcards/edit.phtml, line: 269
+msgid "Several tours have this name - pick the one you want from the list"
 msgstr ""
 #
 # File: module/Application/view/layout/layout.phtml, line: 74
