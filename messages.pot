@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-18 11:34-0500\n"
+"POT-Creation-Date: 2026-11-19 05:39-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,15 +20,15 @@ msgstr ""
 #
 # File: module/Application/src/Controller/ActivitiesController.php, line: 908
 # File: module/Application/src/Controller/ActivitiesController.php, line: 1194
-# File: module/Application/src/Controller/AgentsController.php, line: 2865
 # File: module/Application/src/Controller/AgentsController.php, line: 2886
 # File: module/Application/src/Controller/AgentsController.php, line: 2907
-# File: module/Application/src/Controller/AgentsController.php, line: 3076
+# File: module/Application/src/Controller/AgentsController.php, line: 2928
 # File: module/Application/src/Controller/AgentsController.php, line: 3097
 # File: module/Application/src/Controller/AgentsController.php, line: 3118
-# File: module/Application/src/Controller/AgentsController.php, line: 3406
+# File: module/Application/src/Controller/AgentsController.php, line: 3139
 # File: module/Application/src/Controller/AgentsController.php, line: 3427
 # File: module/Application/src/Controller/AgentsController.php, line: 3448
+# File: module/Application/src/Controller/AgentsController.php, line: 3469
 # File: module/Application/src/Controller/CMSController.php, line: 1289
 # File: module/Application/src/Controller/CMSController.php, line: 1310
 # File: module/Application/src/Controller/CMSController.php, line: 1331
@@ -98,9 +98,9 @@ msgstr ""
 msgid "All Reservation Status"
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentsController.php, line: 3472
-# File: module/Application/src/Controller/AgentsController.php, line: 3508
-# File: module/Application/src/Controller/AgentsController.php, line: 3510
+# File: module/Application/src/Controller/AgentsController.php, line: 3493
+# File: module/Application/src/Controller/AgentsController.php, line: 3529
+# File: module/Application/src/Controller/AgentsController.php, line: 3531
 # File: module/Application/view/application/agents/edit.phtml, line: 14
 # File: module/Application/view/application/agents/index.phtml, line: 33
 # File: module/Application/view/application/agents/list.phtml, line: 12
@@ -123,7 +123,7 @@ msgstr ""
 msgid "Agents"
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentsController.php, line: 3492
+# File: module/Application/src/Controller/AgentsController.php, line: 3513
 # File: module/Application/src/Controller/CustomersController.php, line: 4482
 # File: module/Application/view/application/agents/list.phtml, line: 30
 # File: module/Application/view/application/cms/airlinepage.phtml, line: 316
@@ -138,7 +138,7 @@ msgstr ""
 msgid "Created"
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentsController.php, line: 3493
+# File: module/Application/src/Controller/AgentsController.php, line: 3514
 # File: module/Application/src/Controller/ViewReservationController.php, line: 4279
 # File: module/Application/view/application/agents/edit.phtml, line: 23
 # File: module/Application/view/application/agents/list.phtml, line: 31
@@ -188,7 +188,7 @@ msgstr ""
 msgid "Agent"
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentsController.php, line: 3494
+# File: module/Application/src/Controller/AgentsController.php, line: 3515
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 389
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1129
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 2153
@@ -280,7 +280,7 @@ msgstr ""
 msgid "Email"
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentsController.php, line: 3495
+# File: module/Application/src/Controller/AgentsController.php, line: 3516
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 375
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1115
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 2139
@@ -321,7 +321,7 @@ msgstr ""
 # File: module/Application/view/application/customers/travelcompanions.phtml, line: 36
 # File: module/Application/view/application/customers/whitelist.phtml, line: 31
 # File: module/Application/view/application/escortedtours/specialtoursdoc.phtml, line: 158
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1060
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1068
 # File: module/Application/view/application/flights/listfarealerts.phtml, line: 29
 # File: module/Application/view/application/help/index.phtml, line: 48
 # File: module/Application/view/application/hotels/edit.phtml, line: 33
@@ -378,7 +378,7 @@ msgstr ""
 msgid "Phone"
 msgstr ""
 #
-# File: module/Application/src/Controller/AgentsController.php, line: 3496
+# File: module/Application/src/Controller/AgentsController.php, line: 3517
 # File: module/Application/view/application/agents/edit.phtml, line: 117
 # File: module/Application/view/application/agents/edit.phtml, line: 118
 # File: module/Application/view/application/agents/edit.phtml, line: 258
@@ -408,7 +408,7 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/addpopularescortedtours.phtml, line: 25
 # File: module/Application/view/application/escortedtours/addsouthamericadestinations.phtml, line: 25
 # File: module/Application/view/application/escortedtours/addspecialoffers.phtml, line: 25
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1024
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1032
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 39
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 41
 # File: module/Application/view/application/hotels/edit.phtml, line: 24
@@ -1107,7 +1107,7 @@ msgstr ""
 # File: module/Application/view/application/cms/bundles.phtml, line: 245
 # File: module/Application/view/application/cms/bundlesedit.phtml, line: 94
 # File: module/Application/view/application/escortedtours/specialtoursdoc.phtml, line: 147
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 433
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 441
 # File: module/Application/view/application/index/search.old.phtml, line: 1345
 # File: module/Application/view/application/index/search.phtml, line: 1216
 # File: module/Application/view/application/index/search3.phtml, line: 158
@@ -1507,7 +1507,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/FlightsController.php, line: 1655
 # File: module/Application/src/Controller/FlightsController.php, line: 2167
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 514
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 522
 msgid "Issued"
 msgstr ""
 #
@@ -1517,7 +1517,7 @@ msgid "All Airlines"
 msgstr ""
 #
 # File: module/Application/src/Controller/FlightsController.php, line: 5401
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 414
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 422
 msgid "Not ticketed"
 msgstr ""
 #
@@ -1533,8 +1533,8 @@ msgstr ""
 # File: module/Application/src/Controller/FlightsController.php, line: 5405
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 170
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 219
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 403
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 414
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 411
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 422
 # File: module/Application/view/application/view-reservation/vr-items.phtml, line: 194
 msgid "Ticketed"
 msgstr ""
@@ -1551,188 +1551,192 @@ msgstr ""
 msgid "Ticketing needs attention"
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5570
+# File: module/Application/src/Controller/FlightsController.php, line: 5628
 msgid "That reservation has no air segment to ticket."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5609
-# File: module/Application/src/Controller/FlightsController.php, line: 5759
+# File: module/Application/src/Controller/FlightsController.php, line: 5667
+# File: module/Application/src/Controller/FlightsController.php, line: 5825
 msgid "The middleware URL is not configured (settings.middleware)."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5629
-# File: module/Application/src/Controller/FlightsController.php, line: 5992
+# File: module/Application/src/Controller/FlightsController.php, line: 5687
+# File: module/Application/src/Controller/FlightsController.php, line: 6063
 msgid "The middleware rejected the request."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5631
-# File: module/Application/src/Controller/FlightsController.php, line: 5999
+# File: module/Application/src/Controller/FlightsController.php, line: 5689
+# File: module/Application/src/Controller/FlightsController.php, line: 6070
 msgid "The middleware did not respond."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5719
+# File: module/Application/src/Controller/FlightsController.php, line: 5777
 msgid "Enter the Mexican passport or national ID number (at least 5 letters / digits) - required to exempt the UK tax."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5749
+# File: module/Application/src/Controller/FlightsController.php, line: 5811
+msgid "Ticketing is disabled for your account. Nothing was charged and nothing was sent to the airline - please contact your agency."
+msgstr ""
+#
+# File: module/Application/src/Controller/FlightsController.php, line: 5815
 msgid "This reservation is already ticketed."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5752
+# File: module/Application/src/Controller/FlightsController.php, line: 5818
 msgid "The order no longer exists at the airline / GDS (cancelled or purged) - nothing was sent."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5755
+# File: module/Application/src/Controller/FlightsController.php, line: 5821
 msgid "The airline reports this booking as already ticketed - the ticket numbers were recorded, nothing was charged."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5774
+# File: module/Application/src/Controller/FlightsController.php, line: 5840
 msgid "The agency credit limit could not be verified (service unavailable), so ticketing on the agency account (CASH) is disabled right now. Issue with a credit card or try again later."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5774
+# File: module/Application/src/Controller/FlightsController.php, line: 5840
 msgid "Ticketing on the agency account (CASH) is not available for this booking - the credit limit does not cover it. Issue with a credit card."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5790
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1269
+# File: module/Application/src/Controller/FlightsController.php, line: 5856
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1277
 msgid "Enter the name as printed on the card."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5792
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1285
+# File: module/Application/src/Controller/FlightsController.php, line: 5858
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1293
 msgid "The name on the card cannot contain numbers."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5795
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1270
+# File: module/Application/src/Controller/FlightsController.php, line: 5861
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1278
 msgid "The card number must be between 13 and 19 digits."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5797
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1271
+# File: module/Application/src/Controller/FlightsController.php, line: 5863
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1279
 msgid "That card number is not valid - check for a typo."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5800
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1272
+# File: module/Application/src/Controller/FlightsController.php, line: 5866
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1280
 msgid "The expiry month must be between 01 and 12."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5803
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1273
+# File: module/Application/src/Controller/FlightsController.php, line: 5869
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1281
 msgid "Check the expiry year."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5805
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1274
+# File: module/Application/src/Controller/FlightsController.php, line: 5871
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1282
 msgid "That card has expired."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5808
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1275
+# File: module/Application/src/Controller/FlightsController.php, line: 5874
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1283
 msgid "The security code is 3 or 4 digits."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5811
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1277
+# File: module/Application/src/Controller/FlightsController.php, line: 5877
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1285
 # File: module/Application/view/application/index/changeplan.phtml, line: 185
 msgid "Enter the billing address."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5814
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1278
+# File: module/Application/src/Controller/FlightsController.php, line: 5880
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1286
 # File: module/Application/view/application/index/changeplan.phtml, line: 200
 msgid "Enter the billing city."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5820
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1290
+# File: module/Application/src/Controller/FlightsController.php, line: 5886
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1298
 msgid "Choose the billing country."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5822
+# File: module/Application/src/Controller/FlightsController.php, line: 5888
 msgid "Choose the billing country from the list."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5828
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1291
+# File: module/Application/src/Controller/FlightsController.php, line: 5894
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1299
 msgid "Choose the billing state."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5828
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1292
+# File: module/Application/src/Controller/FlightsController.php, line: 5894
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1300
 msgid "Choose the billing province."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5832
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1279
+# File: module/Application/src/Controller/FlightsController.php, line: 5898
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1287
 msgid "Enter the billing ZIP or postcode."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5834
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1293
+# File: module/Application/src/Controller/FlightsController.php, line: 5900
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1301
 msgid "A US ZIP code is 5 digits (or ZIP+4)."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5834
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1294
+# File: module/Application/src/Controller/FlightsController.php, line: 5900
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1302
 msgid "A Canadian postal code looks like A1A 1A1."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5834
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1296
+# File: module/Application/src/Controller/FlightsController.php, line: 5900
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1304
 msgid "Check the ZIP or postcode."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5837
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1282
+# File: module/Application/src/Controller/FlightsController.php, line: 5903
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1290
 msgid "Enter the billing e-mail."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5839
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1281
+# File: module/Application/src/Controller/FlightsController.php, line: 5905
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1289
 msgid "That e-mail address is not valid."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5842
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1283
+# File: module/Application/src/Controller/FlightsController.php, line: 5908
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1291
 msgid "Enter the billing phone."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5844
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1284
+# File: module/Application/src/Controller/FlightsController.php, line: 5910
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1292
 msgid "Enter a phone number with at least 7 digits."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5858
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1289
+# File: module/Application/src/Controller/FlightsController.php, line: 5924
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1297
 msgid "Only Visa, Mastercard, American Express and Discover cards are accepted."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5863
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1276
+# File: module/Application/src/Controller/FlightsController.php, line: 5929
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1284
 msgid "American Express cards have a 4-digit security code."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5865
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1288
+# File: module/Application/src/Controller/FlightsController.php, line: 5931
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1296
 msgid "The security code on this card is 3 digits."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5870
+# File: module/Application/src/Controller/FlightsController.php, line: 5936
 msgid "Nothing was sent to the airline - please correct the payment details below and try again."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5873
+# File: module/Application/src/Controller/FlightsController.php, line: 5939
 msgid "Nothing was sent to the airline - enter the Mexican passport or national ID number of every passenger ticked \"Exempt UK\"."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5970
+# File: module/Application/src/Controller/FlightsController.php, line: 6041
 msgid "This reservation was already ticketed - nothing was charged."
 msgstr ""
 #
-# File: module/Application/src/Controller/FlightsController.php, line: 5970
+# File: module/Application/src/Controller/FlightsController.php, line: 6041
 msgid "Tickets issued."
 msgstr ""
 #
@@ -2426,6 +2430,7 @@ msgstr ""
 # File: module/Application/view/application/flights/settings.phtml, line: 11
 # File: module/Application/view/application/flights/viewfarealert.phtml, line: 15
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 11
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 43
 # File: module/Application/view/application/index/billing.phtml, line: 119
 # File: module/Application/view/application/index/billing.phtml, line: 222
 # File: module/Application/view/application/index/billing.phtml, line: 261
@@ -3317,8 +3322,8 @@ msgstr ""
 #
 # File: module/Application/src/Controller/IndexController.php, line: 3131
 # File: module/Application/src/Controller/IndexController.php, line: 3174
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 982
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 983
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 990
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 991
 # File: module/Application/view/application/index/billing.phtml, line: 111
 # File: module/Application/view/application/index/billing.phtml, line: 214
 # File: module/Application/view/application/index/billing.phtml, line: 249
@@ -3332,8 +3337,8 @@ msgid "Month"
 msgstr ""
 #
 # File: module/Application/src/Controller/IndexController.php, line: 3172
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 989
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 990
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 997
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 998
 # File: module/Application/view/application/reports/incentives.phtml, line: 63
 msgid "Year"
 msgstr ""
@@ -3844,8 +3849,8 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/specialtours3.phtml, line: 146
 # File: module/Application/view/application/flights/airblock.phtml, line: 52
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 167
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 688
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1205
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 696
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1213
 # File: module/Application/view/application/flights/listairblocks.phtml, line: 167
 # File: module/Application/view/application/flights/listairblocks.phtml, line: 210
 # File: module/Application/view/application/flights/newairblock.phtml, line: 51
@@ -3918,7 +3923,7 @@ msgstr ""
 # File: module/Application/view/application/reports/globalware.phtml, line: 39
 # File: module/Application/view/application/reports/search.phtml, line: 75
 # File: module/Application/view/application/view-reservation/index3.phtml, line: 134
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 166
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 177
 # File: module/Application/view/application/view-reservation/vr-actions.phtml, line: 44
 # File: module/Application/view/application/view-reservation/vr-modals-a.phtml, line: 126
 msgid "Itinerary"
@@ -3964,8 +3969,8 @@ msgstr ""
 #
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 207
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 240
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 433
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 690
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 441
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 698
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 237
 # File: module/Application/view/application/hotels/edit.phtml, line: 39
 # File: module/Application/view/application/hotels/newhotel.phtml, line: 39
@@ -4133,9 +4138,9 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/specialtours.phtml, line: 141
 # File: module/Application/view/application/escortedtours/specialtours3.phtml, line: 141
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 139
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 433
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 620
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 627
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 441
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 628
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 635
 # File: module/Application/view/application/flights/listfarealerts.phtml, line: 34
 # File: module/Application/view/application/group-tours/bookings.phtml, line: 32
 # File: module/Application/view/application/marketing/edit.phtml, line: 112
@@ -4148,8 +4153,8 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/specialtours.phtml, line: 142
 # File: module/Application/view/application/escortedtours/specialtours3.phtml, line: 141
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 140
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 616
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 645
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 624
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 653
 msgid "Arrival"
 msgstr ""
 #
@@ -4163,18 +4168,18 @@ msgid "Ticketing Details"
 msgstr ""
 #
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 558
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 514
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 522
 msgid "Ticket"
 msgstr ""
 #
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 559
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 712
 # File: module/Application/view/application/flights/airblocksreport.phtml, line: 100
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 334
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 451
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 514
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 769
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1135
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 342
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 459
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 522
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 777
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1143
 msgid "Passenger"
 msgstr ""
 #
@@ -4720,10 +4725,10 @@ msgstr ""
 # File: module/Application/view/application/flights/addbags.phtml, line: 50
 # File: module/Application/view/application/flights/issueticket.phtml, line: 51
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 168
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 334
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 710
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1135
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1206
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 342
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 718
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1143
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1214
 # File: module/Application/view/application/flights/listreservations.phtml, line: 32
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 61
 # File: module/Application/view/application/flights/selectseat.phtml, line: 49
@@ -4749,7 +4754,7 @@ msgstr ""
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1934
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 2348
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 174
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 724
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 732
 # File: module/Application/view/application/hotels/editmealsupplement.phtml, line: 36
 # File: module/Application/view/application/hotels/newmealsupplement.phtml, line: 38
 # File: module/Application/view/application/index/search.old.phtml, line: 823
@@ -4826,7 +4831,7 @@ msgstr ""
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1718
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 1934
 # File: module/Application/src/Templates/reservation_v2.phtml, line: 2348
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 725
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 733
 # File: module/Application/view/application/hotels/editmealsupplement.phtml, line: 37
 # File: module/Application/view/application/hotels/newmealsupplement.phtml, line: 39
 # File: module/Application/view/application/index/search.old.phtml, line: 823
@@ -5004,7 +5009,7 @@ msgstr ""
 # File: module/Application/view/application/flights/listfarealerts.phtml, line: 33
 # File: module/Application/view/application/flights/routemap.phtml, line: 39
 # File: module/Application/view/application/hotels/promotions.phtml, line: 104
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 112
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 113
 # File: module/Application/view/application/index/search.old.phtml, line: 668
 # File: module/Application/view/application/index/search.old.phtml, line: 916
 # File: module/Application/view/application/index/search.old.phtml, line: 1167
@@ -5269,6 +5274,7 @@ msgstr ""
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 64
 # File: module/Application/view/application/flights/selectseat.phtml, line: 52
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 52
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 62
 # File: module/Application/view/application/group-tours/bookings.phtml, line: 32
 # File: module/Application/view/application/hotels/listreservations.phtml, line: 38
 # File: module/Application/view/application/hotels/searchreservations.phtml, line: 64
@@ -5448,6 +5454,7 @@ msgstr ""
 # File: module/Application/view/application/flights/settings.phtml, line: 10
 # File: module/Application/view/application/flights/viewfarealert.phtml, line: 13
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 10
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 43
 # File: module/Application/view/application/funnel/index.phtml, line: 60
 # File: module/Application/view/application/funnel/index3.phtml, line: 91
 # File: module/Application/view/application/group-tours/partial/head.phtml, line: 43
@@ -5692,7 +5699,7 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/specialtours.phtml, line: 171
 # File: module/Application/view/application/escortedtours/specialtours3.phtml, line: 159
 # File: module/Application/view/application/escortedtours/specialtours3.phtml, line: 160
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 451
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 459
 # File: module/Application/view/application/hotels/editroom.phtml, line: 38
 # File: module/Application/view/application/hotels/editroom.phtml, line: 40
 # File: module/Application/view/application/hotels/listrooms.phtml, line: 34
@@ -6050,8 +6057,8 @@ msgstr ""
 #
 # File: module/Application/view/application/activities/generalsettings.phtml, line: 78
 # File: module/Application/view/application/activities/paymentsettings.phtml, line: 47
-# File: module/Application/view/application/agents/edit.phtml, line: 708
-# File: module/Application/view/application/agents/new.phtml, line: 58
+# File: module/Application/view/application/agents/edit.phtml, line: 717
+# File: module/Application/view/application/agents/new.phtml, line: 72
 # File: module/Application/view/application/cars/generalsettings.phtml, line: 78
 # File: module/Application/view/application/cars/paymentsettings.phtml, line: 47
 # File: module/Application/view/application/cms/editpage.phtml, line: 115
@@ -6183,8 +6190,8 @@ msgstr ""
 # File: module/Application/view/application/activities/generalsettings.phtml, line: 102
 # File: module/Application/view/application/activities/paymentsettings.phtml, line: 71
 # File: module/Application/view/application/activities/settings.phtml, line: 78
-# File: module/Application/view/application/agents/edit.phtml, line: 782
-# File: module/Application/view/application/agents/new.phtml, line: 118
+# File: module/Application/view/application/agents/edit.phtml, line: 791
+# File: module/Application/view/application/agents/new.phtml, line: 132
 # File: module/Application/view/application/cars/generalsettings.phtml, line: 102
 # File: module/Application/view/application/cars/paymentsettings.phtml, line: 71
 # File: module/Application/view/application/cars/settings.phtml, line: 78
@@ -6286,7 +6293,7 @@ msgstr ""
 # File: module/Application/view/application/index/search.old.phtml, line: 349
 # File: module/Application/view/application/index/search.old.phtml, line: 1387
 # File: module/Application/view/application/index/search.phtml, line: 339
-# File: module/Application/view/application/index/settings.phtml, line: 449
+# File: module/Application/view/application/index/settings.phtml, line: 465
 # File: module/Application/view/application/index/setup.phtml, line: 228
 # File: module/Application/view/application/index/setup.phtml, line: 242
 # File: module/Application/view/application/index/setup.phtml, line: 253
@@ -6936,7 +6943,7 @@ msgstr ""
 # File: module/Application/view/application/transfers/listreservations.phtml, line: 35
 # File: module/Application/view/application/transfers/searchreservations.phtml, line: 34
 # File: module/Application/view/application/view-reservation/index.phtml, line: 108
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 201
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 212
 # File: module/Application/view/application/view-reservation/status.phtml, line: 13
 # File: module/Application/view/application/view-reservation/status.phtml, line: 16
 # File: module/Application/view/application/view-reservation/vr-tabs.phtml, line: 6
@@ -8499,7 +8506,7 @@ msgstr ""
 # File: module/Application/view/application/customers/search.phtml, line: 82
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 92
 # File: module/Application/view/application/escortedtours/specialtours.phtml, line: 193
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1038
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1046
 # File: module/Application/view/application/hotels/edit.phtml, line: 26
 # File: module/Application/view/application/hotels/listhotels.phtml, line: 28
 # File: module/Application/view/application/hotels/mappedhotels.phtml, line: 33
@@ -8590,8 +8597,8 @@ msgstr ""
 # File: module/Application/view/application/flights/airblockavailability.phtml, line: 145
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 96
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 97
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 433
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 451
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 441
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 459
 # File: module/Application/view/application/flights/listairblocks.phtml, line: 185
 # File: module/Application/view/application/flights/listairblocks.phtml, line: 214
 # File: module/Application/view/application/flights/newairblock.phtml, line: 79
@@ -8747,7 +8754,7 @@ msgstr ""
 #
 # File: module/Application/view/application/agents/edit.phtml, line: 224
 # File: module/Application/view/application/customers/quotes.phtml, line: 40
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1149
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1157
 # File: module/Application/view/application/flights/paymentsettings.phtml, line: 23
 # File: module/Application/view/application/index/index.phtml, line: 603
 # File: module/Application/view/application/index/index2.phtml, line: 315
@@ -9029,6 +9036,22 @@ msgstr ""
 msgid "Disable Ticketing"
 msgstr ""
 #
+# File: module/Application/view/application/agents/edit.phtml, line: 707
+msgid "Tickets are issued only after you approve them in Flights > Ticketing approvals"
+msgstr ""
+#
+# File: module/Application/view/application/agents/edit.phtml, line: 707
+msgid "Ticketing requires approval"
+msgstr ""
+#
+# File: module/Application/view/application/agents/edit.phtml, line: 711
+msgid "Their website is closed to the public (no B2B2C); they can still sign in and book"
+msgstr ""
+#
+# File: module/Application/view/application/agents/edit.phtml, line: 711
+msgid "Disable eAgent (website)"
+msgstr ""
+#
 # File: module/Application/view/application/agents/index.phtml, line: 43
 # File: module/Application/view/application/agents/new.phtml, line: 7
 # File: module/Application/view/application/section/people3.phtml, line: 46
@@ -9059,7 +9082,7 @@ msgstr ""
 # File: module/Application/view/application/customers/rewards.phtml, line: 33
 # File: module/Application/view/application/customers/search.phtml, line: 83
 # File: module/Application/view/application/customers/searchcustomers.phtml, line: 93
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1317
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1325
 # File: module/Application/view/application/index/order.old.phtml, line: 438
 # File: module/Application/view/application/index/order.old.phtml, line: 483
 # File: module/Application/view/application/index/order.phtml, line: 446
@@ -9074,6 +9097,26 @@ msgstr ""
 # File: module/Application/view/application/agents/list.phtml, line: 67
 # File: module/Application/view/partial/a3-people-table.phtml, line: 47
 msgid "Sub Agent"
+msgstr ""
+#
+# File: module/Application/view/application/agents/new.phtml, line: 59
+msgid "Ticketing requires my approval"
+msgstr ""
+#
+# File: module/Application/view/application/agents/new.phtml, line: 60
+msgid "The sub-agent fills in the ticketing form as usual, but nothing is issued until you approve it in Flights > Ticketing approvals."
+msgstr ""
+#
+# File: module/Application/view/application/agents/new.phtml, line: 65
+msgid "Disable their website (eAgent)"
+msgstr ""
+#
+# File: module/Application/view/application/agents/new.phtml, line: 66
+msgid "Their website stays closed to the public (no B2B2C bookings). The sub-agent can still sign in and book."
+msgstr ""
+#
+# File: module/Application/view/application/agents/new.phtml, line: 68
+msgid "Branch, affiliate, market, currency, language, supervisor, predefined suppliers, permissions, book buttons and product switches (incl. Disable Ticketing) are copied from your account. Change them later in the sub-agent's settings."
 msgstr ""
 #
 # File: module/Application/view/application/agents/search.phtml, line: 21
@@ -9884,7 +9927,7 @@ msgstr ""
 # File: module/Application/view/application/index/presentation.phtml, line: 1799
 # File: module/Application/view/application/index/privacypolicy.phtml, line: 295
 # File: module/Application/view/application/index/products.phtml, line: 491
-# File: module/Application/view/application/index/settings.phtml, line: 350
+# File: module/Application/view/application/index/settings.phtml, line: 366
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 281
 # File: module/Application/view/application/index/trial.phtml, line: 444
 # File: module/Application/view/application/index/whoarewe.phtml, line: 362
@@ -11166,7 +11209,7 @@ msgstr ""
 # File: module/Application/view/application/tutorials/index.phtml, line: 822
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 448
 # File: module/Application/view/application/view/index.phtml, line: 1062
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 217
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 228
 # File: module/Application/view/application/view-reservation/vr-tabs.phtml, line: 25
 msgid "Terms & Conditions"
 msgstr ""
@@ -12092,7 +12135,7 @@ msgstr ""
 # File: module/Application/view/application/cms/airlinepages.phtml, line: 135
 # File: module/Application/view/application/cms/flightdeals.phtml, line: 91
 # File: module/Application/view/application/cms/loginoffers.phtml, line: 37
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 400
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 408
 # File: module/Application/view/application/index/changeplan.phtml, line: 244
 msgid "until"
 msgstr ""
@@ -12644,7 +12687,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cms/bundles.phtml, line: 135
 # File: module/Application/view/application/hotels/index3.phtml, line: 135
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 160
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 171
 # File: module/Application/view/application/view-reservation/vr-actions.phtml, line: 32
 # File: module/Application/view/application/view-reservation/vr-items.phtml, line: 400
 # File: module/Application/view/application/view-reservation/vr-items.phtml, line: 541
@@ -12902,7 +12945,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cms/bundlesedit.phtml, line: 127
 # File: module/Application/view/application/group-tours/departures.phtml, line: 87
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 190
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 201
 msgid "Copy"
 msgstr ""
 #
@@ -13118,7 +13161,7 @@ msgid "Up to 4 logos."
 msgstr ""
 #
 # File: module/Application/view/application/cms/campaignoffers.phtml, line: 568
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 964
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 972
 msgid "default"
 msgstr ""
 #
@@ -13605,7 +13648,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cms/flightdeals.phtml, line: 79
 # File: module/Application/view/application/cms/flightdeals.phtml, line: 109
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 433
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 441
 # File: module/Application/view/application/funnel/index.phtml, line: 192
 # File: module/Application/view/application/funnel/index3.phtml, line: 185
 # File: module/Application/view/application/funnel/list.phtml, line: 27
@@ -13631,7 +13674,7 @@ msgstr ""
 # File: module/Application/view/application/cms/flightdeals.phtml, line: 85
 # File: module/Application/view/application/hotels/promotions.phtml, line: 119
 # File: module/Application/view/application/hotels/promotions2.phtml, line: 219
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 119
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 120
 # File: module/Application/view/application/statistics/index.phtml, line: 241
 msgid "one way"
 msgstr ""
@@ -13643,13 +13686,13 @@ msgstr ""
 # File: module/Application/view/application/hotels/promotions.phtml, line: 117
 # File: module/Application/view/application/hotels/promotions2.phtml, line: 198
 # File: module/Application/view/application/hotels/promotions2.phtml, line: 218
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 118
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 119
 msgid "Nonstop"
 msgstr ""
 #
 # File: module/Application/view/application/cms/flightdeals.phtml, line: 89
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 406
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1242
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 414
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1250
 # File: module/Application/view/application/funnel/journey.phtml, line: 20
 # File: module/Application/view/application/funnel/list.phtml, line: 19
 # File: module/Application/view/application/portfolio/index.phtml, line: 89
@@ -14378,7 +14421,7 @@ msgid "Bookings"
 msgstr ""
 #
 # File: module/Application/view/application/cms/devices.phtml, line: 197
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 529
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 537
 msgid "Notifications"
 msgstr ""
 #
@@ -15116,8 +15159,8 @@ msgstr ""
 #
 # File: module/Application/view/application/customers/partials/emaillog.phtml, line: 39
 # File: module/Application/view/application/customers/emails.phtml, line: 119
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 531
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1064
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 539
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1072
 # File: module/Application/view/application/index/index.phtml, line: 76
 # File: module/Application/view/application/index/index2.phtml, line: 155
 # File: module/Application/view/application/index/index3.phtml, line: 177
@@ -15293,6 +15336,7 @@ msgstr ""
 # File: module/Application/view/application/customers/partials/quotestatus.phtml, line: 75
 # File: module/Application/view/application/customers/blocklist.phtml, line: 57
 # File: module/Application/view/application/customers/blocklist.phtml, line: 70
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 88
 # File: module/Application/view/application/group-tours/departures.phtml, line: 60
 # File: module/Application/view/application/group-tours/departures.phtml, line: 61
 # File: module/Application/view/application/packages/newnote.phtml, line: 37
@@ -15514,7 +15558,7 @@ msgstr ""
 # File: module/Application/view/application/customers/managebounce.phtml, line: 76
 # File: module/Application/view/application/customers/new.phtml, line: 56
 # File: module/Application/view/application/customers/newtravelcompanion.phtml, line: 30
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 770
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 778
 msgid "Date of Birth"
 msgstr ""
 #
@@ -15687,7 +15731,9 @@ msgstr ""
 # File: module/Application/view/application/escortedtours/specialtours.phtml, line: 67
 # File: module/Application/view/application/escortedtours/specialtours3.phtml, line: 101
 # File: module/Application/view/application/escortedtours/specialtoursdoc.phtml, line: 55
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1202
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1210
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 62
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 88
 # File: module/Application/view/application/funnel/journey.phtml, line: 76
 # File: module/Application/view/application/reports/productivity.phtml, line: 311
 # File: module/Application/view/application/trips/quotes.phtml, line: 51
@@ -16746,7 +16792,7 @@ msgid "Payable by"
 msgstr ""
 #
 # File: module/Application/view/application/escortedtours/specialtoursdoc.phtml, line: 204
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 451
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 459
 # File: translate-dummy.php, line: 49
 msgid "Document"
 msgstr ""
@@ -16876,7 +16922,7 @@ msgstr ""
 # File: module/Application/view/application/flights/issueticket.phtml, line: 24
 # File: module/Application/view/application/flights/issueticket.phtml, line: 53
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 165
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1203
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1211
 # File: module/Application/view/application/flights/listreservations.phtml, line: 34
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 77
 # File: module/Application/view/application/flights/searchreservations.phtml, line: 63
@@ -16884,6 +16930,7 @@ msgstr ""
 # File: module/Application/view/application/flights/selectseat.phtml, line: 51
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 23
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 51
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 62
 # File: module/Application/view/application/index/index.phtml, line: 599
 # File: module/Application/view/application/index/index2.phtml, line: 310
 # File: module/Application/view/application/index/index3.phtml, line: 358
@@ -17605,7 +17652,7 @@ msgstr ""
 # File: module/Application/view/application/flights/index.phtml, line: 127
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 127
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 132
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 330
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 338
 msgid "Issue Tickets"
 msgstr ""
 #
@@ -17614,7 +17661,7 @@ msgstr ""
 # File: module/Application/view/application/flights/issueticket.phtml, line: 7
 # File: module/Application/view/application/flights/issueticket.phtml, line: 12
 # File: module/Application/view/application/flights/issueticket.phtml, line: 18
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 158
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 169
 # File: module/Application/view/application/view-reservation/vr-actions.phtml, line: 15
 # File: module/Application/view/application/view-reservation/vr-items.phtml, line: 98
 msgid "Issue Ticket"
@@ -17649,7 +17696,7 @@ msgid "Find reservation"
 msgstr ""
 #
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 166
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1204
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1212
 msgid "Locator"
 msgstr ""
 #
@@ -17673,241 +17720,250 @@ msgstr ""
 msgid "Onward"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 332
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 302
+msgid "Ticketing is disabled for your account - you can review the booking, but tickets cannot be issued from here. Please contact your agency."
+msgstr ""
+#
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 304
+msgid "Your agency approves your ticketing requests: fill in the form as usual - nothing is charged or issued until it is approved."
+msgstr ""
+#
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 340
 msgid "Booking Reference"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 335
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 343
 msgid "Flight Segments"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 361
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 369
 msgid "the fare is held by the airline"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 362
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 370
 msgid "EMD"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 362
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 370
 # File: module/BackOffice/src/Service/QuoteDocument.php, line: 276
 msgid "issued"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 363
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 371
 msgid "The flight ticket is not issued yet - issue it before the PriceLock time limit."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 381
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 389
 msgid "Airline order"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 381
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 389
 msgid "retrieved"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 384
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 392
 msgid "The order no longer exists at the airline / GDS (cancelled or purged)."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 384
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 392
 msgid "The order could not be retrieved right now."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 398
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 406
 msgid "Last ticketing date"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 399
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 407
 msgid "Not provided by the airline"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 407
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 415
 msgid "deadline passed"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 407
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 415
 msgid "left to ticket"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 413
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 421
 msgid "Airline status"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 415
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 423
 msgid "document(s) on the order"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 418
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 426
 msgid "Airline price"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 420
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 428
 msgid "fare"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 423
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 431
 msgid "Records"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 427
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 435
 msgid "office"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 480
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 488
 msgid "Ticketing status"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 483
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 491
 msgid "The tickets have been issued."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 487
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 495
 msgid "The airline is being asked for the tickets right now. This page refreshes itself - do not issue again."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 487
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 495
 msgid "The payment was accepted and the booking is queued: the reservations robot will issue it on its next run (a few minutes). This page refreshes itself."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 491
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 499
 msgid "The last attempt failed and the robot will try again automatically."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 492
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 500
 msgid "Next attempt"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 497
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 505
 msgid "The airline refused the payment: issue again below with another card or the account balance."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 498
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 506
 msgid "The airline cancelled the order: the booking has to be made again."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 499
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 507
 msgid "Automatic ticketing stopped for this booking. Check the message below, fix the cause and retry, or contact support."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 507
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 515
 msgid "What the airline / middleware said"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 531
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 539
 # File: module/Application/view/application/messaging/inbox3.phtml, line: 258
 msgid "App push"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 544
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 552
 msgid "Attempt history"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 562
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 570
 msgid "Retry automatically (queue for the robot)"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 563
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 571
 msgid "or issue now with a new payment using the form below."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 578
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 586
 msgid "Your itinerary"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 579
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 587
 msgid "All times local"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 581
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 589
 msgid "Review your flights and baggage allowance by segment."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 585
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 593
 msgid "View full details"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 590
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 598
 msgid "No segments stored for this reservation."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 597
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 605
 msgid "Segment"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 646
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 654
 msgid "day"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 657
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 665
 msgid "Connection"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 670
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 678
 msgid "Carry-on"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 671
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 679
 msgid "Checked"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 679
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 687
 msgid "per passenger"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 695
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 703
 msgid "Fare Basis"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 711
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 719
 msgid "Check the names and dates of birth against the travel documents - they cannot be changed after issue."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 726
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 734
 # File: module/Application/view/application/index/search.old.phtml, line: 1338
 # File: module/Application/view/application/index/search.old.phtml, line: 1339
 # File: module/Application/view/application/index/search.phtml, line: 1215
 msgid "Infant"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 747
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 755
 msgid "To exempt the UK tax (Tourism Tax / Non-Immigrant Fee - DNI - on international flights to Mexico), tick the passengers who do not pay it. They are priced with /R,ET-UK (FXP/P1/R,ET-UK) before the ticket is issued; if the exemption cannot be applied nothing is issued."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 748
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 756
 msgid "The Mexican passport or national ID number is required for every ticked passenger: it is sent to the airline (OS DL MEXICAN PAX ID NUMBER 123456789/P1). Without it the airline charges the UK tax afterwards (debit memo)."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 771
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 779
 msgid "Ticket number"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 773
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 798
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 781
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 806
 msgid "Exempt UK"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 776
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1135
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 784
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1143
 # File: module/Application/view/application/reports/globalware.phtml, line: 42
 # File: module/Application/view/application/reports/search.phtml, line: 78
 msgid "Base Fare"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 777
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1139
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 785
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1147
 msgid "Taxes &amp; Fees"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 778
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 786
 msgid "Ticket Total"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 801
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 809
 msgid "Mexican passport / ID"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 824
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 832
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 62
 # File: module/Application/view/application/funnel/journey.phtml, line: 32
 # File: module/Application/view/application/group-tours/bookings.phtml, line: 32
 # File: module/Application/view/application/group-tours/edit.phtml, line: 188
@@ -17925,400 +17981,401 @@ msgstr ""
 # File: module/Application/view/application/index/userinfo.phtml, line: 45
 # File: module/Application/view/application/index/viewsecuritylog.phtml, line: 43
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 511
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 187
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 198
 # File: module/Application/view/application/view-reservation/vr-paylink.phtml, line: 21
 msgid "Payment"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 825
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 833
 msgid "Choose your preferred payment method."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 863
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 871
 msgid "Credit / Debit Card"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 864
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 872
 msgid "Pay securely with your card."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 878
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 886
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 904
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 894
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 912
 msgid "Agent Account (Cash)"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 878
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 881
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 886
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 889
 msgid "Unavailable"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 879
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 887
 msgid "The credit-limit service did not answer, so the ticket cannot be issued on the agent account right now. Use a credit card or reload this page later."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 881
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 893
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 907
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 889
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 901
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 915
 msgid "Agency Account (Cash)"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 882
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 890
 msgid "The credit-limit service did not answer, so the ticket cannot be issued on the agency account right now. Use a credit card or reload this page later."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 887
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 895
 msgid "The ticket is issued as a CASH sale on your agent account - no card is charged. The amount is added to your account statement and is due under your credit terms."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 889
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 896
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 897
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 904
 msgid "Credit Limit"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 894
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 902
 msgid "The ticket is issued as a CASH sale on your agency account - no card is charged. The amount is added to your account statement and is due under your credit terms."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 900
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 908
 msgid "Total Due"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 901
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 909
 msgid "The credit limit does not cover this ticket."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 905
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 913
 msgid "The ticket is issued as a CASH sale on your agent account - no card is charged. The agent is responsible for the payment."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 908
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 916
 msgid "The ticket is issued as a CASH sale on your agency account - no card is charged. The agency is responsible for the payment."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 911
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 919
 msgid "ClickandBook Account Balance"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 912
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 920
 msgid "Use your available account credit."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 916
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 924
 msgid "Available Credit"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 920
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 928
 msgid "This account is not enabled for credit payments."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 929
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 937
 msgid "Insufficient balance."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 930
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 938
 msgid "Additional payment of"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 930
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 938
 msgid "will be required."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 955
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 963
 # File: module/Application/view/application/index/billing.phtml, line: 325
 # File: module/Application/view/application/index/changeplan.phtml, line: 106
 msgid "Card details"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 961
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 969
 msgid "Use a saved card"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 962
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 970
 msgid "Use a saved card..."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 964
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 972
 msgid "expired"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 972
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 980
 # File: module/Application/view/application/index/billing.phtml, line: 328
 # File: module/Application/view/application/index/changeplan.phtml, line: 114
 # File: module/Application/view/application/index/changeplan.phtml, line: 137
 msgid "Card number"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 976
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 984
 # File: module/Application/view/application/index/billing.phtml, line: 334
 # File: module/Application/view/application/index/changeplan.phtml, line: 119
 # File: module/Application/view/application/index/changeplan.phtml, line: 145
 msgid "Name on card"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 977
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 985
 msgid "As printed on the card"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 980
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 988
 # File: module/Application/view/application/index/changeplan.phtml, line: 124
 msgid "Expiry date"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 999
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1007
 msgid "Security code"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1001
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1416
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1009
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1424
 msgid "3 digits on the back"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1004
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1012
 msgid "Card type"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1010
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1018
 msgid "Detected from the card number."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1017
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1025
 msgid "Save this card for next time"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1017
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1025
 msgid "stored encrypted in your saved cards - the security code is never saved"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1021
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1029
 # File: module/Application/view/application/index/billing.phtml, line: 364
 # File: module/Application/view/application/index/changeplan.phtml, line: 180
 msgid "Billing address"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1021
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1029
 msgid "as registered with the card issuer"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1026
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1034
 msgid "Choose a country"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1034
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1042
 msgid "Street address"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1042
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1317
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1050
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1325
 msgid "State / Region"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1046
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1054
 msgid "Choose a province"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1046
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1054
 msgid "Choose a state"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1056
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1320
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1064
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1328
 msgid "ZIP / Postcode"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1077
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1085
 msgid "This reservation is already ticketed - there is nothing left to issue."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1079
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1087
 msgid "Ticketing is disabled: the order no longer exists at the airline / GDS (cancelled or purged). The booking has to be made again."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1081
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1089
 msgid "The airline reports this booking as already ticketed. Reload the page - the ticket numbers are recorded automatically; do not issue again."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1083
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1091
 msgid "Ticketing is in progress for this booking - wait for it to finish before issuing again."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1086
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1094
 msgid "This booking is already queued for the robot. Issuing here sends it to the airline now instead of waiting."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1090
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1098
 msgid "I have reviewed the passenger names, dates of birth, itinerary, baggage allowance and ticket amounts."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1093
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1095
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1098
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1100
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1101
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1103
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1106
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1108
 msgid "Issue tickets"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1093
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1101
 msgid "Issue on agent account (CASH)"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1098
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1106
 msgid "Issue on agency account (CASH)"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1103
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1111
 msgid "This calls the airline through the middleware and cannot be undone from this screen."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1104
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1112
 msgid "No card will be charged: the airline issues this ticket as a CASH sale and the amount goes on the agency account. Issuing cannot be undone from this screen."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1118
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1126
 msgid "Agency account unavailable"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1120
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1128
 msgid "It was not possible to connect to the web service that verifies the credit limit."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1121
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1129
 msgid "Ticketing on the agency account (CASH) is disabled until the service answers again. You can still issue with a credit card, or check again in a few minutes."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1123
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1131
 msgid "Check again"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1132
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1140
 # File: module/Application/view/application/index/changeplan.phtml, line: 231
 msgid "Order summary"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1144
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1152
 msgid "Air Total"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1154
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1162
 msgid "TOTAL TO PAY"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1161
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1169
 msgid "Your Commission (est.)"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1173
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1181
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 71
 msgid "Agency account"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1178
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1189
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1186
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1197
 msgid "Available credit"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1181
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1189
 msgid "Credit limit"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1182
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1190
 msgid "Total due"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1183
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1191
 msgid "This ticket"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1186
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1194
 msgid "This ticket can be issued on the agency account as a CASH sale - no card is charged, the amount is added to the account statement."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1186
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1194
 msgid "The credit limit does not cover this ticket - pay by card or contact accounting."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1191
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1199
 msgid "Not verified - the account service is not answering. Cash ticketing is disabled."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1193
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1201
 msgid "No agency credit account is linked to this login, or the account service did not answer."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1201
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1209
 msgid "Booking recap"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1207
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1215
 msgid "Flight segments"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1213
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1221
 msgid "Beta"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1214
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1222
 msgid "This screen is new. It reads the reservation from the database and issues the tickets through the middleware."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1222
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1230
 msgid "Find another reservation"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1233
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1241
 msgid "Please wait"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1233
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1241
 msgid "Issuing the tickets with the airline - do not close this window."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1280
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1288
 msgid "Enter the billing country."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1286
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1294
 msgid "Choose the expiry month."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1287
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1295
 msgid "Choose the expiry year."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1295
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1303
 msgid "A Mexican postal code is 5 digits."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1300
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1301
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1308
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1309
 msgid "ZIP code"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1302
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1303
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1310
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1311
 msgid "Postal code"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1317
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1325
 msgid "Province"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1416
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1424
 msgid "4 digits on the front of the card"
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1432
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1440
 msgid "Loading the card..."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1435
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1460
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1443
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1468
 msgid "This card could not be loaded. Please enter it again."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1457
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1465
 msgid "Card filled in. Please enter the security code."
 msgstr ""
 #
-# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1487
+# File: module/Application/view/application/flights/issueticketbeta.phtml, line: 1495
 msgid "Issuing..."
 msgstr ""
 #
@@ -18450,6 +18507,78 @@ msgstr ""
 #
 # File: module/Application/view/application/flights/voidreservation.phtml, line: 39
 msgid "Search Reservations-Void Reservation"
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 43
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 44
+msgid "Ticketing approvals"
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 45
+msgid "Sub-agents whose ticketing needs your approval send their requests here - with the payment they chose. Approve and the tickets are issued exactly as they sent them; reject and nothing is charged or issued."
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 48
+# File: module/Application/view/application/sender/index.phtml, line: 178
+msgid "Waiting"
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 56
+msgid "Waiting for you"
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 57
+msgid "Approving issues the tickets now and charges the payment the sub-agent entered (card or agency account). It can take up to a minute."
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 59
+msgid "Nothing waiting."
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 62
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 88
+# File: module/Application/view/application/view-reservation/vr-items.phtml, line: 356
+msgid "Requested"
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 62
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 88
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 73
+# File: module/Application/view/partial/a3-resv-table.phtml, line: 72
+msgid "Sub-agent"
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 71
+msgid "Credit card"
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 74
+msgid "Issue these tickets now?"
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 74
+msgid "Approve & issue"
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 75
+msgid "Reject this request? Nothing will be charged or issued."
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 75
+msgid "Reject"
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 85
+msgid "Recent decisions"
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 86
+msgid "The last 60 days. A failed request can be sent again by the sub-agent from the ticketing screen."
+msgstr ""
+#
+# File: module/Application/view/application/flights/ticketapprovals.phtml, line: 88
+# File: module/Application/view/application/view-reservation/vr-services.phtml, line: 191
+msgid "Result"
 msgstr ""
 #
 # File: module/Application/view/application/funnel/index.phtml, line: 32
@@ -20480,22 +20609,22 @@ msgid "Hand-picked stays at mid-year prices. Choose a destination to explore the
 msgstr ""
 #
 # File: module/Application/view/application/hotels/promotions.phtml, line: 93
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 109
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 110
 msgid "This week's winners"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/promotions.phtml, line: 94
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 109
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 110
 msgid "Top Flight Deals"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/promotions.phtml, line: 95
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 109
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 110
 msgid "Round-trip fares from major gateways — updated weekly while seats last."
 msgstr ""
 #
 # File: module/Application/view/application/hotels/promotions.phtml, line: 98
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 111
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 112
 # File: module/Application/view/application/index/search.old.phtml, line: 794
 # File: module/Application/view/application/index/search.phtml, line: 574
 # File: module/Application/view/application/index/search.phtml, line: 855
@@ -20507,24 +20636,24 @@ msgstr ""
 #
 # File: module/Application/view/application/hotels/promotions.phtml, line: 119
 # File: module/Application/view/application/hotels/promotions2.phtml, line: 219
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 119
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 120
 # File: module/Application/view/application/statistics/index.phtml, line: 241
 msgid "round trip"
 msgstr ""
 #
 # File: module/Application/view/application/hotels/promotions.phtml, line: 123
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 123
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 124
 msgid "No flights match your selection."
 msgstr ""
 #
 # File: module/Application/view/application/hotels/promotions.phtml, line: 128
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 127
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 128
 msgid "No active promotions right now. Please check back soon."
 msgstr ""
 #
 # File: module/Application/view/application/hotels/promotions.phtml, line: 138
 # File: module/Application/view/application/hotels/promotions3.phtml, line: 73
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 136
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 137
 msgid "Download Flyers"
 msgstr ""
 #
@@ -20623,7 +20752,7 @@ msgstr ""
 msgid "New view"
 msgstr ""
 #
-# File: module/Application/view/application/hotels/promotions3.phtml, line: 142
+# File: module/Application/view/application/hotels/promotions3.phtml, line: 143
 msgid "en"
 msgstr ""
 #
@@ -21275,7 +21404,7 @@ msgstr ""
 # File: module/Application/view/application/index/seo.phtml, line: 364
 # File: module/Application/view/application/index/seo.phtml, line: 397
 # File: module/Application/view/application/index/seo.phtml, line: 429
-# File: module/Application/view/application/index/settings.phtml, line: 427
+# File: module/Application/view/application/index/settings.phtml, line: 443
 # File: module/Application/view/application/index/setup.phtml, line: 185
 # File: module/Application/view/application/index/setup.phtml, line: 206
 # File: module/Application/view/application/index/socialmedia.phtml, line: 86
@@ -23158,7 +23287,7 @@ msgstr ""
 # File: module/Application/view/application/index/order.old.phtml, line: 416
 # File: module/Application/view/application/index/order.phtml, line: 424
 # File: module/Application/view/application/index/updatecreditcard.phtml, line: 70
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 211
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 222
 # File: module/Application/view/application/view-reservation/vr-tabs.phtml, line: 11
 msgid "Billing Information"
 msgstr ""
@@ -26477,75 +26606,91 @@ msgstr ""
 msgid "Disable Cruise Logos on the Agents' Login Page"
 msgstr ""
 #
+# File: module/Application/view/application/index/settings.phtml, line: 326
+msgid "Disable \"What are you booking today?\" (home V2/V3)"
+msgstr ""
+#
 # File: module/Application/view/application/index/settings.phtml, line: 330
-msgid "Only display company logo"
+msgid "Disable Popular Routes (home V2/V3)"
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 334
-msgid "Remove company logo"
+msgid "Disable Escorted Tours section (home V2/V3)"
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 338
-msgid "Remove Messagebird Chat Box"
-msgstr ""
-#
-# File: module/Application/view/application/index/settings.phtml, line: 342
-msgid "Secure SSL Connection"
+msgid "Disable Cruises section (home V2/V3)"
 msgstr ""
 #
 # File: module/Application/view/application/index/settings.phtml, line: 346
+msgid "Only display company logo"
+msgstr ""
+#
+# File: module/Application/view/application/index/settings.phtml, line: 350
+msgid "Remove company logo"
+msgstr ""
+#
+# File: module/Application/view/application/index/settings.phtml, line: 354
+msgid "Remove Messagebird Chat Box"
+msgstr ""
+#
+# File: module/Application/view/application/index/settings.phtml, line: 358
+msgid "Secure SSL Connection"
+msgstr ""
+#
+# File: module/Application/view/application/index/settings.phtml, line: 362
 msgid "Email Source Modification"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 352
+# File: module/Application/view/application/index/settings.phtml, line: 368
 msgid "Please enter the email address you wish to use for reservation correspondence"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 355
+# File: module/Application/view/application/index/settings.phtml, line: 371
 msgid "Display Name for Email"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 357
+# File: module/Application/view/application/index/settings.phtml, line: 373
 msgid "Please provide the name that will appear alongside your email address (e.g., Will Smith)"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 364
+# File: module/Application/view/application/index/settings.phtml, line: 380
 msgid "Select Default Currency"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 366
+# File: module/Application/view/application/index/settings.phtml, line: 382
 msgid "Select Currency"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 381
+# File: module/Application/view/application/index/settings.phtml, line: 397
 msgid "Disable All Currencies"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 387
+# File: module/Application/view/application/index/settings.phtml, line: 403
 msgid "Disable U.S. Dollar"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 393
+# File: module/Application/view/application/index/settings.phtml, line: 409
 msgid "Disable Argentine Peso"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 399
+# File: module/Application/view/application/index/settings.phtml, line: 415
 msgid "Disable Pound Sterling"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 405
+# File: module/Application/view/application/index/settings.phtml, line: 421
 msgid "Disable Euros"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 411
+# File: module/Application/view/application/index/settings.phtml, line: 427
 msgid "Disable Australian Dollar"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 417
+# File: module/Application/view/application/index/settings.phtml, line: 433
 msgid "Disable South African Rand"
 msgstr ""
 #
-# File: module/Application/view/application/index/settings.phtml, line: 423
+# File: module/Application/view/application/index/settings.phtml, line: 439
 msgid "Disable Algerian Dinar"
 msgstr ""
 #
@@ -29540,7 +29685,7 @@ msgstr ""
 # File: module/Application/view/application/portfolio/index.phtml, line: 341
 # File: module/Application/view/application/portfolio/index.phtml, line: 352
 # File: module/Application/view/application/portfolio/index3.phtml, line: 179
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 168
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 179
 # File: module/Application/view/application/view-reservation/vr-actions.phtml, line: 46
 msgid "View Itinerary"
 msgstr ""
@@ -31516,10 +31661,6 @@ msgstr ""
 msgid "Verification link"
 msgstr ""
 #
-# File: module/Application/view/application/sender/index.phtml, line: 178
-msgid "Waiting"
-msgstr ""
-#
 # File: module/Application/view/application/sender/index.phtml, line: 179
 msgid "Not sent"
 msgstr ""
@@ -32402,11 +32543,6 @@ msgid "To pay sub-agent"
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/index3.phtml, line: 73
-# File: module/Application/view/partial/a3-resv-table.phtml, line: 72
-msgid "Sub-agent"
-msgstr ""
-#
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 73
 # File: module/Application/view/application/view-reservation/vr-modals-a.phtml, line: 154
 # File: module/Application/view/application/view-reservation/vr-services.phtml, line: 32
 msgid "Net"
@@ -32499,80 +32635,80 @@ msgstr ""
 msgid "Reservation successfully received"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 159
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 170
 # File: module/Application/view/application/view-reservation/vr-actions.phtml, line: 18
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 587
 msgid "Add Payment / Settlement"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 162
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 173
 # File: module/Application/view/application/view-reservation/vr-actions.phtml, line: 34
 msgid "View Voucher"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 163
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 174
 # File: module/Application/view/application/view-reservation/vr-actions.phtml, line: 35
 msgid "Send Voucher by Email"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 164
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 175
 # File: module/Application/view/application/view-reservation/vr-actions.phtml, line: 39
 msgid "Download Voucher (PDF)"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 169
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 180
 # File: module/Application/view/application/view-reservation/vr-actions.phtml, line: 47
 msgid "Send Itinerary by Email"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 170
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 181
 # File: module/Application/view/application/view-reservation/vr-actions.phtml, line: 51
 msgid "Download Itinerary (PDF)"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 172
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 183
 # File: module/Application/view/application/view-reservation/vr-actions.phtml, line: 58
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 729
 msgid "Send Payment Link"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 173
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 184
 # File: module/Application/view/application/view-reservation/vr-actions.phtml, line: 68
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 771
 msgid "Send Terms & Conditions"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 174
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 185
 # File: module/Application/view/application/view-reservation/vr-actions.phtml, line: 10
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 859
 msgid "Cancel Reservation"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 188
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 199
 msgid "Secure payment link"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 189
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 200
 # File: module/Application/view/application/view-reservation/vr-paylink.phtml, line: 23
 msgid "Use the secure payment link below to settle your booking. Once payment is completed, your reservation will be settled."
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 192
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 203
 # File: module/Application/view/application/view-reservation/vr-paylink.phtml, line: 30
 msgid "Pay Now"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 205
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 216
 # File: module/Application/view/application/view-reservation/vr-tabs.phtml, line: 17
 msgid "Payment History"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 208
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 219
 # File: module/Application/view/application/view-reservation/vr-tabs.phtml, line: 8
 msgid "Credit Card Information"
 msgstr ""
 #
-# File: module/Application/view/application/view-reservation/index3.phtml, line: 214
+# File: module/Application/view/application/view-reservation/index3.phtml, line: 225
 msgid "Rewards"
 msgstr ""
 #
@@ -32771,10 +32907,6 @@ msgstr ""
 #
 # File: module/Application/view/application/view-reservation/vr-items.phtml, line: 343
 msgid "Ancillaries"
-msgstr ""
-#
-# File: module/Application/view/application/view-reservation/vr-items.phtml, line: 356
-msgid "Requested"
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/vr-items.phtml, line: 357
@@ -33157,10 +33289,6 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/vr-services.phtml, line: 182
 #, php-format
 msgid "%d approved charges"
-msgstr ""
-#
-# File: module/Application/view/application/view-reservation/vr-services.phtml, line: 191
-msgid "Result"
 msgstr ""
 #
 # File: module/Application/view/application/view-reservation/vr-services.phtml, line: 192
