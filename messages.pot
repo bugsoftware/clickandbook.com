@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-19 11:08-0500\n"
+"POT-Creation-Date: 2026-11-19 14:02-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -258,6 +258,8 @@ msgstr ""
 # File: module/Application/view/application/index/userinfo.phtml, line: 136
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 108
 # File: module/Application/view/application/index/whoarewe.phtml, line: 632
+# File: module/Application/view/application/index/selltravel.phtml, line: 714
+# File: module/Application/view/application/index/selltravel.phtml, line: 754
 # File: module/Application/view/application/packages/newpackage.phtml, line: 168
 # File: module/Application/view/application/quick-books/hotmart.phtml, line: 26
 # File: module/Application/view/application/reports/loyaltypoints.phtml, line: 150
@@ -359,6 +361,7 @@ msgstr ""
 # File: module/Application/view/application/index/userinfo.phtml, line: 131
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
 # File: module/Application/view/application/index/whoarewe.phtml, line: 598
+# File: module/Application/view/application/index/selltravel.phtml, line: 751
 # File: module/Application/view/application/messaging/inbox3.phtml, line: 31
 # File: module/Application/view/application/reservations/newreservation.phtml, line: 162
 # File: module/Application/view/application/section/people3.phtml, line: 71
@@ -449,6 +452,8 @@ msgstr ""
 # File: module/Application/view/application/index/updatecreditcard.phtml, line: 79
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
 # File: module/Application/view/application/index/whoarewe.phtml, line: 605
+# File: module/Application/view/application/index/selltravel.phtml, line: 725
+# File: module/Application/view/application/index/selltravel.phtml, line: 752
 # File: module/Application/view/application/marketing/new.phtml, line: 83
 # File: module/Application/view/application/packages/edit.phtml, line: 115
 # File: module/Application/view/application/packages/edit.phtml, line: 117
@@ -943,6 +948,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 136
 # File: module/Application/view/application/index/trial.phtml, line: 120
 # File: module/Application/view/application/index/whoarewe.phtml, line: 133
+# File: module/Application/view/application/index/selltravel.phtml, line: 716
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 121
 # File: module/Application/view/application/section/index3.phtml, line: 92
 # File: module/Application/view/application/support/edit.phtml, line: 12
@@ -2727,19 +2733,19 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 153
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 428
-# File: module/Application/src/Controller/IndexController.php, line: 19505
+# File: module/Application/src/Controller/IndexController.php, line: 19563
 msgid "Arabic"
 msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 156
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 431
-# File: module/Application/src/Controller/IndexController.php, line: 19499
+# File: module/Application/src/Controller/IndexController.php, line: 19557
 msgid "Armenian"
 msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 159
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 434
-# File: module/Application/src/Controller/IndexController.php, line: 19501
+# File: module/Application/src/Controller/IndexController.php, line: 19559
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3095
 msgid "Chinese"
 msgstr ""
@@ -2751,7 +2757,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 165
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 440
-# File: module/Application/src/Controller/IndexController.php, line: 19493
+# File: module/Application/src/Controller/IndexController.php, line: 19551
 msgid "French"
 msgstr ""
 #
@@ -2773,14 +2779,14 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 177
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 452
-# File: module/Application/src/Controller/IndexController.php, line: 19495
+# File: module/Application/src/Controller/IndexController.php, line: 19553
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3077
 msgid "Italian"
 msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 180
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 455
-# File: module/Application/src/Controller/IndexController.php, line: 19503
+# File: module/Application/src/Controller/IndexController.php, line: 19561
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3086
 msgid "Japanese"
 msgstr ""
@@ -2797,7 +2803,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 189
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 464
-# File: module/Application/src/Controller/IndexController.php, line: 19491
+# File: module/Application/src/Controller/IndexController.php, line: 19549
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3080
 # File: module/Application/view/application/communications/manage.phtml, line: 248
 # File: module/Application/view/application/index/order.old.phtml, line: 79
@@ -2818,7 +2824,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 198
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 473
-# File: module/Application/src/Controller/IndexController.php, line: 19489
+# File: module/Application/src/Controller/IndexController.php, line: 19547
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3074
 # File: module/Application/view/application/communications/manage.phtml, line: 246
 # File: module/Application/view/application/index/order.old.phtml, line: 78
@@ -2848,7 +2854,7 @@ msgstr ""
 #
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 207
 # File: module/Application/src/Controller/KnowledgeBaseController.php, line: 482
-# File: module/Application/src/Controller/IndexController.php, line: 19487
+# File: module/Application/src/Controller/IndexController.php, line: 19545
 # File: module/Application/src/Shared/Sendemailv2.php, line: 3071
 # File: module/Application/view/application/communications/manage.phtml, line: 247
 # File: module/Application/view/application/index/order.old.phtml, line: 77
@@ -3496,6 +3502,7 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 53
 # File: module/Application/view/application/index/whoarewe.phtml, line: 172
 # File: module/Application/view/application/index/whoarewe.phtml, line: 653
+# File: module/Application/view/application/index/selltravel.phtml, line: 762
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 159
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 523
 # File: module/Application/view/application/tutorials/index.phtml, line: 216
@@ -3578,19 +3585,19 @@ msgstr ""
 msgid "This is valid for 30 minutes only"
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 18132
+# File: module/Application/src/Controller/IndexController.php, line: 18190
 msgid "Your session expired. Please review the details and submit again."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 18137
+# File: module/Application/src/Controller/IndexController.php, line: 18195
 msgid "The amount changed while you were on this page. Please review the new total and submit again."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 18175
+# File: module/Application/src/Controller/IndexController.php, line: 18233
 msgid "The card could not be charged."
 msgstr ""
 #
-# File: module/Application/src/Controller/IndexController.php, line: 19497
+# File: module/Application/src/Controller/IndexController.php, line: 19555
 msgid "Deutsch"
 msgstr ""
 #
@@ -5531,6 +5538,7 @@ msgstr ""
 # File: module/Application/view/application/index/viewsecuritylog.phtml, line: 18
 # File: module/Application/view/application/index/whatsapp.phtml, line: 12
 # File: module/Application/view/application/index/youridentity.phtml, line: 12
+# File: module/Application/view/application/index/selltravel.phtml, line: 406
 # File: module/Application/view/application/insurances/index.phtml, line: 10
 # File: module/Application/view/application/insurances/listreservations.phtml, line: 11
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 11
@@ -6554,6 +6562,7 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 186
 # File: module/Application/view/application/index/whoarewe.phtml, line: 455
 # File: module/Application/view/application/index/youridentity.phtml, line: 11
+# File: module/Application/view/application/index/selltravel.phtml, line: 408
 # File: module/Application/view/application/insurances/index.phtml, line: 9
 # File: module/Application/view/application/knowledge-base/index.phtml, line: 9
 # File: module/Application/view/application/knowledge-base/item.phtml, line: 9
@@ -8289,6 +8298,7 @@ msgstr ""
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 438
 # File: module/Application/view/application/index/updatecreditcard.phtml, line: 74
 # File: module/Application/view/application/index/whoarewe.phtml, line: 586
+# File: module/Application/view/application/index/selltravel.phtml, line: 749
 # File: module/Application/view/application/section/people3.phtml, line: 67
 # File: module/Application/view/application/support/edit.phtml, line: 30
 # File: module/Application/view/application/support/search.phtml, line: 32
@@ -8340,6 +8350,7 @@ msgstr ""
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 439
 # File: module/Application/view/application/index/updatecreditcard.phtml, line: 75
 # File: module/Application/view/application/index/whoarewe.phtml, line: 591
+# File: module/Application/view/application/index/selltravel.phtml, line: 750
 # File: module/Application/view/application/section/people3.phtml, line: 68
 # File: module/Application/view/application/support/edit.phtml, line: 31
 # File: module/Application/view/application/support/search.phtml, line: 36
@@ -8452,6 +8463,7 @@ msgstr ""
 # File: module/Application/view/application/index/userinfo.phtml, line: 57
 # File: module/Application/view/application/index/viewsecuritylog.phtml, line: 55
 # File: module/Application/view/application/index/whoarewe.phtml, line: 639
+# File: module/Application/view/application/index/selltravel.phtml, line: 755
 # File: module/Application/view/application/tutorials/index.phtml, line: 926
 msgid "Password"
 msgstr ""
@@ -9477,6 +9489,9 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 98
 # File: module/Application/view/application/index/whoarewe.phtml, line: 159
 # File: module/Application/view/application/index/whoarewe.phtml, line: 457
+# File: module/Application/view/application/index/selltravel.phtml, line: 404
+# File: module/Application/view/application/index/selltravel.phtml, line: 408
+# File: module/Application/view/application/index/selltravel.phtml, line: 741
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 86
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 146
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 329
@@ -9775,6 +9790,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 319
 # File: module/Application/view/application/index/trial.phtml, line: 482
 # File: module/Application/view/application/index/whoarewe.phtml, line: 400
+# File: module/Application/view/application/index/selltravel.phtml, line: 730
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 270
 # File: module/Application/view/application/tutorials/index.phtml, line: 685
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 311
@@ -9908,6 +9924,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 280
 # File: module/Application/view/application/index/trial.phtml, line: 443
 # File: module/Application/view/application/index/whoarewe.phtml, line: 361
+# File: module/Application/view/application/index/selltravel.phtml, line: 720
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 231
 # File: module/Application/view/application/tutorials/index.phtml, line: 646
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 272
@@ -9931,6 +9948,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 281
 # File: module/Application/view/application/index/trial.phtml, line: 444
 # File: module/Application/view/application/index/whoarewe.phtml, line: 362
+# File: module/Application/view/application/index/selltravel.phtml, line: 721
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 232
 # File: module/Application/view/application/tutorials/index.phtml, line: 647
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 273
@@ -9952,6 +9970,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 282
 # File: module/Application/view/application/index/trial.phtml, line: 445
 # File: module/Application/view/application/index/whoarewe.phtml, line: 363
+# File: module/Application/view/application/index/selltravel.phtml, line: 722
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 42
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 233
 # File: module/Application/view/application/tutorials/index.phtml, line: 648
@@ -9982,6 +10001,7 @@ msgstr ""
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 331
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 108
 # File: module/Application/view/application/index/whoarewe.phtml, line: 364
+# File: module/Application/view/application/index/selltravel.phtml, line: 723
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 31
 # File: module/Application/view/application/marketing/flyersend.phtml, line: 54
 # File: module/Application/view/application/marketing/sendemailcampaign.phtml, line: 38
@@ -10113,6 +10133,7 @@ msgstr ""
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 329
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
 # File: module/Application/view/application/index/whoarewe.phtml, line: 371
+# File: module/Application/view/application/index/selltravel.phtml, line: 724
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 241
 # File: module/Application/view/application/tutorials/index.phtml, line: 656
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 282
@@ -10141,6 +10162,7 @@ msgstr ""
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 329
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 106
 # File: module/Application/view/application/index/whoarewe.phtml, line: 372
+# File: module/Application/view/application/index/selltravel.phtml, line: 724
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 242
 # File: module/Application/view/application/tutorials/index.phtml, line: 657
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 283
@@ -10198,6 +10220,7 @@ msgstr ""
 # File: module/Application/view/application/index/whoarewe.phtml, line: 373
 # File: module/Application/view/application/index/whoarewe.phtml, line: 394
 # File: module/Application/view/application/index/whoarewe.phtml, line: 621
+# File: module/Application/view/application/index/selltravel.phtml, line: 724
 # File: module/Application/view/application/packages/manage.phtml, line: 321
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 243
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 264
@@ -10859,6 +10882,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 316
 # File: module/Application/view/application/index/trial.phtml, line: 479
 # File: module/Application/view/application/index/whoarewe.phtml, line: 397
+# File: module/Application/view/application/index/selltravel.phtml, line: 726
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 267
 # File: module/Application/view/application/tutorials/index.phtml, line: 682
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 308
@@ -10880,6 +10904,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 317
 # File: module/Application/view/application/index/trial.phtml, line: 480
 # File: module/Application/view/application/index/whoarewe.phtml, line: 398
+# File: module/Application/view/application/index/selltravel.phtml, line: 768
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 268
 # File: module/Application/view/application/tutorials/index.phtml, line: 683
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 309
@@ -10966,6 +10991,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 339
 # File: module/Application/view/application/index/trial.phtml, line: 503
 # File: module/Application/view/application/index/whoarewe.phtml, line: 420
+# File: module/Application/view/application/index/selltravel.phtml, line: 775
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 292
 # File: module/Application/view/application/tutorials/index.phtml, line: 705
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 331
@@ -11202,6 +11228,7 @@ msgstr ""
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 361
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 140
 # File: module/Application/view/application/index/whoarewe.phtml, line: 537
+# File: module/Application/view/application/index/selltravel.phtml, line: 741
 # File: module/Application/view/application/packages/edittermsandconditions.phtml, line: 37
 # File: module/Application/view/application/packages/termsandconditions.phtml, line: 21
 # File: module/Application/view/application/packages/termsandconditions.phtml, line: 29
@@ -11263,6 +11290,9 @@ msgstr ""
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 362
 # File: module/Application/view/application/index/whoarewe.old.phtml, line: 141
 # File: module/Application/view/application/index/whoarewe.phtml, line: 539
+# File: module/Application/view/application/index/selltravel.phtml, line: 731
+# File: module/Application/view/application/index/selltravel.phtml, line: 741
+# File: module/Application/view/application/index/selltravel.phtml, line: 760
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 411
 # File: module/Application/view/application/tutorials/index.phtml, line: 824
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 450
@@ -11340,6 +11370,7 @@ msgstr ""
 # File: module/Application/view/application/index/products.phtml, line: 795
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 569
 # File: module/Application/view/application/index/whoarewe.phtml, line: 649
+# File: module/Application/view/application/index/selltravel.phtml, line: 759
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 519
 # File: module/Application/view/application/tutorials/index.phtml, line: 935
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 560
@@ -11365,6 +11396,7 @@ msgstr ""
 # File: module/Application/view/application/index/termsandconditions.phtml, line: 572
 # File: module/Application/view/application/index/tutorials.old.phtml, line: 397
 # File: module/Application/view/application/index/whoarewe.phtml, line: 652
+# File: module/Application/view/application/index/selltravel.phtml, line: 762
 # File: module/Application/view/application/register-agency/contactus.phtml, line: 522
 # File: module/Application/view/application/tutorials/index.phtml, line: 938
 # File: module/Application/view/application/tutorials/tutorial.phtml, line: 563
@@ -11771,6 +11803,7 @@ msgstr ""
 # File: module/Application/view/application/index/order.old.phtml, line: 394
 # File: module/Application/view/application/index/order.phtml, line: 399
 # File: module/Application/view/application/index/order.phtml, line: 402
+# File: module/Application/view/application/index/selltravel.phtml, line: 424
 # File: module/Application/view/application/view-reservation/vr-modals-a.phtml, line: 223
 # File: module/Application/view/application/giftcards/edit.phtml, line: 167
 # File: module/Application/view/partial/communications.phtml, line: 539
@@ -15270,6 +15303,8 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 1307
 # File: module/Application/view/application/index/login2.phtml, line: 367
 # File: module/Application/view/application/index/partners.phtml, line: 595
+# File: module/Application/view/application/index/selltravel.phtml, line: 408
+# File: module/Application/view/application/index/selltravel.phtml, line: 744
 # File: module/Application/view/application/knowledge-base/item.phtml, line: 33
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 148
 # File: module/Application/view/application/marketing/sendingreport.phtml, line: 159
@@ -16454,6 +16489,7 @@ msgstr ""
 # File: module/Application/view/application/index/index.phtml, line: 315
 # File: module/Application/view/application/index/index2.phtml, line: 85
 # File: module/Application/view/application/index/index3.phtml, line: 87
+# File: module/Application/view/application/index/selltravel.phtml, line: 600
 # File: module/Application/view/application/marketing/bradcastportfolio.phtml, line: 13
 # File: module/Application/view/application/marketing/edit.phtml, line: 13
 # File: module/Application/view/application/marketing/flyer.phtml, line: 60
@@ -16871,6 +16907,7 @@ msgstr ""
 # File: module/Application/view/application/index/trial.phtml, line: 145
 # File: module/Application/view/application/index/whoarewe.phtml, line: 97
 # File: module/Application/view/application/index/whoarewe.phtml, line: 158
+# File: module/Application/view/application/index/selltravel.phtml, line: 664
 # File: module/Application/view/application/tutorials/index.phtml, line: 141
 # File: module/Application/view/application/tutorials/index.phtml, line: 202
 msgid "Plans & Pricing"
@@ -17277,6 +17314,10 @@ msgstr ""
 # File: module/Application/view/application/flights/airblocksreport.phtml, line: 101
 # File: module/Application/view/application/funnel/journey.phtml, line: 72
 # File: module/Application/view/application/help/index.phtml, line: 25
+# File: module/Application/view/application/index/selltravel.phtml, line: 404
+# File: module/Application/view/application/index/selltravel.phtml, line: 408
+# File: module/Application/view/application/index/selltravel.phtml, line: 706
+# File: module/Application/view/application/index/selltravel.phtml, line: 741
 # File: module/Application/view/partial/a3-people-table.phtml, line: 28
 # File: module/Application/view/partial/a3-people-table.phtml, line: 44
 msgid "Contact"
@@ -17444,6 +17485,9 @@ msgstr ""
 #
 # File: module/Application/view/application/flights/blockavailability.phtml, line: 177
 # File: module/Application/view/application/flights/newairblockavailability.phtml, line: 174
+# File: module/Application/view/application/index/selltravel.phtml, line: 404
+# File: module/Application/view/application/index/selltravel.phtml, line: 408
+# File: module/Application/view/application/index/selltravel.phtml, line: 741
 msgid "Pricing"
 msgstr ""
 #
@@ -19036,6 +19080,9 @@ msgstr ""
 #
 # File: module/Application/view/application/group-tours/partial/head.phtml, line: 17
 # File: module/Application/view/application/group-tours/repeater.phtml, line: 13
+# File: module/Application/view/application/index/selltravel.phtml, line: 404
+# File: module/Application/view/application/index/selltravel.phtml, line: 408
+# File: module/Application/view/application/index/selltravel.phtml, line: 741
 msgid "Benefits"
 msgstr ""
 #
@@ -22673,6 +22720,7 @@ msgid "What would you like to sell today?"
 msgstr ""
 #
 # File: module/Application/view/application/index/index3.phtml, line: 230
+# File: module/Application/view/application/index/selltravel.phtml, line: 420
 msgid "products"
 msgstr ""
 #
@@ -23131,19 +23179,27 @@ msgid "Terms"
 msgstr ""
 #
 # File: module/Application/view/application/index/login2.phtml, line: 360
+# File: module/Application/view/application/index/selltravel.phtml, line: 731
+# File: module/Application/view/application/index/selltravel.phtml, line: 760
 msgid "This site is protected by reCAPTCHA and the Google"
 msgstr ""
 #
 # File: module/Application/view/application/index/login2.phtml, line: 360
+# File: module/Application/view/application/index/selltravel.phtml, line: 731
+# File: module/Application/view/application/index/selltravel.phtml, line: 760
 # File: module/BackOffice/src/Service/QuoteDocument.php, line: 429
 msgid "and"
 msgstr ""
 #
 # File: module/Application/view/application/index/login2.phtml, line: 360
+# File: module/Application/view/application/index/selltravel.phtml, line: 731
+# File: module/Application/view/application/index/selltravel.phtml, line: 760
 msgid "Terms of Service"
 msgstr ""
 #
 # File: module/Application/view/application/index/login2.phtml, line: 360
+# File: module/Application/view/application/index/selltravel.phtml, line: 731
+# File: module/Application/view/application/index/selltravel.phtml, line: 760
 msgid "apply."
 msgstr ""
 #
@@ -27354,6 +27410,709 @@ msgstr ""
 msgid "View Products"
 msgstr ""
 #
+# File: module/Application/view/application/index/selltravel.phtml, line: 80
+msgid "Sell Travel at Wholesale Rates - Click and Book for Travel Advisors"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 84
+msgid "For travel advisors: book escorted tours, cruises and hotels at net rates, set your price and keep the difference."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 404
+msgid "Savings"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 406
+# File: module/Application/view/application/index/selltravel.phtml, line: 408
+msgid "Log in"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 406
+msgid "Join now"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 407
+msgid "Menu"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 415
+msgid "For travel advisors - from home or anywhere"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 416
+msgid "Sell the world."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 416
+msgid "Keep"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 416
+msgid "the"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 416
+msgid "difference."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 417
+msgid "Net prices and wholesale rates on escorted tours, cruises, hotels and everything else you sell. Your clients pay your price - the margin is yours."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 418
+msgid "Start earning today"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 418
+msgid "Calculate my earnings"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 419
+msgid "Membership plans for every way you sell."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 419
+msgid "See Plans & Pricing"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 420
+msgid "hotels"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 420
+# File: module/Application/view/application/index/selltravel.phtml, line: 635
+msgid "airlines"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 420
+msgid "yrs"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 420
+msgid "in travel"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 432
+msgid "Where the money is"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 432
+msgid "Book it for less."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 432
+msgid "Sell it for more."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 432
+msgid "You see the net rate, your client sees your price. This is what that looks like on trips our members sell every day."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 435
+msgid "hotels at net rates, in one search"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 437
+msgid "You keep"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 437
+msgid "retail"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 437
+msgid "net"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 440
+msgid "Example trips for illustration. Real net rates depend on supplier, dates and availability."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 444
+# File: module/Application/view/application/index/selltravel.phtml, line: 542
+msgid "NET PRICES"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 444
+# File: module/Application/view/application/index/selltravel.phtml, line: 542
+msgid "WHOLESALE RATES"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 447
+# File: module/Application/view/application/index/selltravel.phtml, line: 545
+msgid "Net price & wholesale rates"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 448
+# File: module/Application/view/application/index/selltravel.phtml, line: 546
+msgid "You buy at"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 448
+# File: module/Application/view/application/index/selltravel.phtml, line: 546
+msgid "wholesale."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 448
+# File: module/Application/view/application/index/selltravel.phtml, line: 546
+msgid "Your clients pay retail."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 449
+# File: module/Application/view/application/index/selltravel.phtml, line: 547
+msgid "Every product on Click and Book is priced at net and wholesale rates - the same prices travel companies pay. You decide the final price, and everything above net is yours."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 452
+# File: module/Application/view/application/index/selltravel.phtml, line: 550
+msgid "Retail price"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 452
+# File: module/Application/view/application/index/selltravel.phtml, line: 550
+msgid "What travelers pay online"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 453
+# File: module/Application/view/application/index/selltravel.phtml, line: 551
+msgid "Your selling price"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 453
+# File: module/Application/view/application/index/selltravel.phtml, line: 551
+msgid "You choose the markup"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 454
+# File: module/Application/view/application/index/selltravel.phtml, line: 552
+msgid "Net / wholesale rate"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 454
+# File: module/Application/view/application/index/selltravel.phtml, line: 552
+msgid "What you pay on Click and Book"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 455
+# File: module/Application/view/application/index/selltravel.phtml, line: 553
+msgid "The gap between net and your price is your profit - on every booking, and on your own trips too."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 463
+msgid "Your earnings"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 463
+msgid "What could you"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 463
+msgid "make"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 468
+msgid "Trips you sell per month"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 469
+msgid "Your markup"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 471
+msgid "Estimated per year"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 471
+msgid "An estimate from the numbers you choose - not a promise of income."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 476
+msgid "One login, everything"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 476
+# File: module/Application/view/application/index/selltravel.phtml, line: 665
+msgid "Every product."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 476
+msgid "One platform."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 476
+msgid "Drag to explore"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 485
+msgid "Why travel advisors choose Click and Book"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 486
+msgid "Travel for less."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 486
+msgid "Earn on everything."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 487
+msgid "With over 40 years of experience in the travel industry, we give you net prices on your own vacations, real margins on every product you sell, and the tools of a big company - from your home office."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 488
+#, php-format
+msgid "Up to 70% commission split"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 488
+msgid "Net prices on personal travel"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 488
+msgid "FAM trips & ship inspections"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 488
+# File: module/Application/view/application/index/selltravel.phtml, line: 497
+msgid "IATA Accredited Agency"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 494
+msgid "Commission split"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 495
+msgid "up to"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 496
+msgid "of the commission goes to you. Competitive commission opportunities on every product, with commission tracking support."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 497
+msgid "Sell with the backing of an accredited agency"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 521
+msgid "Example booking scenario"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 522
+msgid "One booking."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 522
+msgid "Here is what you earn."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 523
+msgid "A client books a $5,000 vacation that generates a $700 supplier commission. With a 70% advisor split, most of it is yours."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 527
+msgid "Client books"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 527
+msgid "vacation"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 529
+msgid "Supplier commission"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 529
+msgid "Yours the moment your client pays"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 533
+msgid "You earn - 70% advisor split"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 534
+msgid "Agency portion - 30%"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 536
+msgid "Example for illustration. Commission amounts vary by supplier, product and booking."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 562
+msgid "Your family vacation · example"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 563
+msgid "Cancún resort · 7 nights · 4 guests"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 564
+msgid "What travelers pay"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 565
+msgid "What you pay - net"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 567
+msgid "You save"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 571
+msgid "Benefit 01"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 572
+msgid "Your own vacations"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 572
+msgid "at net prices."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 573
+msgid "The rates you sell are the rates you travel. Book hotels, cruises, tours and packages for yourself and your family at the net price - no retail markup on your own trips."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 574
+msgid "Hotels, cruises and tours at net rates"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 574
+msgid "For you and your family"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 574
+msgid "The same platform you use for your clients"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 580
+msgid "Benefit 02"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 580
+msgid "Real margins on"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 580
+msgid "every product."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 580
+msgid "You book at net and set your own price. The difference is your income - on the big trips and on every add-on."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 591
+msgid "Example margins for illustration. Your income depends on the products, rates and markup you choose."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 595
+msgid "Benefit 03"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 595
+msgid "The tools of a big company."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 595
+msgid "Your name on them."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 597
+msgid "Your website"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 597
+msgid "A booking website with your brand"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 597
+msgid "Your logo, your colors, your prices. Your clients search and book online - you earn on every booking."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 598
+msgid "Quotes in one click"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 598
+msgid "Send beautiful quotes by email or WhatsApp and follow them up automatically."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 599
+msgid "Vouchers & invoices"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 599
+msgid "Every document goes out with your name and logo."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 600
+msgid "Ready-made campaigns & flyers"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 600
+msgid "Share offers on social media, WhatsApp and email in seconds."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 601
+msgid "Your clients, organized"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 601
+msgid "Travelers, bookings and history in one place."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 602
+msgid "Get paid online"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 602
+msgid "Payment links and card payments, securely."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 603
+msgid "Grow"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 603
+msgid "Add advisors to your team"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 603
+msgid "Bring people in, set their permissions and earn on their sales."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 609
+msgid "Side by side"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 609
+msgid "Traveler vs."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 609
+msgid "Click and Book advisor."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 611
+msgid "Booking as a traveler"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 611
+msgid "As a Click and Book advisor"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 633
+msgid "years in the travel industry"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 634
+msgid "hotels at net rates"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 636
+msgid "support for advisors"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 643
+msgid "15 products, one login"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 644
+msgid "Everything your clients"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 644
+msgid "travel with."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 645
+msgid "Hotels, flights, cruises, tours, transfers, insurance and more - all at net rates, all in one search, all under your brand."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 657
+msgid "Start selling"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 665
+msgid "One plan."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 666
+msgid "Pick the plan that fits how you sell. Every plan includes wholesale rates and your own branded website."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 674
+msgid "/mo, billed yearly"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 674
+msgid "/month"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 676
+msgid "Most popular"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 681
+msgid "Choose this plan"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 683
+msgid "Start with this plan"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 690
+msgid "Talk to us about pricing"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 690
+msgid "Our team will find the right plan for you."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 690
+msgid "Contact us"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 692
+msgid "Questions, answered"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 707
+msgid "Let's talk about"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 707
+msgid "your business."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 708
+msgid "Questions about products, plans or getting started? We answer every message within one business day."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 713
+msgid "Call us"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 715
+msgid "Office"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 716
+msgid "24/7 for members"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 724
+msgid "I am a..."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 724
+# File: module/Application/view/application/index/selltravel.phtml, line: 746
+msgid "Independent travel advisor"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 724
+# File: module/Application/view/application/index/selltravel.phtml, line: 746
+msgid "Travel advisor with a company"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 739
+msgid "Two minutes to start"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 739
+msgid "Your business."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 739
+msgid "Your rules."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 739
+msgid "Create my account"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 739
+msgid "See plans & pricing"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 745
+msgid "Join Click and Book"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 745
+msgid "Create your account"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 753
+# File: module/Application/view/application/quick-books/createcustomers.phtml, line: 59
+# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 60
+# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 36
+msgid "Company Name"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 769
+# File: module/Application/view/application/trips/list.phtml, line: 58
+# File: module/Application/view/application/trips/list3.phtml, line: 51
+msgid "trips"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 769
+msgid "average"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 769
+msgid "12 months"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 770
+msgid "Some required information is missing. Please review the form and complete all mandatory fields before continuing!"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 771
+msgid "There seems to be an issue with this account. Please contact our customer service team so we can assist you further!"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 772
+msgid "The account associated with that email address is already registered. You can log in using your existing credentials, or retrieve your password through the “Forgot Password” option."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 773
+msgid "The email address you entered is not valid. Please check the spelling and try again."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 774
+msgid "Your account has been created successfully. You can now log in and start using all available features. Welcome aboard!"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 776
+msgid "Your password must have:"
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 776
+msgid "At least 10 characters."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 776
+msgid "At least one uppercase letter."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 777
+msgid "At least one lowercase letter."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 777
+msgid "At least one number."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 777
+#, php-format
+msgid "At least one symbol, such as ! @ # $ % or *."
+msgstr ""
+#
+# File: module/Application/view/application/index/selltravel.phtml, line: 778
+msgid "It cannot contain your name or the name part of your email."
+msgstr ""
+#
 # File: module/Application/view/application/insurances/searchreservations.phtml, line: 23
 msgid "Search Insurances Reservation"
 msgstr ""
@@ -30186,12 +30945,6 @@ msgstr ""
 msgid "Fully Qualified Name"
 msgstr ""
 #
-# File: module/Application/view/application/quick-books/createcustomers.phtml, line: 59
-# File: module/Application/view/application/quick-books/editcustomers.phtml, line: 60
-# File: module/Application/view/application/quick-books/listcustomers.phtml, line: 36
-msgid "Company Name"
-msgstr ""
-#
 # File: module/Application/view/application/quick-books/createcustomers.phtml, line: 62
 # File: module/Application/view/application/quick-books/editcustomers.phtml, line: 63
 # File: module/Application/view/application/quick-books/listcustomers.phtml, line: 37
@@ -32264,11 +33017,6 @@ msgstr ""
 # File: module/Application/view/application/trips/list.phtml, line: 46
 # File: module/Application/view/application/trips/list3.phtml, line: 47
 msgid "Name, destination or URL..."
-msgstr ""
-#
-# File: module/Application/view/application/trips/list.phtml, line: 58
-# File: module/Application/view/application/trips/list3.phtml, line: 51
-msgid "trips"
 msgstr ""
 #
 # File: module/Application/view/application/trips/list.phtml, line: 75
