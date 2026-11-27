@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-27 15:46-0500\n"
+"POT-Creation-Date: 2026-11-27 15:52-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -281,6 +281,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 838
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 1031
 # File: module/Application/view/application/promos/flyersend.phtml, line: 107
+# File: module/Application/view/partial/loginpromos.phtml, line: 146
 msgid "Email"
 msgstr ""
 #
@@ -12198,6 +12199,7 @@ msgstr ""
 #
 # File: module/Application/view/application/cms/airlinepage.phtml, line: 239
 # File: module/Application/view/application/promos/index.phtml, line: 65
+# File: module/Application/view/partial/loginpromos.phtml, line: 127
 msgid "Promotion"
 msgstr ""
 #
@@ -12485,6 +12487,7 @@ msgstr ""
 # File: module/Application/view/layout/layout2.phtml, line: 58
 # File: module/Application/view/layout/layout3.phtml, line: 64
 # File: module/Application/view/partial/communications.phtml, line: 650
+# File: module/Application/view/partial/loginpromos.phtml, line: 110
 msgid "Promotions"
 msgstr ""
 #
@@ -12562,6 +12565,7 @@ msgstr ""
 # File: module/Application/view/application/cms/loginoffers.phtml, line: 37
 # File: module/Application/view/application/flights/issueticketbeta.phtml, line: 408
 # File: module/Application/view/application/index/changeplan.phtml, line: 244
+# File: module/Application/view/partial/loginpromos.phtml, line: 127
 msgid "until"
 msgstr ""
 #
@@ -13385,6 +13389,7 @@ msgstr ""
 # File: module/Application/view/application/cms/bundlesedit.phtml, line: 127
 # File: module/Application/view/application/group-tours/departures.phtml, line: 87
 # File: module/Application/view/application/view-reservation/index3.phtml, line: 203
+# File: module/Application/view/partial/loginpromos.phtml, line: 133
 msgid "Copy"
 msgstr ""
 #
@@ -13768,6 +13773,7 @@ msgid "Supplier"
 msgstr ""
 #
 # File: module/Application/view/application/cms/content.phtml, line: 133
+# File: module/Application/view/partial/loginpromos.phtml, line: 148
 msgid "optional"
 msgstr ""
 #
@@ -14279,6 +14285,8 @@ msgstr ""
 # File: module/Application/view/application/quick-books/editblog.phtml, line: 47
 # File: module/Application/view/application/quick-books/edittutorial.phtml, line: 48
 # File: module/Application/view/application/promos/edit.phtml, line: 112
+# File: module/Application/view/partial/loginpromos.phtml, line: 123
+# File: module/Application/view/partial/loginpromos.phtml, line: 154
 msgid "Image"
 msgstr ""
 #
@@ -15369,6 +15377,7 @@ msgstr ""
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 781
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 825
 # File: module/Application/view/application/view-reservation/vr-tail.phtml, line: 1024
+# File: module/Application/view/partial/loginpromos.phtml, line: 145
 msgid "Name"
 msgstr ""
 #
@@ -15705,6 +15714,7 @@ msgstr ""
 #
 # File: module/Application/view/application/customers/partials/emailpanel.phtml, line: 80
 # File: module/Application/view/application/messaging/inbox3.phtml, line: 22
+# File: module/Application/view/partial/loginpromos.phtml, line: 108
 msgid "Hide"
 msgstr ""
 #
@@ -15778,6 +15788,7 @@ msgstr ""
 # File: module/Application/view/layout/layout2.phtml, line: 159
 # File: module/Application/view/layout/layout3.phtml, line: 172
 # File: module/Application/view/partial/communications.phtml, line: 633
+# File: module/Application/view/partial/loginpromos.phtml, line: 118
 msgid "Close"
 msgstr ""
 #
@@ -37809,6 +37820,54 @@ msgstr ""
 #
 # File: module/Application/view/partial/emailalerts3.phtml, line: 44
 msgid "Remind me later"
+msgstr ""
+#
+# File: module/Application/view/partial/loginpromos.phtml, line: 132
+msgid "Gift card code - already applied when you open the offer, or type it at checkout"
+msgstr ""
+#
+# File: module/Application/view/partial/loginpromos.phtml, line: 138
+msgid "Send to a customer"
+msgstr ""
+#
+# File: module/Application/view/partial/loginpromos.phtml, line: 141
+msgid "Find a customer"
+msgstr ""
+#
+# File: module/Application/view/partial/loginpromos.phtml, line: 141
+msgid "Name or email"
+msgstr ""
+#
+# File: module/Application/view/partial/loginpromos.phtml, line: 148
+msgid "Personal message"
+msgstr ""
+#
+# File: module/Application/view/partial/loginpromos.phtml, line: 149
+msgid "Your customer gets their own one-use code with the same discount."
+msgstr ""
+#
+# File: module/Application/view/partial/loginpromos.phtml, line: 149
+msgid "Your customer gets the code above."
+msgstr ""
+#
+# File: module/Application/view/partial/loginpromos.phtml, line: 149
+msgid "The email links to your website with the code already applied."
+msgstr ""
+#
+# File: module/Application/view/partial/loginpromos.phtml, line: 150
+msgid "Send email"
+msgstr ""
+#
+# File: module/Application/view/partial/loginpromos.phtml, line: 153
+msgid "Download for social media"
+msgstr ""
+#
+# File: module/Application/view/partial/loginpromos.phtml, line: 159
+msgid "Don't show again"
+msgstr ""
+#
+# File: module/Application/view/partial/loginpromos.phtml, line: 160
+msgid "All my promotions"
 msgstr ""
 #
 # File: module/BackOffice/src/Service/QuoteDocument.php, line: 141
